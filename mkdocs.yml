@@ -27,6 +27,7 @@ pages:
   - Introduction: index.md
   - Basic Setup:
     - Installation: install.md
+    - Import Demo Contents: import-demo.md
 
 use_directory_urls: false
 
