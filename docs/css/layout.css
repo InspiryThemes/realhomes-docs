@@ -8,3 +8,7 @@
     width: 65px;
     height: auto;
 }
+
+.md-footer-copyright {
+    color: hsl(0, 0%, 69%);
+}

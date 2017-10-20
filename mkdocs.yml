@@ -6,6 +6,7 @@
 
 site_name: Real Homes Documentation
 theme: material
+theme_dir: 'rhdocs'
 extra_css:
     - css/layout.css
 
