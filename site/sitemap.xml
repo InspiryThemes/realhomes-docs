@@ -17,6 +17,18 @@
      <changefreq>daily</changefreq>
     </url>
         
+    <url>
+     <loc>/import-demo/index.html</loc>
+     <lastmod>2017-10-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/design-selection/index.html</loc>
+     <lastmod>2017-10-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>

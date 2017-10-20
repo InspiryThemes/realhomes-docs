@@ -79,6 +79,86 @@
             "location": "/install/index.html#install-child-theme-highly-recommended", 
             "text": "It is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from themeforest.  To install child theme, You need to upload the  realhomes-child.zip  and activate it in the same way as you have uploaded and activated parent theme's realhomes.zip.", 
             "title": "Install Child Theme ( Highly Recommended )"
+        }, 
+        {
+            "location": "/import-demo/index.html", 
+            "text": "Import Demo Contents\n\n\nYou can follow one of these approaches.\n\n\n\n\nOne Click Demo Import ( Automatic \n Recommended )\n\n\nImport XML Contents, Customizer Settings, and Widgets Manually\n\n\n\n\nOne Click Demo Import ( Automatic \n Recommended )\n\n\nStep 1\n\n\nGo to \nDashboard \u2192 Settings \u2192 Permalinks\n and choose Post name from Common Settings and save the changes, As displayed in screen shot below.\n\n\n\n\nStep 2\n\n\nNote: It is important to complete Step 1 as import script is programmed to work with pretty permalinks. Otherwise you will have configuration issues after importing demo data contents.\n\n\nGo to \nDashboard \u2192 Appearance \u2192 Themes\n and click on Import Demo Data in the sub menu items.\n\n\n\n\nNote: Since version 3.0.0, we have added a new design variation in Real Homes Theme for our clients so you will see two variations for the demo data import. You can import one variation or both and you won't have any issues. Before you begin, make sure all the required plugins are installed and activated.\n\n\nClick on blue Import button and you will see a popup so click on the blue Yes, import! button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.\n\n\n\n\nStep 3\n\n\nOnce the import process is complete, You will receive a notice like the one displayed in the screen shot below.\n\n\n\n\nVisit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.\n\n\n2. Import XML Contents and Configure Settings Manually\n\n\nStep 1\n\n\nGo to \nDashboard \u2192 Settings \u2192 Permalinks\n and choose Post name from Common Settings and save the changes, As displayed in screen shot below.\n\n\n\n\nStep 2\n\n\nGo to \nDashboard \u2192 Tools \u2192 Import\n and click Install Now shown under WordPress as displayed in image below.\n\n\n\n\nOnce installed, you can activate the plugin and run it by clicking on Run Importer.\n\n\n\n\nStep 3\n\n\nLook for Import XML folder in unzipped package downloaded from themeforest and use the XML file of the relevant variation (Classic or Modern) within it.\n\n\n\n\n\n\n\n\nAssign posts to an existing author.\n\n\nMark the checkbox to download and import file attachments\n\n\nClick '\nSubmit\n' button\n\n\n\n\n\n\nImport process can take few minutes. So wait for it and try to keep the focus on current tab in your browser.\n\n\nAfter that is done, you will have bunch of posts, pages, properties and other contents as on the theme demo.\n\n\n\n\nStep 4\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Menus\n and use the Already Imported Menu from XML and assign it to theme location \"Main Menu\" from Menu Settings section below menu. After that save the menu. As pointed in screenshot below.\n\n\n\n\nStep 5\n\n\nTo configure reading settings you need to visit \nDashboard \u2192 Settings \u2192 Reading\n and choose that front page displays as static page. Then select Home as Front Page and News as Posts Page (displayed in the following screenshot).\n\n\n\n\nStep 6\n\n\nTo import Customizer settings you have to install \nCustomizer Export/Import Plugin\n. \n\n\nOnce the plugin is installed and activate then navigate to \nDashboard \u2192 Appearance \u2192 Customize \u2192 Export/Import\n and then select the customizer.dat file for the relevant design variation (Classic or Modern).\n\n\n\n\nUpon successful import the Customizer will be refreshed.\n\n\nStep 7\n\n\nNow you can import widgets too. In order to do that, kindly install \nWidget Importer \n Exporter\n. \n\n\nAfter successful installation and activation navigate to \nDashboard \u2192 Tools \u2192 Widget Importer \n Exporter\n and then select the widgets.wie file for the relevant design variation (Classic or Modern).\n\n\n\n\nUpon successful import the page will be reloaded and it will display the widgets which are imported.\n\n\nVisit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.", 
+            "title": "Import Demo Contents"
+        }, 
+        {
+            "location": "/import-demo/index.html#import-demo-contents", 
+            "text": "You can follow one of these approaches.   One Click Demo Import ( Automatic   Recommended )  Import XML Contents, Customizer Settings, and Widgets Manually", 
+            "title": "Import Demo Contents"
+        }, 
+        {
+            "location": "/import-demo/index.html#one-click-demo-import-automatic-recommended", 
+            "text": "", 
+            "title": "One Click Demo Import ( Automatic &amp; Recommended )"
+        }, 
+        {
+            "location": "/import-demo/index.html#step-1", 
+            "text": "Go to  Dashboard \u2192 Settings \u2192 Permalinks  and choose Post name from Common Settings and save the changes, As displayed in screen shot below.", 
+            "title": "Step 1"
+        }, 
+        {
+            "location": "/import-demo/index.html#step-2", 
+            "text": "Note: It is important to complete Step 1 as import script is programmed to work with pretty permalinks. Otherwise you will have configuration issues after importing demo data contents.  Go to  Dashboard \u2192 Appearance \u2192 Themes  and click on Import Demo Data in the sub menu items.   Note: Since version 3.0.0, we have added a new design variation in Real Homes Theme for our clients so you will see two variations for the demo data import. You can import one variation or both and you won't have any issues. Before you begin, make sure all the required plugins are installed and activated.  Click on blue Import button and you will see a popup so click on the blue Yes, import! button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.", 
+            "title": "Step 2"
+        }, 
+        {
+            "location": "/import-demo/index.html#step-3", 
+            "text": "Once the import process is complete, You will receive a notice like the one displayed in the screen shot below.   Visit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.", 
+            "title": "Step 3"
+        }, 
+        {
+            "location": "/import-demo/index.html#2-import-xml-contents-and-configure-settings-manually", 
+            "text": "", 
+            "title": "2. Import XML Contents and Configure Settings Manually"
+        }, 
+        {
+            "location": "/import-demo/index.html#step-1_1", 
+            "text": "Go to  Dashboard \u2192 Settings \u2192 Permalinks  and choose Post name from Common Settings and save the changes, As displayed in screen shot below.", 
+            "title": "Step 1"
+        }, 
+        {
+            "location": "/import-demo/index.html#step-2_1", 
+            "text": "Go to  Dashboard \u2192 Tools \u2192 Import  and click Install Now shown under WordPress as displayed in image below.   Once installed, you can activate the plugin and run it by clicking on Run Importer.", 
+            "title": "Step 2"
+        }, 
+        {
+            "location": "/import-demo/index.html#step-3_1", 
+            "text": "Look for Import XML folder in unzipped package downloaded from themeforest and use the XML file of the relevant variation (Classic or Modern) within it.     Assign posts to an existing author.  Mark the checkbox to download and import file attachments  Click ' Submit ' button    Import process can take few minutes. So wait for it and try to keep the focus on current tab in your browser.  After that is done, you will have bunch of posts, pages, properties and other contents as on the theme demo.", 
+            "title": "Step 3"
+        }, 
+        {
+            "location": "/import-demo/index.html#step-4", 
+            "text": "Navigate to  Dashboard \u2192 Appearance \u2192 Menus  and use the Already Imported Menu from XML and assign it to theme location \"Main Menu\" from Menu Settings section below menu. After that save the menu. As pointed in screenshot below.", 
+            "title": "Step 4"
+        }, 
+        {
+            "location": "/import-demo/index.html#step-5", 
+            "text": "To configure reading settings you need to visit  Dashboard \u2192 Settings \u2192 Reading  and choose that front page displays as static page. Then select Home as Front Page and News as Posts Page (displayed in the following screenshot).", 
+            "title": "Step 5"
+        }, 
+        {
+            "location": "/import-demo/index.html#step-6", 
+            "text": "To import Customizer settings you have to install  Customizer Export/Import Plugin .   Once the plugin is installed and activate then navigate to  Dashboard \u2192 Appearance \u2192 Customize \u2192 Export/Import  and then select the customizer.dat file for the relevant design variation (Classic or Modern).   Upon successful import the Customizer will be refreshed.", 
+            "title": "Step 6"
+        }, 
+        {
+            "location": "/import-demo/index.html#step-7", 
+            "text": "Now you can import widgets too. In order to do that, kindly install  Widget Importer   Exporter .   After successful installation and activation navigate to  Dashboard \u2192 Tools \u2192 Widget Importer   Exporter  and then select the widgets.wie file for the relevant design variation (Classic or Modern).   Upon successful import the page will be reloaded and it will display the widgets which are imported.  Visit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.", 
+            "title": "Step 7"
+        }, 
+        {
+            "location": "/design-selection/index.html", 
+            "text": "Selection Of Design (Classic or Modern)\n\n\nSince version 3, Real Homes Theme has two design variations which are named as \nClassic\n and \nModern\n respectively. \n\n\nWe strongly suggest to select and finalize a design in the start and use that to run the website smoothly for long term. As It is possible that a specific feature might not be available/supported in other design variation due to design limitations.\n\n\nOne of these designs can be selected by navigating to \nDashboard \u2192 Appearance \u2192 Real Homes Design\n.", 
+            "title": "Selection Of Design"
+        }, 
+        {
+            "location": "/design-selection/index.html#selection-of-design-classic-or-modern", 
+            "text": "Since version 3, Real Homes Theme has two design variations which are named as  Classic  and  Modern  respectively.   We strongly suggest to select and finalize a design in the start and use that to run the website smoothly for long term. As It is possible that a specific feature might not be available/supported in other design variation due to design limitations.  One of these designs can be selected by navigating to  Dashboard \u2192 Appearance \u2192 Real Homes Design .", 
+            "title": "Selection Of Design (Classic or Modern)"
         }
     ]
 }
