@@ -1,0 +1,10 @@
+.md-typeset h1, .md-typeset h2 {
+    font-weight: 700;
+    letter-spacing: -.01em;
+}
+
+.md-header-nav__button.md-logo * {
+    display: block;
+    width: 65px;
+    height: auto;
+}

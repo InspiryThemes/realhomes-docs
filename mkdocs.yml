@@ -1,0 +1,51 @@
+####################################################
+#                                                  #
+#   Documentation for Real Homes WordPress Theme   #
+#                                                  #
+####################################################
+
+site_name: Real Homes Documentation
+theme: material
+extra_css:
+    - css/layout.css
+
+extra:
+  language: 'en'
+  logo: 'images/base/realhomes-logo.png'
+  palette:
+    primary: 'deep orange'
+    accent: 'deep orange'
+  social:
+    - type: 'github'
+      link: 'https://github.com/inspirythemes'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/InspiryThemes/'
+    - type: 'twitter'
+      link: 'https://twitter.com/InspiryThemes'
+
+pages:
+  - Introduction: index.md
+  - Basic Setup:
+    - Installation: install.md
+
+use_directory_urls: false
+
+markdown_extensions:
+  - admonition
+  - codehilite(guess_lang=true,linenums=true)
+  - toc(permalink=true)
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+     emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+  - meta

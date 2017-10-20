@@ -1,0 +1,84 @@
+{
+    "docs": [
+        {
+            "location": "/index.html", 
+            "text": "Real Homes Theme\n\n\nIntroduction\n\n\nThis documentation is last updated on 20\nth\n October, 2017.\n\n\nThanks for purchasing Real Homes WordPress Theme. If you have any question that is beyond the scope of this documentation, Feel free to ask that on our support website. You can visit this knowledge base article to learn about how to get item purchase code from themeforest.net to sign-up on our support site.\n\n\nImportant Note\n\n\nIt is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you might have downloaded from themeforest.\n\n\nPlease note some features (which are there for Classic Design) are not yet available for Modern Design Variation of Real Homes Theme. We are working hard to add everything in Modern Design and you will get them soon in future updates.\n\n\nFew Performance Improvement Tips\n\n\nBasic Recommendations\n\n\n\n\nUse PHP 7.0 as it is faster than previous versions and a base requirement of WordPress. ( You can communicate with your host to get it done. )\n\n\nMake sure your hosting is based on SSD drives.\n\n\nIt is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on.\nUse a good cache plugin and test your site properly after installing and configuring it.\n\n\n\n\nReal Homes Specific\n\n\n\n\nDo not unify (combine) JavaScript files for Real Homes theme while using a cache plugin ( or any optimisation plugin ) as it is not an average blog theme and certain scripts are only loaded when required. Also, dynamic data is generated before few scripts based on various settings. So, Combining JavaScript files can create errors.\n\n\nReal Homes uses following cookies (if related settings are enabled). So, You can configure your cache plugin to not cache pages that uses these cookies OR you can request the same from your host if your host is like WPEngine ( who do not allow cache plugin and handles the cache on server level ).\n\n\ninspiry_compare\n\n\ninspiry_favorites\n\n\ncurrent_currency\n\n\n\n\n\n\n\n\nHow to Update Theme\n\n\nIf you want to update your theme then you can consult this knowledge base article for automatic update OR you can consult this knowledge base article for manual update.\n\n\nSupport Policy\n\n\nSupport Includes\n\n\n\n\nAnswering technical questions about theme features.\n\n\nAssistance with reported bugs and issues.\n\n\nHelp with included 3\nrd\n party assets.\n\n\n\n\nSupport Does Not Includes\n\n\n\n\nTheme customization services.\n\n\nTheme installation services.", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/index.html#real-homes-theme", 
+            "text": "", 
+            "title": "Real Homes Theme"
+        }, 
+        {
+            "location": "/index.html#introduction", 
+            "text": "This documentation is last updated on 20 th  October, 2017.  Thanks for purchasing Real Homes WordPress Theme. If you have any question that is beyond the scope of this documentation, Feel free to ask that on our support website. You can visit this knowledge base article to learn about how to get item purchase code from themeforest.net to sign-up on our support site.", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/index.html#important-note", 
+            "text": "It is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you might have downloaded from themeforest.  Please note some features (which are there for Classic Design) are not yet available for Modern Design Variation of Real Homes Theme. We are working hard to add everything in Modern Design and you will get them soon in future updates.", 
+            "title": "Important Note"
+        }, 
+        {
+            "location": "/index.html#few-performance-improvement-tips", 
+            "text": "", 
+            "title": "Few Performance Improvement Tips"
+        }, 
+        {
+            "location": "/index.html#basic-recommendations", 
+            "text": "Use PHP 7.0 as it is faster than previous versions and a base requirement of WordPress. ( You can communicate with your host to get it done. )  Make sure your hosting is based on SSD drives.  It is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on.\nUse a good cache plugin and test your site properly after installing and configuring it.", 
+            "title": "Basic Recommendations"
+        }, 
+        {
+            "location": "/index.html#real-homes-specific", 
+            "text": "Do not unify (combine) JavaScript files for Real Homes theme while using a cache plugin ( or any optimisation plugin ) as it is not an average blog theme and certain scripts are only loaded when required. Also, dynamic data is generated before few scripts based on various settings. So, Combining JavaScript files can create errors.  Real Homes uses following cookies (if related settings are enabled). So, You can configure your cache plugin to not cache pages that uses these cookies OR you can request the same from your host if your host is like WPEngine ( who do not allow cache plugin and handles the cache on server level ).  inspiry_compare  inspiry_favorites  current_currency", 
+            "title": "Real Homes Specific"
+        }, 
+        {
+            "location": "/index.html#how-to-update-theme", 
+            "text": "If you want to update your theme then you can consult this knowledge base article for automatic update OR you can consult this knowledge base article for manual update.", 
+            "title": "How to Update Theme"
+        }, 
+        {
+            "location": "/index.html#support-policy", 
+            "text": "", 
+            "title": "Support Policy"
+        }, 
+        {
+            "location": "/index.html#support-includes", 
+            "text": "Answering technical questions about theme features.  Assistance with reported bugs and issues.  Help with included 3 rd  party assets.", 
+            "title": "Support Includes"
+        }, 
+        {
+            "location": "/index.html#support-does-not-includes", 
+            "text": "Theme customization services.  Theme installation services.", 
+            "title": "Support Does Not Includes"
+        }, 
+        {
+            "location": "/install/index.html", 
+            "text": "Installation\n\n\nTo start you must have a working version of WordPress. Almost all major web hosts provides one click WordPress install and you can consult your host's help site for more information in this regard. For manual install you can consult WordPress Codex Installing WordPress especially the Requirements.\n\n\nOnce you have a working version of WordPress, You need to download \"All Files and Documentation\" from themeforest download page and extract the downloaded zip to get required files including realhomes.zip.\n\n\nInstall Theme Via WordPress Dashboard ( \nRecommended\n )\n\n\n\n\nGo to '\nAppearance \u2192 Themes\n' section\n\n\nClick '\nAdd New\n' and select the '\nUpload Theme\n' option \n\n\n\nClick '\nUpload Theme\n' \n\n\n\nChoose the \nrealhomes.zip\n file and press '\nInstall Now\n' \n\n\n\nOnce the theme is uploaded you need to activate it. \n\n\n\nA notice will be displayed right after the activation of the theme asking you to install and activate the required plugins. So, go ahead and click on Begin installing plugins. \n\n\n\nOn next page you will see the list of plugins to install. Select all the plugins and click on \nInstall\n and then click on \nApply\n to install all of them at once (as shown in the screenshot below). \n\n\n\nAfter all the plugins are installed click on Return to Required Plugins Installer. \n\n\n\nOnce again select all the plugins and click on \nActivate\n and then click on \nApply\n to activate all the plugins and you are done. \n\n\n\nAfter activation go to \"\nAppearance \u2192 Customize\n\" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer. \n\n\n\n\n\nif you face any problem during upload through dashboard, please upload the theme using FTP as guided below.\n\n\nInstall Theme Via FTP ( Alternative Way )\n\n\n\n\nAccess your hosting server using an ftp client like \nFileZilla\n\n\nGo to the '\nwp-content \u2192 themes\n' folder of your WordPress installation\n\n\nExtract the \nrealhomes.zip\n file and put the realhomes folder in '\nwp-content \u2192 themes\n' folder\n\n\nGo to '\nDashboard \u2192 Appearance \u2192 Themes\n' section to activate the theme\n\n\nAfter activation go to \"\nDashboard \u2192 Appearance \u2192 Customize\n\" to play with theme's settings.\n\n\n\n\nInstall Child Theme ( Highly Recommended )\n\n\nIt is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from themeforest.\n\n\nTo install child theme, You need to upload the \nrealhomes-child.zip\n and activate it in the same way as you have uploaded and activated parent theme's realhomes.zip.", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/install/index.html#installation", 
+            "text": "To start you must have a working version of WordPress. Almost all major web hosts provides one click WordPress install and you can consult your host's help site for more information in this regard. For manual install you can consult WordPress Codex Installing WordPress especially the Requirements.  Once you have a working version of WordPress, You need to download \"All Files and Documentation\" from themeforest download page and extract the downloaded zip to get required files including realhomes.zip.", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/install/index.html#install-theme-via-wordpress-dashboard-recommended", 
+            "text": "Go to ' Appearance \u2192 Themes ' section  Click ' Add New ' and select the ' Upload Theme ' option   Click ' Upload Theme '   Choose the  realhomes.zip  file and press ' Install Now '   Once the theme is uploaded you need to activate it.   A notice will be displayed right after the activation of the theme asking you to install and activate the required plugins. So, go ahead and click on Begin installing plugins.   On next page you will see the list of plugins to install. Select all the plugins and click on  Install  and then click on  Apply  to install all of them at once (as shown in the screenshot below).   After all the plugins are installed click on Return to Required Plugins Installer.   Once again select all the plugins and click on  Activate  and then click on  Apply  to activate all the plugins and you are done.   After activation go to \" Appearance \u2192 Customize \" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer.    if you face any problem during upload through dashboard, please upload the theme using FTP as guided below.", 
+            "title": "Install Theme Via WordPress Dashboard ( Recommended )"
+        }, 
+        {
+            "location": "/install/index.html#install-theme-via-ftp-alternative-way", 
+            "text": "Access your hosting server using an ftp client like  FileZilla  Go to the ' wp-content \u2192 themes ' folder of your WordPress installation  Extract the  realhomes.zip  file and put the realhomes folder in ' wp-content \u2192 themes ' folder  Go to ' Dashboard \u2192 Appearance \u2192 Themes ' section to activate the theme  After activation go to \" Dashboard \u2192 Appearance \u2192 Customize \" to play with theme's settings.", 
+            "title": "Install Theme Via FTP ( Alternative Way )"
+        }, 
+        {
+            "location": "/install/index.html#install-child-theme-highly-recommended", 
+            "text": "It is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from themeforest.  To install child theme, You need to upload the  realhomes-child.zip  and activate it in the same way as you have uploaded and activated parent theme's realhomes.zip.", 
+            "title": "Install Child Theme ( Highly Recommended )"
+        }
+    ]
+}
