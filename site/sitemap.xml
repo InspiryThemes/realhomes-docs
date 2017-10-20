@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>/index.html</loc>
+     <loc>/</loc>
      <lastmod>2017-10-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -12,19 +12,19 @@
     
         
     <url>
-     <loc>/install/index.html</loc>
+     <loc>/install/</loc>
      <lastmod>2017-10-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/import-demo/index.html</loc>
+     <loc>/import-demo/</loc>
      <lastmod>2017-10-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/design-selection/index.html</loc>
+     <loc>/design-selection/</loc>
      <lastmod>2017-10-20</lastmod>
      <changefreq>daily</changefreq>
     </url>

@@ -1,162 +1,162 @@
 {
     "docs": [
         {
-            "location": "/index.html", 
+            "location": "/", 
             "text": "Real Homes Theme\n\n\nIntroduction\n\n\nThis documentation is last updated on 20\nth\n October, 2017.\n\n\nThanks for purchasing Real Homes WordPress Theme. If you have any question that is beyond the scope of this documentation, Feel free to ask that on our support website. You can visit this knowledge base article to learn about how to get item purchase code from themeforest.net to sign-up on our support site.\n\n\nImportant Note\n\n\nIt is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you might have downloaded from themeforest.\n\n\nPlease note some features (which are there for Classic Design) are not yet available for Modern Design Variation of Real Homes Theme. We are working hard to add everything in Modern Design and you will get them soon in future updates.\n\n\nFew Performance Improvement Tips\n\n\nBasic Recommendations\n\n\n\n\nUse PHP 7.0 as it is faster than previous versions and a base requirement of WordPress. ( You can communicate with your host to get it done. )\n\n\nMake sure your hosting is based on SSD drives.\n\n\nIt is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on.\nUse a good cache plugin and test your site properly after installing and configuring it.\n\n\n\n\nReal Homes Specific\n\n\n\n\nDo not unify (combine) JavaScript files for Real Homes theme while using a cache plugin ( or any optimisation plugin ) as it is not an average blog theme and certain scripts are only loaded when required. Also, dynamic data is generated before few scripts based on various settings. So, Combining JavaScript files can create errors.\n\n\nReal Homes uses following cookies (if related settings are enabled). So, You can configure your cache plugin to not cache pages that uses these cookies OR you can request the same from your host if your host is like WPEngine ( who do not allow cache plugin and handles the cache on server level ).\n\n\ninspiry_compare\n\n\ninspiry_favorites\n\n\ncurrent_currency\n\n\n\n\n\n\n\n\nHow to Update Theme\n\n\nIf you want to update your theme then you can consult this knowledge base article for automatic update OR you can consult this knowledge base article for manual update.\n\n\nSupport Policy\n\n\nSupport Includes\n\n\n\n\nAnswering technical questions about theme features.\n\n\nAssistance with reported bugs and issues.\n\n\nHelp with included 3\nrd\n party assets.\n\n\n\n\nSupport Does Not Includes\n\n\n\n\nTheme customization services.\n\n\nTheme installation services.", 
             "title": "Introduction"
         }, 
         {
-            "location": "/index.html#real-homes-theme", 
+            "location": "/#real-homes-theme", 
             "text": "", 
             "title": "Real Homes Theme"
         }, 
         {
-            "location": "/index.html#introduction", 
+            "location": "/#introduction", 
             "text": "This documentation is last updated on 20 th  October, 2017.  Thanks for purchasing Real Homes WordPress Theme. If you have any question that is beyond the scope of this documentation, Feel free to ask that on our support website. You can visit this knowledge base article to learn about how to get item purchase code from themeforest.net to sign-up on our support site.", 
             "title": "Introduction"
         }, 
         {
-            "location": "/index.html#important-note", 
+            "location": "/#important-note", 
             "text": "It is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you might have downloaded from themeforest.  Please note some features (which are there for Classic Design) are not yet available for Modern Design Variation of Real Homes Theme. We are working hard to add everything in Modern Design and you will get them soon in future updates.", 
             "title": "Important Note"
         }, 
         {
-            "location": "/index.html#few-performance-improvement-tips", 
+            "location": "/#few-performance-improvement-tips", 
             "text": "", 
             "title": "Few Performance Improvement Tips"
         }, 
         {
-            "location": "/index.html#basic-recommendations", 
+            "location": "/#basic-recommendations", 
             "text": "Use PHP 7.0 as it is faster than previous versions and a base requirement of WordPress. ( You can communicate with your host to get it done. )  Make sure your hosting is based on SSD drives.  It is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on.\nUse a good cache plugin and test your site properly after installing and configuring it.", 
             "title": "Basic Recommendations"
         }, 
         {
-            "location": "/index.html#real-homes-specific", 
+            "location": "/#real-homes-specific", 
             "text": "Do not unify (combine) JavaScript files for Real Homes theme while using a cache plugin ( or any optimisation plugin ) as it is not an average blog theme and certain scripts are only loaded when required. Also, dynamic data is generated before few scripts based on various settings. So, Combining JavaScript files can create errors.  Real Homes uses following cookies (if related settings are enabled). So, You can configure your cache plugin to not cache pages that uses these cookies OR you can request the same from your host if your host is like WPEngine ( who do not allow cache plugin and handles the cache on server level ).  inspiry_compare  inspiry_favorites  current_currency", 
             "title": "Real Homes Specific"
         }, 
         {
-            "location": "/index.html#how-to-update-theme", 
+            "location": "/#how-to-update-theme", 
             "text": "If you want to update your theme then you can consult this knowledge base article for automatic update OR you can consult this knowledge base article for manual update.", 
             "title": "How to Update Theme"
         }, 
         {
-            "location": "/index.html#support-policy", 
+            "location": "/#support-policy", 
             "text": "", 
             "title": "Support Policy"
         }, 
         {
-            "location": "/index.html#support-includes", 
+            "location": "/#support-includes", 
             "text": "Answering technical questions about theme features.  Assistance with reported bugs and issues.  Help with included 3 rd  party assets.", 
             "title": "Support Includes"
         }, 
         {
-            "location": "/index.html#support-does-not-includes", 
+            "location": "/#support-does-not-includes", 
             "text": "Theme customization services.  Theme installation services.", 
             "title": "Support Does Not Includes"
         }, 
         {
-            "location": "/install/index.html", 
+            "location": "/install/", 
             "text": "Installation\n\n\nTo start you must have a working version of WordPress. Almost all major web hosts provides one click WordPress install and you can consult your host's help site for more information in this regard. For manual install you can consult WordPress Codex Installing WordPress especially the Requirements.\n\n\nOnce you have a working version of WordPress, You need to download \"All Files and Documentation\" from themeforest download page and extract the downloaded zip to get required files including realhomes.zip.\n\n\nInstall Theme Via WordPress Dashboard ( \nRecommended\n )\n\n\n\n\nGo to '\nAppearance \u2192 Themes\n' section\n\n\nClick '\nAdd New\n' and select the '\nUpload Theme\n' option \n\n\n\nClick '\nUpload Theme\n' \n\n\n\nChoose the \nrealhomes.zip\n file and press '\nInstall Now\n' \n\n\n\nOnce the theme is uploaded you need to activate it. \n\n\n\nA notice will be displayed right after the activation of the theme asking you to install and activate the required plugins. So, go ahead and click on Begin installing plugins. \n\n\n\nOn next page you will see the list of plugins to install. Select all the plugins and click on \nInstall\n and then click on \nApply\n to install all of them at once (as shown in the screenshot below). \n\n\n\nAfter all the plugins are installed click on Return to Required Plugins Installer. \n\n\n\nOnce again select all the plugins and click on \nActivate\n and then click on \nApply\n to activate all the plugins and you are done. \n\n\n\nAfter activation go to \"\nAppearance \u2192 Customize\n\" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer. \n\n\n\n\n\nif you face any problem during upload through dashboard, please upload the theme using FTP as guided below.\n\n\nInstall Theme Via FTP ( Alternative Way )\n\n\n\n\nAccess your hosting server using an ftp client like \nFileZilla\n\n\nGo to the '\nwp-content \u2192 themes\n' folder of your WordPress installation\n\n\nExtract the \nrealhomes.zip\n file and put the realhomes folder in '\nwp-content \u2192 themes\n' folder\n\n\nGo to '\nDashboard \u2192 Appearance \u2192 Themes\n' section to activate the theme\n\n\nAfter activation go to \"\nDashboard \u2192 Appearance \u2192 Customize\n\" to play with theme's settings.\n\n\n\n\nInstall Child Theme ( Highly Recommended )\n\n\nIt is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from themeforest.\n\n\nTo install child theme, You need to upload the \nrealhomes-child.zip\n and activate it in the same way as you have uploaded and activated parent theme's realhomes.zip.", 
             "title": "Installation"
         }, 
         {
-            "location": "/install/index.html#installation", 
+            "location": "/install/#installation", 
             "text": "To start you must have a working version of WordPress. Almost all major web hosts provides one click WordPress install and you can consult your host's help site for more information in this regard. For manual install you can consult WordPress Codex Installing WordPress especially the Requirements.  Once you have a working version of WordPress, You need to download \"All Files and Documentation\" from themeforest download page and extract the downloaded zip to get required files including realhomes.zip.", 
             "title": "Installation"
         }, 
         {
-            "location": "/install/index.html#install-theme-via-wordpress-dashboard-recommended", 
+            "location": "/install/#install-theme-via-wordpress-dashboard-recommended", 
             "text": "Go to ' Appearance \u2192 Themes ' section  Click ' Add New ' and select the ' Upload Theme ' option   Click ' Upload Theme '   Choose the  realhomes.zip  file and press ' Install Now '   Once the theme is uploaded you need to activate it.   A notice will be displayed right after the activation of the theme asking you to install and activate the required plugins. So, go ahead and click on Begin installing plugins.   On next page you will see the list of plugins to install. Select all the plugins and click on  Install  and then click on  Apply  to install all of them at once (as shown in the screenshot below).   After all the plugins are installed click on Return to Required Plugins Installer.   Once again select all the plugins and click on  Activate  and then click on  Apply  to activate all the plugins and you are done.   After activation go to \" Appearance \u2192 Customize \" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer.    if you face any problem during upload through dashboard, please upload the theme using FTP as guided below.", 
             "title": "Install Theme Via WordPress Dashboard ( Recommended )"
         }, 
         {
-            "location": "/install/index.html#install-theme-via-ftp-alternative-way", 
+            "location": "/install/#install-theme-via-ftp-alternative-way", 
             "text": "Access your hosting server using an ftp client like  FileZilla  Go to the ' wp-content \u2192 themes ' folder of your WordPress installation  Extract the  realhomes.zip  file and put the realhomes folder in ' wp-content \u2192 themes ' folder  Go to ' Dashboard \u2192 Appearance \u2192 Themes ' section to activate the theme  After activation go to \" Dashboard \u2192 Appearance \u2192 Customize \" to play with theme's settings.", 
             "title": "Install Theme Via FTP ( Alternative Way )"
         }, 
         {
-            "location": "/install/index.html#install-child-theme-highly-recommended", 
+            "location": "/install/#install-child-theme-highly-recommended", 
             "text": "It is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from themeforest.  To install child theme, You need to upload the  realhomes-child.zip  and activate it in the same way as you have uploaded and activated parent theme's realhomes.zip.", 
             "title": "Install Child Theme ( Highly Recommended )"
         }, 
         {
-            "location": "/import-demo/index.html", 
+            "location": "/import-demo/", 
             "text": "Import Demo Contents\n\n\nYou can follow one of these approaches.\n\n\n\n\nOne Click Demo Import ( Automatic \n Recommended )\n\n\nImport XML Contents, Customizer Settings, and Widgets Manually\n\n\n\n\nOne Click Demo Import ( Automatic \n Recommended )\n\n\nStep 1\n\n\nGo to \nDashboard \u2192 Settings \u2192 Permalinks\n and choose Post name from Common Settings and save the changes, As displayed in screen shot below.\n\n\n\n\nStep 2\n\n\nNote: It is important to complete Step 1 as import script is programmed to work with pretty permalinks. Otherwise you will have configuration issues after importing demo data contents.\n\n\nGo to \nDashboard \u2192 Appearance \u2192 Themes\n and click on Import Demo Data in the sub menu items.\n\n\n\n\nNote: Since version 3.0.0, we have added a new design variation in Real Homes Theme for our clients so you will see two variations for the demo data import. You can import one variation or both and you won't have any issues. Before you begin, make sure all the required plugins are installed and activated.\n\n\nClick on blue Import button and you will see a popup so click on the blue Yes, import! button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.\n\n\n\n\nStep 3\n\n\nOnce the import process is complete, You will receive a notice like the one displayed in the screen shot below.\n\n\n\n\nVisit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.\n\n\n2. Import XML Contents and Configure Settings Manually\n\n\nStep 1\n\n\nGo to \nDashboard \u2192 Settings \u2192 Permalinks\n and choose Post name from Common Settings and save the changes, As displayed in screen shot below.\n\n\n\n\nStep 2\n\n\nGo to \nDashboard \u2192 Tools \u2192 Import\n and click Install Now shown under WordPress as displayed in image below.\n\n\n\n\nOnce installed, you can activate the plugin and run it by clicking on Run Importer.\n\n\n\n\nStep 3\n\n\nLook for Import XML folder in unzipped package downloaded from themeforest and use the XML file of the relevant variation (Classic or Modern) within it.\n\n\n\n\n\n\n\n\nAssign posts to an existing author.\n\n\nMark the checkbox to download and import file attachments\n\n\nClick '\nSubmit\n' button\n\n\n\n\n\n\nImport process can take few minutes. So wait for it and try to keep the focus on current tab in your browser.\n\n\nAfter that is done, you will have bunch of posts, pages, properties and other contents as on the theme demo.\n\n\n\n\nStep 4\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Menus\n and use the Already Imported Menu from XML and assign it to theme location \"Main Menu\" from Menu Settings section below menu. After that save the menu. As pointed in screenshot below.\n\n\n\n\nStep 5\n\n\nTo configure reading settings you need to visit \nDashboard \u2192 Settings \u2192 Reading\n and choose that front page displays as static page. Then select Home as Front Page and News as Posts Page (displayed in the following screenshot).\n\n\n\n\nStep 6\n\n\nTo import Customizer settings you have to install \nCustomizer Export/Import Plugin\n. \n\n\nOnce the plugin is installed and activate then navigate to \nDashboard \u2192 Appearance \u2192 Customize \u2192 Export/Import\n and then select the customizer.dat file for the relevant design variation (Classic or Modern).\n\n\n\n\nUpon successful import the Customizer will be refreshed.\n\n\nStep 7\n\n\nNow you can import widgets too. In order to do that, kindly install \nWidget Importer \n Exporter\n. \n\n\nAfter successful installation and activation navigate to \nDashboard \u2192 Tools \u2192 Widget Importer \n Exporter\n and then select the widgets.wie file for the relevant design variation (Classic or Modern).\n\n\n\n\nUpon successful import the page will be reloaded and it will display the widgets which are imported.\n\n\nVisit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.", 
             "title": "Import Demo Contents"
         }, 
         {
-            "location": "/import-demo/index.html#import-demo-contents", 
+            "location": "/import-demo/#import-demo-contents", 
             "text": "You can follow one of these approaches.   One Click Demo Import ( Automatic   Recommended )  Import XML Contents, Customizer Settings, and Widgets Manually", 
             "title": "Import Demo Contents"
         }, 
         {
-            "location": "/import-demo/index.html#one-click-demo-import-automatic-recommended", 
+            "location": "/import-demo/#one-click-demo-import-automatic-recommended", 
             "text": "", 
             "title": "One Click Demo Import ( Automatic &amp; Recommended )"
         }, 
         {
-            "location": "/import-demo/index.html#step-1", 
+            "location": "/import-demo/#step-1", 
             "text": "Go to  Dashboard \u2192 Settings \u2192 Permalinks  and choose Post name from Common Settings and save the changes, As displayed in screen shot below.", 
             "title": "Step 1"
         }, 
         {
-            "location": "/import-demo/index.html#step-2", 
+            "location": "/import-demo/#step-2", 
             "text": "Note: It is important to complete Step 1 as import script is programmed to work with pretty permalinks. Otherwise you will have configuration issues after importing demo data contents.  Go to  Dashboard \u2192 Appearance \u2192 Themes  and click on Import Demo Data in the sub menu items.   Note: Since version 3.0.0, we have added a new design variation in Real Homes Theme for our clients so you will see two variations for the demo data import. You can import one variation or both and you won't have any issues. Before you begin, make sure all the required plugins are installed and activated.  Click on blue Import button and you will see a popup so click on the blue Yes, import! button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.", 
             "title": "Step 2"
         }, 
         {
-            "location": "/import-demo/index.html#step-3", 
+            "location": "/import-demo/#step-3", 
             "text": "Once the import process is complete, You will receive a notice like the one displayed in the screen shot below.   Visit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.", 
             "title": "Step 3"
         }, 
         {
-            "location": "/import-demo/index.html#2-import-xml-contents-and-configure-settings-manually", 
+            "location": "/import-demo/#2-import-xml-contents-and-configure-settings-manually", 
             "text": "", 
             "title": "2. Import XML Contents and Configure Settings Manually"
         }, 
         {
-            "location": "/import-demo/index.html#step-1_1", 
+            "location": "/import-demo/#step-1_1", 
             "text": "Go to  Dashboard \u2192 Settings \u2192 Permalinks  and choose Post name from Common Settings and save the changes, As displayed in screen shot below.", 
             "title": "Step 1"
         }, 
         {
-            "location": "/import-demo/index.html#step-2_1", 
+            "location": "/import-demo/#step-2_1", 
             "text": "Go to  Dashboard \u2192 Tools \u2192 Import  and click Install Now shown under WordPress as displayed in image below.   Once installed, you can activate the plugin and run it by clicking on Run Importer.", 
             "title": "Step 2"
         }, 
         {
-            "location": "/import-demo/index.html#step-3_1", 
+            "location": "/import-demo/#step-3_1", 
             "text": "Look for Import XML folder in unzipped package downloaded from themeforest and use the XML file of the relevant variation (Classic or Modern) within it.     Assign posts to an existing author.  Mark the checkbox to download and import file attachments  Click ' Submit ' button    Import process can take few minutes. So wait for it and try to keep the focus on current tab in your browser.  After that is done, you will have bunch of posts, pages, properties and other contents as on the theme demo.", 
             "title": "Step 3"
         }, 
         {
-            "location": "/import-demo/index.html#step-4", 
+            "location": "/import-demo/#step-4", 
             "text": "Navigate to  Dashboard \u2192 Appearance \u2192 Menus  and use the Already Imported Menu from XML and assign it to theme location \"Main Menu\" from Menu Settings section below menu. After that save the menu. As pointed in screenshot below.", 
             "title": "Step 4"
         }, 
         {
-            "location": "/import-demo/index.html#step-5", 
+            "location": "/import-demo/#step-5", 
             "text": "To configure reading settings you need to visit  Dashboard \u2192 Settings \u2192 Reading  and choose that front page displays as static page. Then select Home as Front Page and News as Posts Page (displayed in the following screenshot).", 
             "title": "Step 5"
         }, 
         {
-            "location": "/import-demo/index.html#step-6", 
+            "location": "/import-demo/#step-6", 
             "text": "To import Customizer settings you have to install  Customizer Export/Import Plugin .   Once the plugin is installed and activate then navigate to  Dashboard \u2192 Appearance \u2192 Customize \u2192 Export/Import  and then select the customizer.dat file for the relevant design variation (Classic or Modern).   Upon successful import the Customizer will be refreshed.", 
             "title": "Step 6"
         }, 
         {
-            "location": "/import-demo/index.html#step-7", 
+            "location": "/import-demo/#step-7", 
             "text": "Now you can import widgets too. In order to do that, kindly install  Widget Importer   Exporter .   After successful installation and activation navigate to  Dashboard \u2192 Tools \u2192 Widget Importer   Exporter  and then select the widgets.wie file for the relevant design variation (Classic or Modern).   Upon successful import the page will be reloaded and it will display the widgets which are imported.  Visit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.", 
             "title": "Step 7"
         }, 
         {
-            "location": "/design-selection/index.html", 
+            "location": "/design-selection/", 
             "text": "Selection Of Design (Classic or Modern)\n\n\nSince version 3, Real Homes Theme has two design variations which are named as \nClassic\n and \nModern\n respectively. \n\n\nWe strongly suggest to select and finalize a design in the start and use that to run the website smoothly for long term. As It is possible that a specific feature might not be available/supported in other design variation due to design limitations.\n\n\nOne of these designs can be selected by navigating to \nDashboard \u2192 Appearance \u2192 Real Homes Design\n.", 
             "title": "Selection Of Design"
         }, 
         {
-            "location": "/design-selection/index.html#selection-of-design-classic-or-modern", 
+            "location": "/design-selection/#selection-of-design-classic-or-modern", 
             "text": "Since version 3, Real Homes Theme has two design variations which are named as  Classic  and  Modern  respectively.   We strongly suggest to select and finalize a design in the start and use that to run the website smoothly for long term. As It is possible that a specific feature might not be available/supported in other design variation due to design limitations.  One of these designs can be selected by navigating to  Dashboard \u2192 Appearance \u2192 Real Homes Design .", 
             "title": "Selection Of Design (Classic or Modern)"
         }

@@ -30,7 +30,7 @@ pages:
     - Import Demo Contents: import-demo.md
     - Selection Of Design: design-selection.md
 
-use_directory_urls: false
+use_directory_urls: true
 
 markdown_extensions:
   - admonition
