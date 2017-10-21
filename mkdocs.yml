@@ -14,8 +14,8 @@ extra:
   language: 'en'
   logo: 'images/base/realhomes-logo.png'
   palette:
-    primary: 'deep orange'
-    accent: 'deep orange'
+    primary: 'blue'
+    accent: 'blue'
   social:
     - type: 'github'
       link: 'https://github.com/inspirythemes'
