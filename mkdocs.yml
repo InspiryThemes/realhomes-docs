@@ -30,6 +30,8 @@ pages:
     - Installation: install.md
     - Import Demo Contents: import-demo.md
     - Selection Of Design: design-selection.md
+  - Homepage Setup:
+    - Create Home Page: create-homepage.md
 
 use_directory_urls: true
 
