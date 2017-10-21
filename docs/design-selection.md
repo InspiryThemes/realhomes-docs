@@ -6,4 +6,4 @@ We strongly suggest to select and finalize a design in the start and use that to
 
 One of these designs can be selected by navigating to **Dashboard → Appearance → Real Homes Design**.
 
-![Screenshot](images/design-selection/selection-of-design.png)
+![Selection Of Design (Classic or Modern)](images/design-selection/selection-of-design.png)

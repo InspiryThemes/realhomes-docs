@@ -33,6 +33,9 @@ pages:
   - Homepage Setup:
     - Create Home Page: create-homepage.md
     - Configure Reading Settings: configure-reading-settings.md
+    - Sections Manager: sections-manager.md
+    - Configure Header Settings: configure-header-settings.md
+    - Home Page Settings: homepage-settings.md
 
 use_directory_urls: true
 
