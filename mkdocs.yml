@@ -36,6 +36,7 @@ pages:
     - Sections Manager: sections-manager.md
     - Configure Header Settings: configure-header-settings.md
     - Home Page Settings: homepage-settings.md
+    - Search Form Over Image: search-form-over-image.md
 
 use_directory_urls: true
 
