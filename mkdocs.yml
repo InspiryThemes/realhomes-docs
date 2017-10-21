@@ -32,6 +32,7 @@ pages:
     - Selection Of Design: design-selection.md
   - Homepage Setup:
     - Create Home Page: create-homepage.md
+    - Configure Reading Settings: configure-reading-settings.md
 
 use_directory_urls: true
 
