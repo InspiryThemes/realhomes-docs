@@ -38,6 +38,7 @@ pages:
     - Home Page Settings: homepage-settings.md
     - Search Form Over Image: search-form-over-image.md
     - Google Maps on Home Page: homepage-google-maps.md
+    - Image Banner on Home Page: homepage-image-banner.md
 
 use_directory_urls: true
 
