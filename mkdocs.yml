@@ -39,6 +39,7 @@ pages:
     - Search Form Over Image: search-form-over-image.md
     - Google Maps on Home Page: homepage-google-maps.md
     - Image Banner on Home Page: homepage-image-banner.md
+    - Slogan on Home Page: homepage-slogan.md
 
 use_directory_urls: true
 
