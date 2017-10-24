@@ -40,6 +40,7 @@ pages:
     - Google Maps on Home Page: homepage-google-maps.md
     - Image Banner on Home Page: homepage-image-banner.md
     - Slogan on Home Page: homepage-slogan.md
+    - Properties on Home Page: homepage-properties.md
 
 use_directory_urls: true
 
