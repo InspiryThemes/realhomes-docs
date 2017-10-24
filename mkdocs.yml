@@ -41,6 +41,7 @@ pages:
     - Image Banner on Home Page: homepage-image-banner.md
     - Slogan on Home Page: homepage-slogan.md
     - Properties on Home Page: homepage-properties.md
+    - Features on Home Page: homepage-features.md
 
 use_directory_urls: true
 
