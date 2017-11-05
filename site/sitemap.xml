@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2017-10-21</lastmod>
+     <lastmod>2017-11-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,19 +13,209 @@
         
     <url>
      <loc>/install/</loc>
-     <lastmod>2017-10-21</lastmod>
+     <lastmod>2017-11-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/import-demo/</loc>
-     <lastmod>2017-10-21</lastmod>
+     <lastmod>2017-11-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/design-selection/</loc>
-     <lastmod>2017-10-21</lastmod>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/create-homepage/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/configure-reading-settings/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/sections-manager/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/configure-header-settings/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/homepage-settings/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/search-form-over-image/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/homepage-google-maps/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/homepage-image-banner/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/homepage-slogan/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/homepage-properties/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/homepage-features/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/homepage-featured-properties/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/homepage-news/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/footer-settings/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/create-search-page/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/configure-advance-search/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/property-detail-page-settings/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/property-basics/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/property-breadcrumbs/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/property-common-note/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/property-video/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/property-virtual-tour/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/property-map/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/property-attachments/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/property-agent/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/property-views/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/similar-properties/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/create-news-page/</loc>
+     <lastmod>2017-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/configure-reading-settings/</loc>
+     <lastmod>2017-11-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
         

@@ -159,6 +159,376 @@
             "location": "/design-selection/#selection-of-design-classic-or-modern", 
             "text": "Since version 3, Real Homes Theme has two design variations which are named as  Classic  and  Modern  respectively.   We strongly suggest to select and finalize a design in the start and use that to run the website smoothly for long term. As It is possible that a specific feature might not be available/supported in other design variation due to design limitations.  One of these designs can be selected by navigating to  Dashboard \u2192 Appearance \u2192 Real Homes Design .", 
             "title": "Selection Of Design (Classic or Modern)"
+        }, 
+        {
+            "location": "/create-homepage/", 
+            "text": "Create Home Page\n\n\nIn case of Demo Contents Import the home page is already created and you do not need to follow this section.\n\n\nTo set up the Home page you need to create a new page, Go to \nDashboard \u2192 Pages \u2192 Add New\n. You can give this page a title \"\nHome\n\" yet you do not need to include any contents for now. Select the \u201c\nHome Template\n\u201d template from the Page Attributes section, as displayed in screen shot below and click \u201c\nPublish\n\u201d.", 
+            "title": "Create Home Page"
+        }, 
+        {
+            "location": "/create-homepage/#create-home-page", 
+            "text": "In case of Demo Contents Import the home page is already created and you do not need to follow this section.  To set up the Home page you need to create a new page, Go to  Dashboard \u2192 Pages \u2192 Add New . You can give this page a title \" Home \" yet you do not need to include any contents for now. Select the \u201c Home Template \u201d template from the Page Attributes section, as displayed in screen shot below and click \u201c Publish \u201d.", 
+            "title": "Create Home Page"
+        }, 
+        {
+            "location": "/configure-reading-settings/", 
+            "text": "Configure Reading Settings\n\n\nIn case you followed \nDemo Contents Import\n, The reading settings should already be configured and you do not need to follow this section.\n\n\nI am assuming that you have imported the XML successfully and you have home page and news page available for use. If this is not the case then simply create a new page using Home Template and name it as Home after that create another page using default template and name it as News.\n\n\nTo configure reading settings you need to visit \nDashboard \u2192 Settings \u2192 Reading\n and choose that front page displays as static page. Then select \nHome\n as \nFront Page\n and \nNews\n as \nPosts Page\n. As, displayed in screen shot below.", 
+            "title": "Configure Reading Settings"
+        }, 
+        {
+            "location": "/configure-reading-settings/#configure-reading-settings", 
+            "text": "In case you followed  Demo Contents Import , The reading settings should already be configured and you do not need to follow this section.  I am assuming that you have imported the XML successfully and you have home page and news page available for use. If this is not the case then simply create a new page using Home Template and name it as Home after that create another page using default template and name it as News.  To configure reading settings you need to visit  Dashboard \u2192 Settings \u2192 Reading  and choose that front page displays as static page. Then select  Home  as  Front Page  and  News  as  Posts Page . As, displayed in screen shot below.", 
+            "title": "Configure Reading Settings"
+        }, 
+        {
+            "location": "/sections-manager/", 
+            "text": "Sections Manager for Home Page\n\n\nIf you want to change the order of the sections of home page then you can use \nSections Manager\n.\n\n\nSections Manager\n gives you control over the sections order of home page, for example, you can display the blog posts section as first instead of featured properties section or you can put Features section at the top or in the middle.\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize \u2192 Home Page \u2192 Sections Manager\n. To change the order of the sections you can just drag and drop.\n\n\n\n\nNote\n: Sections Manager is not yet available for Modern Design layout of Real Homes Theme.", 
+            "title": "Sections Manager"
+        }, 
+        {
+            "location": "/sections-manager/#sections-manager-for-home-page", 
+            "text": "If you want to change the order of the sections of home page then you can use  Sections Manager .  Sections Manager  gives you control over the sections order of home page, for example, you can display the blog posts section as first instead of featured properties section or you can put Features section at the top or in the middle.  Navigate to  Dashboard \u2192 Appearance \u2192 Customize \u2192 Home Page \u2192 Sections Manager . To change the order of the sections you can just drag and drop.   Note : Sections Manager is not yet available for Modern Design layout of Real Homes Theme.", 
+            "title": "Sections Manager for Home Page"
+        }, 
+        {
+            "location": "/configure-header-settings/", 
+            "text": "Configure Header Settings\n\n\nHeader Panel\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look into \nSite Identity\n and Header section to explore further settings.\n\n\n\n\nSite Identity\n\n\nYou can upload your site's logo, title, description tag and site icon from this section.\n\n\n\n\nHeader Settings\n\n\nYou can customize almost all the components of the header from this very section in header panel.\n\n\n\n\nHeader Variation\n\n\nTo change header variation please navigate to \nDashboard \u2192 Appearance \u2192 Customize \u2192 Header \u2192 Others\n and select \nCenter\n for the option which says Choose \nHeader Variation\n. You can also \nEnable/Disable\n the \nSticky Header\n in this section.\n\n\n\n\nNote:\n \nSticky Header\n \n \nHeader Variation\n options are not yet integrated into \nModern Design\n layout of Real Homes Theme.", 
+            "title": "Configure Header Settings"
+        }, 
+        {
+            "location": "/configure-header-settings/#configure-header-settings", 
+            "text": "", 
+            "title": "Configure Header Settings"
+        }, 
+        {
+            "location": "/configure-header-settings/#header-panel", 
+            "text": "Navigate to  Dashboard \u2192 Appearance \u2192 Customize  and look into  Site Identity  and Header section to explore further settings.", 
+            "title": "Header Panel"
+        }, 
+        {
+            "location": "/configure-header-settings/#site-identity", 
+            "text": "You can upload your site's logo, title, description tag and site icon from this section.", 
+            "title": "Site Identity"
+        }, 
+        {
+            "location": "/configure-header-settings/#header-settings", 
+            "text": "You can customize almost all the components of the header from this very section in header panel.", 
+            "title": "Header Settings"
+        }, 
+        {
+            "location": "/configure-header-settings/#header-variation", 
+            "text": "To change header variation please navigate to  Dashboard \u2192 Appearance \u2192 Customize \u2192 Header \u2192 Others  and select  Center  for the option which says Choose  Header Variation . You can also  Enable/Disable  the  Sticky Header  in this section.   Note:   Sticky Header     Header Variation  options are not yet integrated into  Modern Design  layout of Real Homes Theme.", 
+            "title": "Header Variation"
+        }, 
+        {
+            "location": "/homepage-settings/", 
+            "text": "Home Page Settings\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look into \nHome Page\n panel to explore further sections.", 
+            "title": "Home Page Settings"
+        }, 
+        {
+            "location": "/homepage-settings/#home-page-settings", 
+            "text": "Navigate to  Dashboard \u2192 Appearance \u2192 Customize  and look into  Home Page  panel to explore further sections.", 
+            "title": "Home Page Settings"
+        }, 
+        {
+            "location": "/search-form-over-image/", 
+            "text": "Search Form Over Image on Homepage\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and Go to section \nHome Page \u2192 Slider Area\n and choose related option as displayed in screenshot below.\n\n\n\n\nFor \nProperties Search Form\n settings, Check out related section in this documentation.", 
+            "title": "Search Form Over Image"
+        }, 
+        {
+            "location": "/search-form-over-image/#search-form-over-image-on-homepage", 
+            "text": "Navigate to  Dashboard \u2192 Appearance \u2192 Customize  and Go to section  Home Page \u2192 Slider Area  and choose related option as displayed in screenshot below.   For  Properties Search Form  settings, Check out related section in this documentation.", 
+            "title": "Search Form Over Image on Homepage"
+        }, 
+        {
+            "location": "/homepage-google-maps/", 
+            "text": "Display Google Maps on Homepage\n\n\nAdding google map on homepage is super simple as properties already have their locations stored in database. So, Navigate to \nDashboard \u2192 Appearance \u2192 Customize\n and Go to section \nHome Page \u2192 Slider Area\n and choose related option as shown in below screenshot.\n\n\n\n\nNote\n: To enable \nGoogle Maps\n for your website, You need to configure \nGoogle Maps API key\n under \nDashboard \u2192 Appearance \u2192 Customize \u2192 Misc\n panel.", 
+            "title": "Google Maps on Home Page"
+        }, 
+        {
+            "location": "/homepage-google-maps/#display-google-maps-on-homepage", 
+            "text": "Adding google map on homepage is super simple as properties already have their locations stored in database. So, Navigate to  Dashboard \u2192 Appearance \u2192 Customize  and Go to section  Home Page \u2192 Slider Area  and choose related option as shown in below screenshot.   Note : To enable  Google Maps  for your website, You need to configure  Google Maps API key  under  Dashboard \u2192 Appearance \u2192 Customize \u2192 Misc  panel.", 
+            "title": "Display Google Maps on Homepage"
+        }, 
+        {
+            "location": "/homepage-image-banner/", 
+            "text": "Display Image Banner on Home Page\n\n\nTo display image banner on homepage, Navigate to \nDashboard \u2192 Appearance \u2192 Customize\n and Go to section \nHome Page \u2192 Slider Area\n and choose banner related option as displayed in screenshot below.\n\n\n\n\nAfter that you can provide banner image for overall site from \nHeader \u2192 Banner\n section in customizer.\n\n\n\n\nOR you can provide the banner image for home page only by editing it's page and using \nTop Banner Area Settings\n meta box, as displayed in screen shot below.", 
+            "title": "Image Banner on Home Page"
+        }, 
+        {
+            "location": "/homepage-image-banner/#display-image-banner-on-home-page", 
+            "text": "To display image banner on homepage, Navigate to  Dashboard \u2192 Appearance \u2192 Customize  and Go to section  Home Page \u2192 Slider Area  and choose banner related option as displayed in screenshot below.   After that you can provide banner image for overall site from  Header \u2192 Banner  section in customizer.   OR you can provide the banner image for home page only by editing it's page and using  Top Banner Area Settings  meta box, as displayed in screen shot below.", 
+            "title": "Display Image Banner on Home Page"
+        }, 
+        {
+            "location": "/homepage-slogan/", 
+            "text": "Slogan on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page\n section. It contains \nSlogan\n section where you can change slogan text and description text.\n\n\n\n\nSlogan Panel\n\n\n\n\nSlogan Settings", 
+            "title": "Slogan on Home Page"
+        }, 
+        {
+            "location": "/homepage-slogan/#slogan-on-home-page", 
+            "text": "Navigate to  Dashboard \u2192 Appearance \u2192 Customize  and look for  Home Page  section. It contains  Slogan  section where you can change slogan text and description text.", 
+            "title": "Slogan on Home Page"
+        }, 
+        {
+            "location": "/homepage-slogan/#slogan-panel", 
+            "text": "", 
+            "title": "Slogan Panel"
+        }, 
+        {
+            "location": "/homepage-slogan/#slogan-settings", 
+            "text": "", 
+            "title": "Slogan Settings"
+        }, 
+        {
+            "location": "/homepage-properties/", 
+            "text": "Properties on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page \u2192 Home Properties\n section for related settings.\n\n\n\n\n\n\n\n\nFilter Properties on Home Page\n\n\nTo display properties related to on or more particular locations, statuses or types you can use related settings displayed in screen shot below.\n\n\n\n\nProperties Sorting, Number of Properties to Display and AJAX Pagination", 
+            "title": "Properties on Home Page"
+        }, 
+        {
+            "location": "/homepage-properties/#properties-on-home-page", 
+            "text": "Navigate to  Dashboard \u2192 Appearance \u2192 Customize  and look for  Home Page \u2192 Home Properties  section for related settings.", 
+            "title": "Properties on Home Page"
+        }, 
+        {
+            "location": "/homepage-properties/#filter-properties-on-home-page", 
+            "text": "To display properties related to on or more particular locations, statuses or types you can use related settings displayed in screen shot below.", 
+            "title": "Filter Properties on Home Page"
+        }, 
+        {
+            "location": "/homepage-properties/#properties-sorting-number-of-properties-to-display-and-ajax-pagination", 
+            "text": "", 
+            "title": "Properties Sorting, Number of Properties to Display and AJAX Pagination"
+        }, 
+        {
+            "location": "/homepage-features/", 
+            "text": "Features Section on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page \u2192 Features Section\n for related settings.", 
+            "title": "Features on Home Page"
+        }, 
+        {
+            "location": "/homepage-features/#features-section-on-home-page", 
+            "text": "Navigate to  Dashboard \u2192 Appearance \u2192 Customize  and look for  Home Page \u2192 Features Section  for related settings.", 
+            "title": "Features Section on Home Page"
+        }, 
+        {
+            "location": "/homepage-featured-properties/", 
+            "text": "Featured Properties on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page \u2192 Featured Properties\n section for related settings.", 
+            "title": "Featured Properties on Home Page"
+        }, 
+        {
+            "location": "/homepage-featured-properties/#featured-properties-on-home-page", 
+            "text": "Navigate to  Dashboard \u2192 Appearance \u2192 Customize  and look for  Home Page \u2192 Featured Properties  section for related settings.", 
+            "title": "Featured Properties on Home Page"
+        }, 
+        {
+            "location": "/homepage-news/", 
+            "text": "News Posts on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page \u2192 News\n or Blog Posts section for related settings.", 
+            "title": "News on Home Page"
+        }, 
+        {
+            "location": "/homepage-news/#news-posts-on-home-page", 
+            "text": "Navigate to  Dashboard \u2192 Appearance \u2192 Customize  and look for  Home Page \u2192 News  or Blog Posts section for related settings.", 
+            "title": "News Posts on Home Page"
+        }, 
+        {
+            "location": "/footer-settings/", 
+            "text": "Footer Settings\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for Footer panel for related sections \n settings.\n\n\n\n\n\n\n\n\nHow to Add a Partner\n\n\nAfter enabling partners carousel you need to add partners from \nPartners \u2192 Add New\n as displayed in screen shot below.", 
+            "title": "Footer Settings"
+        }, 
+        {
+            "location": "/footer-settings/#footer-settings", 
+            "text": "Navigate to  Dashboard \u2192 Appearance \u2192 Customize  and look for Footer panel for related sections   settings.", 
+            "title": "Footer Settings"
+        }, 
+        {
+            "location": "/footer-settings/#how-to-add-a-partner", 
+            "text": "After enabling partners carousel you need to add partners from  Partners \u2192 Add New  as displayed in screen shot below.", 
+            "title": "How to Add a Partner"
+        }, 
+        {
+            "location": "/create-search-page/", 
+            "text": "Create Property Search Page\n\n\nCreate a new page \"\nProperty Search\n\" Using \nProperty Search Template\n ( In case of Imported XML this page is already created ). \nOther search templates with sidebar support are also available for use, for the same purpose.", 
+            "title": "Create Property Search Page"
+        }, 
+        {
+            "location": "/create-search-page/#create-property-search-page", 
+            "text": "Create a new page \" Property Search \" Using  Property Search Template  ( In case of Imported XML this page is already created ). \nOther search templates with sidebar support are also available for use, for the same purpose.", 
+            "title": "Create Property Search Page"
+        }, 
+        {
+            "location": "/configure-advance-search/", 
+            "text": "Configure Property Search Settings\n\n\nBefore starting with this section, Make sure you have pretty permalinks enabled from \nDashboard \u2192 Settings \u2192 Permalinks\n and Property Search Page is created.\n\n\nFollow the steps below to configure the search functionality.\n\n\nStep 1. Select Property Search Page\n\n\nPlease navigate to \nDashboard \u2192 Appearance \u2192 Customiz**e and then go into **Properties Search \u2192 Properties Search Page\n and select the Property Search Page. You can setup other options according to your requirements.\n\n\n\n\n\n\n\n\nAfter this you will have a property search form displayed on homepage. \n\n\nNow, you can also use the RealHomes - Advance Search Widget in sidebar as that widget uses the same configurations.\n\n\nStep 2. Show / Hide Fields and Search Form Labels\n\n\nNavigate to Search Form Basics section in Properties Search panel, In this section you can show / hide fields on properties search form and you can also modify their labels.\n\n\n\n\n\n\n\n\nStep 3. Configure Locations Field\n\n\nProperties Search panel contains a special section for Locations. Using which, Property location field in search form can be customized to fulfill your requirements. \n\n\nFirst thing is to decide is the number of location boxes you need on search form. Do not worry too much about it as you can always change these settings in future to match your changing need.\n\n\n\n\nSelect 1 if you want to display all locations into one select box.\n\n\nSelect 2 if you want to display locations like \nState \u2192 City OR City \u2192 Suburb\n. \n\n\nSelect 3 if you want to display locations like \nCountry \u2192 State \u2192 City OR State \u2192 City \u2192 Suburb\n \n\n\nSelect 4 if you want to display locations like \nCountry \u2192 State \u2192 City \u2192 Suburb\n \n\n\nAfter that you need to provide suitable labels for location boxes. You can provide these based on your own needs.\n\n\nIf you face any confusion, Simply make the changes in settings and preview them on homepage. Keep making the changes until you get what you want.\n\n\nYou can also Hide Empty Locations and Sort Locations Alphabetically. It means that if a location is not assigned to any property it won't be displayed in the location drop-down list.\n\n\nStep 4. Minimum and Maximum Values For Beds \n Baths\n\n\nProperties Search panel also contains a special section for Beds \n Baths. Using which, Beds and Baths fields can be customized to your requirements.\n\n\n\n\nIn this section: \n\n\n1) You can modify the Labels for the Beds \n Baths Field. \n\n\n2) You can also provide the values to be displayed in the drop-down lists for both fields. \n\n\n3) You can modify the search behaviour for beds and baths to Minimum, Maximum or Equals.\n\n\nStep 5. Minimum and Maximum Values For Garages\n\n\nProperties Search panel contains a special section for Garages. Using which, Garages fields can be customized to your requirements.\n\n\n\n\nIn this section: \n\n\n1) You can modify the Labels for the Garages Field. \n\n\n2) You can also provide the values to be displayed in the drop-down lists for this field. \n\n\n3) You can modify the search behaviour for garages to Minimum, Maximum or Equals.\n\n\nStep 6. Minimum and Maximum Prices\n\n\nProperties Search panel also contains a special section for Prices. Using which, Minimum and Maximum prices fields can be customized to your requirements.\n\n\n\n\n\n\nStep 7. Minimum and Maximum Area / Related Labels and Placeholder Texts\n\n\nProperties Search panel contains a section for Area. Using which, Minimum and Maximum area fields can be customized to your requirements.", 
+            "title": "Configure Advance Search"
+        }, 
+        {
+            "location": "/configure-advance-search/#configure-property-search-settings", 
+            "text": "Before starting with this section, Make sure you have pretty permalinks enabled from  Dashboard \u2192 Settings \u2192 Permalinks  and Property Search Page is created.  Follow the steps below to configure the search functionality.", 
+            "title": "Configure Property Search Settings"
+        }, 
+        {
+            "location": "/configure-advance-search/#step-1-select-property-search-page", 
+            "text": "Please navigate to  Dashboard \u2192 Appearance \u2192 Customiz**e and then go into **Properties Search \u2192 Properties Search Page  and select the Property Search Page. You can setup other options according to your requirements.     After this you will have a property search form displayed on homepage.   Now, you can also use the RealHomes - Advance Search Widget in sidebar as that widget uses the same configurations.", 
+            "title": "Step 1. Select Property Search Page"
+        }, 
+        {
+            "location": "/configure-advance-search/#step-2-show-hide-fields-and-search-form-labels", 
+            "text": "Navigate to Search Form Basics section in Properties Search panel, In this section you can show / hide fields on properties search form and you can also modify their labels.", 
+            "title": "Step 2. Show / Hide Fields and Search Form Labels"
+        }, 
+        {
+            "location": "/configure-advance-search/#step-3-configure-locations-field", 
+            "text": "Properties Search panel contains a special section for Locations. Using which, Property location field in search form can be customized to fulfill your requirements.   First thing is to decide is the number of location boxes you need on search form. Do not worry too much about it as you can always change these settings in future to match your changing need.   Select 1 if you want to display all locations into one select box.  Select 2 if you want to display locations like  State \u2192 City OR City \u2192 Suburb .   Select 3 if you want to display locations like  Country \u2192 State \u2192 City OR State \u2192 City \u2192 Suburb    Select 4 if you want to display locations like  Country \u2192 State \u2192 City \u2192 Suburb    After that you need to provide suitable labels for location boxes. You can provide these based on your own needs.  If you face any confusion, Simply make the changes in settings and preview them on homepage. Keep making the changes until you get what you want.  You can also Hide Empty Locations and Sort Locations Alphabetically. It means that if a location is not assigned to any property it won't be displayed in the location drop-down list.", 
+            "title": "Step 3. Configure Locations Field"
+        }, 
+        {
+            "location": "/configure-advance-search/#step-4-minimum-and-maximum-values-for-beds-baths", 
+            "text": "Properties Search panel also contains a special section for Beds   Baths. Using which, Beds and Baths fields can be customized to your requirements.   In this section:   1) You can modify the Labels for the Beds   Baths Field.   2) You can also provide the values to be displayed in the drop-down lists for both fields.   3) You can modify the search behaviour for beds and baths to Minimum, Maximum or Equals.", 
+            "title": "Step 4. Minimum and Maximum Values For Beds &amp; Baths"
+        }, 
+        {
+            "location": "/configure-advance-search/#step-5-minimum-and-maximum-values-for-garages", 
+            "text": "Properties Search panel contains a special section for Garages. Using which, Garages fields can be customized to your requirements.   In this section:   1) You can modify the Labels for the Garages Field.   2) You can also provide the values to be displayed in the drop-down lists for this field.   3) You can modify the search behaviour for garages to Minimum, Maximum or Equals.", 
+            "title": "Step 5. Minimum and Maximum Values For Garages"
+        }, 
+        {
+            "location": "/configure-advance-search/#step-6-minimum-and-maximum-prices", 
+            "text": "Properties Search panel also contains a special section for Prices. Using which, Minimum and Maximum prices fields can be customized to your requirements.", 
+            "title": "Step 6. Minimum and Maximum Prices"
+        }, 
+        {
+            "location": "/configure-advance-search/#step-7-minimum-and-maximum-area-related-labels-and-placeholder-texts", 
+            "text": "Properties Search panel contains a section for Area. Using which, Minimum and Maximum area fields can be customized to your requirements.", 
+            "title": "Step 7. Minimum and Maximum Area / Related Labels and Placeholder Texts"
+        }, 
+        {
+            "location": "/property-detail-page-settings/", 
+            "text": "Property Detail Page Settings\n\n\nThere are 10 types of different settings you can change for **Property Detail Pag**e (Single Property Page).\n\n\n\n\nBreadcrumbs\n\n\nBasics\n\n\nCommon Note\n\n\nVideo\n\n\nVirtual Tour\n\n\nMap\n\n\nAttachments\n\n\nAgent\n\n\nViews\n\n\nSimilar Properties\n\n\n\n\nTo change any of the above settings you can go to \u201c\nDashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page\n\u201d.", 
+            "title": "Property Detail Page Settings"
+        }, 
+        {
+            "location": "/property-detail-page-settings/#property-detail-page-settings", 
+            "text": "There are 10 types of different settings you can change for **Property Detail Pag**e (Single Property Page).   Breadcrumbs  Basics  Common Note  Video  Virtual Tour  Map  Attachments  Agent  Views  Similar Properties   To change any of the above settings you can go to \u201c Dashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u201d.", 
+            "title": "Property Detail Page Settings"
+        }, 
+        {
+            "location": "/property-basics/", 
+            "text": "Basic Settings of Property Detail Page\n\n\nThere are multiple options for property detail page in this section. To modify them go to \nDashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Basics\n.", 
+            "title": "Basics"
+        }, 
+        {
+            "location": "/property-basics/#basic-settings-of-property-detail-page", 
+            "text": "There are multiple options for property detail page in this section. To modify them go to  Dashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Basics .", 
+            "title": "Basic Settings of Property Detail Page"
+        }, 
+        {
+            "location": "/property-breadcrumbs/", 
+            "text": "Breadcrumbs on Property Detail Page\n\n\nBreadcrumb settings can be controlled via \nDashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Breadcrumbs\n. You can see the Breadcrumbs Settings on the left and Breadcrumbs on Property Detail Page on the right side below.", 
+            "title": "Breadcrumbs"
+        }, 
+        {
+            "location": "/property-breadcrumbs/#breadcrumbs-on-property-detail-page", 
+            "text": "Breadcrumb settings can be controlled via  Dashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Breadcrumbs . You can see the Breadcrumbs Settings on the left and Breadcrumbs on Property Detail Page on the right side below.", 
+            "title": "Breadcrumbs on Property Detail Page"
+        }, 
+        {
+            "location": "/property-common-note/", 
+            "text": "Common Note on Property Detail Page\n\n\nA common note can also be added on property details page via \nDashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Common Note\n. Please note that this note will be displayed on each property page so you can't set a different common note for each property.", 
+            "title": "Common Note"
+        }, 
+        {
+            "location": "/property-common-note/#common-note-on-property-detail-page", 
+            "text": "A common note can also be added on property details page via  Dashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Common Note . Please note that this note will be displayed on each property page so you can't set a different common note for each property.", 
+            "title": "Common Note on Property Detail Page"
+        }, 
+        {
+            "location": "/property-video/", 
+            "text": "Property Video on Property Detail Page\n\n\nProperty Video Settings are located in \nDashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Video\n. You can either choose to display the video or hide it.", 
+            "title": "Video"
+        }, 
+        {
+            "location": "/property-video/#property-video-on-property-detail-page", 
+            "text": "Property Video Settings are located in  Dashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Video . You can either choose to display the video or hide it.", 
+            "title": "Property Video on Property Detail Page"
+        }, 
+        {
+            "location": "/property-virtual-tour/", 
+            "text": "Property Virtual Tour on Property Detail Page\n\n\nProperty Virtual Tour Settings are located in \nDashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Virtual Tour\n. You can either choose to display the virtual tour or hide it.", 
+            "title": "Virtual Tour"
+        }, 
+        {
+            "location": "/property-virtual-tour/#property-virtual-tour-on-property-detail-page", 
+            "text": "Property Virtual Tour Settings are located in  Dashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Virtual Tour . You can either choose to display the virtual tour or hide it.", 
+            "title": "Property Virtual Tour on Property Detail Page"
+        }, 
+        {
+            "location": "/property-map/", 
+            "text": "Property Map on Property Detail Page\n\n\nProperty Map Settings can be found in \nDashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Property Map\n. You can either choose to display the google map or hide it.\n\n\n\n\n\n\nPlease note that you have to Configure Google Maps Api Key Settings to display the maps properly throughout your website.", 
+            "title": "Map"
+        }, 
+        {
+            "location": "/property-map/#property-map-on-property-detail-page", 
+            "text": "Property Map Settings can be found in  Dashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Property Map . You can either choose to display the google map or hide it.    Please note that you have to Configure Google Maps Api Key Settings to display the maps properly throughout your website.", 
+            "title": "Property Map on Property Detail Page"
+        }, 
+        {
+            "location": "/property-attachments/", 
+            "text": "Property Attachments on Property Detail Page\n\n\nProperty Attachments Settings\n can be found in \nDashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Attachments\n. You can either choose to display the property attachment or hide them and the attachments can be in .jpg/.png/.pdf formats.", 
+            "title": "Attachments"
+        }, 
+        {
+            "location": "/property-attachments/#property-attachments-on-property-detail-page", 
+            "text": "Property Attachments Settings  can be found in  Dashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Attachments . You can either choose to display the property attachment or hide them and the attachments can be in .jpg/.png/.pdf formats.", 
+            "title": "Property Attachments on Property Detail Page"
+        }, 
+        {
+            "location": "/property-agent/", 
+            "text": "Property Agent on Property Detail Page\n\n\nProperty Agent Settings\n can be changed via \nDashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Agent\n. You can either choose to display the agent on property detail page or hide this section. A copy of the message sent to agent can also be received by adding your email in \"\nEmail Address to Get Copy\n\" and make sure to select \"\nYes\n\" for the option which says \"\nGet Copy of Message Sent to Agent\n\".", 
+            "title": "Agent"
+        }, 
+        {
+            "location": "/property-agent/#property-agent-on-property-detail-page", 
+            "text": "Property Agent Settings  can be changed via  Dashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Agent . You can either choose to display the agent on property detail page or hide this section. A copy of the message sent to agent can also be received by adding your email in \" Email Address to Get Copy \" and make sure to select \" Yes \" for the option which says \" Get Copy of Message Sent to Agent \".", 
+            "title": "Property Agent on Property Detail Page"
+        }, 
+        {
+            "location": "/property-views/", 
+            "text": "Property Views on Property Detail Page\n\n\nProperty Views Settings can be changed via \nDashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Views\n.\n\n\n\n\nYou can choose to display the views on property detail page or hide this section.\n\n\nYou can choose the view type, i.e. either Bar or Line\n\n\n\n\n\n\nView Type: Bar\n\n\n\n\nView Type: Line", 
+            "title": "Views"
+        }, 
+        {
+            "location": "/property-views/#property-views-on-property-detail-page", 
+            "text": "Property Views Settings can be changed via  Dashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Views .   You can choose to display the views on property detail page or hide this section.  You can choose the view type, i.e. either Bar or Line    View Type: Bar   View Type: Line", 
+            "title": "Property Views on Property Detail Page"
+        }, 
+        {
+            "location": "/similar-properties/", 
+            "text": "Similar Properties on Property Detail Page\n\n\nSimilar Properties Settings\n are located in \nDashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Similar Properties\n.\n\n\n\n\nJust like all other settings for property detail page's elements you can choose to display the similar properties section on property detail page or hide it.\n\n\nYou can also select how similar properties will be selected based on their features, types, locations and status.\n\n\nYou can also sort the similar properties according to your own choice.", 
+            "title": "Similar Properties"
+        }, 
+        {
+            "location": "/similar-properties/#similar-properties-on-property-detail-page", 
+            "text": "Similar Properties Settings  are located in  Dashboard \u2192 Appearance \u2192 Customize \u2192 Property Detail Page \u2192 Similar Properties .   Just like all other settings for property detail page's elements you can choose to display the similar properties section on property detail page or hide it.  You can also select how similar properties will be selected based on their features, types, locations and status.  You can also sort the similar properties according to your own choice.", 
+            "title": "Similar Properties on Property Detail Page"
+        }, 
+        {
+            "location": "/create-news-page/", 
+            "text": "Create News Page\n\n\nIn case of Demo Contents Import the news page is already created and you do not need to follow this section.\n\n\nTo set up the News page you need to create a new page, Go to \nDashboard \u2192 Pages \u2192 Add New\n. You can give this page a title \"\nNews\n\" yet you do not need to include any contents for now. Select the \u201c\nDefault Template\n\u201d template from the \nPage Attributes\n section, as displayed in screen shot below and click \u201c\nPublish\n\u201d.", 
+            "title": "Create News Page"
+        }, 
+        {
+            "location": "/create-news-page/#create-news-page", 
+            "text": "In case of Demo Contents Import the news page is already created and you do not need to follow this section.  To set up the News page you need to create a new page, Go to  Dashboard \u2192 Pages \u2192 Add New . You can give this page a title \" News \" yet you do not need to include any contents for now. Select the \u201c Default Template \u201d template from the  Page Attributes  section, as displayed in screen shot below and click \u201c Publish \u201d.", 
+            "title": "Create News Page"
+        }, 
+        {
+            "location": "/configure-reading-settings/", 
+            "text": "Configure Reading Settings\n\n\nIn case you followed \nDemo Contents Import\n, The reading settings should already be configured and you do not need to follow this section.\n\n\nI am assuming that you have imported the XML successfully and you have home page and news page available for use. If this is not the case then simply create a new page using Home Template and name it as Home after that create another page using default template and name it as News.\n\n\nTo configure reading settings you need to visit \nDashboard \u2192 Settings \u2192 Reading\n and choose that front page displays as static page. Then select \nHome\n as \nFront Page\n and \nNews\n as \nPosts Page\n. As, displayed in screen shot below.", 
+            "title": "Configure Reading Settings"
+        }, 
+        {
+            "location": "/configure-reading-settings/#configure-reading-settings", 
+            "text": "In case you followed  Demo Contents Import , The reading settings should already be configured and you do not need to follow this section.  I am assuming that you have imported the XML successfully and you have home page and news page available for use. If this is not the case then simply create a new page using Home Template and name it as Home after that create another page using default template and name it as News.  To configure reading settings you need to visit  Dashboard \u2192 Settings \u2192 Reading  and choose that front page displays as static page. Then select  Home  as  Front Page  and  News  as  Posts Page . As, displayed in screen shot below.", 
+            "title": "Configure Reading Settings"
         }
     ]
 }
