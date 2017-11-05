@@ -48,6 +48,18 @@ pages:
   - Advance Search:
     - Create Property Search Page: create-search-page.md
     - Configure Advance Search: configure-advance-search.md
+  - Property Page:
+    - Property Detail Page Settings: property-detail-page-settings.md
+    - Basics: property-basics.md
+    - Breadcrumbs: property-breadcrumbs.md
+    - Common Note: property-common-note.md
+    - Video: property-video.md
+    - Virtual Tour: property-virtual-tour.md
+    - Map: property-map.md
+    - Attachments: property-attachments.md
+    - Agent: property-agent.md
+    - Views: property-views.md
+    - Similar Properties: similar-properties.md
 
 use_directory_urls: true
 
