@@ -45,6 +45,9 @@ pages:
     - Featured Properties on Home Page: homepage-featured-properties.md
     - News on Home Page: homepage-news.md
     - Footer Settings: footer-settings.md
+  - Advance Search:
+    - Create Property Search Page: create-search-page.md
+    - Configure Advance Search: configure-advance-search.md
 
 use_directory_urls: true
 
