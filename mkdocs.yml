@@ -60,6 +60,9 @@ pages:
     - Agent: property-agent.md
     - Views: property-views.md
     - Similar Properties: similar-properties.md
+  - News Page:
+    - Create News Page: create-news-page.md
+    - Configure Reading Settings: configure-reading-settings.md
 
 use_directory_urls: true
 
