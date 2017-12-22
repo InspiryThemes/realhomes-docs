@@ -63,6 +63,74 @@ pages:
   - News Page:
     - Create News Page: create-news-page.md
     - Configure Reading Settings: configure-reading-settings.md
+  - Add Content:
+      - Add News Post: add-news-post.md
+      - Add Agent: add-agent.md
+      - Add Property: add-property.md
+  - Create Pages:
+        - Add Properties Listing Page: add-properties-listing-page.md
+        - Add Gallery Page: add-gallery-page.md
+        - Add Agents Page: add-agents-page.md
+        - Add Users Page: add-users-page.md
+        - Add Full Width Page: add-full-width-page.md
+  - Setting Up Contact Us Page:
+        - Add Contact Us Page: add-contact-us-page.md
+        - Contact Page Settings: contact-us-page-settings.md
+  - Setting Up Member Pages:
+        - Setting Up Login / Register: setting-up-login-register.md
+        - Set Up Social Login: set-up-social-login.md
+        - Set Up Submit Property Page: set-up-submit-property-page.md
+        - Set Up My Properties Page: set-up-my-properties-page.md
+        - Set Up Edit Profile Page: set-up-edit-profile-page.md
+        - Set Up Favorites Page: set-up-favorites.md
+  - Setting Up Membership:
+        - Installation: ims-installation.md
+        - Basic Settings: ims-basic-settings.md
+        - Stripe Settings: ims-stripe-settings.md
+        - PayPal Settings: ims-paypal-settings.md
+        - Wire Settings: ims-wire-settings.md
+        - Creating Membership Packages: creating-membership-packages.md
+  - Widgets:
+        - Mortgage Calculator: mortgage-calculator.md
+        - Twitter Widget: twitter-widget.md
+        - Featured Properties: featured-properties.md
+        - Property Types: property-types.md
+        - Advance Search Widget: advance-search-widget.md
+  - Other Features:
+        - Price Format Settings: price-format-settings.md
+        - URL Slug Settings: url-slugs-settings.md
+        - Properties Shortcode: properties-shortcode.md
+        - Other Shortcode: other-shortcode.md
+        - Compare Properties: compare-properties.md
+        - FAQs: faqs-setup.md
+        - Testimonials: testimonials-setup.md
+        - Currency Switcher: currency-switcher.md
+        - PayPal IPN Installation & Setup: paypal-ipn.md
+        - PayPal Property Payment Settings: paypal-property-payment-settings.md
+        - Inspiry Stripe Payments: inspiry-stripe-payments.md
+        - dsIDXpress IDX Plugin: dsidxpress-idx-plugin.md
+        - dsIDXpress Search Widget on Homepage: home-idx-search-widget.md
+        - iHomefinder Optima Express Plugin: optima-express.md
+        - Translation: translation.md
+  - Included Plugins:
+        - Visual Composer: visual-composer.md
+        - Slider Revolution: slider-revolution.md
+  - Google Maps:
+        - Google Maps API Key: google-maps-api-key.md
+        - Custom Markers for Property Type: property-type-custom-markers.md
+  - Google reCAPTCHA:
+        - Get Google reCAPTCHA API Key: google-recaptcha-api-key.md
+  - WPML:
+        - WPML Basic Setup: wpml-basic-setup.md
+        - Home & News Page: wpml-home-news-page.md
+        - WPML Menu Sync: wpml-menu-sync.md
+        - String Translation: wpml-string-translation.md
+        - Translate Property: wpml-translate-property.md
+        - Property Search Page: wpml-property-search-page.md
+  - Customize Theme:
+        - Customize Styles: customize-styles.md
+        - Custom Meta Fields for Property: custom-meta-field-for-property.md
+        - Hire Customization Services: hire-customization-services.md
 
 use_directory_urls: true
 
