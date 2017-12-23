@@ -13,6 +13,7 @@ theme:
     accent: 'blue'
   favicon: 'images/base/realhomes-favicon.png'
   logo: 'images/base/realhomes-logo.png'
+
 extra_css:
     - css/layout.css
 
@@ -133,7 +134,7 @@ pages:
         - Custom Meta Fields for Property: custom-meta-field-for-property.md
         - Hire Customization Services: hire-customization-services.md
 
-use_directory_urls: true
+use_directory_urls: false
 
 markdown_extensions:
   - admonition
