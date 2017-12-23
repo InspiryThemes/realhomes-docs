@@ -5,17 +5,18 @@
 ####################################################
 
 site_name: Real Homes Documentation
-theme: material
-theme_dir: 'rhdocs'
+theme:
+  language: 'en'
+  name: 'material'
+  palette:
+    primary: 'blue'
+    accent: 'blue'
+  favicon: 'images/base/realhomes-favicon.png'
+  logo: 'images/base/realhomes-logo.png'
 extra_css:
     - css/layout.css
 
 extra:
-  language: 'en'
-  logo: 'images/base/realhomes-logo.png'
-  palette:
-    primary: 'blue'
-    accent: 'blue'
   social:
     - type: 'github'
       link: 'https://github.com/inspirythemes'
