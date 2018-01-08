@@ -26,6 +26,6 @@ Enable compare properties and select compare properties page from list of availa
 
 **Save** the changes and your **Compare Properties Feature** is ready to use. 
 
-![Real Homes Documentation](images/other-features/compare-properties-frontend.png)
+![Real Homes Documentation](images/other-features/compare-properties-frontend-modern.png)
 
 Feel free to get in touch with us using our support website in case of any confusion.
