@@ -14,4 +14,4 @@ We will use [Mortgage Calculator](https://wordpress.org/plugins/mortgage-calcula
 
 - Now check out the front end of property detail page and you will have a mortgage widget working for you. 
 
-![Real Homes Documentation](images/widgets/mortgage-calculator-frontend.png)
+![Real Homes Documentation](images/widgets/mortgage-calculator-frontend-modern.png)

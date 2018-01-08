@@ -10,4 +10,4 @@
 
 - Now check out the front end of your site and you will have the **Property Types** widget working. 
 
-![Real Homes Documentation](images/widgets/property-types-frontend.png)
+![Real Homes Documentation](images/widgets/property-types-frontend-modern.png)

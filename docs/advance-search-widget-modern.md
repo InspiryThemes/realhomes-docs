@@ -10,4 +10,4 @@
 
 - Now check out the front end of your site and you will have the **Advance Search** widget working for your site. 
 
-![Real Homes Documentation](images/widgets/advance-search-widget-frontend.png)
+![Real Homes Documentation](images/widgets/advance-search-widget-frontend-modern.png)
