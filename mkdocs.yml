@@ -28,10 +28,9 @@ extra:
 
 pages:
   - Introduction: index.md
-  - Basic Setup:
-    - Installation: install.md
-    - Import Demo Contents: import-demo.md
-    - Selection Of Design: design-selection.md
+  - Installation: install.md
+  - Import Demo Content: import-demo.md
+  - Design Selection: design-selection.md
   - Classic:
     - Homepage Setup:
       - Create Home Page: create-homepage.md
@@ -136,8 +135,9 @@ pages:
           - Hire Customization Services: hire-customization-services.md
   - Modern:
     - Homepage Setup:
-      - Create Home Page: create-homepage.md
-      - Configure Reading Settings: configure-reading-settings.md
+      - Create Home Page: create-homepage-modern.md
+      - Configure Reading Settings: configure-reading-settings-modern.md
+      - Sections Manager: sections-manager-modern.md
       - Configure Header Settings: configure-header-settings-modern.md
       - Home Page Settings: homepage-settings-modern.md
       - Google Maps on Home Page: homepage-google-maps-modern.md
@@ -146,93 +146,93 @@ pages:
       - Testimonials on Home Page: homepage-testimonials-modern.md
       - Agents on Home Page: agents-homepage-modern.md
       - Features on Home Page: homepage-features-modern.md
-      - Footer Settings: footer-settings.md
+      - Footer Settings: footer-settings-modern.md
     - Advance Search:
-      - Create Property Search Page: create-search-page.md
-      - Configure Advance Search: configure-advance-search.md
+      - Create Property Search Page: create-search-page-modern.md
+      - Configure Advance Search: configure-advance-search-modern.md
     - Property Page:
-      - Property Detail Page Settings: property-detail-page-settings.md
-      - Basics: property-basics.md
-      - Breadcrumbs: property-breadcrumbs.md
-      - Common Note: property-common-note.md
-      - Video: property-video.md
-      - Virtual Tour: property-virtual-tour.md
-      - Map: property-map.md
-      - Attachments: property-attachments.md
-      - Agent: property-agent.md
-      - Views: property-views.md
-      - Similar Properties: similar-properties.md
+      - Property Detail Page Settings: property-detail-page-settings-modern.md
+      - Basics: property-basics-modern.md
+      - Breadcrumbs: property-breadcrumbs-modern.md
+      - Common Note: property-common-note-modern.md
+      - Video: property-video-modern.md
+      - Virtual Tour: property-virtual-tour-modern.md
+      - Map: property-map-modern.md
+      - Attachments: property-attachments-modern.md
+      - Agent: property-agent-modern.md
+      - Views: property-views-modern.md
+      - Similar Properties: similar-properties-modern.md
     - News Page:
-      - Create News Page: create-news-page.md
-      - Configure Reading Settings: configure-reading-settings.md
+      - Create News Page: create-news-page-modern.md
+      - Configure Reading Settings: configure-reading-settings-modern.md
     - Add Content:
-        - Add News Post: add-news-post.md
-        - Add Agent: add-agent.md
-        - Add Property: add-property.md
+        - Add News Post: add-news-post-modern.md
+        - Add Agent: add-agent-modern.md
+        - Add Property: add-property-modern.md
     - Create Pages:
-          - Add Properties Listing Page: add-properties-listing-page.md
-          - Add Gallery Page: add-gallery-page.md
-          - Add Agents Page: add-agents-page.md
-          - Add Users Page: add-users-page.md
-          - Add Full Width Page: add-full-width-page.md
+          - Add Properties Listing Page: add-properties-listing-page-modern.md
+          - Add Gallery Page: add-gallery-page-modern.md
+          - Add Agents Page: add-agents-page-modern.md
+          - Add Users Page: add-users-page-modern.md
+          - Add Full Width Page: add-full-width-page-modern.md
     - Setting Up Contact Us Page:
-          - Add Contact Us Page: add-contact-us-page.md
-          - Contact Page Settings: contact-us-page-settings.md
+          - Add Contact Us Page: add-contact-us-page-modern.md
+          - Contact Page Settings: contact-us-page-settings-modern.md
     - Setting Up Member Pages:
-          - Setting Up Login / Register: setting-up-login-register.md
-          - Set Up Social Login: set-up-social-login.md
-          - Set Up Submit Property Page: set-up-submit-property-page.md
-          - Set Up My Properties Page: set-up-my-properties-page.md
-          - Set Up Edit Profile Page: set-up-edit-profile-page.md
-          - Set Up Favorites Page: set-up-favorites.md
+          - Setting Up Login / Register: setting-up-login-register-modern.md
+          - Set Up Social Login: set-up-social-login-modern.md
+          - Set Up Submit Property Page: set-up-submit-property-page-modern.md
+          - Set Up My Properties Page: set-up-my-properties-page-modern.md
+          - Set Up Edit Profile Page: set-up-edit-profile-page-modern.md
+          - Set Up Favorites Page: set-up-favorites-modern.md
     - Setting Up Membership:
-          - Installation: ims-installation.md
-          - Basic Settings: ims-basic-settings.md
-          - Stripe Settings: ims-stripe-settings.md
-          - PayPal Settings: ims-paypal-settings.md
-          - Wire Settings: ims-wire-settings.md
-          - Creating Membership Packages: creating-membership-packages.md
+          - Installation: ims-installation-modern.md
+          - Basic Settings: ims-basic-settings-modern.md
+          - Stripe Settings: ims-stripe-settings-modern.md
+          - PayPal Settings: ims-paypal-settings-modern.md
+          - Wire Settings: ims-wire-settings-modern.md
+          - Creating Membership Packages: creating-membership-packages-modern.md
     - Widgets:
-          - Mortgage Calculator: mortgage-calculator.md
-          - Twitter Widget: twitter-widget.md
-          - Featured Properties: featured-properties.md
-          - Property Types: property-types.md
-          - Advance Search Widget: advance-search-widget.md
+          - Mortgage Calculator: mortgage-calculator-modern.md
+          - Twitter Widget: twitter-widget-modern.md
+          - Featured Properties: featured-properties-modern.md
+          - Property Types: property-types-modern.md
+          - Advance Search Widget: advance-search-widget-modern.md
     - Other Features:
-          - Price Format Settings: price-format-settings.md
-          - URL Slug Settings: url-slugs-settings.md
-          - Properties Shortcode: properties-shortcode.md
-          - Other Shortcode: other-shortcode.md
-          - Compare Properties: compare-properties.md
-          - FAQs: faqs-setup.md
-          - Testimonials: testimonials-setup.md
-          - Currency Switcher: currency-switcher.md
-          - PayPal IPN Installation & Setup: paypal-ipn.md
-          - PayPal Property Payment Settings: paypal-property-payment-settings.md
-          - Inspiry Stripe Payments: inspiry-stripe-payments.md
-          - dsIDXpress IDX Plugin: dsidxpress-idx-plugin.md
-          - dsIDXpress Search Widget on Homepage: home-idx-search-widget.md
-          - iHomefinder Optima Express Plugin: optima-express.md
-          - Translation: translation.md
+          - Price Format Settings: price-format-settings-modern.md
+          - URL Slug Settings: url-slugs-settings-modern.md
+          - Properties Shortcode: properties-shortcode-modern.md
+          - Other Shortcode: other-shortcode-modern.md
+          - Compare Properties: compare-properties-modern.md
+          - FAQs: faqs-setup-modern.md
+          - Testimonials: testimonials-setup-modern.md
+          - Currency Switcher: currency-switcher-modern.md
+          - PayPal IPN Installation & Setup: paypal-ipn-modern.md
+          - PayPal Property Payment Settings: paypal-property-payment-settings-modern.md
+          - Inspiry Stripe Payments: inspiry-stripe-payments-modern.md
+          - dsIDXpress IDX Plugin: dsidxpress-idx-plugin-modern.md
+          - dsIDXpress Search Widget on Homepage: home-idx-search-widget-modern.md
+          - iHomefinder Optima Express Plugin: optima-express-modern.md
+          - Translation: translation-modern.md
     - Included Plugins:
-          - Visual Composer: visual-composer.md
-          - Slider Revolution: slider-revolution.md
+          - Visual Composer: visual-composer-modern.md
+          - Slider Revolution: slider-revolution-modern.md
     - Google Maps:
-          - Google Maps API Key: google-maps-api-key.md
-          - Custom Markers for Property Type: property-type-custom-markers.md
+          - Google Maps API Key: google-maps-api-key-modern.md
+          - Custom Markers for Property Type: property-type-custom-markers-modern.md
     - Google reCAPTCHA:
-          - Get Google reCAPTCHA API Key: google-recaptcha-api-key.md
+          - Get Google reCAPTCHA API Key: google-recaptcha-api-key-modern.md
     - WPML:
-          - WPML Basic Setup: wpml-basic-setup.md
-          - Home & News Page: wpml-home-news-page.md
-          - WPML Menu Sync: wpml-menu-sync.md
-          - String Translation: wpml-string-translation.md
-          - Translate Property: wpml-translate-property.md
-          - Property Search Page: wpml-property-search-page.md
+          - WPML Basic Setup: wpml-basic-setup-modern.md
+          - Home & News Page: wpml-home-news-page-modern.md
+          - WPML Menu Sync: wpml-menu-sync-modern.md
+          - String Translation: wpml-string-translation-modern.md
+          - Translate Property: wpml-translate-property-modern.md
+          - Property Search Page: wpml-property-search-page-modern.md
     - Customize Theme:
-          - Customize Styles: customize-styles.md
-          - Custom Meta Fields for Property: custom-meta-field-for-property.md
-          - Hire Customization Services: hire-customization-services.md
+          - Customize Styles: customize-styles-modern.md
+          - Custom Meta Fields for Property: custom-meta-field-for-property-modern.md
+          - Hire Customization Services: hire-customization-services-modern.md
 
 use_directory_urls: true
 
