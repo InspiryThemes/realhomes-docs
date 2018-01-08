@@ -28,9 +28,9 @@ extra:
 
 pages:
   - Introduction: index.md
-  - Installation: installation.md
-  - Import Demo Content: import-demo.md
-  - Design Selection: design-selection.md
+  - Installation & Activation: installation-and-activation.md
+  - Import Demo Contents: import-demo.md
+  - Selection Of Design: design-selection.md
   - Classic:
     - Homepage Setup:
       - Create Home Page: create-homepage.md
@@ -233,7 +233,7 @@ pages:
           - Custom Meta Fields for Property: custom-meta-field-for-property-modern.md
           - Hire Customization Services: hire-customization-services-modern.md
 
-use_directory_urls: true
+use_directory_urls: false
 
 markdown_extensions:
   - admonition
