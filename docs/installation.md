@@ -2,7 +2,7 @@
 
 To start you must have a working version of WordPress. Almost all major web hosts provides one click WordPress install and you can consult your host's help site for more information in this regard. For manual install you can consult WordPress Codex Installing WordPress especially the Requirements.
 
-Once you have a working version of WordPress, You need to download "All Files and Documentation" from themeforest download page and extract the downloaded zip to get required files including realhomes.zip.
+Once you have a working version of WordPress, You need to download "**All Files and Documentation**" from themeforest download page and extract the downloaded zip to get required files including realhomes.zip.
 
 ## Install Theme Via WordPress Dashboard ( _Recommended_ )
 
@@ -19,7 +19,7 @@ Once you have a working version of WordPress, You need to download "All Files an
 ![Screenshot](images/installation/begin-plugin-installation.png)
 - On next page you will see the list of plugins to install. Select all the plugins and click on **Install** and then click on **Apply** to install all of them at once (as shown in the screenshot below). 
 ![Screenshot](images/installation/install-plugins.png)
-- After all the plugins are installed click on Return to Required Plugins Installer. 
+- After all the plugins are installed click on **Return** to **Required Plugins Installer**. 
 ![Screenshot](images/installation/return-to-install.png)
 - Once again select all the plugins and click on **Activate** and then click on **Apply** to activate all the plugins and you are done. 
 ![Screenshot](images/installation/activate-plugins.png)
@@ -41,4 +41,4 @@ if you face any problem during upload through dashboard, please upload the theme
 It is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from themeforest.
 
 
-To install child theme, You need to upload the **realhomes-child.zip** and activate it in the same way as you have uploaded and activated parent theme's realhomes.zip.
+To install child theme, You need to upload the **realhomes-child.zip** and activate it in the same way as you have uploaded and activated parent theme's **realhomes.zip**.

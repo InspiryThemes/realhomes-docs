@@ -28,7 +28,7 @@ extra:
 
 pages:
   - Introduction: index.md
-  - Installation: install.md
+  - Installation: installation.md
   - Import Demo Content: import-demo.md
   - Design Selection: design-selection.md
   - Classic:
