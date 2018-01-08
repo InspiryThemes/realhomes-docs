@@ -4,4 +4,4 @@ Property Video Settings are located in **Dashboard → Appearance → Customize 
 
 ![Property Video Settings](images/single-property-page/property-video.png)
 
-![Video on Property Page](images/single-property-page/video-on-property-page.png)
+![Video on Property Page](images/single-property-page/property-video-modern.png)

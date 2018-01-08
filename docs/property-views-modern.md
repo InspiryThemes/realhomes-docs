@@ -7,10 +7,3 @@ Property Views Settings can be changed via **Dashboard → Appearance → Custom
 
 ![Property Views Settings ](images/single-property-page/property-views.png)
 
-**View Type: Bar**
-
-![View Type: Bar](images/single-property-page/property-views-bar.png)
-
-**View Type: Line**
-
-![View Type: Line](images/single-property-page/property-views-line.png)

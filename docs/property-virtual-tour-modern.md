@@ -4,4 +4,4 @@ Property Virtual Tour Settings are located in **Dashboard → Appearance → Cus
 
 ![Property Virtual Tour Settings](images/single-property-page/property-virtual-tour.png)
 
-![Virtual Tour on Property Page](images/single-property-page/property-virtual-tour-frontend.png)
+![Virtual Tour on Property Page](images/single-property-page/property-virtual-tour-frontend-modern.png)

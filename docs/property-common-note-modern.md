@@ -4,4 +4,4 @@ A common note can also be added on property details page via **Dashboard → App
 
 ![Common Note Settings](images/single-property-page/common-note.png)
 
-![Common Note on Property Page](images/single-property-page/property-common-note.png)
+![Common Note on Property Page](images/single-property-page/property-common-note-modern.png)

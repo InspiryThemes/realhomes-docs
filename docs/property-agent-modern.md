@@ -4,4 +4,4 @@
 
 ![Property Agents Settings](images/single-property-page/property-agent.png)
 
-![Agent On Property Page](images/single-property-page/agent-on-property-page.png)
+![Agent On Property Page](images/single-property-page/agent-on-property-page-modern.png)

@@ -8,4 +8,4 @@
 
 ![Similar Properties Settings](images/single-property-page/similar-properties.png)
 
-![Similar Properties on Property Page](images/single-property-page/similar-properties-frontend.png)
+![Similar Properties on Property Page](images/single-property-page/similar-properties-frontend-modern.png)
