@@ -45,9 +45,9 @@ pages:
       - Google Maps on Home Page: homepage-google-maps.md
       - Image Banner on Home Page: homepage-image-banner.md
       - Slogan on Home Page: homepage-slogan.md
-      - Properties on Home Page: homepage-properties.md
+      - Home Properties: homepage-properties.md
       - Features on Home Page: homepage-features.md
-      - Featured Properties on Home Page: homepage-featured-properties.md
+      - Featured Properties: homepage-featured-properties.md
       - News on Home Page: homepage-news.md
       - Footer Settings: footer-settings.md
     - Advance Search:
@@ -141,8 +141,8 @@ pages:
       - Configure Header Settings: configure-header-settings-modern.md
       - Home Page Settings: homepage-settings-modern.md
       - Google Maps on Home Page: homepage-google-maps-modern.md
-      - Properties on Home Page: homepage-properties-modern.md
-      - Featured Properties on Home Page: homepage-featured-properties-modern.md
+      - Home Properties: homepage-properties-modern.md
+      - Featured Properties: homepage-featured-properties-modern.md
       - Testimonials on Home Page: homepage-testimonials-modern.md
       - Agents on Home Page: agents-homepage-modern.md
       - Features on Home Page: homepage-features-modern.md
