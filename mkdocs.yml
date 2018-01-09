@@ -67,7 +67,7 @@ pages:
       - Similar Properties: similar-properties.md
     - News Page:
       - Create News Page: create-news-page.md
-      - Configure Reading Settings: configure-reading-settings.md
+      - Configure Reading Settings: configurereadingsettings.md
     - Add Content:
         - Add News Post: add-news-post.md
         - Add Agent: add-agent.md
@@ -163,7 +163,7 @@ pages:
       - Similar Properties: similar-properties-modern.md
     - News Page:
       - Create News Page: create-news-page-modern.md
-      - Configure Reading Settings: configure-reading-settings-modern.md
+      - Configure Reading Settings: configurereadingsettings-modern.md
     - Add Content:
         - Add News Post: add-news-post-modern.md
         - Add Agent: add-agent-modern.md
