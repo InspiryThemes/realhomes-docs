@@ -31,6 +31,9 @@ pages:
   - Installation & Activation: installation-and-activation.md
   - Import Demo Contents: import-demo.md
   - Selection Of Design: design-selection.md
+  - Included Plugins:
+        - Visual Composer: visual-composer.md
+        - Slider Revolution: slider-revolution.md
   - Classic:
     - Homepage Setup:
       - Create Home Page: create-homepage.md
@@ -114,9 +117,6 @@ pages:
           - dsIDXpress Search Widget on Homepage: home-idx-search-widget.md
           - iHomefinder Optima Express Plugin: optima-express.md
           - Translation: translation.md
-    - Included Plugins:
-          - Visual Composer: visual-composer.md
-          - Slider Revolution: slider-revolution.md
     - Google Maps:
           - Google Maps API Key: google-maps-api-key.md
           - Custom Markers for Property Type: property-type-custom-markers.md
@@ -213,9 +213,6 @@ pages:
           - dsIDXpress Search Widget on Homepage: home-idx-search-widget-modern.md
           - iHomefinder Optima Express Plugin: optima-express-modern.md
           - Translation: translation-modern.md
-    - Included Plugins:
-          - Visual Composer: visual-composer-modern.md
-          - Slider Revolution: slider-revolution-modern.md
     - Google Maps:
           - Google Maps API Key: google-maps-api-key-modern.md
           - Custom Markers for Property Type: property-type-custom-markers-modern.md
