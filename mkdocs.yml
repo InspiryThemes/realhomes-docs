@@ -44,11 +44,11 @@ pages:
       - Search Form Over Image: search-form-over-image.md
       - Google Maps on Home Page: homepage-google-maps.md
       - Image Banner on Home Page: homepage-image-banner.md
-      - Slogan on Home Page: homepage-slogan.md
+      - Slogan Area: homepage-slogan.md
       - Home Properties: homepage-properties.md
-      - Features on Home Page: homepage-features.md
+      - Features Area: homepage-features.md
       - Featured Properties: homepage-featured-properties.md
-      - News on Home Page: homepage-news.md
+      - News Section: homepage-news.md
       - Footer Settings: footer-settings.md
     - Advance Search:
       - Create Property Search Page: create-search-page.md
@@ -144,8 +144,8 @@ pages:
       - Home Properties: homepage-properties-modern.md
       - Featured Properties: homepage-featured-properties-modern.md
       - Testimonials on Home Page: homepage-testimonials-modern.md
-      - Agents on Home Page: agents-homepage-modern.md
-      - Features on Home Page: homepage-features-modern.md
+      - Agents Section: agents-homepage-modern.md
+      - Features Area: homepage-features-modern.md
       - Footer Settings: footer-settings-modern.md
     - Advance Search:
       - Create Property Search Page: create-search-page-modern.md
