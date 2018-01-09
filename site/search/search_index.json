@@ -2,22 +2,12 @@
     "docs": [
         {
             "location": "/index.html", 
-            "text": "Real Homes Theme\n\n\nIntroduction\n\n\nThis documentation is last updated on 20\nth\n October, 2017.\n\n\nThanks for purchasing Real Homes WordPress Theme. If you have any question that is beyond the scope of this documentation, Feel free to ask that on our support website. You can visit this knowledge base article to learn about how to get item purchase code from themeforest.net to sign-up on our support site.\n\n\nImportant Note\n\n\nIt is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you might have downloaded from themeforest.\n\n\nPlease note some features (which are there for Classic Design) are not yet available for Modern Design Variation of Real Homes Theme. We are working hard to add everything in Modern Design and you will get them soon in future updates.\n\n\nFew Performance Improvement Tips\n\n\nBasic Recommendations\n\n\n\n\nUse PHP 7.0 as it is faster than previous versions and a base requirement of WordPress. ( You can communicate with your host to get it done. )\n\n\nMake sure your hosting is based on SSD drives.\n\n\nIt is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on.\nUse a good cache plugin and test your site properly after installing and configuring it.\n\n\n\n\nReal Homes Specific\n\n\n\n\nDo not unify (combine) JavaScript files for Real Homes theme while using a cache plugin ( or any optimisation plugin ) as it is not an average blog theme and certain scripts are only loaded when required. Also, dynamic data is generated before few scripts based on various settings. So, Combining JavaScript files can create errors.\n\n\nReal Homes uses following cookies (if related settings are enabled). So, You can configure your cache plugin to not cache pages that uses these cookies OR you can request the same from your host if your host is like WPEngine ( who do not allow cache plugin and handles the cache on server level ).\n\n\ninspiry_compare\n\n\ninspiry_favorites\n\n\ncurrent_currency\n\n\n\n\n\n\n\n\nHow to Update Theme\n\n\nIf you want to update your theme then you can consult this knowledge base article for automatic update OR you can consult this knowledge base article for manual update.\n\n\nSupport Policy\n\n\nSupport Includes\n\n\n\n\nAnswering technical questions about theme features.\n\n\nAssistance with reported bugs and issues.\n\n\nHelp with included 3\nrd\n party assets.\n\n\n\n\nSupport Does Not Includes\n\n\n\n\nTheme customization services.\n\n\nTheme installation services.", 
-            "title": "Introduction"
-        }, 
-        {
-            "location": "/index.html#real-homes-theme", 
-            "text": "", 
-            "title": "Real Homes Theme"
-        }, 
-        {
-            "location": "/index.html#introduction", 
-            "text": "This documentation is last updated on 20 th  October, 2017.  Thanks for purchasing Real Homes WordPress Theme. If you have any question that is beyond the scope of this documentation, Feel free to ask that on our support website. You can visit this knowledge base article to learn about how to get item purchase code from themeforest.net to sign-up on our support site.", 
+            "text": "This documentation is last updated on 9\nth\n January, 2018.\n\n\nThanks for purchasing Real Homes WordPress Real Estate Theme. If you have any question that is beyond the scope of this documentation, feel free to ask that on our support website. You can visit this knowledge base article to learn about how to get item purchase code from themeforest.net to sign-up on our support site.\n\n\nImportant Note\n\n\nIt is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you might have downloaded from themeforest.\n\n\nPlease note some features (which you can find in Classic Design) might not be available for Modern Design of Real Homes Theme. We are working on adding every possible feature in Modern Design but some of them are simply not possible to add due to design limitations.\n\n\nFew Performance Improvement Tips\n\n\nBasic Recommendations\n\n\n\n\nUse PHP 7.0 as it is faster than previous versions and a \nbase requirement of WordPress\n. ( You can communicate with your hosting provider to get it updated. )\n\n\nMake sure your hosting is based on SSD drives.\n\n\nIt is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on.\n\n\nUse a good cache plugin and test your site properly after installing and configuring it.\n\n\n\n\nReal Homes Specific\n\n\n\n\nDo not unify (combine) JavaScript files for Real Homes theme while using a cache plugin ( or any optimisation plugin ) as it is not an average blog theme and certain scripts are only loaded when required. Also, dynamic data is generated before few scripts based on various settings. So, Combining JavaScript files can create errors.\n\n\nReal Homes uses following cookies (if related settings are enabled). So, You can configure your cache plugin to not cache pages that uses these cookies OR you can request the same from your host if your host is like WPEngine ( who do not allow cache plugin and handles the cache on server level ).\n\n\ninspiry_compare\n\n\ninspiry_favorites\n\n\ncurrent_currency\n\n\n\n\n\n\n\n\nHow to Update Theme\n\n\nIf you want to update your theme then you can consult \nthis knowledge base article for automatic update\n OR you can consult \nthis knowledge base article for manual update\n.\n\n\nSupport Policy\n\n\nSupport Includes\n\n\n\n\nAnswering technical questions about theme features.\n\n\nAssistance with reported bugs and issues.\n\n\nHelp with included 3\nrd\n party assets.\n\n\n\n\nSupport Does Not Includes\n\n\n\n\nTheme customization services.\n\n\nTheme installation services.", 
             "title": "Introduction"
         }, 
         {
             "location": "/index.html#important-note", 
-            "text": "It is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you might have downloaded from themeforest.  Please note some features (which are there for Classic Design) are not yet available for Modern Design Variation of Real Homes Theme. We are working hard to add everything in Modern Design and you will get them soon in future updates.", 
+            "text": "It is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you might have downloaded from themeforest.  Please note some features (which you can find in Classic Design) might not be available for Modern Design of Real Homes Theme. We are working on adding every possible feature in Modern Design but some of them are simply not possible to add due to design limitations.", 
             "title": "Important Note"
         }, 
         {
@@ -27,7 +17,7 @@
         }, 
         {
             "location": "/index.html#basic-recommendations", 
-            "text": "Use PHP 7.0 as it is faster than previous versions and a base requirement of WordPress. ( You can communicate with your host to get it done. )  Make sure your hosting is based on SSD drives.  It is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on.\nUse a good cache plugin and test your site properly after installing and configuring it.", 
+            "text": "Use PHP 7.0 as it is faster than previous versions and a  base requirement of WordPress . ( You can communicate with your hosting provider to get it updated. )  Make sure your hosting is based on SSD drives.  It is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on.  Use a good cache plugin and test your site properly after installing and configuring it.", 
             "title": "Basic Recommendations"
         }, 
         {
@@ -37,7 +27,7 @@
         }, 
         {
             "location": "/index.html#how-to-update-theme", 
-            "text": "If you want to update your theme then you can consult this knowledge base article for automatic update OR you can consult this knowledge base article for manual update.", 
+            "text": "If you want to update your theme then you can consult  this knowledge base article for automatic update  OR you can consult  this knowledge base article for manual update .", 
             "title": "How to Update Theme"
         }, 
         {
@@ -152,32 +142,62 @@
         }, 
         {
             "location": "/design-selection/index.html", 
-            "text": "Selection Of Design (Classic or Modern)\n\n\nSince version 3, Real Homes Theme has two design variations which are named as \nClassic\n and \nModern\n respectively. \n\n\nWe strongly suggest to select and finalize a design in the start and use that to run the website smoothly for long term. As It is possible that a specific feature might not be available/supported in other design variation due to design limitations.\n\n\nOne of these designs can be selected by navigating to \nDashboard \u2192 Appearance \u2192 Real Homes Design\n.", 
+            "text": "Selection Of Design (Classic or Modern)\n\n\nSince version 3, Real Homes Theme has two design variations which are named as \nClassic\n and \nModern\n respectively. \n\n\nWe strongly suggest to select and finalize a design in the start and use that to run the website smoothly for long term. It is possible that a specific feature might not be available/supported in other design variation due to design limitations.\n\n\nOne of these designs (\nClassic\n or \nModern\n) can be selected by navigating to \nDashboard \u2192 Appearance \u2192 Real Homes Design\n.", 
             "title": "Selection Of Design"
         }, 
         {
             "location": "/design-selection/index.html#selection-of-design-classic-or-modern", 
-            "text": "Since version 3, Real Homes Theme has two design variations which are named as  Classic  and  Modern  respectively.   We strongly suggest to select and finalize a design in the start and use that to run the website smoothly for long term. As It is possible that a specific feature might not be available/supported in other design variation due to design limitations.  One of these designs can be selected by navigating to  Dashboard \u2192 Appearance \u2192 Real Homes Design .", 
+            "text": "Since version 3, Real Homes Theme has two design variations which are named as  Classic  and  Modern  respectively.   We strongly suggest to select and finalize a design in the start and use that to run the website smoothly for long term. It is possible that a specific feature might not be available/supported in other design variation due to design limitations.  One of these designs ( Classic  or  Modern ) can be selected by navigating to  Dashboard \u2192 Appearance \u2192 Real Homes Design .", 
             "title": "Selection Of Design (Classic or Modern)"
         }, 
         {
+            "location": "/visual-composer/index.html", 
+            "text": "Visual Composer\n\n\nInstallation\n\n\nLook for the folder name \nPlugins \u2192 Visual Composer\n in unzipped package downloaded from themeforest.net. This folder contains visual composer plugin zip named as \njs_composer.zip\n. This folder also contains visual composer documentation and readme file. You need to go to \nDashboard \u2192 Plugins \u2192 Add New\n in your WordPress admin side and upload the \njs_composer.zip\n as displayed in image below.\n\n\n\n\n\n\nOnce installed, You need to activate the plugin as displayed in screen shot below.\n\n\n\n\nAfter activation you can create a test page to try out visual composer.\n\n\n\n\nClick on \"\nBackend Editor\n\" Button in visual composer toolbar, and you will have the visual composer page builder layout ready for use as displayed in screen shot below.\n\n\n\n\nGoing Full Width\n\n\nIf you like, You can assign a full width template to the test page.\n\n\n\n\nDisable Comments\n\n\nIf you want to disable comments for this page, Then expand the screen options in top right corner and select \"\nDiscussion\n\" checkbox. It will display discussion meta box below page editor area.\n\n\n\nUn-check the both checkboxes in Discussion meta box and publish/update the page.", 
+            "title": "Visual Composer"
+        }, 
+        {
+            "location": "/visual-composer/index.html#visual-composer", 
+            "text": "", 
+            "title": "Visual Composer"
+        }, 
+        {
+            "location": "/visual-composer/index.html#installation", 
+            "text": "Look for the folder name  Plugins \u2192 Visual Composer  in unzipped package downloaded from themeforest.net. This folder contains visual composer plugin zip named as  js_composer.zip . This folder also contains visual composer documentation and readme file. You need to go to  Dashboard \u2192 Plugins \u2192 Add New  in your WordPress admin side and upload the  js_composer.zip  as displayed in image below.    Once installed, You need to activate the plugin as displayed in screen shot below.   After activation you can create a test page to try out visual composer.   Click on \" Backend Editor \" Button in visual composer toolbar, and you will have the visual composer page builder layout ready for use as displayed in screen shot below.   Going Full Width  If you like, You can assign a full width template to the test page.   Disable Comments  If you want to disable comments for this page, Then expand the screen options in top right corner and select \" Discussion \" checkbox. It will display discussion meta box below page editor area.  \nUn-check the both checkboxes in Discussion meta box and publish/update the page.", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/slider-revolution/index.html", 
+            "text": "Revolution Slider\n\n\nImport Real Homes Slider for Revolution Slider\n\n\nAfter installing Revolution Slider please navigate to \nDashboard \u2192 Slider Revolution\n and click on \nImport Slider\n as shown in this screenshot below. The zip file of the slider is located in the main package of Real Homes Theme (\nrh-main-package \u2192 Plugins \u2192 Revolution Slider \u2192 realhomes-slider-zip \u2192 realhomes.zip\n).\n\n\n\n\nOnce the slider is imported then set it in the \nCustomizer Settings\n (\nDashboard \u2192 Appearance \u2192 Customizer \u2192 Home Page \u2192 Slider Area \u2192 What to Display Below Header on Home Page ?\n and set this option as \nSlider Based on Revolution Slider Plugin\n and set \nRevolution Slider Alias\n as \nrealhomes\n.", 
+            "title": "Slider Revolution"
+        }, 
+        {
+            "location": "/slider-revolution/index.html#revolution-slider", 
+            "text": "", 
+            "title": "Revolution Slider"
+        }, 
+        {
+            "location": "/slider-revolution/index.html#import-real-homes-slider-for-revolution-slider", 
+            "text": "After installing Revolution Slider please navigate to  Dashboard \u2192 Slider Revolution  and click on  Import Slider  as shown in this screenshot below. The zip file of the slider is located in the main package of Real Homes Theme ( rh-main-package \u2192 Plugins \u2192 Revolution Slider \u2192 realhomes-slider-zip \u2192 realhomes.zip ).   Once the slider is imported then set it in the  Customizer Settings  ( Dashboard \u2192 Appearance \u2192 Customizer \u2192 Home Page \u2192 Slider Area \u2192 What to Display Below Header on Home Page ?  and set this option as  Slider Based on Revolution Slider Plugin  and set  Revolution Slider Alias  as  realhomes .", 
+            "title": "Import Real Homes Slider for Revolution Slider"
+        }, 
+        {
             "location": "/create-homepage/index.html", 
-            "text": "Create Home Page\n\n\nIn case of Demo Contents Import the home page is already created and you do not need to follow this section.\n\n\nTo set up the Home page you need to create a new page, Go to \nDashboard \u2192 Pages \u2192 Add New\n. You can give this page a title \"\nHome\n\" yet you do not need to include any contents for now. Select the \u201c\nHome Template\n\u201d template from the Page Attributes section, as displayed in screen shot below and click \u201c\nPublish\n\u201d.", 
+            "text": "Create Home Page\n\n\nIn case of Demo Contents Import the home page is already created and you do not need to follow this section.\n\n\nTo set up the Home page you need to create a new page. In order to do so go to \nDashboard \u2192 Pages \u2192 Add New\n. You can give this page a title \"\nHome\n\" yet you do not need to include any contents for now. \n\n\nSelect the \u201c\nHome Template\n\u201d template from the \nPage Attributes\n section, as displayed in screen shot below and click \u201c\nPublish\n\u201d.", 
             "title": "Create Home Page"
         }, 
         {
             "location": "/create-homepage/index.html#create-home-page", 
-            "text": "In case of Demo Contents Import the home page is already created and you do not need to follow this section.  To set up the Home page you need to create a new page, Go to  Dashboard \u2192 Pages \u2192 Add New . You can give this page a title \" Home \" yet you do not need to include any contents for now. Select the \u201c Home Template \u201d template from the Page Attributes section, as displayed in screen shot below and click \u201c Publish \u201d.", 
+            "text": "In case of Demo Contents Import the home page is already created and you do not need to follow this section.  To set up the Home page you need to create a new page. In order to do so go to  Dashboard \u2192 Pages \u2192 Add New . You can give this page a title \" Home \" yet you do not need to include any contents for now.   Select the \u201c Home Template \u201d template from the  Page Attributes  section, as displayed in screen shot below and click \u201c Publish \u201d.", 
             "title": "Create Home Page"
         }, 
         {
             "location": "/configure-reading-settings/index.html", 
-            "text": "Configure Reading Settings\n\n\nIn case you followed \nDemo Contents Import\n, The reading settings should already be configured and you do not need to follow this section.\n\n\nI am assuming that you have imported the XML successfully and you have home page and news page available for use. If this is not the case then simply create a new page using Home Template and name it as Home after that create another page using default template and name it as News.\n\n\nTo configure reading settings you need to visit \nDashboard \u2192 Settings \u2192 Reading\n and choose that front page displays as static page. Then select \nHome\n as \nFront Page\n and \nNews\n as \nPosts Page\n. As, displayed in screen shot below.", 
+            "text": "Configure Reading Settings\n\n\nIn case you followed \nDemo Contents Import\n, The reading settings should already be configured and you do not need to follow this section.\n\n\nI am assuming that you have imported the \nDemo Contents\n successfully and you have home page and news page available to use. If this is not the case then simply create a new page using \nHome Template\n and name it as \nHome\n after that create another page using default template and name it as \nNews\n.\n\n\nTo configure reading settings you need to visit \nDashboard \u2192 Settings \u2192 Reading\n and choose that front page displays as static page. Then select \nHome\n as \nFront Page\n and \nNews\n as \nPosts Page\n. As, displayed in screen shot below.", 
             "title": "Configure Reading Settings"
         }, 
         {
             "location": "/configure-reading-settings/index.html#configure-reading-settings", 
-            "text": "In case you followed  Demo Contents Import , The reading settings should already be configured and you do not need to follow this section.  I am assuming that you have imported the XML successfully and you have home page and news page available for use. If this is not the case then simply create a new page using Home Template and name it as Home after that create another page using default template and name it as News.  To configure reading settings you need to visit  Dashboard \u2192 Settings \u2192 Reading  and choose that front page displays as static page. Then select  Home  as  Front Page  and  News  as  Posts Page . As, displayed in screen shot below.", 
+            "text": "In case you followed  Demo Contents Import , The reading settings should already be configured and you do not need to follow this section.  I am assuming that you have imported the  Demo Contents  successfully and you have home page and news page available to use. If this is not the case then simply create a new page using  Home Template  and name it as  Home  after that create another page using default template and name it as  News .  To configure reading settings you need to visit  Dashboard \u2192 Settings \u2192 Reading  and choose that front page displays as static page. Then select  Home  as  Front Page  and  News  as  Posts Page . As, displayed in screen shot below.", 
             "title": "Configure Reading Settings"
         }, 
         {
@@ -232,12 +252,12 @@
         }, 
         {
             "location": "/search-form-over-image/index.html", 
-            "text": "Search Form Over Image on Homepage\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and Go to section \nHome Page \u2192 Slider Area\n and choose related option as displayed in screenshot below.\n\n\n\n\nFor \nProperties Search Form\n settings, Check out related section in this documentation.", 
+            "text": "Search Form Over Image on Homepage\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize \u2192 Home Page \u2192 Slider Area\n and choose related option as displayed in screenshot below.\n\n\n\n\nFor \nProperties Search Form\n settings, Check out related section in this documentation.", 
             "title": "Search Form Over Image"
         }, 
         {
             "location": "/search-form-over-image/index.html#search-form-over-image-on-homepage", 
-            "text": "Navigate to  Dashboard \u2192 Appearance \u2192 Customize  and Go to section  Home Page \u2192 Slider Area  and choose related option as displayed in screenshot below.   For  Properties Search Form  settings, Check out related section in this documentation.", 
+            "text": "Navigate to  Dashboard \u2192 Appearance \u2192 Customize \u2192 Home Page \u2192 Slider Area  and choose related option as displayed in screenshot below.   For  Properties Search Form  settings, Check out related section in this documentation.", 
             "title": "Search Form Over Image on Homepage"
         }, 
         {
@@ -263,7 +283,7 @@
         {
             "location": "/homepage-slogan/index.html", 
             "text": "Slogan on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page\n section. It contains \nSlogan\n section where you can change slogan text and description text.\n\n\n\n\nSlogan Panel\n\n\n\n\nSlogan Settings", 
-            "title": "Slogan on Home Page"
+            "title": "Slogan Area"
         }, 
         {
             "location": "/homepage-slogan/index.html#slogan-on-home-page", 
@@ -283,7 +303,7 @@
         {
             "location": "/homepage-properties/index.html", 
             "text": "Properties on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page \u2192 Home Properties\n section for related settings.\n\n\n\n\n\n\n\n\nFilter Properties on Home Page\n\n\nTo display properties related to on or more particular locations, statuses or types you can use related settings displayed in screen shot below.\n\n\n\n\nProperties Sorting, Number of Properties to Display and AJAX Pagination", 
-            "title": "Properties on Home Page"
+            "title": "Home Properties"
         }, 
         {
             "location": "/homepage-properties/index.html#properties-on-home-page", 
@@ -303,7 +323,7 @@
         {
             "location": "/homepage-features/index.html", 
             "text": "Features Section on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page \u2192 Features Section\n for related settings.", 
-            "title": "Features on Home Page"
+            "title": "Features Area"
         }, 
         {
             "location": "/homepage-features/index.html#features-section-on-home-page", 
@@ -313,7 +333,7 @@
         {
             "location": "/homepage-featured-properties/index.html", 
             "text": "Featured Properties on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page \u2192 Featured Properties\n section for related settings.", 
-            "title": "Featured Properties on Home Page"
+            "title": "Featured Properties"
         }, 
         {
             "location": "/homepage-featured-properties/index.html#featured-properties-on-home-page", 
@@ -323,7 +343,7 @@
         {
             "location": "/homepage-news/index.html", 
             "text": "News Posts on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page \u2192 News\n or Blog Posts section for related settings.", 
-            "title": "News on Home Page"
+            "title": "News Section"
         }, 
         {
             "location": "/homepage-news/index.html#news-posts-on-home-page", 
@@ -521,13 +541,13 @@
             "title": "Create News Page"
         }, 
         {
-            "location": "/configure-reading-settings/index.html", 
-            "text": "Configure Reading Settings\n\n\nIn case you followed \nDemo Contents Import\n, The reading settings should already be configured and you do not need to follow this section.\n\n\nI am assuming that you have imported the XML successfully and you have home page and news page available for use. If this is not the case then simply create a new page using Home Template and name it as Home after that create another page using default template and name it as News.\n\n\nTo configure reading settings you need to visit \nDashboard \u2192 Settings \u2192 Reading\n and choose that front page displays as static page. Then select \nHome\n as \nFront Page\n and \nNews\n as \nPosts Page\n. As, displayed in screen shot below.", 
+            "location": "/configurereadingsettings/index.html", 
+            "text": "Configure Reading Settings\n\n\nIn case you followed \nDemo Contents Import\n, The reading settings should already be configured and you do not need to follow this section.\n\n\nI am assuming that you have imported the \nDemo Contents\n successfully and you have home page and news page available to use. If this is not the case then simply create a new page using \nHome Template\n and name it as \nHome\n after that create another page using default template and name it as \nNews\n.\n\n\nTo configure reading settings you need to visit \nDashboard \u2192 Settings \u2192 Reading\n and choose that front page displays as static page. Then select \nHome\n as \nFront Page\n and \nNews\n as \nPosts Page\n. As, displayed in screen shot below.", 
             "title": "Configure Reading Settings"
         }, 
         {
-            "location": "/configure-reading-settings/index.html#configure-reading-settings", 
-            "text": "In case you followed  Demo Contents Import , The reading settings should already be configured and you do not need to follow this section.  I am assuming that you have imported the XML successfully and you have home page and news page available for use. If this is not the case then simply create a new page using Home Template and name it as Home after that create another page using default template and name it as News.  To configure reading settings you need to visit  Dashboard \u2192 Settings \u2192 Reading  and choose that front page displays as static page. Then select  Home  as  Front Page  and  News  as  Posts Page . As, displayed in screen shot below.", 
+            "location": "/configurereadingsettings/index.html#configure-reading-settings", 
+            "text": "In case you followed  Demo Contents Import , The reading settings should already be configured and you do not need to follow this section.  I am assuming that you have imported the  Demo Contents  successfully and you have home page and news page available to use. If this is not the case then simply create a new page using  Home Template  and name it as  Home  after that create another page using default template and name it as  News .  To configure reading settings you need to visit  Dashboard \u2192 Settings \u2192 Reading  and choose that front page displays as static page. Then select  Home  as  Front Page  and  News  as  Posts Page . As, displayed in screen shot below.", 
             "title": "Configure Reading Settings"
         }, 
         {
@@ -1116,36 +1136,6 @@
             "title": "Translating The Theme"
         }, 
         {
-            "location": "/visual-composer/index.html", 
-            "text": "Visual Composer\n\n\nInstallation\n\n\nLook for the folder name \nPlugins \u2192 Visual Composer\n in unzipped package downloaded from themeforest.net. This folder contains visual composer plugin zip named as \njs_composer.zip\n. This folder also contains visual composer documentation and readme file. You need to go to \nDashboard \u2192 Plugins \u2192 Add New\n in your WordPress admin side and upload the \njs_composer.zip\n as displayed in image below.\n\n\n\n\n\n\nOnce installed, You need to activate the plugin as displayed in screen shot below.\n\n\n\n\nAfter activation you can create a test page to try out visual composer.\n\n\n\n\nClick on \"\nBackend Editor\n\" Button in visual composer toolbar, and you will have the visual composer page builder layout ready for use as displayed in screen shot below.\n\n\n\n\nGoing Full Width\n\n\nIf you like, You can assign a full width template to the test page.\n\n\n\n\nDisable Comments\n\n\nIf you want to disable comments for this page, Then expand the screen options in top right corner and select \"\nDiscussion\n\" checkbox. It will display discussion meta box below page editor area.\n\n\n\nUn-check the both checkboxes in Discussion meta box and publish/update the page.", 
-            "title": "Visual Composer"
-        }, 
-        {
-            "location": "/visual-composer/index.html#visual-composer", 
-            "text": "", 
-            "title": "Visual Composer"
-        }, 
-        {
-            "location": "/visual-composer/index.html#installation", 
-            "text": "Look for the folder name  Plugins \u2192 Visual Composer  in unzipped package downloaded from themeforest.net. This folder contains visual composer plugin zip named as  js_composer.zip . This folder also contains visual composer documentation and readme file. You need to go to  Dashboard \u2192 Plugins \u2192 Add New  in your WordPress admin side and upload the  js_composer.zip  as displayed in image below.    Once installed, You need to activate the plugin as displayed in screen shot below.   After activation you can create a test page to try out visual composer.   Click on \" Backend Editor \" Button in visual composer toolbar, and you will have the visual composer page builder layout ready for use as displayed in screen shot below.   Going Full Width  If you like, You can assign a full width template to the test page.   Disable Comments  If you want to disable comments for this page, Then expand the screen options in top right corner and select \" Discussion \" checkbox. It will display discussion meta box below page editor area.  \nUn-check the both checkboxes in Discussion meta box and publish/update the page.", 
-            "title": "Installation"
-        }, 
-        {
-            "location": "/slider-revolution/index.html", 
-            "text": "Revolution Slider\n\n\nImport Real Homes Slider for Revolution Slider\n\n\nAfter installing Revolution Slider please navigate to \nDashboard \u2192 Slider Revolution\n and click on \nImport Slider\n as shown in this screenshot below. The zip file of the slider is located in the main package of Real Homes Theme (\nrh-main-package \u2192 Plugins \u2192 Revolution Slider \u2192 realhomes-slider-zip \u2192 realhomes.zip\n).\n\n\n\n\nOnce the slider is imported then set it in the \nCustomizer Settings\n (\nDashboard \u2192 Appearance \u2192 Customizer \u2192 Home Page \u2192 Slider Area \u2192 What to Display Below Header on Home Page ?\n and set this option as \nSlider Based on Revolution Slider Plugin\n and set \nRevolution Slider Alias\n as \nrealhomes\n.", 
-            "title": "Slider Revolution"
-        }, 
-        {
-            "location": "/slider-revolution/index.html#revolution-slider", 
-            "text": "", 
-            "title": "Revolution Slider"
-        }, 
-        {
-            "location": "/slider-revolution/index.html#import-real-homes-slider-for-revolution-slider", 
-            "text": "After installing Revolution Slider please navigate to  Dashboard \u2192 Slider Revolution  and click on  Import Slider  as shown in this screenshot below. The zip file of the slider is located in the main package of Real Homes Theme ( rh-main-package \u2192 Plugins \u2192 Revolution Slider \u2192 realhomes-slider-zip \u2192 realhomes.zip ).   Once the slider is imported then set it in the  Customizer Settings  ( Dashboard \u2192 Appearance \u2192 Customizer \u2192 Home Page \u2192 Slider Area \u2192 What to Display Below Header on Home Page ?  and set this option as  Slider Based on Revolution Slider Plugin  and set  Revolution Slider Alias  as  realhomes .", 
-            "title": "Import Real Homes Slider for Revolution Slider"
-        }, 
-        {
             "location": "/google-maps-api-key/index.html", 
             "text": "How to get Google Maps API Key for your website\n\n\n\n\nAs of June 2016, to keep Google Maps running smoothly on your website you need a special API Key. To get and setup the API Key for Google Maps please follow the instructions below.\n\n\n\n\n\n\n\n\nPlease go to \nGoogle API Console\n. and login with your google account.\n\n\n\n\n\n\nCreate a new project or select an existing project then click on \nContinue\n to enable the \nAPI\n and any related services.\n\n\n\n\n\n\n\nName your browser key and restrict it by adding your site URLs as shown in the screenshot below. \n\n\n\n\n\n\n\nCopy the generated \nGoogle Maps API key\n from the popup. \n\n\n\n\n\n\n\nPut this \nAPI Key\n you just copied in \nCustomizer\n Settings (\nDashboard \u2192 Appearance \u2192 Customize \u2192 Misc \u2192 Google Maps API Key\n). Click on \nClose\n button to proceed. \n\n\n\n\n\n\n\nBy default most of the APIs are enabled but you have to enable other APIs in order to make the \nFind Address\n field work on \nProperty Edit Page\n. \n\n\n\n\n\n\n\nVerify Domain with Google\n: \nhttps://support.google.com/webmasters/answer/35179", 
             "title": "Google Maps API Key"
@@ -1297,22 +1287,22 @@
         }, 
         {
             "location": "/create-homepage-modern/index.html", 
-            "text": "Create Home Page\n\n\nIn case of Demo Contents Import the home page is already created and you do not need to follow this section.\n\n\nTo set up the Home page you need to create a new page, Go to \nDashboard \u2192 Pages \u2192 Add New\n. You can give this page a title \"\nHome\n\" yet you do not need to include any contents for now. Select the \u201c\nHome Template\n\u201d template from the Page Attributes section, as displayed in screen shot below and click \u201c\nPublish\n\u201d.", 
+            "text": "Create Home Page\n\n\nIn case of Demo Contents Import the home page is already created and you do not need to follow this section.\n\n\nTo set up the Home page you need to create a new page. In order to do so go to \nDashboard \u2192 Pages \u2192 Add New\n. You can give this page a title \"\nHome\n\" yet you do not need to include any contents for now. \n\n\nSelect the \u201c\nHome Template\n\u201d template from the \nPage Attributes\n section, as displayed in screen shot below and click \u201c\nPublish\n\u201d.", 
             "title": "Create Home Page"
         }, 
         {
             "location": "/create-homepage-modern/index.html#create-home-page", 
-            "text": "In case of Demo Contents Import the home page is already created and you do not need to follow this section.  To set up the Home page you need to create a new page, Go to  Dashboard \u2192 Pages \u2192 Add New . You can give this page a title \" Home \" yet you do not need to include any contents for now. Select the \u201c Home Template \u201d template from the Page Attributes section, as displayed in screen shot below and click \u201c Publish \u201d.", 
+            "text": "In case of Demo Contents Import the home page is already created and you do not need to follow this section.  To set up the Home page you need to create a new page. In order to do so go to  Dashboard \u2192 Pages \u2192 Add New . You can give this page a title \" Home \" yet you do not need to include any contents for now.   Select the \u201c Home Template \u201d template from the  Page Attributes  section, as displayed in screen shot below and click \u201c Publish \u201d.", 
             "title": "Create Home Page"
         }, 
         {
             "location": "/configure-reading-settings-modern/index.html", 
-            "text": "Configure Reading Settings\n\n\nIn case you followed \nDemo Contents Import\n, The reading settings should already be configured and you do not need to follow this section.\n\n\nI am assuming that you have imported the XML successfully and you have home page and news page available for use. If this is not the case then simply create a new page using Home Template and name it as Home after that create another page using default template and name it as News.\n\n\nTo configure reading settings you need to visit \nDashboard \u2192 Settings \u2192 Reading\n and choose that front page displays as static page. Then select \nHome\n as \nFront Page\n and \nNews\n as \nPosts Page\n. As, displayed in screen shot below.", 
+            "text": "Configure Reading Settings\n\n\nIn case you followed \nDemo Contents Import\n, The reading settings should already be configured and you do not need to follow this section.\n\n\nI am assuming that you have imported the \nDemo Contents\n successfully and you have home page and news page available to use. If this is not the case then simply create a new page using \nHome Template\n and name it as \nHome\n after that create another page using default template and name it as \nNews\n.\n\n\nTo configure reading settings you need to visit \nDashboard \u2192 Settings \u2192 Reading\n and choose that front page displays as static page. Then select \nHome\n as \nFront Page\n and \nNews\n as \nPosts Page\n. As, displayed in screen shot below.", 
             "title": "Configure Reading Settings"
         }, 
         {
             "location": "/configure-reading-settings-modern/index.html#configure-reading-settings", 
-            "text": "In case you followed  Demo Contents Import , The reading settings should already be configured and you do not need to follow this section.  I am assuming that you have imported the XML successfully and you have home page and news page available for use. If this is not the case then simply create a new page using Home Template and name it as Home after that create another page using default template and name it as News.  To configure reading settings you need to visit  Dashboard \u2192 Settings \u2192 Reading  and choose that front page displays as static page. Then select  Home  as  Front Page  and  News  as  Posts Page . As, displayed in screen shot below.", 
+            "text": "In case you followed  Demo Contents Import , The reading settings should already be configured and you do not need to follow this section.  I am assuming that you have imported the  Demo Contents  successfully and you have home page and news page available to use. If this is not the case then simply create a new page using  Home Template  and name it as  Home  after that create another page using default template and name it as  News .  To configure reading settings you need to visit  Dashboard \u2192 Settings \u2192 Reading  and choose that front page displays as static page. Then select  Home  as  Front Page  and  News  as  Posts Page . As, displayed in screen shot below.", 
             "title": "Configure Reading Settings"
         }, 
         {
@@ -1378,7 +1368,7 @@
         {
             "location": "/homepage-properties-modern/index.html", 
             "text": "Properties on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page \u2192 Home Properties\n section for related settings.\n\n\n\n\n\n\n\n\nFilter Properties on Home Page\n\n\nTo display properties related to on or more particular locations, statuses or types you can use related settings displayed in screen shot below.\n\n\n\n\nProperties Sorting, Number of Properties to Display and AJAX Pagination", 
-            "title": "Properties on Home Page"
+            "title": "Home Properties"
         }, 
         {
             "location": "/homepage-properties-modern/index.html#properties-on-home-page", 
@@ -1398,7 +1388,7 @@
         {
             "location": "/homepage-featured-properties-modern/index.html", 
             "text": "Featured Properties on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page \u2192 Featured Properties\n section for related settings.", 
-            "title": "Featured Properties on Home Page"
+            "title": "Featured Properties"
         }, 
         {
             "location": "/homepage-featured-properties-modern/index.html#featured-properties-on-home-page", 
@@ -1418,7 +1408,7 @@
         {
             "location": "/agents-homepage-modern/index.html", 
             "text": "Agents Section on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page \u2192 Agents Section\n for related settings.", 
-            "title": "Agents on Home Page"
+            "title": "Agents Section"
         }, 
         {
             "location": "/agents-homepage-modern/index.html#agents-section-on-home-page", 
@@ -1428,7 +1418,7 @@
         {
             "location": "/homepage-features-modern/index.html", 
             "text": "Features Section on Home Page\n\n\nNavigate to \nDashboard \u2192 Appearance \u2192 Customize\n and look for \nHome Page \u2192 Features Section\n for related settings.", 
-            "title": "Features on Home Page"
+            "title": "Features Area"
         }, 
         {
             "location": "/homepage-features-modern/index.html#features-section-on-home-page", 
@@ -1616,13 +1606,13 @@
             "title": "Create News Page"
         }, 
         {
-            "location": "/configure-reading-settings-modern/index.html", 
-            "text": "Configure Reading Settings\n\n\nIn case you followed \nDemo Contents Import\n, The reading settings should already be configured and you do not need to follow this section.\n\n\nI am assuming that you have imported the XML successfully and you have home page and news page available for use. If this is not the case then simply create a new page using Home Template and name it as Home after that create another page using default template and name it as News.\n\n\nTo configure reading settings you need to visit \nDashboard \u2192 Settings \u2192 Reading\n and choose that front page displays as static page. Then select \nHome\n as \nFront Page\n and \nNews\n as \nPosts Page\n. As, displayed in screen shot below.", 
+            "location": "/configurereadingsettings-modern/index.html", 
+            "text": "Configure Reading Settings\n\n\nIn case you followed \nDemo Contents Import\n, The reading settings should already be configured and you do not need to follow this section.\n\n\nI am assuming that you have imported the \nDemo Contents\n successfully and you have home page and news page available to use. If this is not the case then simply create a new page using \nHome Template\n and name it as \nHome\n after that create another page using default template and name it as \nNews\n.\n\n\nTo configure reading settings you need to visit \nDashboard \u2192 Settings \u2192 Reading\n and choose that front page displays as static page. Then select \nHome\n as \nFront Page\n and \nNews\n as \nPosts Page\n. As, displayed in screen shot below.", 
             "title": "Configure Reading Settings"
         }, 
         {
-            "location": "/configure-reading-settings-modern/index.html#configure-reading-settings", 
-            "text": "In case you followed  Demo Contents Import , The reading settings should already be configured and you do not need to follow this section.  I am assuming that you have imported the XML successfully and you have home page and news page available for use. If this is not the case then simply create a new page using Home Template and name it as Home after that create another page using default template and name it as News.  To configure reading settings you need to visit  Dashboard \u2192 Settings \u2192 Reading  and choose that front page displays as static page. Then select  Home  as  Front Page  and  News  as  Posts Page . As, displayed in screen shot below.", 
+            "location": "/configurereadingsettings-modern/index.html#configure-reading-settings", 
+            "text": "In case you followed  Demo Contents Import , The reading settings should already be configured and you do not need to follow this section.  I am assuming that you have imported the  Demo Contents  successfully and you have home page and news page available to use. If this is not the case then simply create a new page using  Home Template  and name it as  Home  after that create another page using default template and name it as  News .  To configure reading settings you need to visit  Dashboard \u2192 Settings \u2192 Reading  and choose that front page displays as static page. Then select  Home  as  Front Page  and  News  as  Posts Page . As, displayed in screen shot below.", 
             "title": "Configure Reading Settings"
         }, 
         {
@@ -2209,36 +2199,6 @@
             "location": "/translation-modern/index.html#translating-the-theme", 
             "text": "Real Homes Theme  is fully translation ready.  For translation to only one language please visit  This Knowledge Base Article  OR  You can also use  Loco Translate Plugin  by Tim Whitlockto translate this theme to your language or single language.  If you are planning to translate your website into multiple languages then  WPML Multilingual Plugin  is the best option out there.", 
             "title": "Translating The Theme"
-        }, 
-        {
-            "location": "/visual-composer-modern/index.html", 
-            "text": "Visual Composer\n\n\nInstallation\n\n\nLook for the folder name \nPlugins \u2192 Visual Composer\n in unzipped package downloaded from themeforest.net. This folder contains visual composer plugin zip named as \njs_composer.zip\n. This folder also contains visual composer documentation and readme file. You need to go to \nDashboard \u2192 Plugins \u2192 Add New\n in your WordPress admin side and upload the \njs_composer.zip\n as displayed in image below.\n\n\n\n\n\n\nOnce installed, You need to activate the plugin as displayed in screen shot below.\n\n\n\n\nAfter activation you can create a test page to try out visual composer.\n\n\n\n\nClick on \"\nBackend Editor\n\" Button in visual composer toolbar, and you will have the visual composer page builder layout ready for use as displayed in screen shot below.\n\n\n\n\nGoing Full Width\n\n\nIf you like, You can assign a full width template to the test page.\n\n\n\n\nDisable Comments\n\n\nIf you want to disable comments for this page, Then expand the screen options in top right corner and select \"\nDiscussion\n\" checkbox. It will display discussion meta box below page editor area.\n\n\n\nUn-check the both checkboxes in Discussion meta box and publish/update the page.", 
-            "title": "Visual Composer"
-        }, 
-        {
-            "location": "/visual-composer-modern/index.html#visual-composer", 
-            "text": "", 
-            "title": "Visual Composer"
-        }, 
-        {
-            "location": "/visual-composer-modern/index.html#installation", 
-            "text": "Look for the folder name  Plugins \u2192 Visual Composer  in unzipped package downloaded from themeforest.net. This folder contains visual composer plugin zip named as  js_composer.zip . This folder also contains visual composer documentation and readme file. You need to go to  Dashboard \u2192 Plugins \u2192 Add New  in your WordPress admin side and upload the  js_composer.zip  as displayed in image below.    Once installed, You need to activate the plugin as displayed in screen shot below.   After activation you can create a test page to try out visual composer.   Click on \" Backend Editor \" Button in visual composer toolbar, and you will have the visual composer page builder layout ready for use as displayed in screen shot below.   Going Full Width  If you like, You can assign a full width template to the test page.   Disable Comments  If you want to disable comments for this page, Then expand the screen options in top right corner and select \" Discussion \" checkbox. It will display discussion meta box below page editor area.  \nUn-check the both checkboxes in Discussion meta box and publish/update the page.", 
-            "title": "Installation"
-        }, 
-        {
-            "location": "/slider-revolution-modern/index.html", 
-            "text": "Revolution Slider\n\n\nImport Real Homes Slider for Revolution Slider\n\n\nAfter installing Revolution Slider please navigate to \nDashboard \u2192 Slider Revolution\n and click on \nImport Slider\n as shown in this screenshot below. The zip file of the slider is located in the main package of Real Homes Theme (\nrh-main-package \u2192 Plugins \u2192 Revolution Slider \u2192 realhomes-slider-zip \u2192 realhomes.zip\n).\n\n\n\n\nOnce the slider is imported then set it in the \nCustomizer Settings\n (\nDashboard \u2192 Appearance \u2192 Customizer \u2192 Home Page \u2192 Slider Area \u2192 What to Display Below Header on Home Page ?\n and set this option as \nSlider Based on Revolution Slider Plugin\n and set \nRevolution Slider Alias\n as \nrealhomes\n.", 
-            "title": "Slider Revolution"
-        }, 
-        {
-            "location": "/slider-revolution-modern/index.html#revolution-slider", 
-            "text": "", 
-            "title": "Revolution Slider"
-        }, 
-        {
-            "location": "/slider-revolution-modern/index.html#import-real-homes-slider-for-revolution-slider", 
-            "text": "After installing Revolution Slider please navigate to  Dashboard \u2192 Slider Revolution  and click on  Import Slider  as shown in this screenshot below. The zip file of the slider is located in the main package of Real Homes Theme ( rh-main-package \u2192 Plugins \u2192 Revolution Slider \u2192 realhomes-slider-zip \u2192 realhomes.zip ).   Once the slider is imported then set it in the  Customizer Settings  ( Dashboard \u2192 Appearance \u2192 Customizer \u2192 Home Page \u2192 Slider Area \u2192 What to Display Below Header on Home Page ?  and set this option as  Slider Based on Revolution Slider Plugin  and set  Revolution Slider Alias  as  realhomes .", 
-            "title": "Import Real Homes Slider for Revolution Slider"
         }, 
         {
             "location": "/google-maps-api-key-modern/index.html", 
