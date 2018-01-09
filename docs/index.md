@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This documentation is last updated on 20th October, 2017.
+This documentation is last updated on 9th January, 2018.
 
 Thanks for purchasing Real Homes WordPress Theme. If you have any question that is beyond the scope of this documentation, Feel free to ask that on our support website. You can visit this knowledge base article to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
