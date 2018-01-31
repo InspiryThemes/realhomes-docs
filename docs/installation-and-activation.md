@@ -17,7 +17,7 @@ Once you have a working version of WordPress, You need to download "**All Files 
 ![Screenshot](images/installation/activate-theme.png)
 - A notice will be displayed right after the activation of the theme asking you to install and activate the required plugins. So, go ahead and click on Begin installing plugins. 
 ![Screenshot](images/installation/begin-plugin-installation.png)
-- On next page you will see the list of plugins to install. Select all the plugins and click on **Install** and then click on **Apply** to install all of them at once (as shown in the screenshot below). 
+- On next page you will see the list of plugins to install. Select all the plugins and click on **Install** and then click on **Apply** to install all of them at once (as shown in the screenshot below). </br>
 ![Screenshot](images/installation/install-plugins.png)
 - After all the plugins are installed click on **Return** to **Required Plugins Installer**. 
 ![Screenshot](images/installation/return-to-install.png)
