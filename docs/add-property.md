@@ -70,7 +70,7 @@ If you have adequate rights, You can also modify the author from Author meta box
 
 You can also add an icon to a property feature. This icon will appear on the property details page, before property feature. To add an icon to a feature, follow these steps:
 
-- Go to **Dashboard → Properties → Property Features**
+- Go to **Dashboard → Real Homes → Property Features**
 
 - Create a new property feature or select an existing one. 
 

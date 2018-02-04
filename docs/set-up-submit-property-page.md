@@ -8,7 +8,7 @@ To add Submit Property page, Go to Dashboard → Pages → Add New
 
 ![Real Homes Documentation](images/member-pages/submit-property-title.png)
 
-- Select the **Submit Property Template** from page attributes. 
+- Select the **Submit Property** template from page attributes.
 
 ![Real Homes Documentation](images/member-pages/submit-property-template.png)
 
@@ -42,7 +42,7 @@ To add Submit Property page, Go to Dashboard → Pages → Add New
 
 ![Real Homes Documentation](images/member-pages/submit-property-customizer-settings.png)
 
-![Real Homes Documentation](images/member-pages/submit-property-customizer-settings-2.jpg)
+![Real Homes Documentation](images/member-pages/submit-property-customizer-settings-2.png)
 
 - Save the changes and your **Submit Property** page is ready for use. 
 

@@ -6,7 +6,7 @@ Go to **Dashboard → Pages → Add New**
 
 ![Add Users Page](images/create-pages/add-user-page.png)
 
-**Select the Users Listing Template** from page attributes. 
+Select the **Users List** from page attributes.
 
 ![Select User Listing Template](images/create-pages/user-listing-template.png)
 

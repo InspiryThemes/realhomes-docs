@@ -55,15 +55,15 @@ pages:
       - Configure Advance Search: configure-advance-search.md
     - Property Page:
       - Property Detail Page Settings: property-detail-page-settings.md
-      - Basics: property-basics.md
       - Breadcrumbs: property-breadcrumbs.md
+      - Basics: property-basics.md
       - Common Note: property-common-note.md
       - Video: property-video.md
       - Virtual Tour: property-virtual-tour.md
       - Map: property-map.md
       - Attachments: property-attachments.md
       - Agent: property-agent.md
-      - Views: property-views.md
+#      - Views: property-views.md
       - Similar Properties: similar-properties.md
     - News Page:
       - Create News Page: create-news-page.md

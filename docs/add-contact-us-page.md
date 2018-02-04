@@ -8,7 +8,7 @@ Provide the page title
 
 ![Add Contact Page](images/contact-page/add-contact-page.png)
 
-Select the **Contact Template** as template from page attributes. 
+Select the **Contact** as template from page attributes.
 
 ![Contact Page Template](images/contact-page/contact-page-template.png)
 

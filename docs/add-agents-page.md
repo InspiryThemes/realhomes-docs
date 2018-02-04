@@ -8,7 +8,7 @@ Go to **Dashboard → Pages → Add New**
 
 ![Add Gallery Page](images/create-pages/add-agent-page.png)
 
-- Select the **Agent Listing Template** from page attributes. 
+- Select the **Agent List** from page attributes.
 
 ![Add Gallery Page](images/create-pages/agent-listing-template.png)
 

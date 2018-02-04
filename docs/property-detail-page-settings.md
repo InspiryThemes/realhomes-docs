@@ -10,9 +10,8 @@ There are 10 types of different settings you can change for **Property Detail Pa
 6. Map
 7. Attachments
 8. Agent
-9. Views
-10. Similar Properties
+9. Similar Properties
 
 To change any of the above settings you can go to “**Dashboard → Appearance → Customize → Property Detail Page**”.
 
-![Property Detail Page Settings](images/home-setup/customize-homepage.png)
+![Property Detail Page Settings](images/single-property-page/properties-detail-page.png)

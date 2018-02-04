@@ -16,7 +16,7 @@ To add Login & Register page, Go to **Dashboard → Pages → Add New**
 
 ![Login & Register Page Title](images/member-pages/login-register-page-title.png)
 
-- Select the **Login & Register Template** from page attributes.
+- Select the **Login & Register** template from page attributes.
  
 ![Login & Register Template](images/member-pages/login-register-template.png)
 
@@ -36,7 +36,7 @@ To add Login & Register page, Go to **Dashboard → Pages → Add New**
 
 ![Members Panel](images/member-pages/members-panel.png)
 
-- Now copy the Login & Register page URL and paste it in settings displayed below.
+- Now select the Login & Register page that has been created earlier as shown in image below.
 
 ![Login & Register Customizer Settings](images/member-pages/login-register-customizer-settings.png)
 

@@ -8,7 +8,7 @@ To add My Properties page, Go to **Dashboard → Pages → Add New**
  
 ![Real Homes Documentation](images/member-pages/my-properties-title.png)
 
-- Select the **My Properties Template** from page attributes. 
+- Select the **My Properties** template from page attributes.
 
 ![Real Homes Documentation](images/member-pages/my-properties-template.png)
 

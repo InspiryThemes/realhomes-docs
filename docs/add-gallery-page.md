@@ -12,9 +12,9 @@ Go to **Dashboard → Pages → Add New**
 
 There are 3 templates for gallery page.
 
-1. Gallery 2 Columns Template 
-2. Gallery 3 Columns Template
-3. Gallery 4 Columns Template
+1. 2 Columns Gallery
+2. 3 Columns Gallery
+3. 4 Columns Gallery
 
 ![Gallery Templates](images/create-pages/gallery-templates.png)
 

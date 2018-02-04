@@ -22,6 +22,8 @@ Using settings displayed below, You can share any contact details that you want 
 
 ### Contact Form
 
-Use the settings displayed below to provide **Contact Form Heading** and **Target email address** to receive contact form messages.
+Use the settings displayed below to provide **Contact Form Heading** and **Contact Form Email** to receive contact form messages. You can also add **CC** and **BCC** email addresses seprated by comma.
+
+You can also replace the default contact form with plugin based form by adding the the shortcode in **Contact Form Shortcode** field.
 
 ![Contact Form](images/contact-page/contact-form.png)

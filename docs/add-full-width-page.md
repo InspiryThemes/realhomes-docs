@@ -8,7 +8,7 @@ Go to **Dashboard → Pages → Add New**
 
 ![Add Full Width Page](images/create-pages/add-full-width-page.png)
 
-- Select the **Full Width Template** from page attributes. 
+- Select the **Full Width** from page attributes.
 
 ![Full Width Template](images/create-pages/full-width-template.png)
 

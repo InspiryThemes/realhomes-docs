@@ -1,6 +1,6 @@
 # Add Agent
 
-Go to **Dashboard → Agents → Add New**
+Go to **Dashboard → Real Homes → Agents → Add New**
 
 - Provide the agent name
 

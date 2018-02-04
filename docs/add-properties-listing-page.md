@@ -12,9 +12,9 @@ Go to **Dashboard → Pages → Add New**
 
 There are 3 templates for properties list pages.
 
-1. **Property Listing Template**
-2. **Property Grid Listing Template**
-3. **Map Based Property Listing Template**
+1. **Property Listing**
+2. **Property Grid**
+3. **Properties With Half Map**
 
 ![Properties Listing Templates](images/create-pages/properties-listing-templates.png)
 

@@ -6,23 +6,19 @@ There are various options available to modify styles in this theme.
 
 **Some common styles options.**
 
-![Real Homes Documentation](images/customize-theme/ct-1.png)
+![Real Homes Documentation](images/customize-theme/custimize-1.png)
 
 **Header Styles** 
 
-![Real Homes Documentation](images/customize-theme/ct-1.png)
+![Real Homes Documentation](images/customize-theme/custimize-2.png)
 
 **Footer Styles** 
 
-![Real Homes Documentation](images/customize-theme/ct-1.png)
+![Real Homes Documentation](images/customize-theme/custimize-3.png)
 
 **Quick CSS** - Go to **Dashboard → Appearance → Customize** and navigate to **Styles → Basic** to add any quick css. 
 
-![Real Homes Documentation](images/customize-theme/ct-4.png)
-
-![Real Homes Documentation](images/customize-theme/ct-5.png)
-
-![Real Homes Documentation](images/customize-theme/ct-6.png)
+![Real Homes Documentation](images/customize-theme/customize-4.png)
 
 **Custom CSS in Child Theme** - '**child-custom.css**' file is provided in child theme to add major css changes. 
 
