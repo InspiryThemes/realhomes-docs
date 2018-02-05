@@ -49,7 +49,6 @@ pages:
       - Features Area: homepage-features.md
       - Featured Properties: homepage-featured-properties.md
       - News Section: homepage-news.md
-      - Footer Settings: footer-settings.md
     - Advance Search:
       - Create Property Search Page: create-search-page.md
       - Configure Advance Search: configure-advance-search.md
@@ -133,6 +132,10 @@ pages:
           - Customize Styles: customize-styles.md
           - Custom Meta Fields for Property: custom-meta-field-for-property.md
           - Hire Customization Services: hire-customization-services.md
+    - Footer:
+          - Partners Settings: footer-settings.md
+          - Text Settings: text-settings.md
+          - Styles: style-settings.md
   - Modern:
     - Homepage Setup:
       - Create Home Page: create-homepage-modern.md

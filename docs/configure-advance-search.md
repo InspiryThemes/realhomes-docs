@@ -6,13 +6,9 @@ Follow the steps below to configure the search functionality.
 
 ### Step 1. Select Property Search Page
 
-Please navigate to **Dashboard → Appearance → Customiz**e and then go into **Properties Search → Properties Search Page** and select the Property Search Page. You can setup other options according to your requirements.
+Please navigate to **Dashboard → Appearance → Customize** and then go into **Properties Search → Properties Search Page** and select the Property Search Page. You can setup other options according to your requirements.
 
-![Properties Search Panel](images/home-setup/properties-search-panel.png)
-
-![Properties Search SectionPage](images/home-setup/search-section.png)
-
-![Properties Search Page Settings](images/home-setup/search-page-settings.png)
+![Properties Search Page Settings](images/home-setup/search-page-settings-full.png)
 
 After this you will have a property search form displayed on homepage. 
 
