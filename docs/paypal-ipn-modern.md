@@ -5,7 +5,7 @@
 You can install and setup [PayPal IPN Plugin](https://wordpress.org/plugins/paypal-ipn/) for payment functionality.
 
 1. Please navigate to **Dashboard → Plugins → Add New** and search for "**PayPal IPN**" as shown in the screenshot below: 
-![Real Homes Documentation](images/other-features/wp-currency-plugin-search.png)
+![Real Homes Documentation](images/other-features/search-for-paypal-ipn.png)
 
 2. Once you have found it then click the "**Install Now**" link under the PayPal IPN for WordPress plugin in the list of results.
 
@@ -19,8 +19,8 @@ To setup your **WordPress PayPal IPN listener** you will need to copy your **IPN
 
 2. **Highlight** the **PayPal IPN Primary URL** and copy it to your clipboard by pressing **Ctrl+C / Cmd+C**.
 
-3. If you wish to enable logging for troubleshooting purposes, check the box and click **Save** as shown in the screenshot. 
-![Real Homes Documentation](images/other-features/wp-currency-plugin-search.png)
+3. If you wish to enable logging for troubleshooting purposes, check the box and click **Save** as shown in the screenshot.
+![Real Homes Documentation](images/other-features/wordpress-paypal-ipn-general-settings.png)
 
 4. Login to your **PayPal account**.
 
@@ -34,6 +34,6 @@ To setup your **WordPress PayPal IPN listener** you will need to copy your **IPN
 
 9. Click **Receieve IPN messages (Enabled)** to activate your **IPN listener**.
 
-10. Click **Save** to save your changes. 
+10. Click **Save** to save your changes.
 
-![Real Homes Documentation](images/other-features/wp-currency-plugin-search.png)
+![Real Homes Documentation](images/other-features/wordpress-paypal-ipn-profile-config.png)

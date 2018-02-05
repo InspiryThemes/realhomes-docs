@@ -116,6 +116,10 @@ pages:
           - dsIDXpress Search Widget on Homepage: home-idx-search-widget.md
           - iHomefinder Optima Express Plugin: optima-express.md
           - Translation: translation.md
+    - Footer:
+          - Partners Settings: footer-settings.md
+          - Text Settings: text-settings.md
+          - Styles: style-settings.md
     - Google Maps:
           - Google Maps API Key: google-maps-api-key.md
           - Custom Markers for Property Type: property-type-custom-markers.md
@@ -132,10 +136,7 @@ pages:
           - Customize Styles: customize-styles.md
           - Custom Meta Fields for Property: custom-meta-field-for-property.md
           - Hire Customization Services: hire-customization-services.md
-    - Footer:
-          - Partners Settings: footer-settings.md
-          - Text Settings: text-settings.md
-          - Styles: style-settings.md
+
   - Modern:
     - Homepage Setup:
       - Create Home Page: create-homepage-modern.md
@@ -149,7 +150,6 @@ pages:
       - Testimonials on Home Page: homepage-testimonials-modern.md
       - Agents Section: agents-homepage-modern.md
       - Features Area: homepage-features-modern.md
-      - Footer Settings: footer-settings-modern.md
     - Advance Search:
       - Create Property Search Page: create-search-page-modern.md
       - Configure Advance Search: configure-advance-search-modern.md
@@ -216,6 +216,11 @@ pages:
           - dsIDXpress Search Widget on Homepage: home-idx-search-widget-modern.md
           - iHomefinder Optima Express Plugin: optima-express-modern.md
           - Translation: translation-modern.md
+    - Footer:
+          - Footer Logo: footer-logo-modern.md
+          - Text Settings: text-settings-modern.md
+          - Styles: style-settings-modern.md
+          - Social Icons: footer-social-modern.md
     - Google Maps:
           - Google Maps API Key: google-maps-api-key-modern.md
           - Custom Markers for Property Type: property-type-custom-markers-modern.md

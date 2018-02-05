@@ -4,11 +4,11 @@
 
 To add Edit Profile page, Go to **Dashboard → Pages → Add New**
 
-- Provide the page title 
+- Provide the page title
 
 ![Real Homes Documentation](images/member-pages/edit-profile-title.png)
 
-- Select the **Edit Profile Template** from page attributes.  
+- Select the **Edit Profile** template from page attributes.
 
 ![Real Homes Documentation](images/member-pages/edit-profile-template.png)
 
@@ -24,4 +24,4 @@ To add Edit Profile page, Go to **Dashboard → Pages → Add New**
 
 - Save the changes and your **Edit Profile** page is ready to use.
 
-![Real Homes Documentation](images/member-pages/edit-profile-front-end.png)
+![Real Homes Documentation](images/member-pages/edit-profile-front-end-mod.png)

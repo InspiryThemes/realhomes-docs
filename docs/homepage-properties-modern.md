@@ -2,11 +2,7 @@
 
 Navigate to **Dashboard → Appearance → Customize** and look for **Home Page → Home Properties** section for related settings.
 
-![Properties On Home Page](images/home-setup/customize-homepage.png)
-
-![Home Page Properties](images/home-setup/home-properties-modern.png)
-
-![Home Properties Section](images/home-setup/home-properties-section.png)
+![Home Properties Section](images/home-setup/customize-homepage-prop-full.png)
 
 ### Filter Properties on Home Page
 

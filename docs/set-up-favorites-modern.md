@@ -4,7 +4,7 @@ A visitor can add properties to his favorites collection, So that he can visit h
 
 Visitor do not need to login to use this feature as if he/she is not logged in then the favorite properties information is stored in cookies. But if the user is logged in then this information is stored in database as user meta. The user can delete the Property from favorites collection by clicking on trash icon ().
 
-![Real Homes Documentation](images/member-pages/favorites-section-front-end.jpeg)
+![Real Homes Documentation](images/member-pages/favorites-section-front-end-mod.png)
 
 # Set Up Favorites Page
 
@@ -20,14 +20,14 @@ To add Favorite Properties page, Go to **Dashboard → Pages → Add New**
 
 - Publish the page once it is ready.
 
-- Now you need to navigate to **Dashboard → Appearance → Customizer** and look for **Members** panel. This panel contains **Add to Favorites** section where you can configure related settings. Select **Favorites** page from the drop-down list as shown in the above screenshot.
+- Now you need to navigate to **Dashboard → Appearance → Customizer → Favorites** and look for **Members** panel.
 
 ![Real Homes Documentation](images/member-pages/members-customizer.png)
 
-![Real Homes Documentation](images/member-pages/favorites-panel.png)
+ Select **Favorites** page from the drop-down list as shown in the above screenshot.
 
 ![Real Homes Documentation](images/member-pages/favorites-customizer-settings.png)
 
 - Save the changes and your **Favorites** page is ready to users. 
 
-![Real Homes Documentation](images/member-pages/favorites-front-end.png)
+![Real Homes Documentation](images/member-pages/favorites-front-end-mod.png)
