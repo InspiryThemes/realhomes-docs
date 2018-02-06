@@ -1,6 +1,6 @@
 # Add Property
 
-Go to **Dashboard → Properties → Add New**
+Go to **Dashboard → Real Homes → Properties → Add New**
 
 - Provide property title 
 
