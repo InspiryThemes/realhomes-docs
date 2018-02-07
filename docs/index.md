@@ -1,6 +1,6 @@
 This documentation is last updated on 6th February, 2018.
 
-Thanks for purchasing Real Homes WordPress Real Estate Theme. If you have any question that is beyond the scope of this documentation, feel free to ask that on our [support website](http://support.inspirythemes.com/). You can visit this knowledge base article to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
+Thanks for purchasing Real Homes WordPress Real Estate Theme. If you have any question that is beyond the scope of this documentation, feel free to ask that on our [support website](http://support.inspirythemes.com/). You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
 ### **Important Note**
 

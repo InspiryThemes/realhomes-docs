@@ -19,4 +19,6 @@
 
 .md-footer-copyright {
     color: hsl(0, 0%, 69%);
+    display: none;
 }
+

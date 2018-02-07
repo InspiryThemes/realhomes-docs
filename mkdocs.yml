@@ -12,15 +12,13 @@ theme:
     primary: 'blue'
     accent: 'blue'
   favicon: 'images/base/realhomes-favicon.png'
-  logo: 'images/base/realhomes-logo.png'
+#  logo: 'images/base/realhomes-logo.png'
 
 extra_css:
     - css/layout.css
 
 extra:
   social:
-    - type: 'github'
-      link: 'https://github.com/inspirythemes'
     - type: 'facebook'
       link: 'https://www.facebook.com/InspiryThemes/'
     - type: 'twitter'
