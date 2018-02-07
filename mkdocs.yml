@@ -236,7 +236,9 @@ pages:
           - Custom Meta Fields for Property: custom-meta-field-for-property-modern.md
           - Hire Customization Services: hire-customization-services-modern.md
 
-use_directory_urls: false
+# Change it to true before building (mkdocs build) for putting online.
+# It should be false for themeforest package.
+use_directory_urls: true
 
 markdown_extensions:
   - admonition
