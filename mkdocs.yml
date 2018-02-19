@@ -27,11 +27,8 @@ extra:
 pages:
   - Introduction: index.md
   - Installation & Activation: installation-and-activation.md
-  - Import Demo Contents: import-demo.md
   - Selection Of Design: design-selection.md
-  - Included Plugins:
-        - Visual Composer: visual-composer.md
-        - Slider Revolution: slider-revolution.md
+  - Import Demo Contents: import-demo.md
   - Classic:
     - Homepage Setup:
       - Create Home Page: create-homepage.md
@@ -235,6 +232,9 @@ pages:
           - Customize Styles: customize-styles-modern.md
           - Custom Meta Fields for Property: custom-meta-field-for-property-modern.md
           - Hire Customization Services: hire-customization-services-modern.md
+  - Included Plugins:
+      - Visual Composer: visual-composer.md
+      - Slider Revolution: slider-revolution.md
 
 # Change it to true before building (mkdocs build) for putting online.
 # It should be false for themeforest package.
