@@ -30,23 +30,23 @@ pages:
   - Selection Of Design: design-selection.md
   - Import Demo Contents: import-demo.md
   - Classic:
-    - Homepage Setup:
-      - Create Home Page: create-homepage.md
-      - Configure Reading Settings: configure-reading-settings.md
+    - Header: configure-header-settings.md
+    - Homepage:
+      - Create Homepage: create-homepage.md
+      - Reading Settings: configure-reading-settings.md
       - Sections Manager: sections-manager.md
-      - Configure Header Settings: configure-header-settings.md
-      - Home Page Settings: homepage-settings.md
+      - Homepage Settings: homepage-settings.md
       - Search Form Over Image: search-form-over-image.md
-      - Google Maps on Home Page: homepage-google-maps.md
-      - Image Banner on Home Page: homepage-image-banner.md
+      - Google Maps on Homepage: homepage-google-maps.md
+      - Image Banner on Homepage: homepage-image-banner.md
       - Slogan Area: homepage-slogan.md
       - Home Properties: homepage-properties.md
       - Features Area: homepage-features.md
       - Featured Properties: homepage-featured-properties.md
       - News Section: homepage-news.md
-    - Advance Search:
+    - Properties Search:
       - Create Property Search Page: create-search-page.md
-      - Configure Advance Search: configure-advance-search.md
+      - Configure Properties Search: configure-advance-search.md
     - Property Page:
       - Property Detail Page Settings: property-detail-page-settings.md
       - Breadcrumbs: property-breadcrumbs.md
