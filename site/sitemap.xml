@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>/</loc>
+     <loc>/index.html</loc>
      <lastmod>2018-02-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -11,7 +11,7 @@
 
     
     <url>
-     <loc>/installation-and-activation/</loc>
+     <loc>/installation-and-activation/index.html</loc>
      <lastmod>2018-02-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -19,7 +19,7 @@
 
     
     <url>
-     <loc>/import-demo/</loc>
+     <loc>/import-demo/index.html</loc>
      <lastmod>2018-02-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -27,7 +27,7 @@
 
     
     <url>
-     <loc>/design-selection/</loc>
+     <loc>/design-selection/index.html</loc>
      <lastmod>2018-02-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -36,13 +36,13 @@
     
         
     <url>
-     <loc>/visual-composer/</loc>
+     <loc>/visual-composer/index.html</loc>
      <lastmod>2018-02-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/slider-revolution/</loc>
+     <loc>/slider-revolution/index.html</loc>
      <lastmod>2018-02-07</lastmod>
      <changefreq>daily</changefreq>
     </url>

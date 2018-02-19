@@ -4,7 +4,7 @@ Thanks for purchasing Real Homes WordPress Real Estate Theme. If you have any qu
 
 ### **Important Note**
 
-It is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you might have downloaded from themeforest.
+It is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from themeforest.
 
 Please note some features (which you can find in Classic Design) might not be available for Modern Design of Real Homes Theme. We are working on adding every possible feature in Modern Design but some of them are simply not possible to add due to design limitations.
 

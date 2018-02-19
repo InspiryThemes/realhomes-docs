@@ -2,7 +2,7 @@
 
 You can follow one of these approaches.
 
-- One Click Demo Import ( Automatic & Recommended )
+- One Click Demo Import **( Automatic & Recommended )**
 - Import XML Contents, Customizer Settings, and Widgets Manually
 
 ## One Click Demo Import ( Automatic & Recommended )
@@ -21,9 +21,9 @@ Go to **Real Homes → Demo Import** to import demo data.
 
 ![Screenshot](images/import-demo/import-demo-data.png)
 
-Note: Since version **3.0.0**, we have added a new design variation in Real Homes Theme for our clients so you will see two variations for the demo data import. You can import one variation or both and you won't have any issues. Before you begin, make sure all the required plugins are installed and activated.
+**Note:** Since version 3.0.0, we have added a new design variation in Real Homes Theme for our clients so you will see two variations for the demo data import. You can import one variation or both and you won't have any issues. Before you begin, make sure all the required plugins are installed and activated.
 
-Click on blue Import button and you will see a popup so click on the blue **Yes, import!** button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.
+Click on blue **Import** button and you will see a popup so click on the blue **Yes, import!** button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.
 
 ![Screenshot](images/import-demo/one-click-demo-import.png)
 
@@ -87,7 +87,7 @@ To configure reading settings you need to visit **Dashboard → Settings → Rea
 
 ### **Step 6**
 
-To import Customizer settings you have to install **Customizer Export/Import Plugin**. 
+To import Customizer settings you have to install [Customizer Export/Import](https://wordpress.org/plugins/customizer-export-import/). 
 
 Once the plugin is installed and activate then navigate to **Dashboard → Appearance → Customize → Export/Import** and then select the customizer.dat file for the relevant design variation (Classic or Modern).
 
@@ -97,7 +97,7 @@ Upon successful import the Customizer will be refreshed.
 
 ### **Step 7**
 
-Now you can import widgets too. In order to do that, kindly install **Widget Importer & Exporter**. 
+Now you can import widgets too. In order to do that, kindly install [Widget Importer & Exporter](https://wordpress.org/plugins/widget-importer-exporter/). 
 
 After successful installation and activation navigate to **Dashboard → Tools → Widget Importer & Exporter** and then select the widgets.wie file for the relevant design variation (Classic or Modern).
 
