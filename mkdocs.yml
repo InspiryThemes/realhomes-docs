@@ -57,18 +57,16 @@ pages:
       - Map: property-map.md
       - Attachments: property-attachments.md
       - Agent: property-agent.md
-#      - Views: property-views.md
       - Similar Properties: similar-properties.md
     - Add Content:
         - Add News Post: add-news-post.md
         - Add Agent: add-agent.md
         - Add Property: add-property.md
-    - Create Pages:
-          - Add Properties Listing Page: add-properties-listing-page.md
-          - Add Gallery Page: add-gallery-page.md
-          - Add Agents Page: add-agents-page.md
-          - Add Users Page: add-users-page.md
-          - Add Full Width Page: add-full-width-page.md
+        - Add Properties Page: add-properties-page.md
+        - Add Gallery Page: add-gallery-page.md
+        - Add Agents Page: add-agents-page.md
+        - Add Users Page: add-users-page.md
+        - Add Full Width Page: add-full-width-page.md
     - Setting Up Contact Us Page:
           - Add Contact Us Page: add-contact-us-page.md
           - Contact Page Settings: contact-us-page-settings.md

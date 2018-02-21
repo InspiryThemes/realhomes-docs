@@ -12,22 +12,22 @@ Go to **Dashboard → Pages → Add New**
 
 There are 3 templates for properties list pages.
 
-1. **Property Listing**
-2. **Property Grid**
+1. **Properties List**
+2. **Properties Grid**
 3. **Properties With Half Map**
 
 ![Properties Listing Templates](images/create-pages/properties-listing-templates.png)
 
-- You can filter properties based on your page requirements, Using meta boxes displayed in screen shot below. 
+You can filter properties based on your page requirements, Using meta boxes displayed in screen shot below. 
 
 ![Properties Filter Settings](images/create-pages/properties-filter.png)
 
-- You can modify information related to banner as displayed in screen shot below. 
+You can modify information related to banner as displayed in screen shot below. 
 
 ![Banner Area Settings](images/create-pages/banner-area-settings.png)
 
--Publish the page once it is ready.
+Publish the page once it is ready.
 
-- After publishing you need to add the newly created page in menu from **Dashboard → Appearance → Menus** 
+After publishing you need to add the newly created page in menu from **Dashboard → Appearance → Menus** 
 
 ![Adding Listing Page to the Menu](images/create-pages/add-listing-page-menu.png)
