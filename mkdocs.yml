@@ -50,17 +50,7 @@ pages:
     - Add Agent: add-agent.md
     - Agents Page: add-agents-page.md
     - Add Property: add-property.md
-    - Property Detail Page:
-      - Property Settings: property-detail-page-settings.md
-      - Breadcrumbs: property-breadcrumbs.md
-      - Basics: property-basics.md
-      - Common Note: property-common-note.md
-      - Video: property-video.md
-      - Virtual Tour: property-virtual-tour.md
-      - Map: property-map.md
-      - Attachments: property-attachments.md
-      - Agent: property-agent.md
-      - Similar Properties: similar-properties.md
+    - Property Settings: property-settings.md
     - Properties Page: add-properties-page.md
     - Gallery Page: add-gallery-page.md
     - Users Page: add-users-page.md
