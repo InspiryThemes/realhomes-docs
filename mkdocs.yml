@@ -59,9 +59,7 @@ pages:
       - Agent: property-agent.md
 #      - Views: property-views.md
       - Similar Properties: similar-properties.md
-    - News Page:
-      - Create News Page: create-news-page.md
-      - Configure Reading Settings: configurereadingsettings.md
+    - News Page: news-page.md
     - Add Content:
         - Add News Post: add-news-post.md
         - Add Agent: add-agent.md
