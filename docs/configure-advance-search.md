@@ -4,7 +4,7 @@ Before starting with this section, Make sure you have pretty permalinks enabled 
 
 Follow the steps below to configure the search functionality.
 
-### Step 1. Select Property Search Page
+## Step 1. Select Property Search Page
 
 Please navigate to **Dashboard → Appearance → Customize** and then go into **Properties Search → Properties Search Page** and select the Property Search Page. You can setup other options according to your requirements.
 
@@ -14,17 +14,14 @@ After this you will have a property search form displayed on homepage.
 
 Now, you can also use the RealHomes - Advance Search Widget in sidebar as that widget uses the same configurations.
 
-### Step 2. Show / Hide Fields and Search Form Labels
+## Step 2. Show / Hide Fields and Search Form Labels
 
 Navigate to Search Form Basics section in Properties Search panel, In this section you can show / hide fields on properties search form and you can also modify their labels.
 
-![Properties Search Basics](images/home-setup/search-form-basics.png)
+![Properties Search Basics](images/home-setup/search-form-basics.png) 
+![Searcch Form Basics](images/home-setup/search-basic-one.png) ![Searcch Form Basics](images/home-setup/search-basic-two.png)
 
-![Searcch Form Basics](images/home-setup/search-basic-one.png)
-
-![Searcch Form Basics](images/home-setup/search-basic-two.png)
-
-### Step 3. Configure Locations Field
+## Step 3. Configure Locations Field
 
 Properties Search panel contains a special section for Locations. Using which, Property location field in search form can be customized to fulfill your requirements. 
 
@@ -46,7 +43,7 @@ If you face any confusion, Simply make the changes in settings and preview them 
 
 You can also Hide Empty Locations and Sort Locations Alphabetically. It means that if a location is not assigned to any property it won't be displayed in the location drop-down list.
 
-### Step 4. Minimum and Maximum Values For Beds & Baths
+## Step 4. Minimum and Maximum Values For Beds & Baths
 
 Properties Search panel also contains a special section for Beds & Baths. Using which, Beds and Baths fields can be customized to your requirements.
 
@@ -60,7 +57,7 @@ In this section:
 
 3) You can modify the search behaviour for beds and baths to Minimum, Maximum or Equals.
 
-### Step 5. Minimum and Maximum Values For Garages
+## Step 5. Minimum and Maximum Values For Garages
 
 Properties Search panel contains a special section for Garages. Using which, Garages fields can be customized to your requirements.
 
@@ -74,15 +71,13 @@ In this section:
 
 3) You can modify the search behaviour for garages to Minimum, Maximum or Equals.
 
-### Step 6. Minimum and Maximum Prices
+## Step 6. Minimum and Maximum Prices
 
 Properties Search panel also contains a special section for Prices. Using which, Minimum and Maximum prices fields can be customized to your requirements.
 
-![Minimum and Maximum Prices](images/home-setup/min-max-price-first.png)
+![Minimum and Maximum Prices](images/home-setup/min-max-price-first.png) ![Minimum and Maximum Prices](images/home-setup/min-max-price-second.png)
 
-![Minimum and Maximum Prices](images/home-setup/min-max-price-second.png)
-
-### Step 7. Minimum and Maximum Area / Related Labels and Placeholder Texts
+## Step 7. Minimum and Maximum Area / Related Labels and Placeholder Texts
 
 Properties Search panel contains a section for Area. Using which, Minimum and Maximum area fields can be customized to your requirements.
 
