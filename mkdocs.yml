@@ -55,13 +55,13 @@ pages:
     - Users Page: add-users-page.md
     - Full Width Page: add-full-width-page.md
     - Contact Page: contact-page.md
-    - Setting Up Member Pages:
-          - Setting Up Login / Register: setting-up-login-register.md
-          - Set Up Social Login: set-up-social-login.md
-          - Set Up Submit Property Page: set-up-submit-property-page.md
-          - Set Up My Properties Page: set-up-my-properties-page.md
-          - Set Up Edit Profile Page: set-up-edit-profile-page.md
-          - Set Up Favorites Page: set-up-favorites.md
+    - Members Pages:
+      - Login and Registration: login-and-registration.md
+      - Social Login: set-up-social-login.md
+      - Property Submit Page: set-up-submit-property-page.md
+      - My Properties Page: set-up-my-properties-page.md
+      - Edit Profile Page: set-up-edit-profile-page.md
+      - Favorites Page: set-up-favorites.md
     - Setting Up Membership:
           - Installation: ims-installation.md
           - Basic Settings: ims-basic-settings.md
