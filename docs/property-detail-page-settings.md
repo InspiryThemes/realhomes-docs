@@ -1,6 +1,10 @@
 # Property Detail Page Settings
 
-There are 10 types of different settings you can change for **Property Detail Pag**e (Single Property Page).
+To change property detail page settings you can go to “**Dashboard → Appearance → Customize → Property Detail Page**”.
+
+![Property Detail Page Settings](images/single-property-page/properties-detail-page.png)
+
+It will allow you configure setting for following modules in property detail page.
 
 1. Breadcrumbs
 2. Basics
@@ -11,7 +15,3 @@ There are 10 types of different settings you can change for **Property Detail Pa
 7. Attachments
 8. Agent
 9. Similar Properties
-
-To change any of the above settings you can go to “**Dashboard → Appearance → Customize → Property Detail Page**”.
-
-![Property Detail Page Settings](images/single-property-page/properties-detail-page.png)

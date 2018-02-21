@@ -47,8 +47,8 @@ pages:
     - Properties Search:
       - Create Property Search Page: create-search-page.md
       - Configure Properties Search: configure-advance-search.md
-    - Property Page:
-      - Property Detail Page Settings: property-detail-page-settings.md
+    - Property Detail Page:
+      - Property Settings: property-detail-page-settings.md
       - Breadcrumbs: property-breadcrumbs.md
       - Basics: property-basics.md
       - Common Note: property-common-note.md
