@@ -2,45 +2,61 @@
 
 Go to **Dashboard → Real Homes → Properties → Add New**
 
-- Provide property title 
+### Add Property Title
 
 ![Property Title](images/add-content/add-property-title.png)
 
-- Add property description 
+### Add Property Description
 
 ![Property Description](images/add-content/property-description.png)
 
-- Add basic information related to property, Like price, area, beds, baths, garages etc. If you want to add this property into featured properties then mark this property as featured. 
+### Add Basic Information
+
+Add basic information related to property, Like price, area, beds, baths, garages etc. 
+
+If you want to add this property into featured properties then mark this property as featured. 
 
 ![Property Basic Information](images/add-content/basic-info.png)
 
-- Provide property address and drag the google map pointer to correct location. 
+### Provide Location on Google Map
+
+Provide property address and drag the google map pointer to correct location. 
 
 ![Property Map](images/add-content/property-map.png)
 
-- Provide property gallery images if any 
+### Add Gallery Images
+
+Provide property gallery images.
 
 ![Property Gallery](images/add-content/property-gallery.png)
 
-- Provide floor plans details if any 
+### Add Floor Plans
+
+Provide floor plan details.
 
 ![Property Floor Plans](images/add-content/floor-plans.png)
 
-- Provide property featured image (it is a must ) 
+### Add Featured Image
+
+Provide property featured image (it is a must ) 
 
 ![Property Featured Image](images/add-content/property-featured-image.png)
 
-- If your property has any virtual tour video then it is recommended that you upload the video on vimeo or youtube and provide it's URL here with related screen shot or property photo.
+### Add Video Tour and Virtual Tour
+
+If your property has any virtual tour video then it is recommended that you upload the video on vimeo or youtube and provide it's URL here with related screen shot or property photo.
 
 > You can also add 360 Virtual Tour of your property using iframe tag. For example, the following code will add a 360 virtual tour from matterport.com to your property. 
 
 `<iframe src="https://my.matterport.com/show/?m=aSx1MpRRqif&play=1" width="100%" height="100%" allowvr="" allowfullscreen="allowfullscreen"></iframe>`
 
-![Property Description](images/add-content/property-video.png)
+![Property Video](images/add-content/property-video.png)
 
-- Choose the kind of information you want to display in agent's information box. 
+### Assign Agent Information
 
-![Property Agent Selection](images/add-content/property-agent-info.png)
+Choose the kind of information you want to display in agent's information box. 
+
+![Property Agent](images/add-content/property-agent-info.png)
 
 > Difference Between Author Profile Information and Agent's Information 
 
@@ -52,19 +68,29 @@ Go to **Dashboard → Real Homes → Properties → Add New**
 2. Author profile information will display the Author( user who added the property ) information. You can configure your user information from edit profile page ( Please check related documentation section for details of setting up front end profile edit page ). 
 If you have adequate rights, You can also modify the author from Author meta box on property edit page. 
 ![Property Author](images/add-content/property-author.png)
-3. Display agent's information will display the selected agent's information. You can add the agent from **Dashboard → Agents → Add New**
+3. Display agent's information will display the selected agent's information. You can add the agent from **Dashboard → Agents → Add New**.
 
-- If you want to make this property stick to top on home page and listing pages, then mark this property as sticky. You can add a label to the property as well. You can also provide any documents related to a property as attachments. You may use the private notes box to keep some private notes related to a property. Real Homes Theme Documentation
+### Mark Property as Sticky
 
-- If you want to add this property in homepage slider then check the related option and provide slide image.
+If you want to make this property stick to top on home page and listing pages, then mark this property as sticky.
+
+![Property Floor Plans](images/add-content/sticky-property.png)
+
+### Add Property in Homepage Slider
+
+If you want to add this property in homepage slider then check the related option and provide slide image.
 
 ![Property Home Slider](images/add-content/property-home-slider.png)
 
-- You can provide any additional information as key-value pairs. 
+### Add Aditional Information
+
+You can provide any additional information as key-value pairs. 
 
 ![Property Additional Information](images/add-content/additional-information.png)
 
-- You can choose or add property features from related meta box displayed in screen shot below.
+### Add/Select Property Features
+
+You can choose or add property features from related meta box displayed in screen shot below.
 
 ![Property Features](images/add-content/property-features.png)
 
@@ -82,20 +108,28 @@ You can also add an icon to a property feature. This icon will appear on the pro
 
 	Note: Recommended image size for icon is 64px by 64px.
 
-- You can choose or add property types from related meta box displayed in screen shot below.
+### Add/Assign Property Types
 
-![Property Type](images/add-content/property-type.png)
+You can choose or add property types from related meta box displayed in screen shot below.
 
-- You can choose or add property locations from related meta box displayed in screen shot below.
+![Property Type](images/add-content/choose-property-types.png)
+
+### Add/Assign Property Locations
+
+You can choose or add property locations from related meta box displayed in screen shot below.
 
 ![Property City](images/add-content/property-city.png)
 
-- You can choose or add property statuses from related meta box displayed in screen shot below. 
+### Add/Assign Property Statuses
 
-![Property Description](images/add-content/property-status.png)
+You can choose or add property statuses from related meta box displayed in screen shot below. 
 
-- If this property is a sub/child property of another property then you can select the parent property from related meta box displayed in screen shot below. 
+![Property Status](images/add-content/property-status.png)
+
+### Assign Parent Property
+
+If this property is a sub/child property of another property then you can select the parent property from related meta box displayed in screen shot below. 
 
 ![Property Attributes](images/add-content/property-attributes.png)
 
-- Publish the property post once it is ready.
+**Publish the property post once it is ready**.
