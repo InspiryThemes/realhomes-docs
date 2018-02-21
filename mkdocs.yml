@@ -62,7 +62,7 @@ pages:
             - My Properties Page: my-properties.md
             - Edit Profile Page: edit-profile.md
             - Favorites Page: favorites-page.md
-        - Setting Up Membership:
+        - Setup Memberships:
             - Installation: ims-installation.md
             - Basic Settings: ims-basic-settings.md
             - Stripe Settings: ims-stripe-settings.md
