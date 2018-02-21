@@ -61,7 +61,7 @@ pages:
             - Submit Property Page: submit-property.md
             - My Properties Page: my-properties.md
             - Edit Profile Page: edit-profile.md
-            - Favorites Page: set-up-favorites.md
+            - Favorites Page: favorites-page.md
         - Setting Up Membership:
             - Installation: ims-installation.md
             - Basic Settings: ims-basic-settings.md
