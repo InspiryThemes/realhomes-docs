@@ -68,4 +68,6 @@ resources/sass/HTML
 resources/sass/Rails
 HTML
 Rails
+
+# mkdocs built folder should be local for every developer so no need to have it on repository.
 /site/
