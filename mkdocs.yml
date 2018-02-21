@@ -32,8 +32,7 @@ pages:
   - Classic:
     - Header: configure-header-settings.md
     - Homepage:
-      - Create Homepage: create-homepage.md
-      - Reading Settings: configure-reading-settings.md
+      - Create and Configure: home-page.md
       - Sections Manager: sections-manager.md
       - Homepage Settings: homepage-settings.md
       - Search Form Over Image: search-form-over-image.md
@@ -44,6 +43,7 @@ pages:
       - Features Area: homepage-features.md
       - Featured Properties: homepage-featured-properties.md
       - News Section: homepage-news.md
+    - News Page: news-page.md
     - Properties Search:
       - Create Property Search Page: create-search-page.md
       - Configure Properties Search: configure-advance-search.md
@@ -59,7 +59,6 @@ pages:
       - Agent: property-agent.md
 #      - Views: property-views.md
       - Similar Properties: similar-properties.md
-    - News Page: news-page.md
     - Add Content:
         - Add News Post: add-news-post.md
         - Add Agent: add-agent.md
