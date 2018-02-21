@@ -76,7 +76,6 @@ pages:
             - Property Types: property-types.md
             - Advance Search Widget: advance-search-widget.md
         - Other Features:
-            - Properties Shortcode: properties-shortcode.md
             - Other Shortcode: other-shortcode.md
             - Compare Properties: compare-properties.md
             - FAQs: faqs-setup.md
@@ -173,7 +172,6 @@ pages:
             - Property Types: property-types-modern.md
             - Advance Search Widget: advance-search-widget-modern.md
         - Other Features:
-            - Properties Shortcode: properties-shortcode-modern.md
             - Other Shortcode: other-shortcode-modern.md
             - Compare Properties: compare-properties-modern.md
             - FAQs: faqs-setup-modern.md
@@ -209,6 +207,7 @@ pages:
             - Hire Customization Services: hire-customization-services-modern.md
     - Price Format Settings: price-format-settings.md
     - URL Slug Settings: url-slugs-settings.md
+    - Properties Shortcode: properties-shortcode.md
     - Included Plugins:
         - Visual Composer: visual-composer.md
         - Slider Revolution: slider-revolution.md

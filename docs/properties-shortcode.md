@@ -2,13 +2,13 @@
 
 `[properties]` short code facilitates you to display properties based on any filter you want at any page you want.
 
-Examples
+##Examples
 
-1st Example: 
+###1st Example: 
 
 `[properties count="4" layout="list" orderby="price" order="ASC" locations="miami" types="residential" statuses="for-sale" featured="no"]`
 
-2nd Example:
+###2nd Example:
  
 `[properties count="6" layout="grid"]`
 
@@ -34,7 +34,7 @@ You can use the reference provided below to add attributes to properties shortco
 | max_area	  | null | To display properties with area less than or equal to maximum area value. <br>Example value: 4500 ( only provide digits without any comma or dash )| 
 | featured    | no   | To display featured properties. Possible values are "no" and "yes" |
 
-### Visual Composer Support
+## Visual Composer Support
 
 `[properties]` short code comes integrated with visual composer and if you have installed and activated visual composer then make sure you have enabled it from visual composer settings as displayed in screen shot below. 
 
