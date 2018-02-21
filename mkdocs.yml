@@ -46,7 +46,6 @@ pages:
     - News Page: news-page.md
     - Add News Post: add-news-post.md
     - Properties Search Page: properties-search-page.md
-    #- Add Content:
     - Add Agent: add-agent.md
     - Agents Page: add-agents-page.md
     - Add Property: add-property.md
@@ -55,9 +54,7 @@ pages:
     - Gallery Page: add-gallery-page.md
     - Users Page: add-users-page.md
     - Full Width Page: add-full-width-page.md
-    - Setting Up Contact Us Page:
-          - Add Contact Us Page: add-contact-us-page.md
-          - Contact Page Settings: contact-us-page-settings.md
+    - Contact Page: contact-page.md
     - Setting Up Member Pages:
           - Setting Up Login / Register: setting-up-login-register.md
           - Set Up Social Login: set-up-social-login.md
