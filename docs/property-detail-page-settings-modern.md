@@ -12,6 +12,6 @@ There are 10 types of different settings you can change for **Property Detail Pa
 8. Views
 9. Similar Properties
 
-To change any of the above settings you can go to “**Dashboard → Appearance → Customize → Property Detail Page**”.
+To change any of the above settings you can go to “**Dashboard → Real Homes → Customize Settings → Property Detail Page**”.
 
 ![Property Detail Page Settings](images/home-setup/customize-homepage.png)

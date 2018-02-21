@@ -1,6 +1,6 @@
 # Featured Properties on Home Page
 
-Navigate to **Dashboard → Appearance → Customize** and look for **Home Page → Featured Properties** section for related settings.
+Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → Featured Properties** section for related settings.
 
 ![Customize Home Page](images/home-setup/customize-homepage.png)
 

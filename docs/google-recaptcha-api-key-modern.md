@@ -4,7 +4,7 @@ To configure **Google reCAPTCHA** you need to register your website at [Visit Go
 
 ![Register a New Site - Google reCAPTCHA](images/google-recaptcha/register-new-site-google-recaptcha.png) 
 
-After that use those keys to fill the related fields in **Dashboard → Appearance → Customize → Misc** as displayed below.
+After that use those keys to fill the related fields in **Dashboard → Real Homes → Customize Settings → Misc** as displayed below.
 
 ![Register a New Site - Google reCAPTCHA](images/google-recaptcha/google-recaptcha-api-settings.png)
 

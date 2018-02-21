@@ -28,7 +28,7 @@ To add Login & Register page, Go to **Dashboard → Pages → Add New**
 
 ### Configure Related Settings
 
-- Now you need to go to **Dashboard → Appearance → Customize** and look for Members panel.
+- Now you need to go to **Dashboard → Real Homes → Customize Settings** and look for Members panel.
 
 ![Members in Customizer Settings](images/member-pages/members-customizer.png)
 

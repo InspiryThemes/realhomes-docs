@@ -20,7 +20,7 @@ To add Favorite Properties page, Go to **Dashboard → Pages → Add New**
 
 - Publish the page once it is ready.
 
-- Now you need to navigate to **Dashboard → Appearance → Customizer → Favorites** and look for **Members** panel.
+- Now you need to navigate to **Dashboard → Real Homes → Customize Settings → Favorites** and look for **Members** panel.
 
 ![Real Homes Documentation](images/member-pages/members-customizer.png)
 

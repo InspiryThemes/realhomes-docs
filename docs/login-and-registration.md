@@ -1,4 +1,4 @@
-# Login & Registration
+# Setup Login & Registration
 
 ## Allow Registration
 

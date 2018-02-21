@@ -14,7 +14,7 @@ To add Submit Property page, Go to Dashboard → Pages → Add New
 
 - Publish the page once it is ready.
 
-- Now you need to navigate to **Dashboard → Appearance → Customizer** and look for Members panel. This panel contains Submit Property section where you can configure related settings.
+- Now you need to navigate to **Dashboard → Real Homes → Customize Settings** and look for Members panel. This panel contains Submit Property section where you can configure related settings.
 
 **Some important things to note here:**
 

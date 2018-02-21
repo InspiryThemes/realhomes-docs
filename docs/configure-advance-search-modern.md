@@ -6,7 +6,7 @@ Follow the steps below to configure the search functionality.
 
 ### Step 1. Select Property Search Page
 
-Please navigate to **Dashboard → Appearance → Customize** and then go into **Properties Search → Properties Search Page** and select the Property Search Page. You can setup other options according to your requirements.
+Please navigate to **Dashboard → Real Homes → Customize Settings** and then go into **Properties Search → Properties Search Page** and select the Property Search Page. You can setup other options according to your requirements.
 
 ![Properties Search Page Settings](images/home-setup/search-page-settings-full.png)
 

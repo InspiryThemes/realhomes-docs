@@ -5,6 +5,6 @@ After installing Revolution Slider please navigate to **Dashboard → Slider Rev
 
 ![Real Homes Documentation](images/included-plugins/rs-1.png)
 
-Once the slider is imported then set it in the **Customizer Settings** (**Dashboard → Appearance → Customizer → Home Page → Slider Area → What to Display Below Header on Home Page ?** and set this option as **Slider Based on Revolution Slider Plugin** and set **Revolution Slider Alias** as **realhomes**.
+Once the slider is imported then set it in the **Customizer Settings** (**Dashboard → Real Homes → Customize Settings → Home Page → Slider Area → What to Display Below Header on Home Page ?** and set this option as **Slider Based on Revolution Slider Plugin** and set **Revolution Slider Alias** as **realhomes**.
 
 ![Real Homes Documentation](images/included-plugins/rs-2.png)

@@ -28,7 +28,7 @@ Next step is to configure **Contact Page** settings.
 
 ## Contact Settings
 
-Navigate to **Dashboard → Appearance → Customize** and look for **Various Pages** panel, In this panel look for **Contact Page** section and explore all the available settings in this section to configure Contact page.
+Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Various Pages** panel, In this panel look for **Contact Page** section and explore all the available settings in this section to configure Contact page.
 
 ![Various Pages](images/contact-page/various-pages.png) ![Various Pages Panel](images/contact-page/various-pages-panel.png)
 

@@ -1,6 +1,6 @@
 # Agents Section on Home Page
 
-Navigate to **Dashboard → Appearance → Customize** and look for **Home Page → Agents Section** for related settings.
+Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → Agents Section** for related settings.
 
 ![Features On Home Page](images/home-setup/customize-homepage.png)
 

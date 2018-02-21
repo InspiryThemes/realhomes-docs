@@ -14,7 +14,7 @@ To add Edit Profile page, Go to **Dashboard → Pages → Add New**
 
 - Publish the page once it is ready.
 
-- Now you need to navigate to **Dashboard → Appearance → Customizer** and look for **Members** panel. This panel contains **Edit Profile** section where you can configure related settings.
+- Now you need to navigate to **Dashboard → Real Homes → Customize Settings** and look for **Members** panel. This panel contains **Edit Profile** section where you can configure related settings.
 
 ![Real Homes Documentation](images/member-pages/members-customizer.png)
 

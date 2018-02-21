@@ -14,7 +14,7 @@ To add My Properties page, Go to **Dashboard → Pages → Add New**
 
 - Publish the page once it is ready.
 
-- Now you need to navigate to **Dashboard → Appearance → Customizer** and look for Members panel. This panel contains My Properties section where you can configure related settings. **Select My Properties** page from dropdown as displayed in above screenshot.
+- Now you need to navigate to **Dashboard → Real Homes → Customize Settings** and look for Members panel. This panel contains My Properties section where you can configure related settings. **Select My Properties** page from dropdown as displayed in above screenshot.
 
 ![Real Homes Documentation](images/member-pages/members-customizer.png)
 

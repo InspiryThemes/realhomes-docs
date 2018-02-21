@@ -2,25 +2,25 @@
 
 ## Intro
 
-To change property settings you can go to “**Dashboard → Appearance → Customize → Property Detail Page**”.
+To change property settings you can go to “**Dashboard → Real Homes → Customize Settings → Property Detail Page**”.
 
 ![Property Detail Page Settings](images/single-property-page/properties-detail-page.png)
 
 ## Breadcrumbs
 
-Breadcrumb settings can be controlled via **Dashboard → Appearance → Customize → Property Detail Page → Breadcrumbs**.
+Breadcrumb settings can be controlled via **Dashboard → Real Homes → Customize Settings → Property Detail Page → Breadcrumbs**.
 
 ![Breadcrumbs on Property Detail Page](images/single-property-page/property-breadcrumbs.png) ![Breadcrumbs on Property Detail Page](images/single-property-page/breadcrumbs-on-property-details-page.png)
 
 ## Basic
 
-There are multiple options for property detail page in this section. To modify them go to **Dashboard → Appearance → Customize → Property Detail Page → Basics**.
+There are multiple options for property detail page in this section. To modify them go to **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
 
 ![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics.png)  ![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics-2.png)
 
 ## Common Note
 
-A common note can also be added on property page via **Dashboard → Appearance → Customize → Property Detail Page → Common Note**. 
+A common note can also be added on property page via **Dashboard → Real Homes → Customize Settings → Property Detail Page → Common Note**. 
 
 Please note that this note will be displayed on every property page.
 
@@ -30,7 +30,7 @@ Please note that this note will be displayed on every property page.
 
 ## Video
 
-Property Video Settings are located in **Dashboard → Appearance → Customize → Property Detail Page → Video**. You can either choose to display the video or hide it.
+Property Video Settings are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Video**. You can either choose to display the video or hide it.
 
 ![Property Video Settings](images/single-property-page/property-video.png)
 
@@ -38,7 +38,7 @@ Property Video Settings are located in **Dashboard → Appearance → Customize 
 
 ## Virtual Tour
 
-Property Virtual Tour Settings are located in **Dashboard → Appearance → Customize → Property Detail Page → Virtual Tour**. You can either choose to display the virtual tour or hide it.
+Property Virtual Tour Settings are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Virtual Tour**. You can either choose to display the virtual tour or hide it.
 
 ![Property Virtual Tour Settings](images/single-property-page/property-virtual-tour.png)
 
@@ -46,7 +46,7 @@ Property Virtual Tour Settings are located in **Dashboard → Appearance → Cus
 
 ## Google Map
 
-Property Map Settings can be found in **Dashboard → Appearance → Customize → Property Detail Page → Property Map**. You can either choose to display the google map or hide it.
+Property Map Settings can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Property Map**. You can either choose to display the google map or hide it.
 
 ![Property Map on Property Detail Page](images/single-property-page/property-map.png)
 
@@ -56,7 +56,7 @@ Property Map Settings can be found in **Dashboard → Appearance → Customize �
 
 ## Attachments
 
-**Property Attachments Settings** can be found in **Dashboard → Appearance → Customize → Property Detail Page → Attachments**. You can either choose to display the property attachment or hide them and the attachments can be in .jpg/.png/.pdf formats.
+**Property Attachments Settings** can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Attachments**. You can either choose to display the property attachment or hide them and the attachments can be in .jpg/.png/.pdf formats.
 
 ![Property Attachments on Property Detail Page](images/single-property-page/property-attachments.png)
 
@@ -64,7 +64,7 @@ Property Map Settings can be found in **Dashboard → Appearance → Customize �
 
 ## Agent
 
-**Property Agent Settings** can be changed via **Dashboard → Appearance → Customize → Property Detail Page → Agent**. You can either choose to display the agent on property detail page or hide this section. A copy of the message sent to agent can also be received by adding your email in "**Email Address to Get Copy**" and make sure to select "**Yes**" for the option which says "**Get Copy of Message Sent to Agent**".
+**Property Agent Settings** can be changed via **Dashboard → Real Homes → Customize Settings → Property Detail Page → Agent**. You can either choose to display the agent on property detail page or hide this section. A copy of the message sent to agent can also be received by adding your email in "**Email Address to Get Copy**" and make sure to select "**Yes**" for the option which says "**Get Copy of Message Sent to Agent**".
 
 ![Property Agents Settings](images/single-property-page/property-agent.png)
 
@@ -72,7 +72,7 @@ Property Map Settings can be found in **Dashboard → Appearance → Customize �
 
 ## Similar Properties on Property Detail Page
 
-**Similar Properties Settings** are located in **Dashboard → Appearance → Customize → Property Detail Page → Similar Properties**.
+**Similar Properties Settings** are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Similar Properties**.
 
 * Just like all other settings for property detail page's elements you can choose to display the similar properties section on property detail page or hide it.
 * You can also select how similar properties will be selected based on their features, types, locations and status.

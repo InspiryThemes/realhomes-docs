@@ -12,7 +12,7 @@ Select the **Compare Properties** template from page attributes.
 
 **Publish** the page once you are ready.
 
-Now you need to navigate to **Dashboard → Appearance → Customizer** and look for **Compare Properties** panel.
+Now you need to navigate to **Dashboard → Real Homes → Customize Settings** and look for **Compare Properties** panel.
 
 ![Real Homes Documentation](images/other-features/compare-properties-panel.png)
 

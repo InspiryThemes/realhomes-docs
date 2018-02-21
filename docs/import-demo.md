@@ -89,7 +89,7 @@ To configure reading settings you need to visit **Dashboard → Settings → Rea
 
 To import Customizer settings you have to install [Customizer Export/Import](https://wordpress.org/plugins/customizer-export-import/). 
 
-Once the plugin is installed and activate then navigate to **Dashboard → Appearance → Customize → Export/Import** and then select the customizer.dat file for the relevant design variation (Classic or Modern).
+Once the plugin is installed and activate then navigate to **Dashboard → Real Homes → Customize Settings → Export/Import** and then select the customizer.dat file for the relevant design variation (Classic or Modern).
 
 ![Screenshot](images/import-demo/import-customizer-settings.png)
 

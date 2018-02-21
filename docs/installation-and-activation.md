@@ -34,7 +34,7 @@ if you face any problem during upload through dashboard, please upload the theme
 2. Go to the '**wp-content → themes**' folder of your WordPress installation
 3. Extract the **realhomes.zip** file and put the realhomes folder in '**wp-content → themes**' folder
 4. Go to '**Dashboard → Appearance → Themes**' section to activate the theme
-5. After activation go to "**Dashboard → Appearance → Customize**" to play with theme's settings.
+5. After activation go to "**Dashboard → Real Homes → Customize Settings**" to play with theme's settings.
 
 ## Install Child Theme ( Highly Recommended )
 

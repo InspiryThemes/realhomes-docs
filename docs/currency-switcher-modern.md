@@ -18,7 +18,7 @@ Provide the **API key** and save the changes.
 
 ![Real Homes Documentation](images/other-features/wp-currencies-settings.png)
 
-Now you need to navigate to **Dashboard → Appearance → Customizer** and look for Header panel. This panel contains **Currency Switcher** section ( which only appears if related plugin is installed ) There you can configure related settings.
+Now you need to navigate to **Dashboard → Real Homes → Customize Settings** and look for Header panel. This panel contains **Currency Switcher** section ( which only appears if related plugin is installed ) There you can configure related settings.
 
 ![Real Homes Documentation](images/other-features/header-customizer.png)
 

@@ -2,7 +2,7 @@
 
 ## Header Panel
 
-Navigate to **Dashboard → Appearance → Customize** and look into **Site Identity** and Header section to explore further settings.
+Navigate to **Dashboard → Real Homes → Customize Settings** and look into **Site Identity** and Header section to explore further settings.
 
 ![Configure Header Settings](images/home-setup/header-settings.png)
 
@@ -20,7 +20,7 @@ You can customize almost all the components of the header from this very section
 
 ## Header Variation
 
-To change header variation please navigate to **Dashboard → Appearance → Customize → Header → Others** and select **Center** for the option which says Choose **Header Variation**. You can also **Enable/Disable** the **Sticky Header** in this section.
+To change header variation please navigate to **Dashboard → Real Homes → Customize Settings → Header → Others** and select **Center** for the option which says Choose **Header Variation**. You can also **Enable/Disable** the **Sticky Header** in this section.
 
 ![Header Variation](images/home-setup/header-variation.png)
 

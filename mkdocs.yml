@@ -56,9 +56,9 @@ pages:
     - Full Width Page: add-full-width-page.md
     - Contact Page: contact-page.md
     - Members Pages:
-      - Login and Registration: login-and-registration.md
-      - Social Login: set-up-social-login.md
-      - Property Submit Page: set-up-submit-property-page.md
+      - Setup Login and Registration: login-and-registration.md
+      - Setup Social Login: setup-social-login.md
+      - Submit Property Page: submit-property.md
       - My Properties Page: set-up-my-properties-page.md
       - Edit Profile Page: set-up-edit-profile-page.md
       - Favorites Page: set-up-favorites.md

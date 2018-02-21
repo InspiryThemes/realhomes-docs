@@ -1,6 +1,6 @@
 # Properties on Home Page
 
-Navigate to **Dashboard → Appearance → Customize** and look for **Home Page → Home Properties** section for related settings.
+Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → Home Properties** section for related settings.
 
 ![Home Properties Section](images/home-setup/customize-homepage-prop-full.png)
 

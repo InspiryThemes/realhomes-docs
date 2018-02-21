@@ -2,7 +2,7 @@
 
 There are various options available to modify styles in this theme.
 
-**Styles Settings** - Go to **Dashboard → Appearance → Customize** for various styles related sections. 
+**Styles Settings** - Go to **Dashboard → Real Homes → Customize Settings** for various styles related sections. 
 
 **Some common styles options.**
 
@@ -16,7 +16,7 @@ There are various options available to modify styles in this theme.
 
 ![Real Homes Documentation](images/customize-theme/custimize-3.png)
 
-**Quick CSS** - Go to **Dashboard → Appearance → Customize** and navigate to **Styles → Basic** to add any quick css. 
+**Quick CSS** - Go to **Dashboard → Real Homes → Customize Settings** and navigate to **Styles → Basic** to add any quick css. 
 
 ![Real Homes Documentation](images/customize-theme/customize-4.png)
 

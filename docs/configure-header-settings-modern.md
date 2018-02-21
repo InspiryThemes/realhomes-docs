@@ -2,7 +2,7 @@
 
 ## Header Panel
 
-Navigate to **Dashboard → Appearance → Customize** and look into **Site Identity** and Header section to explore further settings.
+Navigate to **Dashboard → Real Homes → Customize Settings** and look into **Site Identity** and Header section to explore further settings.
 
 ![Configure Header Settings](images/home-setup/header-settings.png)
 
@@ -20,6 +20,6 @@ You can customize almost all the components of the header from this very section
 
 ## Header Styles
 
-To change header styles please navigate to **Dashboard → Appearance → Customize → Header → Styles** and change the style of the heading .
+To change header styles please navigate to **Dashboard → Real Homes → Customize Settings → Header → Styles** and change the style of the heading .
 
 ![Header Variation](images/home-setup/header-styles-modern.png)

@@ -1,6 +1,6 @@
 # Display Image Banner on Home Page
 
-To display image banner on homepage, Navigate to **Dashboard → Appearance → Customize** and Go to section **Home Page → Slider Area** and choose banner related option as displayed in screenshot below.
+To display image banner on homepage, Navigate to **Dashboard → Real Homes → Customize Settings** and Go to section **Home Page → Slider Area** and choose banner related option as displayed in screenshot below.
 
 ![Image Banner Home Page](images/home-setup/image-banner-homepage.png)
 
