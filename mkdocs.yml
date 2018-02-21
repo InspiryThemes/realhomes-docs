@@ -60,7 +60,7 @@ pages:
             - Setup Social Login: setup-social-login.md
             - Submit Property Page: submit-property.md
             - My Properties Page: my-properties.md
-            - Edit Profile Page: set-up-edit-profile-page.md
+            - Edit Profile Page: edit-profile.md
             - Favorites Page: set-up-favorites.md
         - Setting Up Membership:
             - Installation: ims-installation.md
