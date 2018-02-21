@@ -45,9 +45,11 @@ pages:
       - News Section: homepage-news.md
     - News Page: news-page.md
     - Add News Post: add-news-post.md
-    - Properties Search:
-      - Create Property Search Page: create-search-page.md
-      - Configure Properties Search: configure-advance-search.md
+    - Properties Search Page: properties-search-page.md
+    #- Add Content:
+    - Add Agent: add-agent.md
+    - Agents Page: add-agents-page.md
+    - Add Property: add-property.md
     - Property Detail Page:
       - Property Settings: property-detail-page-settings.md
       - Breadcrumbs: property-breadcrumbs.md
@@ -59,10 +61,6 @@ pages:
       - Attachments: property-attachments.md
       - Agent: property-agent.md
       - Similar Properties: similar-properties.md
-    #- Add Content:
-    - Add Agent: add-agent.md
-    - Agents Page: add-agents-page.md
-    - Add Property: add-property.md
     - Properties Page: add-properties-page.md
     - Gallery Page: add-gallery-page.md
     - Users Page: add-users-page.md
