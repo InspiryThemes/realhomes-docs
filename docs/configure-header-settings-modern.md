@@ -20,6 +20,6 @@ You can customize almost all the components of the header from this very section
 
 ## Header Styles
 
-To change header styles please navigate to **Dashboard → Real Homes → Customize Settings → Header → Styles** and change the style of the heading .
+To change header styles please navigate to **Dashboard → Real Homes → Customize Settings → Header → Styles**  .
 
 ![Header Variation](images/home-setup/header-styles-modern.png)

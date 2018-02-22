@@ -29,8 +29,10 @@ pages:
     - Installation & Activation: installation-and-activation.md
     - Selection Of Design: design-selection.md
     - Import Demo Contents: import-demo.md
+    - Header Settings: configure-header-settings.md
     - Classic:
-        - Header: configure-header-settings.md
+#        - Header: configure-header-settings.md
+# TODO: link to currency switcher
         - Homepage:
             - Create and Configure: home-page.md
             - Sections Manager: sections-manager.md
@@ -113,7 +115,7 @@ pages:
             - Create Home Page: create-homepage-modern.md
             - Configure Reading Settings: configure-reading-settings-modern.md
             - Sections Manager: sections-manager-modern.md
-            - Configure Header Settings: configure-header-settings-modern.md
+#            - Configure Header Settings: configure-header-settings-modern.md
             - Home Page Settings: homepage-settings-modern.md
             - Google Maps on Home Page: homepage-google-maps-modern.md
             - Home Properties: homepage-properties-modern.md
