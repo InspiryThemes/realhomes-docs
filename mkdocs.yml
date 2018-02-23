@@ -30,7 +30,10 @@ pages:
     - Selection Of Design: design-selection.md
     - Import Demo Contents: import-demo.md
     - Header Settings: configure-header-settings.md
-    - Home Page Setup: home-page-setup.md
+    - Home Page Setup:
+        - Creating and Configuring Page: home-page-setup.md
+        - Home Page Settings Classic: homepage-settings-classic.md
+        - Home Page Settings Modern: homepage-settings-var-modern.md
     - Classic:
 #        - Header: configure-header-settings.md
 # TODO: link to currency switcher
