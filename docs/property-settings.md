@@ -12,11 +12,19 @@ Breadcrumb settings can be controlled via **Dashboard → Real Homes → Customi
 
 ![Breadcrumbs on Property Detail Page](images/single-property-page/property-breadcrumbs.png) ![Breadcrumbs on Property Detail Page](images/single-property-page/breadcrumbs-on-property-details-page.png)
 
+**Note:-** Property Breadcrumbs are not available in **Modern** Variation.
+
 ## Basic
 
 There are multiple options for property detail page in this section. To modify them go to **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
 
-![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics.png)  ![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics-2.png)
+![Basic Settings of Property Detail Page](images/single-property-page/banner-display.png)
+
+**Header Variation** option is available in **Modern** Variation only.
+
+![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics.png)
+
+![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics-2.png)
 
 ## Common Note
 
@@ -70,6 +78,12 @@ Property Map Settings can be found in **Dashboard → Real Homes → Customize S
 
 ![Agent On Property Page](images/single-property-page/agent-on-property-page.png)
 
+You can also show/hide contact form in **Modern** Variation.
+
+![Property Agents Settings](images/single-property-page/property-agent-mod.png)
+
+![Agent On Property Page](images/single-property-page/agent-on-property-page-mod.png)
+
 ## Similar Properties on Property Detail Page
 
 **Similar Properties Settings** are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Similar Properties**.
@@ -80,4 +94,8 @@ Property Map Settings can be found in **Dashboard → Real Homes → Customize S
 
 ![Similar Properties Settings](images/single-property-page/similar-properties.png)
 
+**Classic** Similar Properties
 ![Similar Properties on Property Page](images/single-property-page/similar-properties-frontend.png)
+
+**Modern** Similar Properties
+![Similar Properties on Property Page](images/single-property-page/similar-properties-frontend-mod.png)

@@ -22,9 +22,13 @@ You can filter properties based on your page requirements, Using meta boxes disp
 
 ![Properties Filter Settings](images/create-pages/properties-filter.png)
 
-You can modify information related to banner as displayed in screen shot below. 
+You can modify information related to banner as displayed in screen shot below for **Classic** Variation.
 
 ![Banner Area Settings](images/create-pages/banner-area-settings.png)
+
+You can modify information related to banner as displayed in screen shot below for **Modern** Varitaion.
+
+![Add Gallery Page](images/create-pages/agent-banner-area-settings-mod.png)
 
 Publish the page once it is ready.
 

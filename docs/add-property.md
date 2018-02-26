@@ -28,7 +28,11 @@ Provide property address and drag the google map pointer to correct location.
 
 Provide property gallery images.
 
-![Property Gallery](images/add-content/property-gallery.png)
+Gallery Images options for **Classic** Variation.
+![Property Gallery](images/add-content/property-gallery2.png)
+
+Gallery Images options for **Modern** Variation.
+![Property Gallery](images/add-content/property-gallery3.png)
 
 ### Add Floor Plans
 
