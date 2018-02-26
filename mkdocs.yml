@@ -34,6 +34,9 @@ pages:
         - Creating and Configuring Page: home-page-setup.md
         - Home Page Settings Classic: homepage-settings-classic.md
         - Home Page Settings Modern: homepage-settings-var-modern.md
+    - News Page and Post:
+        - Create News Page: news-page.md
+        - Add News Post: add-news-post.md
     - Classic:
 #        - Header: configure-header-settings.md
 # TODO: link to currency switcher
@@ -50,8 +53,8 @@ pages:
 #            - Features Area: homepage-features.md
 #            - Featured Properties: homepage-featured-properties.md
 #            - News Section: homepage-news.md
-        - News Page: news-page.md
-        - Add News Post: add-news-post.md
+#        - News Page: news-page.md
+#        - Add News Post: add-news-post.md
         - Properties Search Page: properties-search-page.md
         - Add Agent: add-agent.md
         - Agents Page: add-agents-page.md
