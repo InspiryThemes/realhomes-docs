@@ -32,14 +32,18 @@ pages:
     - Header Settings: configure-header-settings.md
     - Home Page Setup:
         - Creating and Configuring Page: home-page-setup.md
-        - Home Page Settings Classic: homepage-settings-classic.md
-        - Home Page Settings Modern: homepage-settings-var-modern.md
+        - Home Page Settings (Classic): homepage-settings-classic.md
+        - Home Page Settings (Modern): homepage-settings-var-modern.md
     - News Page and Post:
         - Create News Page: news-page.md
         - Add News Post: add-news-post.md
+    - Property Search Setup:
+        - Create Property Search Page: create-search-page-modern.md
+        - Configure Search (Classic): properties-search-page.md
+        - Configure Search (Modern): properties-search-page-mod.md
     - Classic:
 #        - Header: configure-header-settings.md
-# TODO: link to currency switcher
+# TODO: link to currency switcherproperties-search-page.md
 # TODO: link to Properties Search Form Home Page Setup
 #        - Homepage:
 #            - Create and Configure: home-page.md
@@ -55,7 +59,7 @@ pages:
 #            - News Section: homepage-news.md
 #        - News Page: news-page.md
 #        - Add News Post: add-news-post.md
-        - Properties Search Page: properties-search-page.md
+#        - Properties Search Page: properties-search-page.md
         - Add Agent: add-agent.md
         - Agents Page: add-agents-page.md
         - Add Property: add-property.md
@@ -131,9 +135,9 @@ pages:
             - Testimonials on Home Page: homepage-testimonials-modern.md
             - Agents Section: agents-homepage-modern.md
             - Features Area: homepage-features-modern.md
-        - Advance Search:
-            - Create Property Search Page: create-search-page-modern.md
-            - Configure Advance Search: configure-advance-search-modern.md
+#        - Advance Search:
+#            - Create Property Search Page: create-search-page-modern.md
+#            - Configure Advance Search: configure-advance-search-modern.md
         - Property Page:
             - Property Detail Page Settings: property-detail-page-settings-modern.md
             - Basics: property-basics-modern.md
