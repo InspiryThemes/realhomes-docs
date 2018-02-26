@@ -41,4 +41,8 @@ Now you need to navigate to **Dashboard → Real Homes → Customize Settings �
 
 Save the changes and your **Submit Property** page is ready for use. 
 
+**Classic**
 ![Social Login Form](images/member-pages/submit-property-front-end.png)
+
+**Modern**
+![Social Login Form](images/member-pages/submit-property-front-end-mod.png)

@@ -27,4 +27,8 @@ This panel contains My Properties section where you can configure related settin
 
 Save the changes and your My Properties page is ready to use.
 
+**Classic**
 ![Real Homes Documentation](images/member-pages/my-properties-front-end.png)
+
+**Modern** </br>
+![Real Homes Documentation](images/member-pages/my-properties-front-end-mod.png)

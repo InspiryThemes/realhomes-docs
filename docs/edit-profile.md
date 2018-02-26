@@ -28,4 +28,8 @@ This panel contains **Edit Profile** section where you can configure related set
 
 - Save the changes and your **Edit Profile** page is ready to use.
 
+**Classic**
 ![Real Homes Documentation](images/member-pages/edit-profile-front-end.png)
+
+**Modern** </br>
+![Real Homes Documentation](images/member-pages/edit-profile-front-end-mod.png)
