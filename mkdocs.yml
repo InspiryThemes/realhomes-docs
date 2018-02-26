@@ -63,6 +63,11 @@ pages:
               - PayPal Settings: ims-paypal-settings.md
               - Wire Settings: ims-wire-settings.md
               - Creating Membership Packages: creating-membership-packages.md
+    - Various Pages:
+        - Gallery Page: add-gallery-page.md
+        - Users Page: add-users-page.md
+        - Full Width Page: add-full-width-page.md
+        - Contact Page: contact-page.md
     - Widgets:
         - Mortgage Calculator: mortgage-calculator.md
         - Twitter Widget: twitter-widget.md
@@ -101,10 +106,10 @@ pages:
 #        - Add Property: add-property.md
 #        - Property Settings: property-settings.md
 #        - Properties Page: add-properties-page.md
-        - Gallery Page: add-gallery-page.md
-        - Users Page: add-users-page.md
-        - Full Width Page: add-full-width-page.md
-        - Contact Page: contact-page.md
+#        - Gallery Page: add-gallery-page.md
+#        - Users Page: add-users-page.md
+#        - Full Width Page: add-full-width-page.md
+#        - Contact Page: contact-page.md
 #        - Members Pages:
 #            - Setup Login and Registration: login-and-registration.md
 #            - Setup Social Login: setup-social-login.md
