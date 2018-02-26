@@ -81,7 +81,16 @@ pages:
         - String Translation: wpml-string-translation.md
         - Translate Property: wpml-translate-property.md
         - Property Search Page: wpml-property-search-page.md
-
+    - Footer:
+        - Classic Settings:
+            - Partners Settings: footer-settings.md
+            - Text Settings: text-settings.md
+            - Styles: style-settings.md
+        - Modern Settings:
+            - Footer Logo: footer-logo-modern.md
+            - Text Settings: text-settings-modern.md
+            - Styles: style-settings-modern.md
+            - Social Icons: footer-social-modern.md
     - Classic:
 #        - Header: configure-header-settings.md
 # TODO: link to currency switcherproperties-search-page.md
@@ -143,10 +152,10 @@ pages:
             - dsIDXpress Search Widget on Homepage: home-idx-search-widget.md
             - iHomefinder Optima Express Plugin: optima-express.md
             - Translation: translation.md
-        - Footer:
-            - Partners Settings: footer-settings.md
-            - Text Settings: text-settings.md
-            - Styles: style-settings.md
+#        - Footer:
+#            - Partners Settings: footer-settings.md
+#            - Text Settings: text-settings.md
+#            - Styles: style-settings.md
         - Google Maps:
             - Google Maps API Key: google-maps-api-key.md
             - Custom Markers for Property Type: property-type-custom-markers.md
@@ -240,11 +249,11 @@ pages:
             - dsIDXpress Search Widget on Homepage: home-idx-search-widget-modern.md
             - iHomefinder Optima Express Plugin: optima-express-modern.md
             - Translation: translation-modern.md
-        - Footer:
-            - Footer Logo: footer-logo-modern.md
-            - Text Settings: text-settings-modern.md
-            - Styles: style-settings-modern.md
-            - Social Icons: footer-social-modern.md
+#        - Footer:
+#            - Footer Logo: footer-logo-modern.md
+#            - Text Settings: text-settings-modern.md
+#            - Styles: style-settings-modern.md
+#            - Social Icons: footer-social-modern.md
         - Google Maps:
             - Google Maps API Key: google-maps-api-key-modern.md
             - Custom Markers for Property Type: property-type-custom-markers-modern.md
