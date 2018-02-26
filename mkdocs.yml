@@ -34,10 +34,10 @@ pages:
         - Creating and Configuring Page: home-page-setup.md
         - Home Page Settings (Classic): homepage-settings-classic.md
         - Home Page Settings (Modern): homepage-settings-var-modern.md
-    - Add News Page and Post:
+    - News Page and Post:
         - Create News Page: news-page.md
         - Add News Post: add-news-post.md
-    - Add Property Page and Post:
+    - Property Page and Post:
         - Properties Page: add-properties-page.md
         - Property Settings: property-settings.md
         - Add Property: add-property.md
@@ -63,6 +63,20 @@ pages:
               - PayPal Settings: ims-paypal-settings.md
               - Wire Settings: ims-wire-settings.md
               - Creating Membership Packages: creating-membership-packages.md
+    - Widgets:
+        - Mortgage Calculator: mortgage-calculator.md
+        - Twitter Widget: twitter-widget.md
+        - Featured Properties: featured-properties.md
+        - Property Types: property-types.md
+        - Advance Search Widget: advance-search-widget.md
+    - WPML:
+        - WPML Basic Setup: wpml-basic-setup.md
+        - Home & News Page: wpml-home-news-page.md
+        - WPML Menu Sync: wpml-menu-sync.md
+        - String Translation: wpml-string-translation.md
+        - Translate Property: wpml-translate-property.md
+        - Property Search Page: wpml-property-search-page.md
+
     - Classic:
 #        - Header: configure-header-settings.md
 # TODO: link to currency switcherproperties-search-page.md
@@ -105,12 +119,12 @@ pages:
 #            - PayPal Settings: ims-paypal-settings.md
 #            - Wire Settings: ims-wire-settings.md
 #            - Creating Membership Packages: creating-membership-packages.md
-        - Widgets:
-            - Mortgage Calculator: mortgage-calculator.md
-            - Twitter Widget: twitter-widget.md
-            - Featured Properties: featured-properties.md
-            - Property Types: property-types.md
-            - Advance Search Widget: advance-search-widget.md
+#        - Widgets:
+#            - Mortgage Calculator: mortgage-calculator.md
+#            - Twitter Widget: twitter-widget.md
+#            - Featured Properties: featured-properties.md
+#            - Property Types: property-types.md
+#            - Advance Search Widget: advance-search-widget.md
         - Other Features:
             - Other Shortcode: other-shortcode.md
             - Compare Properties: compare-properties.md
@@ -133,17 +147,17 @@ pages:
             - Custom Markers for Property Type: property-type-custom-markers.md
         - Google reCAPTCHA:
             - Get Google reCAPTCHA API Key: google-recaptcha-api-key.md
-        - WPML:
-            - WPML Basic Setup: wpml-basic-setup.md
-            - Home & News Page: wpml-home-news-page.md
-            - WPML Menu Sync: wpml-menu-sync.md
-            - String Translation: wpml-string-translation.md
-            - Translate Property: wpml-translate-property.md
-            - Property Search Page: wpml-property-search-page.md
-        - Customize Theme:
-            - Customize Styles: customize-styles.md
-            - Custom Meta Fields for Property: custom-meta-field-for-property.md
-            - Hire Customization Services: hire-customization-services.md
+#        - WPML:
+#            - WPML Basic Setup: wpml-basic-setup.md
+#            - Home & News Page: wpml-home-news-page.md
+#            - WPML Menu Sync: wpml-menu-sync.md
+#            - String Translation: wpml-string-translation.md
+#            - Translate Property: wpml-translate-property.md
+#            - Property Search Page: wpml-property-search-page.md
+#        - Customize Theme:
+#            - Customize Styles: customize-styles.md
+#            - Custom Meta Fields for Property: custom-meta-field-for-property.md
+#            - Hire Customization Services: hire-customization-services.md
 
     - Modern:
         - Homepage Setup:
@@ -248,6 +262,10 @@ pages:
     - Included Plugins:
         - Visual Composer: visual-composer.md
         - Slider Revolution: slider-revolution.md
+    - Customize Theme:
+        - Customize Styles: customize-styles.md
+        - Custom Meta Fields for Property: custom-meta-field-for-property.md
+        - Hire Customization Services: hire-customization-services.md
 
 # Change it to true before building (mkdocs build) for putting online.
 # It should be false for themeforest package.
