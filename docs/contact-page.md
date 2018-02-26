@@ -16,7 +16,11 @@ Select the **Contact** as template from page attributes.
 
 Provide the top banner related information 
 
-![Contact Banner Settings](images/contact-page/contact-banner-settings.png)
+**Classic**
+![Banner Area Settings](images/create-pages/users-banner-area-settings.png)
+
+**Modern**
+![Banner Area Settings](images/create-pages/users-banner-area-settings-mod.png)
 
 Publish the page once it is ready.
 
@@ -31,6 +35,12 @@ Next step is to configure **Contact Page** settings.
 Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Various Pages** panel, In this panel look for **Contact Page** section and explore all the available settings in this section to configure Contact page.
 
 ![Various Pages](images/contact-page/various-pages.png) ![Various Pages Panel](images/contact-page/various-pages-panel.png)
+
+### Header Variation
+
+![show/hide banner](images/single-property-page/banner-display.png)
+
+> note: **Header Variation** option is available in **Modern** Variation only.
 
 ### Google Map
 

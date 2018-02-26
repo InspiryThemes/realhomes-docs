@@ -16,9 +16,13 @@ Go to **Dashboard → Pages → Add New**
 
 ![Full Width Content](images/create-pages/full-width-content.png)
 
-- Provide the top banner related information 
+- Provide the top banner related information
 
-![Full Width Banner Area Settings](images/create-pages/full-width-banner-settings.png)
+**Classic**
+![Banner Area Settings](images/create-pages/users-banner-area-settings.png)
+
+**Modern**
+![Banner Area Settings](images/create-pages/users-banner-area-settings-mod.png)
 
 - Publish the page once it is ready.
 

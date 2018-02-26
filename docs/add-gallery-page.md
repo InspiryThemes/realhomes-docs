@@ -23,3 +23,11 @@ There are 3 templates for gallery page.
 After publishing you need to add the newly created page in menu from **Dashboard → Appearance → Menus**. 
 
 ![Add Gallery Page to Menu](images/create-pages/add-gallery-page-menu.png)
+
+Provide information related to top banner.
+
+**Classic**
+![Banner Area Settings](images/create-pages/users-banner-area-settings.png)
+
+**Modern**
+![Banner Area Settings](images/create-pages/users-banner-area-settings-mod.png)

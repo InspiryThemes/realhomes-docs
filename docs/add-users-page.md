@@ -12,7 +12,11 @@ Select the **Users List** from page attributes.
 
 Provide information related to top banner.
 
+**Classic**
 ![Banner Area Settings](images/create-pages/users-banner-area-settings.png)
+
+**Modern**
+![Banner Area Settings](images/create-pages/users-banner-area-settings-mod.png)
 
 Publish the page once it is ready.
 
