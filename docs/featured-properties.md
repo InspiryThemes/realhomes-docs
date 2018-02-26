@@ -10,4 +10,8 @@
 
 - Now check out the front end of your site and you will have the **Featured Properties** widget working for your site. 
 
+**Classic** </br>
 ![Real Homes Documentation](images/widgets/featured-widget-frontend.png)
+
+**Modern** </br>
+![Real Homes Documentation](images/widgets/featured-widget-frontend-md.png)
