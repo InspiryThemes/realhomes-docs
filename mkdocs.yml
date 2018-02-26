@@ -41,6 +41,9 @@ pages:
         - Create Property Search Page: create-search-page-modern.md
         - Configure Search (Classic): properties-search-page.md
         - Configure Search (Modern): properties-search-page-mod.md
+    - Agent Settings:
+        - Create Agents Page: add-agents-page.md
+        - Add Agent: add-agent.md
     - Classic:
 #        - Header: configure-header-settings.md
 # TODO: link to currency switcherproperties-search-page.md
@@ -60,8 +63,8 @@ pages:
 #        - News Page: news-page.md
 #        - Add News Post: add-news-post.md
 #        - Properties Search Page: properties-search-page.md
-        - Add Agent: add-agent.md
-        - Agents Page: add-agents-page.md
+#        - Add Agent: add-agent.md
+#        - Agents Page: add-agents-page.md
         - Add Property: add-property.md
         - Property Settings: property-settings.md
         - Properties Page: add-properties-page.md
@@ -122,6 +125,7 @@ pages:
             - Customize Styles: customize-styles.md
             - Custom Meta Fields for Property: custom-meta-field-for-property.md
             - Hire Customization Services: hire-customization-services.md
+
     - Modern:
         - Homepage Setup:
             - Create Home Page: create-homepage-modern.md

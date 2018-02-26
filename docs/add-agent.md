@@ -18,4 +18,12 @@ Go to **Dashboard → Real Homes → Agents → Add New**
 
 ![Agent Information](images/add-content/agent-information.png)
 
+- Provide the top banner related information on agent detail page if you want for **Classic** Variation!
+
+![Add Gallery Page](images/create-pages/agent-banner-area-settings.png)
+
+- Provide the top banner related information on agent detail page if you want for **Modern** Variation!
+
+![Add Gallery Page](images/create-pages/agent-banner-area-settings-mod.png)
+
 - Publish the agent post once it is ready.

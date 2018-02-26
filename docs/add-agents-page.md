@@ -12,9 +12,13 @@ Go to **Dashboard → Pages → Add New**
 
 ![Add Gallery Page](images/create-pages/agent-listing-template.png)
 
-- Provide the top banner related information if you want!
+- Provide the top banner related information if you want for **Classic** Variation!
 
 ![Add Gallery Page](images/create-pages/agent-banner-area-settings.png)
+
+- Provide the top banner related information if you want for **Modern** Variation!
+
+![Add Gallery Page](images/create-pages/agent-banner-area-settings-mod.png)
 
 - **Publish** the page once it is ready.
 
