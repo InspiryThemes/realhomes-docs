@@ -34,9 +34,13 @@ pages:
         - Creating and Configuring Page: home-page-setup.md
         - Home Page Settings (Classic): homepage-settings-classic.md
         - Home Page Settings (Modern): homepage-settings-var-modern.md
-    - News Page and Post:
+    - Add News Page and Post:
         - Create News Page: news-page.md
         - Add News Post: add-news-post.md
+    - Add Property Page and Post:
+        - Properties Page: add-properties-page.md
+        - Property Settings: property-settings.md
+        - Add Property: add-property.md
     - Property Search Setup:
         - Create Property Search Page: create-search-page-modern.md
         - Configure Search (Classic): properties-search-page.md
@@ -44,6 +48,21 @@ pages:
     - Agent Settings:
         - Create Agents Page: add-agents-page.md
         - Add Agent: add-agent.md
+    - Membership Settings:
+        - Members Pages:
+              - Setup Login and Registration: login-and-registration.md
+              - Setup Social Login: setup-social-login.md
+              - Submit Property Page: submit-property.md
+              - My Properties Page: my-properties.md
+              - Edit Profile Page: edit-profile.md
+              - Favorites Page: favorites-page.md
+        - Setup Memberships:
+              - Installation: ims-installation.md
+              - Basic Settings: ims-basic-settings.md
+              - Stripe Settings: ims-stripe-settings.md
+              - PayPal Settings: ims-paypal-settings.md
+              - Wire Settings: ims-wire-settings.md
+              - Creating Membership Packages: creating-membership-packages.md
     - Classic:
 #        - Header: configure-header-settings.md
 # TODO: link to currency switcherproperties-search-page.md
@@ -65,27 +84,27 @@ pages:
 #        - Properties Search Page: properties-search-page.md
 #        - Add Agent: add-agent.md
 #        - Agents Page: add-agents-page.md
-        - Add Property: add-property.md
-        - Property Settings: property-settings.md
-        - Properties Page: add-properties-page.md
+#        - Add Property: add-property.md
+#        - Property Settings: property-settings.md
+#        - Properties Page: add-properties-page.md
         - Gallery Page: add-gallery-page.md
         - Users Page: add-users-page.md
         - Full Width Page: add-full-width-page.md
         - Contact Page: contact-page.md
-        - Members Pages:
-            - Setup Login and Registration: login-and-registration.md
-            - Setup Social Login: setup-social-login.md
-            - Submit Property Page: submit-property.md
-            - My Properties Page: my-properties.md
-            - Edit Profile Page: edit-profile.md
-            - Favorites Page: favorites-page.md
-        - Setup Memberships:
-            - Installation: ims-installation.md
-            - Basic Settings: ims-basic-settings.md
-            - Stripe Settings: ims-stripe-settings.md
-            - PayPal Settings: ims-paypal-settings.md
-            - Wire Settings: ims-wire-settings.md
-            - Creating Membership Packages: creating-membership-packages.md
+#        - Members Pages:
+#            - Setup Login and Registration: login-and-registration.md
+#            - Setup Social Login: setup-social-login.md
+#            - Submit Property Page: submit-property.md
+#            - My Properties Page: my-properties.md
+#            - Edit Profile Page: edit-profile.md
+#            - Favorites Page: favorites-page.md
+#        - Setup Memberships:
+#            - Installation: ims-installation.md
+#            - Basic Settings: ims-basic-settings.md
+#            - Stripe Settings: ims-stripe-settings.md
+#            - PayPal Settings: ims-paypal-settings.md
+#            - Wire Settings: ims-wire-settings.md
+#            - Creating Membership Packages: creating-membership-packages.md
         - Widgets:
             - Mortgage Calculator: mortgage-calculator.md
             - Twitter Widget: twitter-widget.md
