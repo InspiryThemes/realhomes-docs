@@ -12,7 +12,8 @@ Breadcrumb settings can be controlled via **Dashboard → Real Homes → Customi
 
 ![Breadcrumbs on Property Detail Page](images/single-property-page/property-breadcrumbs.png) ![Breadcrumbs on Property Detail Page](images/single-property-page/breadcrumbs-on-property-details-page.png)
 
-**Note:-** Property Breadcrumbs are not available in **Modern** Variation.
+!!! note
+    Property Breadcrumbs are not available in **Modern** Variation.
 
 ## Basic
 

@@ -1,8 +1,8 @@
 # How to set up Currency Switcher
 
-> **Updated Note:**
-
-> We recently learned from our experience that this feature is not stable yet and I would not recommend you to use it for now. Actually, it’s related API produce inconsistencies with currency conversion data while updating currency exchange rates. So, We are working on making it stable in future updates.
+!!! danger "Update Note"
+    We recently learned from our experience that this feature is not stable yet and I would not recommend you to use it for now.
+     Actually, it’s related API produce inconsistencies with currency conversion data while updating currency exchange rates.    So, We are working on making it stable in future updates.
 
 We will use [WP Currencies plugin](https://wordpress.org/plugins/wp-currencies/) to add currency switcher.
 
@@ -28,9 +28,8 @@ Now you need to navigate to **Dashboard → Real Homes → Customize Settings** 
 
 Configure base currency and target currencies.
 
-> **NOTE:** 
-
-> If you find base currency dropdown empty then simply wait for few minutes and refresh your settings page. As this could be due to the late completion of first time data fetch request from openexchangerates.org. In case of any problem reach us on our support site.
+!!! note
+    If you find base currency dropdown empty then simply wait for few minutes and refresh your settings page. As this could be due to the late completion of first time data fetch request from openexchangerates.org. In case of any problem reach us on our support site.
 
 After making all the above settings, Visit your site's front end and you will have a currency switcher in your header. As displayed in screen shot below. 
 

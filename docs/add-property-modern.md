@@ -80,7 +80,8 @@ You can also add an icon to a property feature. This icon will appear on the pro
 
 - This icon will now display on property details page in place of default theme icons.
 
-	Note: Recommended image size for icon is 64px by 64px.
+!!! note
+    Recommended image size for icon is 64px by 64px.
 
 - You can choose or add property types from related meta box displayed in screen shot below.
 

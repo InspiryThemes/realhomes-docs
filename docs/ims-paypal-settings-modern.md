@@ -37,7 +37,8 @@ This section belongs to the settings related to **PayPal**. You can:
 
 ### Register PayPal IPN URL
 
-> Note: It is important to register PayPal IPN URL for recurring payments. To register the IPN, follow these instructions:
+!!! warning "Important"
+    It is important to register PayPal IPN URL for recurring payments. To register the IPN, follow these instructions.
 
 1. Copy the URL present in the PayPal IPN URL text box. Or go to **Dashboard → Memberships → Settings → PayPal Settings**; there will be a text box named **PayPal IPN URL** present at the end of this page and copy the URL from this text box. 
 ![Real Homes Documentation](images/membership/paypal-ipn-url.png)

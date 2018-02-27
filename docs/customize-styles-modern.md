@@ -24,7 +24,8 @@ There are various options available to modify styles in this theme.
 
 ![Real Homes Documentation](images/customize-theme/ct-7.png)
 
-> Note: It is highly recommended to use child theme for any changes that you want to make as this way you can update parent theme whenever an update becomes available. Simply copy a template file that you want to change to child theme after creating same directory structure and then modify it. For more info http://codex.wordpress.org/Child_Themes.
+!!! note
+    It is highly recommended to use child theme for any changes that you want to make as this way you can update parent theme whenever an update becomes available. Simply copy a template file that you want to change to child theme after creating same directory structure and then modify it. For more info http://codex.wordpress.org/Child_Themes.
 
 **Custom CSS in Parent Theme** - if you are not using child theme then '**css/custom.css**' file is provided in parent theme to add major css changes. 
 

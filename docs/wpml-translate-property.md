@@ -18,7 +18,8 @@ Duplicating a property will save you from lots of hard work.
 
 5. In agent field you need to choose the translated agent ( You will not have any in start, But you can translate one easily using below given instructions ) 
 
-**Note:** Update the property that is currently being editing before moving ahead with agent's translation. 
+!!! note
+    Update the property that is currently being editing before moving ahead with agent's translation.
 
 **To Translate an Agent:** Simply open an agent for editing and duplicate it into other language. Open the duplicated agent for editing and update the english information into translated information then update the agent. 
 

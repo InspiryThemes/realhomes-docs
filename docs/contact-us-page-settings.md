@@ -12,7 +12,8 @@ If you want to display google map on contact page then you need to enable it fro
 
 ![Google Map On Contact Page](images/contact-page/google-map-on-contact-page.png)
 
-> Note: To enable Google Maps for your website, You need to configure **Google Maps API key** under **Customize → Misc** panel.
+!!! note
+    To enable Google Maps for your website, You need to configure **Google Maps API key** under **Customize → Misc** panel.
 
 ### Contact Details
 

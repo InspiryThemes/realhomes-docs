@@ -10,7 +10,8 @@ This section belongs to the settings related to Stripe Payment System. You can:
 
 ### How to register webhook URL
 
-> Note: Webhook URL plays an important role in accepting recurring payments through Stripe. It is important to set the webhook URL correctly otherwise recurring memberships through Stripe will not work properly.
+!!! warning "Important"
+    Webhook URL plays an important role in accepting recurring payments through Stripe. It is important to set the webhook URL correctly otherwise recurring memberships through Stripe will not work properly.
 
 Follow these instructions to register webhook URL:
 
@@ -32,6 +33,8 @@ Please follow these instructions to make a recurring membership package using St
 ![Real Homes Documentation](images/membership/new-membership.png)
 3. Enter the details of your new membership package. And click on the **Create Plan** button to create the subscription. 
 ![Real Homes Documentation](images/membership/create-plan.png)
-	> Note: Please note that Inspiry Memberships only support daily, weekly, monthly and yearly memberships. Please keep this in mind while creating your subscription plan.
+!!! note
+    Please note that Inspiry Memberships only support daily, weekly, monthly and yearly memberships. Please keep this in mind while creating your subscription plan.
+
 4. Once you are done creating the plan, copy the **ID** of the plan. After that, go to **Dashboard → Memberships → New Membership** and enter the details of your plan here. Then paste the ID of the plan that you created on **Stripe Dashboard** in **Stripe Subscription Plan ID** text field. Once done, click on the **Publish** button to create the membership on your website. 
 ![Real Homes Documentation](images/membership/add-new-membership.png)

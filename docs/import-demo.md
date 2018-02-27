@@ -15,13 +15,15 @@ Go to **Dashboard → Settings → Permalinks** and choose Post name from Common
 
 ### **Step 2**
 
-Note: It is important to complete **Step 1** as import script is programmed to work with pretty permalinks. Otherwise you will have configuration issues after importing demo data contents.
+!!! warning "Important"
+    It is important to complete **Step 1** as import script is programmed to work with pretty permalinks. Otherwise you will have configuration issues after importing demo data contents.
 
 Go to **Real Homes → Demo Import** to import demo data.
 
 ![Screenshot](images/import-demo/import-demo-data.png)
 
-**Note:** Since version 3.0.0, we have added a new design variation in Real Homes Theme for our clients so you will see two variations for the demo data import. You can import one variation or both and you won't have any issues. Before you begin, make sure all the required plugins are installed and activated.
+!!! note
+    Since version 3.0.0, we have added a new design variation in Real Homes Theme for our clients so you will see two variations for the demo data import. You can import one variation or both and you won't have any issues. Before you begin, make sure all the required plugins are installed and activated.
 
 Click on blue **Import** button and you will see a popup so click on the blue **Yes, import!** button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.
 

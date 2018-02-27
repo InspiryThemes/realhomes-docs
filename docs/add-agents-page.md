@@ -1,6 +1,7 @@
 # Add Agents Page
 
-> Note: If you have imported demo contents XML then this page is already created.
+!!! note
+        If you have imported demo contents XML then this page is already created.
 
 Go to **Dashboard → Pages → Add New**
 

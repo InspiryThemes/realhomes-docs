@@ -12,4 +12,5 @@
 
 5. These markers will now display on related property maps in place of default theme icons.
 
->Note: Recommended image size is 42px by 57px for map icon / 84px by 114px for retina map icon.
+!!! note
+    Recommended image size is 42px by 57px for map icon / 84px by 114px for retina map icon.

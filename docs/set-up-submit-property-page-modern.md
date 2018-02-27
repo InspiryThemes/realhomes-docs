@@ -1,6 +1,7 @@
 # Set Up Submit Property Page
 
-> Note: If you have imported the demo contents XML then Submit Property page is already created. But you still need to configure related settings as guided below.
+!!! note
+    If you have imported the demo contents XML then Submit Property page is already created. But you still need to configure related settings as guided below.
 
 To add Submit Property page, Go to Dashboard → Pages → Add New
 

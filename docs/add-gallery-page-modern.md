@@ -1,6 +1,7 @@
 # Add Gallery Page
 
-Note: If you have imported the demo contents XML then this page is already created.
+!!! note
+    If you have imported the demo contents XML then this page is already created.
 
 Go to **Dashboard → Pages → Add New** 
 

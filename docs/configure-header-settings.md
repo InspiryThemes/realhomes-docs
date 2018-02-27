@@ -24,7 +24,8 @@ To change header variation please navigate to **Dashboard → Real Homes → Cus
 
 ![Header Variation](images/home-setup/header-variation.png)
 
-**Note:** **Sticky Header** & **Header Variation** options are not yet integrated into **Modern Design** layout of Real Homes Theme.
+!!! note
+    **Sticky Header** & **Header Variation** options are not yet integrated into **Modern Design** layout of Real Homes Theme.
 
 ## Header Settings (Modern)
 

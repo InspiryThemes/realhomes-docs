@@ -21,4 +21,5 @@ To setup Inspiry Stripe Payments you will need to go to the settings page of the
 2. Update the settings according to your needs and click **Save Options** at the bottom of the page to save the settings. 
 ![Real Homes Documentation](images/other-features/inspiry-stripe-payments-settings.png)
 
-> Note: You can get the **API keys** of the stripe from **Stripe Dashboard**. Please click here for more details.
+!!! note
+    You can get the **API keys** of the stripe from **Stripe Dashboard**. Please click here for more details.

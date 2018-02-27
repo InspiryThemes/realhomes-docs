@@ -6,11 +6,13 @@ To allow user registration, You need to allow registration from **Settings → G
 
 ![Anyone can register](images/member-pages/anyone-can-register.png)
 
-> IMPORTANT: Since Version 1.6 Real Homes theme automatically provides modal dialog for Login and Registration. So you do not need to follow further details of this section if you are good with using modal dialog.
+!!! warning "Important"
+     Since Version 1.6 Real Homes theme automatically provides modal dialog for Login and Registration. So you do not need to follow further details of this section if you are good with using modal dialog.
 
 ## Create Login & Register Page
 
-> Note: If you have imported demo contents then Login & Register page might already be created. But you still need to configure related settings as guided near the end of this section.
+!!! note
+    If you have imported demo contents then Login & Register page might already be created. But you still need to configure related settings as guided near the end of this section.
 
 To add Login & Register page, Go to **Dashboard → Pages → Add New**
 

@@ -1,7 +1,8 @@
 # Setup My Properties Page
 
 ## Create My Properties Page
-> Note: If you have imported demo contents then My Properties page is already created. But you still need to configure related settings as guided below.
+!!! note
+    If you have imported demo contents then My Properties page is already created. But you still need to configure related settings as guided below.
 
 To add My Properties page, Go to **Dashboard → Pages → Add New**
 

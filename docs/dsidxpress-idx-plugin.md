@@ -15,7 +15,8 @@ You can include IDX contents to your site. The easiest way to get started is to 
 5. Now, You can use **dsIDX Widgets** in sidebars. We have a special template for dsIDX where you can place dsIDX widgets in related sidebar. 
 ![Real Homes Documentation](images/other-features/3.png)
 
-> **Note:** The easiest way to access **IDX Listing Page** is, http://www.yoursitename.com/idx 
+!!! note
+    The easiest way to access **IDX Listing Page** is, http://www.yoursitename.com/idx
 
 6. You can add **IDX Listing Page** in menu as displayed in screen shot below. 
 ![Real Homes Documentation](images/other-features/4.png)

@@ -14,7 +14,8 @@ Navigate to **Dashboard → Real Homes → Customize Settings → Home Page → 
 
 ![Sections Manager for Home Page](images/home-setup/sections-manager.png)
 
-**Note**: Sections Manager is not yet available for Modern Design layout of Real Homes Theme.
+!!! note
+    Sections Manager is not yet available for Modern Design layout of Real Homes Theme.
 
 ### **Search Form Over Image**
 
@@ -32,7 +33,8 @@ Adding google map on homepage is super simple as properties already have their l
 
 ![Display Google Map on Homepage](images/home-setup/homepage-google-maps.png)
 
-**Note**: To enable **Google Maps** for your website, You need to configure **Google Maps API key** under **Dashboard → Real Homes → Customize Settings → Misc** panel.
+!!! note
+    To enable **Google Maps** for your website, You need to configure **Google Maps API key** under **Dashboard → Real Homes → Customize Settings → Misc** panel.
 
 ### **Display Image Banner**
 

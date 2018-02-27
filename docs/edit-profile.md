@@ -2,7 +2,8 @@
 
 ## Create Edit Profile Page
 
-> Note: If you have imported demo contents then Edit Profile page is already created. But you still need to configure related settings as guided near the end of this section.
+!!! note
+    If you have imported demo contents then Edit Profile page is already created. But you still need to configure related settings as guided near the end of this section.
 
 To add Edit Profile page, Go to **Dashboard → Pages → Add New**
 

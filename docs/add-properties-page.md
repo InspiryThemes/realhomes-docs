@@ -1,6 +1,7 @@
 # Add Properties Listing Page
 
-> Note: If you have imported the demo contents XML then this page is already created and you might need to only edit these pages to fulfill your needs.
+!!! note
+    If you have imported the demo contents XML then this page is already created and you might need to only edit these pages to fulfill your needs.
 
 Go to **Dashboard → Pages → Add New**
 

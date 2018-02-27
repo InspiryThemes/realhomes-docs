@@ -8,4 +8,5 @@ Navigate to **Dashboard → Real Homes → Customize Settings → Home Page → 
 
 ![Sections Manager for Home Page](images/home-setup/sections-manager.png)
 
-**Note**: Sections Manager is not yet available for Modern Design layout of Real Homes Theme.
+!!! note
+    Sections Manager is not yet available for Modern Design layout of Real Homes Theme.
