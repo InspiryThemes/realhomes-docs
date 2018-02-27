@@ -34,7 +34,11 @@ Please note that this note will be displayed on every property page.
 
 ![Common Note Settings](images/single-property-page/common-note.png)
 
+**Classic**
 ![Common Note on Property Page](images/single-property-page/property-common-note.png)
+
+**Modern**
+![Common Note on Property Page](images/single-property-page/property-common-note-modern.png)
 
 ## Video
 
@@ -94,8 +98,8 @@ You can also show/hide contact form in **Modern** Variation.
 
 ![Similar Properties Settings](images/single-property-page/similar-properties.png)
 
-**Classic** Similar Properties
+**Classic**
 ![Similar Properties on Property Page](images/single-property-page/similar-properties-frontend.png)
 
-**Modern** Similar Properties
+**Modern**
 ![Similar Properties on Property Page](images/single-property-page/similar-properties-frontend-mod.png)
