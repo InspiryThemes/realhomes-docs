@@ -22,6 +22,10 @@ Select option to Enable or Disable Properties Compare functionality for Properti
 
 **Save** the changes and your **Compare Properties Feature** is ready to use. 
 
+**Classic** </br>
 ![Real Homes Documentation](images/other-features/compare-properties-frontend.png)
 
-Feel free to get in touch with us using our support website in case of any confusion.
+**Modern** </br>
+![Real Homes Documentation](images/other-features/compare-properties-frontend-mod.png)
+
+Feel free to get in touch with us using our [support website](https://support.inspirythemes.com/) in case of any confusion.
