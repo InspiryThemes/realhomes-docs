@@ -33,7 +33,7 @@ pages:
     - Home Page Setup:
         - Creating and Configuring Page: home-page-setup.md
         - Home Page Settings (Classic): homepage-settings-classic.md
-        - Home Page Settings (Modern): homepage-settings-var-modern.md
+        - Home Page Settings (Modern): homepage-settings-modern.md
     - News Page and Post:
         - Create News Page: news-page.md
         - Add News Post: add-news-post.md
