@@ -3,32 +3,40 @@
 
     
     <url>
-     <loc>/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/installation-and-activation/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/installation-and-activation/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/design-selection/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/design-selection/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/import-demo/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/import-demo/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/configure-header-settings/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -36,140 +44,96 @@
     
         
     <url>
-     <loc>/configure-header-settings/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/home-page-setup/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc></loc>
-     <lastmod></lastmod>
+     <loc>/homepage-settings-classic/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/news-page/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/homepage-settings-modern/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/news-page/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/add-news-post/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/add-news-post/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/create-search-page-modern/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/properties-search-page/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/properties-search-page/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/add-agent/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/properties-search-page-mod/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/add-properties-page/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/add-agents-page/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/property-settings/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/add-property/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/add-property/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/add-agents-page/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/property-settings/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/add-properties-page/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/add-gallery-page/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/add-users-page/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/add-full-width-page/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/contact-page/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
+     <loc>/add-agent/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -189,11 +153,91 @@
      <changefreq>daily</changefreq>
     </url>
         
+    
+
+    
     <url>
-     <loc></loc>
-     <lastmod></lastmod>
+     <loc>/add-gallery-page/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+    <url>
+     <loc>/add-users-page/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/add-full-width-page/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/contact-page/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/compare-properties/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/faqs-setup/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>/mortgage-calculator/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/twitter-widget/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/featured-properties/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/property-types/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/advance-search-widget/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
         
     <url>
      <loc></loc>
@@ -207,59 +251,9 @@
      <changefreq>daily</changefreq>
     </url>
         
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
+    
+
+    
         
     <url>
      <loc></loc>
@@ -277,24 +271,24 @@
 
     
     <url>
-     <loc>/price-format-settings/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/price-format-settings/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/url-slugs-settings/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/url-slugs-settings/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/properties-shortcode/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/properties-shortcode/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -302,14 +296,140 @@
     
         
     <url>
-     <loc>/visual-composer/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/other-shortcode/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/slider-revolution/index.html</loc>
-     <lastmod>2018-02-21</lastmod>
+     <loc>/testimonials-setup/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/currency-switcher/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/paypal-ipn/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/paypal-property-payment-settings/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/inspiry-stripe-payments/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/dsidxpress-idx-plugin/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/home-idx-search-widget/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/optima-express/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/translation/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/wpml-basic-setup/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/wpml-home-news-page/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/wpml-menu-sync/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/wpml-string-translation/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/wpml-translate-property/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/wpml-property-search-page/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/visual-composer/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/slider-revolution/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/customize-styles/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/custom-meta-field-for-property/</loc>
+     <lastmod>2018-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/hire-customization-services/</loc>
+     <lastmod>2018-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
