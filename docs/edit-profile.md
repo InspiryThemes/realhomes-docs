@@ -25,12 +25,16 @@ Now you need to navigate to **Dashboard → Real Homes → Customize Settings** 
  
 This panel contains **Edit Profile** section where you can configure related settings.
 
-![Real Homes Documentation](images/member-pages/edit-profile-panel.png) ![Real Homes Documentation](images/member-pages/edit-profile-customizer-settings.png)
+![Real Homes Documentation](images/member-pages/edit-profile-panel.png)
 
-- Save the changes and your **Edit Profile** page is ready to use.
+![Real Homes Documentation](images/member-pages/edit-profile-customizer-settings.png)
+
+Save the changes and your **Edit Profile** page is ready to use.
 
 **Classic**
+
 ![Real Homes Documentation](images/member-pages/edit-profile-front-end.png)
 
-**Modern** </br>
+**Modern**
+
 ![Real Homes Documentation](images/member-pages/edit-profile-front-end-mod.png)

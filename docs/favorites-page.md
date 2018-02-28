@@ -27,9 +27,11 @@ Select **Favorites** page from the drop-down list as shown in the above screensh
 Save the changes and your **Favorites** page is ready to users.
 
 **Classic**
+
 ![Real Homes Documentation](images/member-pages/favorites-front-end.png)
 
-**Modern** </br>
+**Modern**
+
 ![Real Homes Documentation](images/member-pages/favorites-front-end-mod.png)
 
 ## How Favorite Properties Feature Works!
@@ -43,7 +45,9 @@ But if the user is logged in then this information is stored in database as user
 The user can delete the Property from favorites collection by clicking on trash/corss icon.
 
 **Classic**
+
 ![Real Homes Documentation](images/member-pages/favorites-section-front-end.jpeg)
 
 **Modern**
+
 ![Real Homes Documentation](images/member-pages/favorites-section-front-end-mod.png)

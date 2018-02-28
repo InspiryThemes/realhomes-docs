@@ -1,6 +1,7 @@
 # Setup Submit Property Page
 
 ## Create Submit Property Page
+
 !!! note
     If you have imported demo contents then Submit Property page is already created. But you still need to configure related settings as guided below.
 
@@ -43,7 +44,9 @@ Now you need to navigate to **Dashboard → Real Homes → Customize Settings �
 Save the changes and your **Submit Property** page is ready for use. 
 
 **Classic**
+
 ![Social Login Form](images/member-pages/submit-property-front-end.png)
 
 **Modern**
+
 ![Social Login Form](images/member-pages/submit-property-front-end-mod.png)
