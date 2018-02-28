@@ -63,11 +63,11 @@ pages:
               - PayPal Settings: ims-paypal-settings.md
               - Wire Settings: ims-wire-settings.md
               - Creating Membership Packages: creating-membership-packages.md
-    - Various Pages:
-        - Gallery Page: add-gallery-page.md
-        - Users Page: add-users-page.md
-        - Full Width Page: add-full-width-page.md
-        - Contact Page: contact-page.md
+    - Gallery Page: add-gallery-page.md
+    - Users Page: add-users-page.md
+    - Full Width Page: add-full-width-page.md
+    - Contact Page: contact-page.md
+
     - Other Features:
         - Other Shortcode: other-shortcode.md
         - Compare Properties: compare-properties.md
