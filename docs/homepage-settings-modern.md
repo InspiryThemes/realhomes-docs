@@ -41,7 +41,7 @@ Once the slider is imported then set it in the **Customizer Settings** (**Dashbo
 
 ![Home Page Slider](images/home-setup/slider-modern2.png)
 
-#### 3. Slides Custom Post Type Based Slider ####
+#### 3. "Slides" Custom Post Type Based Slider ####
 
 To display slider based on slides custom post type, You need to add new slides as displayed in screenshot below.
 
