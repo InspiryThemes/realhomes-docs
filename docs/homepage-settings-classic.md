@@ -17,6 +17,52 @@ Navigate to **Dashboard → Real Homes → Customize Settings → Home Page → 
 !!! note
     Sections Manager is not yet available for Modern Design layout of Real Homes Theme.
 
+### **Home Page Slider**
+You can feed slider contents from following sources
+
+1. **Properties Custom Post Type** - It will attach properties to your slides ( Very easy to use )
+2. **Revolution Slider** - You can add text,images, buttons and videos the way you want. ( Little difficult to use but awesome results )
+3. **Slides Custom Post Type** - You can attach a simple image to your slide with related text data ( easy to use with results similar to properties based slider )
+
+Navigate to **Appearance → Customize** and look into **Home Page → Slider Area** section to configure slider settings.
+
+![Home Page Slider](images/home-setup/slider-classic1.png)
+
+#### 1. Properties Based Slider ####
+
+Visit the slider settings as guided above and choose **Slider Based on Properties Custom Post Type** as displayed in screenshot above.
+
+If you want to include a property in homepage slider, Then you need to edit that property and look for metabox field with tab title **"Homepage Slider"**. Open the tab and select **Yes** plus provide slide image as required by **Slider Image** field in screen shot below it.
+
+![Home Page Slider](images/home-setup/slider-classic2.png)
+
+#### 2. Revolution Sloder ####
+
+Look for the folder name **Plugins/Revolution** Slider in unzipped package downloaded from themeforest.net. This folder will contain revolution slider's plugin zip, documentation and demo slider import zip. You need to go to **Plugins → Add New** in your WordPress dashboard side and upload the **revslider.zip** as displayed in image below.
+
+![Home Page Slider](images/home-setup/slider-classic3.png)
+
+After installing and activating Revolution Slider please navigate to **Dashboard → Slider Revolution** and click on **Import Slider** as shown in this screenshot below. The zip file of the slider is located in the main package of Real Homes Theme (**rh-main-package → Plugins → Revolution Slider → realhomes-slider-zip → realhomes.zip**).
+
+![Home Page Slider](images/included-plugins/rs-1.png)
+
+![Home Page Slider](images/home-setup/slider-classic4.png)
+
+Once the slider is imported then set it in the **Customizer Settings** (**Dashboard → Real Homes → Customize Settings → Home Page → Slider Area → What to Display Below Header on Home Page ?** and set this option as **Slider Based on Revolution Slider Plugin** and set **Revolution Slider Alias** as **realhomes**.
+
+![Home Page Slider](images/included-plugins/rs-2.png)
+
+#### 3. Slides Custom Post Type Based Slider ####
+
+To display slider based on slides custom post type, You need to add new slides as displayed in screenshot below.
+
+![Home Page Slider](images/home-setup/slider-classic5.png)
+
+After adding slides navigate to **Appearance → Customize** and Go to section **Home Page → Slider Area** and choose **Slider Based on Slides Custom Post Type** As displayed in screenshot below.
+
+![Home Page Slider](images/home-setup/slider-classic7.png)
+
+
 ### **Search Form Over Image**
 
 Navigate to **Dashboard → Real Homes → Customize Settings → Home Page → Slider Area** and choose related option as displayed in screenshot below.
