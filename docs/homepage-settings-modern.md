@@ -104,3 +104,10 @@ Navigate to **Dashboard → Real Homes → Customize Settings** and look for **H
 
 ![Home Page Features](images/home-setup/modern-features-settings-style.png)
 
+### **How to add Features**
+
+To add features navigate to **Dashboard → Pages** and edit the page which is assigned as homepage of your website. 
+
+On the page edit screen you will have the option to add/remove/change the information of the Features.
+
+![Home Page Features](images/home-setup/how-to-add-features-modern.png)
