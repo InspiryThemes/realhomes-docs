@@ -1,8 +1,9 @@
 # Installation
 
-To start you must have a working version of WordPress. Almost all major web hosts provides one click WordPress install and you can consult your host's help site for more information in this regard. For manual install you can consult WordPress Codex Installing WordPress especially the Requirements.
+To start you must have a working version of WordPress. Almost all major web hosts provides one click WordPress install and you can consult your host's help site for more information in this regard. For manual installation, you can consult WordPress Codex Installing WordPress especially the Requirements.
 
-Once you have a working version of WordPress, You need to download "**All Files and Documentation**" from themeforest download page and extract the downloaded zip to get required files including **realhomes.zip**.
+Once you have a working version of WordPress, You need to download "**All Files and Documentation**" from themeforest download page (screenshot below) and extract the downloaded zip to get required files including **realhomes.zip**.
+![Screenshot](images/installation/download-rh-full-package.png)
 
 ## Install Theme Via WordPress Dashboard ( _Recommended_ )
 
