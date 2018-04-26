@@ -105,6 +105,7 @@ pages:
         - dsIDXpress Search Widget on Homepage: home-idx-search-widget.md
         - iHomefinder Optima Express Plugin: optima-express.md
         - iHomefinder Content Setup: optima-express-content-setup.md
+        - SSL Enhancements: ssl-enhancements.md
         - Translation: translation.md
     - WPML:
         - WPML Basic Setup: wpml-basic-setup.md
