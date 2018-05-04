@@ -124,7 +124,7 @@ pages:
 
 # Change it to true before building (mkdocs build) for putting online.
 # It should be false for themeforest package.
-use_directory_urls: false
+use_directory_urls: true
 
 markdown_extensions:
   - admonition
