@@ -111,3 +111,11 @@ To add features navigate to **Dashboard → Pages** and edit the page which is a
 On the page edit screen you will have the option to add/remove/change the information of the Features.
 
 ![Home Page Features](images/home-setup/how-to-add-features-modern.png)
+
+### **General**
+
+In this section, you can find one of the most important settings of the homepage and that is **Sections Border Angle** which gives you the control over diagonal lines. 
+
+You can choose from two variations **Diagonal** or **Flat**.
+
+![Home Page General](images/home-setup/homepage-general.png)
