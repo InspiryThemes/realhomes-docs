@@ -33,8 +33,14 @@ You can customize almost all the components of the header from this very section
 
 ![Configure Header Settings](images/home-setup/header-2.png)
 
-### **Header Styles**
+## **Header Styles (Classic)**
 
-To change header styles please navigate to **Dashboard → Real Homes → Customize Settings → Header → Styles**.
+To change header styles please navigate to **Dashboard → Real Homes → Customize Settings → Styles**.
+
+![Header Variation](images/home-setup/header-styles-classic.png)
+
+## **Header Styles (Modern)**
+
+To change header styles please navigate to **Dashboard → Real Homes → Customize Settings → Styles**.
 
 ![Header Variation](images/home-setup/header-styles-modern.png)
