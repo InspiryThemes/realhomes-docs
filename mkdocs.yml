@@ -45,6 +45,9 @@ pages:
         - Properties Page: add-properties-page.md
         - Property Settings: property-settings.md
         - Add Property: add-property.md
+    - Agencies Settings:
+        - Create Agencies Page: add-agencies-page.md
+        - Add Agency: add-agency.md
     - Agent Settings:
         - Create Agents Page: add-agents-page.md
         - Add Agent: add-agent.md
