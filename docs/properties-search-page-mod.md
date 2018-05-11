@@ -18,9 +18,9 @@ Now, you can also use the RealHomes - Advance Search Widget in sidebar as that w
 
 Navigate to Search Form Basics section in Properties Search panel, In this section you can show / hide fields on properties search form and you can also modify their labels.
 
-![Properties Search Basics](images/home-setup/show-hide-search-form.png)
-
 ![Properties Search Basics](images/home-setup/search-form-basics.png)
+
+![Properties Search Basics](images/home-setup/search-form-basics-collapse.png)
 
 ![Searcch Form Basics](images/home-setup/search-basic-one.png)
 

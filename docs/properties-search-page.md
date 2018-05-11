@@ -20,6 +20,8 @@ Navigate to Search Form Basics section in Properties Search panel, In this secti
 
 ![Properties Search Basics](images/home-setup/search-form-basics.png)
 
+![Properties Search Basics](images/home-setup/search-form-basics-collapse.png)
+
 ![Searcch Form Basics](images/home-setup/search-basic-one.png)
 
  ![Searcch Form Basics](images/home-setup/search-basic-two.png)
@@ -78,7 +80,9 @@ In this section:
 
 Properties Search panel also contains a special section for Prices. Using which, Minimum and Maximum prices fields can be customized to your requirements.
 
-![Minimum and Maximum Prices](images/home-setup/min-max-price-first.png) ![Minimum and Maximum Prices](images/home-setup/min-max-price-second.png)
+![Minimum and Maximum Prices](images/home-setup/min-max-price-first.png)
+
+![Minimum and Maximum Prices](images/home-setup/min-max-price-second.png)
 
 ### Step 7. Minimum and Maximum Area / Related Labels and Placeholder Texts
 
