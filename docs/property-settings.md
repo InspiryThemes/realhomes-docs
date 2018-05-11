@@ -57,7 +57,7 @@ Property Virtual Tour Settings are located in **Dashboard → Real Homes → Cus
 
 ![Virtual Tour on Property Page](images/single-property-page/property-virtual-tour-frontend.png)
 
-## Google Map
+## Map
 
 Property Map Settings can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Property Map**. You can either choose to display the google map or hide it.
 
@@ -89,7 +89,7 @@ You can also show/hide contact form in **Modern** Variation.
 
 ![Agent On Property Page](images/single-property-page/agent-on-property-page-mod.png)
 
-## Similar Properties on Property Detail Page
+## Similar Properties
 
 **Similar Properties Settings** are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Similar Properties**.
 

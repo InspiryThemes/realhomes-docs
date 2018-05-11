@@ -41,7 +41,7 @@ pages:
         - Create Property Search Page: create-search-page-modern.md
         - Configure Search (Classic): properties-search-page.md
         - Configure Search (Modern): properties-search-page-mod.md
-    - Property Page and Post:
+    - Property Page and Settings:
         - Properties Page: add-properties-page.md
         - Property Settings: property-settings.md
         - Add Property: add-property.md
