@@ -25,7 +25,7 @@ If you want to include a property in homepage slider, Then you need to edit that
 
 ![Home Page Slider](images/home-setup/slider-classic2.png)
 
-#### 2. Revolution Sloder ####
+#### 2. Revolution Slider ####
 
 Look for the folder name **Plugins/Revolution** Slider in unzipped package downloaded from themeforest.net. This folder will contain revolution slider's plugin zip, documentation and demo slider import zip. You need to go to **Plugins → Add New** in your WordPress dashboard side and upload the **revslider.zip** as displayed in image below.
 
