@@ -38,7 +38,7 @@ pages:
         - Create News Page: news-page.md
         - Add News Post: add-news-post.md
     - Property Search Setup:
-        - Create Property Search Page: create-search-page-modern.md
+        - Create Property Search Page: create-search-page.md
         - Configure Search (Classic): properties-search-page.md
         - Configure Search (Modern): properties-search-page-mod.md
     - Property Page and Settings:
