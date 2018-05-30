@@ -14,7 +14,7 @@ You can check any errors in your web browser’s console.
 
 Once the browser’s console is open simply refresh your website or page so it reloads the insecure content again and logs warnings to the console.
 
-Why No Padlock? is also a really good online test tool to diagnose HTTPS problems.
+[Why No Padlock?](https://www.whynopadlock.com/) is also a really good online test tool to diagnose HTTPS problems.
 
 ### Solution
 
