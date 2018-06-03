@@ -90,3 +90,9 @@ Properties Search panel contains a section for Area. Using which, Minimum and Ma
 
 ![Minimum and Maximum Area / Related Labels and Placeholder Texts](images/home-setup/search-form-area.png)
 
+
+### Step 8. Change Advance Search Form Bottom Label Text (Optional)
+
+The advance search label which is displaying at the bottom right corner of the properties search form in Modern Design can be changed in **Dashboard → Home Page → Search Form → Advance Search Label Text**.
+
+![Advance Search Label Text](images/home-setup/advance-search-label-modern.png)
