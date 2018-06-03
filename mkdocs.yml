@@ -93,8 +93,9 @@ pages:
         - Modern Settings:
             - Footer Logo: footer-logo-modern.md
             - Text Settings: text-settings-modern.md
-            - Styles: style-settings-modern.md
             - Social Icons: footer-social-modern.md
+            - Layout: footer-layout-modern.md
+            - Styles: style-settings-modern.md
     - Price Format Settings: price-format-settings.md
     - URL Slug Settings: url-slugs-settings.md
     - Properties Shortcode: properties-shortcode.md
