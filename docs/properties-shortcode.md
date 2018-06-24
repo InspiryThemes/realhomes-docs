@@ -6,7 +6,7 @@
 
 ###1st Example: 
 
-`[properties count="4" layout="list" orderby="price" order="ASC" locations="miami" types="residential" statuses="for-sale" featured="no"]`
+`[properties count="4" layout="list" orderby="price" order="ASC" locations="miami" types="residential" statuses="for-sale" featured="no" agent="3"]`
 
 ###2nd Example:
  
@@ -33,6 +33,7 @@ You can use the reference provided below to add attributes to properties shortco
 | min_area	  | null | To display properties with area greater than or equal to minimum area value. <br>Example value: 250 ( only provide digits without any comma or dash ) |
 | max_area	  | null | To display properties with area less than or equal to maximum area value. <br>Example value: 4500 ( only provide digits without any comma or dash )| 
 | featured    | no   | To display featured properties. Possible values are "no" and "yes" |
+| agent    | null   | To display properties by agent. Possible value should be the ID of the agent |
 
 ## Visual Composer Support
 
