@@ -10,13 +10,13 @@ Go to **Dashboard → Real Homes → Customize Settings → Styles** for all sty
 
 ## Override Default Styles
 
-Make sure that you have selected **My Own Custom Colors** in **Dashboard → Real Homes → Customize Settings → Styles → Default or Custom** section to override the default styles and colors of the design.
+Make sure that you have selected **My Own Custom Colors** in **Dashboard → Real Homes → Customize Settings → Styles → Default Theme Colors or My Own Custom Colors** section to override the default styles and colors of the design.
 
 ![Real Homes Documentation](images/customize-theme/my-own-custom-colors.png)
 
-## Quick CSS
+## Additional CSS
 
-**Quick CSS** - Go to **Dashboard → Real Homes → Customize Settings** and navigate to **Styles → Basic** to add any quick css. 
+**Additional CSS** - Go to **Dashboard → Real Homes → Customize Settings** and click on **Additional CSS** to add any CSS code. 
 
 ![Real Homes Documentation](images/customize-theme/customize-4.png)
 
