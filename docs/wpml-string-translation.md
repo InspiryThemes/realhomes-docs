@@ -1,6 +1,6 @@
 # String Translation
 
-You can translate a string that does not exist in post, pages and taxonomies using WPML → String Translation section.
+You can translate a string that does not exist in post, pages and taxonomies using **Dashboard → WPML → String Translation** section.
 
 ### String Translation Example
 
@@ -19,3 +19,9 @@ You can translate a string that does not exist in post, pages and taxonomies usi
 <br>![Real Homes Documentation](images/wpml/string-translation-4.png)
 
 6. So, You can translate all strings that are out of post's or page's content area.
+
+### String Translation by Translation Domain
+
+You can also choose a specific translation domain to precisely translate the strings attached to only that translation domain as shown below.
+
+![Real Homes Documentation](images/wpml/translate-strings-by-domain.png)
