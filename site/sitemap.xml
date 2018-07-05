@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
      <loc>/installation-and-activation/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
      <loc>/design-selection/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
      <loc>/import-demo/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
      <loc>/configure-header-settings/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -45,19 +45,19 @@
         
     <url>
      <loc>/home-page-setup/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/homepage-settings-classic/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/homepage-settings-modern/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -67,13 +67,13 @@
         
     <url>
      <loc>/news-page/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/add-news-post/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -82,20 +82,20 @@
     
         
     <url>
-     <loc>/create-search-page-modern/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <loc>/create-search-page/</loc>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/properties-search-page/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/properties-search-page-mod/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -105,19 +105,19 @@
         
     <url>
      <loc>/add-properties-page/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/property-settings/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/add-property/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -127,13 +127,13 @@
         
     <url>
      <loc>/add-agencies-page/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/add-agency/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -143,13 +143,13 @@
         
     <url>
      <loc>/add-agents-page/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/add-agent/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -174,7 +174,7 @@
     
     <url>
      <loc>/add-gallery-page/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -182,7 +182,7 @@
     
     <url>
      <loc>/add-users-page/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -190,7 +190,7 @@
     
     <url>
      <loc>/add-fluid-width-page/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -198,7 +198,7 @@
     
     <url>
      <loc>/add-full-width-page/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -206,7 +206,7 @@
     
     <url>
      <loc>/contact-page/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -214,7 +214,7 @@
     
     <url>
      <loc>/compare-properties/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -222,7 +222,7 @@
     
     <url>
      <loc>/faqs-setup/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -231,31 +231,31 @@
         
     <url>
      <loc>/mortgage-calculator/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/twitter-widget/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/featured-properties/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/property-types/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/advance-search-widget/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -296,7 +296,7 @@
     
     <url>
      <loc>/price-format-settings/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -304,7 +304,7 @@
     
     <url>
      <loc>/url-slugs-settings/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -312,7 +312,7 @@
     
     <url>
      <loc>/properties-shortcode/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -321,73 +321,73 @@
         
     <url>
      <loc>/other-shortcode/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/testimonials-setup/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/currency-switcher/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/paypal-ipn/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/paypal-property-payment-settings/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/inspiry-stripe-payments/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/dsidxpress-idx-plugin/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/dsidxpress-idx-content-setup/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/optima-express/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/optima-express-content-setup/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/ssl-enhancements/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/translation/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -397,37 +397,49 @@
         
     <url>
      <loc>/wpml-basic-setup/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/wpml-home-news-page/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/wpml-menu-sync/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/wpml-string-translation/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/wpml-taxonomy-translation/</loc>
+     <lastmod>2018-07-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/wpml-slugs-translation/</loc>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/wpml-translate-property/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/wpml-property-search-page/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -437,13 +449,13 @@
         
     <url>
      <loc>/visual-composer/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/slider-revolution/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -453,19 +465,19 @@
         
     <url>
      <loc>/customize-styles/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/custom-meta-field-for-property/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/hire-customization-services/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
