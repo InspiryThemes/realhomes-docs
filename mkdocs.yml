@@ -117,6 +117,8 @@ pages:
         - Home & News Page: wpml-home-news-page.md
         - WPML Menu Sync: wpml-menu-sync.md
         - String Translation: wpml-string-translation.md
+        - Taxonomy Translation: wpml-taxonomy-translation.md
+        - Slugs Translation: wpml-slugs-translation.md
         - Translate Property: wpml-translate-property.md
         - Property Search Page: wpml-property-search-page.md
     - Included Plugins:
