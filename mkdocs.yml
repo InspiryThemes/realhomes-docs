@@ -100,6 +100,7 @@ pages:
     - URL Slug Settings: url-slugs-settings.md
     - Properties Shortcode: properties-shortcode.md
     - Other Features:
+        - GDPR: gdpr.md
         - Other Shortcode: other-shortcode.md
         - Testimonials: testimonials-setup.md
         - Currency Switcher: currency-switcher.md
