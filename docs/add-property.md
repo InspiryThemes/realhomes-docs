@@ -31,8 +31,12 @@ Provide property gallery images.
 Gallery Images options for **Classic** Variation.
 ![Property Gallery](images/add-content/property-gallery2.png)
 
+>**Note**: Images should have minimum size of 770px by 386px for thumbnails on right and 830px by 460px for thumbnails on bottom. Bigger size images will be cropped automatically, images must be in landscape format. Minimum 2 images are required to display gallery.
+
 Gallery Images options for **Modern** Variation.
 ![Property Gallery](images/add-content/property-gallery3.png)
+
+>**Note**: Images should have minimum size of 1200px by 680px. Bigger size images will be cropped automatically, images must be in landscape format. Minimum 2 images are required to display gallery.
 
 ### Add Floor Plans
 
