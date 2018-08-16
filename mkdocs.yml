@@ -72,6 +72,8 @@ pages:
     - Contact Page: contact-page.md
     - Compare Properties: compare-properties.md
     - FAQs: faqs-setup.md
+    - Individual Property Payments:
+        - Using PayPal: paypal-ipn.md
     - Widgets:
         - Mortgage Calculator: mortgage-calculator.md
         - Twitter Widget: twitter-widget.md
@@ -103,8 +105,6 @@ pages:
         - Other Shortcode: other-shortcode.md
         - Testimonials: testimonials-setup.md
         - Currency Switcher: currency-switcher.md
-        - PayPal IPN Installation & Setup: paypal-ipn.md
-        - PayPal Property Payment Settings: paypal-property-payment-settings.md
         - Inspiry Stripe Payments: inspiry-stripe-payments.md
         - dsIDXpress IDX Plugin: dsidxpress-idx-plugin.md
         - dsIDXpress Content Setup: dsidxpress-idx-content-setup.md
