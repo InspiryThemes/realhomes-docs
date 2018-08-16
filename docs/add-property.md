@@ -2,15 +2,15 @@
 
 Go to **Dashboard → Real Homes → Properties → Add New**
 
-### Add Property Title
+### **Add Property Title**
 
 ![Property Title](images/add-content/add-property-title.png)
 
-### Add Property Description
+### **Add Property Description**
 
 ![Property Description](images/add-content/property-description.png)
 
-### Add Basic Information
+### **Add Basic Information**
 
 Add basic information related to property, Like price, area, beds, baths, garages etc. 
 
@@ -18,13 +18,13 @@ If you want to add this property into featured properties then mark this propert
 
 ![Property Basic Information](images/add-content/basic-info.png)
 
-### Provide Location on Google Map
+### **Provide Location on Google Map**
 
 Provide property address and drag the google map pointer to correct location. 
 
 ![Property Map](images/add-content/property-map.png)
 
-### Add Gallery Images
+### **Add Gallery Images**
 
 Provide property gallery images.
 
@@ -38,19 +38,25 @@ Gallery Images options for **Modern** Variation.
 
 >**Note**: Images should have minimum size of 1200px by 680px. Bigger size images will be cropped automatically, images must be in landscape format. Minimum 2 images are required to display gallery.
 
-### Add Floor Plans
+### **Add Floor Plans**
 
 Provide floor plan details.
 
 ![Property Floor Plans](images/add-content/floor-plans.png)
 
-### Add Featured Image
+### **Add Featured Image**
 
-Provide property featured image (it is a must ) 
+You must set a featured image to the property.
+
+**Featured Image (Classic Design)**
 
 ![Property Featured Image](images/add-content/property-featured-image.png)
 
-### Add Video Tour and Virtual Tour
+**Featured Image (Modern Design)**
+
+![Property Featured Image](images/add-content/property-featured-image-modern.png)
+
+### **Add Video Tour and Virtual Tour**
 
 If your property has any virtual tour video then it is recommended that you upload the video on vimeo or youtube and provide it's URL here with related screen shot or property photo.
 
@@ -60,7 +66,7 @@ If your property has any virtual tour video then it is recommended that you uplo
 
 ![Property Video](images/add-content/property-video.png)
 
-### Assign Agent Information
+### **Assign Agent Information**
 
 Choose the kind of information you want to display in agent's information box. 
 
@@ -78,25 +84,25 @@ If you have adequate rights, You can also modify the author from Author meta box
 ![Property Author](images/add-content/property-author.png)
 3. Display agent's information will display the selected agent's information. You can add the agent from **Dashboard → Agents → Add New**.
 
-### Mark Property as Sticky
+### **Mark Property as Sticky**
 
 If you want to make this property stick to top on home page and listing pages, then mark this property as sticky.
 
 ![Property Floor Plans](images/add-content/sticky-property.png)
 
-### Add Property in Homepage Slider
+### **Add Property in Homepage Slider**
 
 If you want to add this property in homepage slider then check the related option and provide slide image.
 
 ![Property Home Slider](images/add-content/property-home-slider.png)
 
-### Add Aditional Information
+### **Add Aditional Information**
 
 You can provide any additional information as key-value pairs. 
 
 ![Property Additional Information](images/add-content/additional-information.png)
 
-### Add/Select Property Features
+### **Add/Select Property Features**
 
 You can choose or add property features from related meta box displayed in screen shot below.
 
@@ -117,19 +123,19 @@ You can also add an icon to a property feature. This icon will appear on the pro
 !!! note
     Recommended image size for icon is 64px by 64px.
 
-### Add/Assign Property Types
+### **Add/Assign Property Types**
 
 You can choose or add property types from related meta box displayed in screen shot below.
 
 ![Property Type](images/add-content/choose-property-types.png)
 
-### Add/Assign Property Locations
+### **Add/Assign Property Locations**
 
 You can choose or add property locations from related meta box displayed in screen shot below.
 
 ![Property City](images/add-content/property-city.png)
 
-### Add/Assign Property Statuses
+### **Add/Assign Property Statuses**
 
 You can choose or add property statuses from related meta box displayed in screen shot below. 
 
