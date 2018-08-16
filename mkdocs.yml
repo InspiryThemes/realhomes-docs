@@ -51,21 +51,20 @@ pages:
     - Agent Settings:
         - Create Agents Page: add-agents-page.md
         - Add Agent: add-agent.md
-    - Membership Settings:
-        - Members Pages:
-              - Setup Login and Registration: login-and-registration.md
-              - Setup Social Login: setup-social-login.md
-              - Submit Property Page: submit-property.md
-              - My Properties Page: my-properties.md
-              - Edit Profile Page: edit-profile.md
-              - Favorites Page: favorites-page.md
-        - Setup Memberships:
-              - Installation: ims-installation.md
-              - Basic Settings: ims-basic-settings.md
-              - Stripe Settings: ims-stripe-settings.md
-              - PayPal Settings: ims-paypal-settings.md
-              - Wire Settings: ims-wire-settings.md
-              - Creating Membership Packages: creating-membership-packages.md
+    - Members Pages:
+        - Setup Login and Registration: login-and-registration.md
+        - Setup Social Login: setup-social-login.md
+        - Submit Property Page: submit-property.md
+        - My Properties Page: my-properties.md
+        - Edit Profile Page: edit-profile.md
+        - Favorites Page: favorites-page.md
+    - Membership Setup:
+        - Installation: ims-installation.md
+        - Basic Settings: ims-basic-settings.md
+        - Stripe Settings: ims-stripe-settings.md
+        - PayPal Settings: ims-paypal-settings.md
+        - Wire Settings: ims-wire-settings.md
+        - Creating Membership Packages: creating-membership-packages.md
     - Gallery Page: add-gallery-page.md
     - Users Page: add-users-page.md
     - Fluid Width Page: add-fluid-width-page.md
