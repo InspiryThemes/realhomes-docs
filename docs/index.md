@@ -1,4 +1,4 @@
-This documentation is last updated on **9 August 2018**.
+This documentation is last updated on **16 August 2018**.
 
 Thanks for purchasing **Real Homes WordPress Real Estate Theme**. If you have any question that is beyond the scope of this documentation, feel free to ask that on our [support website](http://support.inspirythemes.com/). You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
@@ -28,6 +28,10 @@ Please note some features (which you can find in Classic Design) might not be av
 ## How to Update Theme
 
 If you want to update your theme then you can consult [this knowledge base article for automatic update](https://support.inspirythemes.com/knowledgebase/update-theme-using-envato-wordpress-toolkit/) OR you can consult [this knowledge base article to safely update Real Homes Theme](https://support.inspirythemes.com/knowledgebase/how-to-update-real-homes-theme-safely/).
+
+If you like this theme, please support us by rating this theme with **5 stars**. ★★★★★
+
+![How to rate Real Homes Theme](images/general/how-to-rate-theme.png)
 
 ## Support Policy
 
