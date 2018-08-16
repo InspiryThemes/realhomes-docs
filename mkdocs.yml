@@ -74,6 +74,7 @@ pages:
     - FAQs: faqs-setup.md
     - Individual Property Payments:
         - Using PayPal: paypal-ipn.md
+        - Using Stripe: inspiry-stripe-payments.md
     - Widgets:
         - Mortgage Calculator: mortgage-calculator.md
         - Twitter Widget: twitter-widget.md
@@ -105,7 +106,6 @@ pages:
         - Other Shortcode: other-shortcode.md
         - Testimonials: testimonials-setup.md
         - Currency Switcher: currency-switcher.md
-        - Inspiry Stripe Payments: inspiry-stripe-payments.md
         - dsIDXpress IDX Plugin: dsidxpress-idx-plugin.md
         - dsIDXpress Content Setup: dsidxpress-idx-content-setup.md
         - iHomefinder Optima Express Plugin: optima-express.md

@@ -8,7 +8,7 @@ You have to install [PayPal IPN Plugin](https://wordpress.org/plugins/paypal-ipn
 	
 	![Install PayPal IPN Plugin](images/other-features/search-for-paypal-ipn.png)
 
-2. Once found, **Install** and **Activate**
+2. Once found, **Install** and **Activate** the plugin.
 
 ## Configure related Settings
 
@@ -28,4 +28,7 @@ You have to install [PayPal IPN Plugin](https://wordpress.org/plugins/paypal-ipn
 
 6. Once done, You can visit my properties page on your website to view PayPal payment button for individual properties.
 
-In case of any issue, you can signup/login to our [support website](https://support.inspirythemes.com/login-register/) and [ask your question](https://support.inspirythemes.com/ask-question/) over there.
+	![My Properties Payment Buttons](images/other-features/my-properties-payment-buttons.png)
+
+!!!note
+	In case of any issue, you can signup/login to our [support website](https://support.inspirythemes.com/login-register/) and [ask your question](https://support.inspirythemes.com/ask-question/) over there.
