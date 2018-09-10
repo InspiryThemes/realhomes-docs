@@ -1,10 +1,18 @@
 ## Home Page Settings (Modern)
 
-### **Home Page Settings**
-
 Navigate to **Dashboard → Real Homes → Customize Settings** and look into **Home Page** panel to explore further sections.
 
 ![Home Page Settings](images/home-setup/homepage-panel-modern.png)
+
+### **Sections Manager**
+
+If you want to change the order of the sections of home page then you can use **Sections Manager**.
+
+**Sections Manager** gives you control over the sections order of home page, for example, you can display the Call to Action section between the Features and the Partners section or you can put Latest Properties section at the top or in the middle.
+
+Navigate to **Dashboard → Real Homes → Customize Settings → Home Page → Sections Manager**. To change the order of the sections simply select **Custom** and just drag and drop the sections.
+
+![Sections Manager for Home Page](images/home-setup/sections-manager-modern.png)
 
 ### **Home Page Slider**
 You can feed slider contents from following sources
@@ -88,6 +96,12 @@ Navigate to **Dashboard → Real Homes → Customize Settings** and look for **H
 
 ![Testimonials Settings](images/home-setup/homepage-testimonials-modern-full.png)
 
+### **Call to Action**
+
+Go to **Dashboard → Real Homes → Customize Settings** and search for **Home Page → Call to Action** for related settings.
+
+![Call to Action](images/home-setup/call-to-action.png)
+
 ### **Agents Section**
 
 Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → Agents Section** for related settings.
@@ -111,6 +125,24 @@ To add features navigate to **Dashboard → Pages** and edit the page which is a
 On the page edit screen you will have the option to add/remove/change the information of the Features.
 
 ![Home Page Features](images/home-setup/how-to-add-features-modern.png)
+
+### **Partners**
+
+Go to **Dashboard → Real Homes → Customize Settings** and search for **Home Page → Partners** for related settings.
+
+![Call to Action](images/home-setup/partners-settings-full-modern.png)
+
+### **News Posts on Home Page**
+
+Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → News** or Blog Posts section for related settings.
+
+![News Posts Settings](images/home-setup/news-settings-full-modern.png)
+
+### **Call to Action - Contact**
+
+Go to **Dashboard → Real Homes → Customize Settings** and search for **Home Page → Call to Action - Contact** for related settings.
+
+![Call to Action - Contact](images/home-setup/call-to-action-contact.png)
 
 ### **General**
 

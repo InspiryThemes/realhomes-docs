@@ -12,7 +12,7 @@ theme:
     primary: 'blue'
     accent: 'blue'
   favicon: 'images/base/realhomes-favicon.png'
-#  logo: 'images/base/realhomes-logo.png'
+  logo: 'images/base/realhomes-logo.png'
 
 extra_css:
     - css/layout.css
@@ -24,7 +24,7 @@ extra:
     - type: 'twitter'
       link: 'https://twitter.com/InspiryThemes'
 
-pages:
+nav:
     - Introduction: index.md
     - Installation & Activation: installation-and-activation.md
     - Selection Of Design: design-selection.md
