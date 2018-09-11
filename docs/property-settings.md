@@ -65,7 +65,7 @@ Property Map Settings can be found in **Dashboard → Real Homes → Customize S
 
 ![Property Map on Property Detail Page](images/single-property-page/map-on-property-page.png)
 
-**Please note that you have to Configure Google Maps Api Key Settings to display the maps properly throughout your website**.
+**Please note that you have to Configure Google Maps API Key Settings in Customize → Maps to display the maps properly throughout your website**.
 
 ## Attachments
 
