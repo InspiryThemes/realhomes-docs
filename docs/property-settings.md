@@ -2,22 +2,25 @@
 
 ## Intro
 
-To change property settings you can go to “**Dashboard → Real Homes → Customize Settings → Property Detail Page**”.
+To change property settings go to **Dashboard → Real Homes → Customize Settings → Property Detail Page**.
 
 ![Property Detail Page Settings](images/single-property-page/properties-detail-page.png)
 
 ## Breadcrumbs
 
-Breadcrumb settings can be controlled via **Dashboard → Real Homes → Customize Settings → Property Detail Page → Breadcrumbs**.
+**Breadcrumb Settings** can be changed in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Breadcrumbs**.
+
+## Classic
 
 ![Breadcrumbs on Property Detail Page](images/single-property-page/property-breadcrumbs.png) ![Breadcrumbs on Property Detail Page](images/single-property-page/breadcrumbs-on-property-details-page.png)
 
-!!! note
-    Property Breadcrumbs are not available in **Modern** Variation.
+## Modern
+
+![Breadcrumbs on Property Detail Page](images/single-property-page/property-breadcrumbs.png) ![Breadcrumbs on Property Detail Page](images/single-property-page/breadcrumbs-on-property-details-page-modern.png)
 
 ## Basic
 
-There are multiple options for property detail page in this section. To modify them go to **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+There are multiple options for **Property Detail Page** in this section. To modify them go to **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
 
 ![Basic Settings of Property Detail Page](images/single-property-page/banner-display.png)
 
@@ -43,7 +46,7 @@ Please note that this note will be displayed on every property page.
 
 ## Video
 
-Property Video Settings are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Video**. You can either choose to display the video or hide it.
+**Property Video Settings** are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Video**. You can either choose to display the video or hide it.
 
 ![Property Video Settings](images/single-property-page/property-video.png)
 
@@ -51,7 +54,7 @@ Property Video Settings are located in **Dashboard → Real Homes → Customize 
 
 ## Virtual Tour
 
-Property Virtual Tour Settings are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Virtual Tour**. You can either choose to display the virtual tour or hide it.
+**Property Virtual Tour Settings** are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Virtual Tour**. You can either choose to display the virtual tour or hide it.
 
 ![Property Virtual Tour Settings](images/single-property-page/property-virtual-tour.png)
 
@@ -59,7 +62,7 @@ Property Virtual Tour Settings are located in **Dashboard → Real Homes → Cus
 
 ## Map
 
-Property Map Settings can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Property Map**. You can either choose to display the google map or hide it.
+**Property Map Settings** can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Property Map**. You can either choose to display the google map or hide it.
 
 ![Property Map on Property Detail Page](images/single-property-page/property-map.png)
 
