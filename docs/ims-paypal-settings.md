@@ -15,7 +15,7 @@ This section belongs to the settings related to **PayPal**. You can:
 2. Scroll down and click on Create App under the heading **REST API apps**. 
 ![Real Homes Documentation](images/membership/rest-api-apps.png)
 3. Choose name of your app and click **Create App**. 
-![Real Homes Documentation](images/membership/create-app.png)
+![Real Homes Documentation](images/membership/create-new-app.png)
 4. Now you can see and manage your client ID and secret. 
 ![Real Homes Documentation](images/membership/manage-your-client.png)
 
