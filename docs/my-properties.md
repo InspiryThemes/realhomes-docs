@@ -19,17 +19,11 @@ Publish the page once it is ready.
 
 ## Configure My Properties Settings
 
-Now you need to navigate to **Dashboard → Real Homes → Customize Settings** and look for **Members** panel. 
-
-![Real Homes Documentation](images/member-pages/members-customizer.png)
-
-This panel contains My Properties section where you can configure related settings. **Select My Properties Page** from dropdown as displayed in above screenshot below.
+Navigate to **Dashboard → Real Homes → Customize Settings → Members** and look for **My Properties** panel where you can configure related settings. **Select My Properties Page** from dropdown as displayed in above screenshot below. 
 
 ![Real Homes Documentation](images/member-pages/my-properties-panel.png)
 
-![Real Homes Documentation](images/member-pages/my-properties-customizer-settings.png)
-
-Save the changes and your My Properties page is ready to use.
+Save the changes and your **My Properties** page is ready to use.
 
 **Classic**
 
