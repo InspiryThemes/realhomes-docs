@@ -33,9 +33,9 @@ Next step is to configure **Contact Page** settings.
 
 ## Contact Settings
 
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Various Pages** panel, In this panel look for **Contact Page** section and explore all the available settings in this section to configure Contact page.
+Navigate to **Dashboard → Real Homes → Customize Settings**. In this panel look for **Contact Page** section and explore all the available settings in it to configure Contact page.
 
-![Various Pages](images/contact-page/various-pages.png) ![Various Pages Panel](images/contact-page/various-pages-panel.png)
+![Various Pages Panel](images/contact-page/various-pages-panel.png)
 
 ### Header Variation
 
@@ -46,12 +46,12 @@ Navigate to **Dashboard → Real Homes → Customize Settings** and look for **V
 
 ### Google Map
 
-If you want to display google map on contact page then you need to enable it from setting displayed in below. You need to provide your location's coordinates to display it in google map. You can find your location's latitude and longitude from [itouchmap.com/latlong.html](http://itouchmap.com/latlong.html). You also need to provide the appropriate zoom level value as displayed below.
+If you want to display the google map on contact page then you need to enable it from settings displayed below. Please provide your location's coordinates. You can find your location's latitude and longitude from [itouchmap.com/latlong.html](http://itouchmap.com/latlong.html). You also need to provide the appropriate zoom level value as displayed below.
 
 ![Google Map On Contact Page](images/contact-page/google-map-on-contact-page.png)
 
 !!! note
-    To enable Google Maps for your website, You need to configure **Google Maps API key** under **Customize → Misc** panel.
+    To enable Google Maps for your website, You need to configure **Google Maps API key** under **Customize → Maps** panel.
 
 ### Contact Details
 
