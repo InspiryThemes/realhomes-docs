@@ -78,7 +78,7 @@ Navigate to **Dashboard → Real Homes → Customize Settings** and look for **H
 
 To display properties related to on or more particular locations, statuses or types you can use related settings displayed in screen shot below.
 
-![Slogan Section](images/home-setup/home-properties-filter.png)
+![Slogan Section](images/home-setup/home-properties-filter-modern.png)
 
 ### **Properties Sorting, Number of Properties and Section Styles**
 
@@ -108,15 +108,11 @@ Navigate to **Dashboard → Real Homes → Customize Settings** and look for **H
 
 ![Home Page Features](images/home-setup/agents-on-homepage-modern-full.png)
 
-![Home Page Features](images/home-setup/agents-on-homepage-modern-style.png)
-
 ### **Features Section**
 
 Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → Features Section** for related settings.
 
 ![Home Page Features](images/home-setup/modern-features-settings-full.png)
-
-![Home Page Features](images/home-setup/modern-features-settings-style.png)
 
 ### **How to add Features**
 
