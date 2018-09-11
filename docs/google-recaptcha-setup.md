@@ -4,10 +4,8 @@ To configure **Google reCAPTCHA** you need to register your website at [Visit Go
 
 ![Register a New Site - Google reCAPTCHA](images/google-recaptcha/register-new-site-google-recaptcha.png) 
 
-After that use those keys to fill the related fields in **Dashboard → Real Homes → Customize Settings → Misc** as displayed below.
+After that use those keys to fill the related fields in **Dashboard → Real Homes → Customize Settings → Google reCAPTCHA** as displayed below.
 
 ![Register a New Site - Google reCAPTCHA](images/google-recaptcha/google-recaptcha-api-settings.png)
 
-Now your reCAPTCHA keys are configured and you just need to enable reCAPTCHA on the required forms. To enable it on **Contact Form** and **Agent Contact Forms**, look for **Google reCAPTCHA for Spam Protection option** and enable it by selecting "**Yes**" as shown below.
-
-![Register a New Site - Google reCAPTCHA](images/google-recaptcha/enable-google-recaptcha.png)
+The reCAPTCHA keys are configured and the Google reCAPTCHA is enabled on **Contact Form** and **Agent Contact Forms**.
