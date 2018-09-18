@@ -101,9 +101,9 @@ nav:
     - Price Format Settings: price-format-settings.md
     - URL Slug Settings: url-slugs-settings.md
     - Properties Shortcode: properties-shortcode.md
+    - GDPR: gdpr.md
     - Other Features:
-        - GDPR: gdpr.md
-        - Other Shortcode: other-shortcode.md
+        - Other Shortcodes: other-shortcode.md
         - Testimonials: testimonials-setup.md
         - Currency Switcher: currency-switcher.md
         - dsIDXpress IDX Plugin: dsidxpress-idx-plugin.md
