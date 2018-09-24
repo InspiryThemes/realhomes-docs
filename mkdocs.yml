@@ -135,11 +135,11 @@ use_directory_urls: true
 
 markdown_extensions:
   - admonition
-  - codehilite(guess_lang=true,linenums=true)
-  - toc(permalink=true)
+  - codehilite
+  - toc
   - footnotes
   - pymdownx.arithmatex
-  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.betterem
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.emoji:
@@ -149,6 +149,6 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
-  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tasklist
   - pymdownx.tilde
   - meta
