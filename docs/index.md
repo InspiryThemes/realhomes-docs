@@ -1,4 +1,4 @@
-This documentation is last updated on **18 September 2018**.
+This documentation is last updated on **24 September 2018**.
 
 Thanks for purchasing **Real Homes WordPress Real Estate Theme**. Any question that is beyond the scope of this documentation should be asked on our [support website](http://support.inspirythemes.com/). You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
@@ -12,7 +12,7 @@ Please note some features (which you find in Classic Design) might not be availa
 
 ### **Basic Recommendations**
 
-* Use **PHP 7.2 or greater** as it is faster than previous versions and a [base requirement of WordPress](https://wordpress.org/about/requirements/). ( You can communicate with your hosting provider to get it updated. )
+* Use **PHP 7.2 or greater** as it is faster than previous versions of PHP and a [base requirement of WordPress](https://wordpress.org/about/requirements/). ( You can communicate with your hosting provider to get it updated. )
 * Make sure your hosting is based on SSD drives.
 * It is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on.
 * Use a good cache plugin and test your site properly after installing and configuring it.
