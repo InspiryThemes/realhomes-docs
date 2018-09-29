@@ -1,22 +1,32 @@
 # Add Agency
 
-Go to **Dashboard → Real Homes → Agencies → Add New**
+Go to **Dashboard → Real Homes → Agencies → Add New** to add a new agency.
+
+### Agency Name
 
 - Provide the agency name
 
 ![Agency Name](images/add-content/add-agency-title.png)
 
+### Agency Description
+
 - Provide the agency description
 
 ![Agency Description](images/add-content/agency-description.png)
+
+### Agency Featured Image
 
 -  Provide the featured image. The image should have minimum width of 210px and minimum height of 210px. The bigger size images will be cropped automatically. 
 
 ![Agency Picture](images/add-content/agency-logo-image.png)
 
+### Agency Information
+
 - Provide the agency related information
 
 ![Agency Information](images/add-content/agency-information.png)
+
+### Top Banner Settings
 
 - Provide the top banner related information on agency detail page if you want for **Classic** Variation!
 
