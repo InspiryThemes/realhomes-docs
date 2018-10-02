@@ -7,19 +7,19 @@ Go to **Dashboard → Pages → Add New**
 
 - Provide the page title
 
-![Add Gallery Page](images/create-pages/add-agent-page.png)
+![Add Agents Page](images/create-pages/add-agent-page.png)
 
 - Select the **Agents List** from page attributes.
 
-![Add Gallery Page](images/create-pages/agent-listing-template.png)
+![Add Agents Page](images/create-pages/agent-listing-template.png)
 
 - Provide the top banner related information if you want for **Classic** Variation!
 
-![Add Gallery Page](images/create-pages/agent-banner-area-settings.png)
+![Add Agents Page](images/create-pages/agent-banner-area-settings.png)
 
 - Provide the top banner related information if you want for **Modern** Variation!
 
-![Add Gallery Page](images/create-pages/agent-banner-area-settings-mod.png)
+![Add Agents Page](images/create-pages/agent-banner-area-settings-mod.png)
 
 - **Publish** the page once it is ready.
 

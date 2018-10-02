@@ -1,13 +1,17 @@
-# Add Gallery Page
+# **Add Gallery Page**
 
 !!! note
     If you have imported demo contents XML then this page is already created.
 
 Go to **Dashboard → Pages → Add New** 
 
+### **Gallery Title**
+
 - Provide the page title 
 
 ![Add Gallery Page](images/create-pages/add-gallery-page.png)
+
+### **Select Gallery Template**
 
 - Select the appropriate page template for gallery. 
 
@@ -19,7 +23,20 @@ There are 3 templates for gallery page.
 
 ![Gallery Templates](images/create-pages/gallery-templates.png)
 
+### **Properties Gallery Filter Settings**
+
+- Select the settings of your choice in **Properties Gallery Filter Settings**.
+
+In above displayed **Properties Gallery Filter Settings**, you can control the following:
+
+- Number of properties on each gallery page in the pagination.
+- Properties by specific status, type and feature.
+
+![Properties Gallery Filter Settings](images/create-pages/properties-gallery-filter-settings.png)
+
 **Publish** the page once it is ready.
+
+### **Add Gallery Page to Menu**
 
 After publishing you need to add the newly created page in menu from **Dashboard → Appearance → Menus**. 
 
