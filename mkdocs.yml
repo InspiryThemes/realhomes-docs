@@ -29,6 +29,7 @@ nav:
     - Installation & Activation: installation-and-activation.md
     - Selection Of Design: design-selection.md
     - Import Demo Contents: import-demo.md
+    - Language Packs & Translation: translation.md
     - Maps & reCAPTCHA:
         - Open Street Maps: open-street-maps.md
         - Google Maps:
@@ -112,7 +113,6 @@ nav:
         - iHomefinder Optima Express Plugin: optima-express.md
         - iHomefinder Content Setup: optima-express-content-setup.md
         - SSL Enhancements: ssl-enhancements.md
-        - Translation: translation.md
     - WPML:
         - WPML Basic Setup: wpml-basic-setup.md
         - Home & News Page: wpml-home-news-page.md

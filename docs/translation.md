@@ -1,8 +1,27 @@
-# Translating The Theme
+# **Translation**
+
+### **Language Packs**
+
+Real Homes Theme come with multiple human as well as machine translated languages which are listed below.
+
+#### **Human Translated Languages**
+
+- Spanish
+- French
+- Italian
+- German
+- Portuguese
+- Turkish
+
+#### **Machine Translated Languages**
+
+There are lots of machine translated language packs available and we have made a separate repository so if anyone wants to contribute to it they can do it. The respository can be accesses here: https://github.com/InspiryThemes/realhomes-translations (feel free to contribute if you can).
+
+### **Translating Real Homes Theme**
 
 **Real Homes Theme** is fully translation ready.
 
-For translation to only one language please visit [This Knowledge Base Article](https://support.inspirythemes.com/knowledgebase/how-to-translate-your-theme-to-your-language/)
+To translate it to one language then please visit [This Knowledge Base Article](https://support.inspirythemes.com/knowledgebase/how-to-translate-your-theme-to-your-language/)
  
 **OR**
  
