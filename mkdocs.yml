@@ -29,6 +29,13 @@ nav:
     - Installation & Activation: installation-and-activation.md
     - Selection Of Design: design-selection.md
     - Import Demo Contents: import-demo.md
+    - Maps & reCAPTCHA:
+        - Open Street Maps: open-street-maps.md
+        - Google Maps:
+            - Google Maps API Key: google-maps-setup.md
+            - Custom Markers for Property Type: property-type-custom-markers.md
+        - Google reCAPTCHA:
+            - Get Google reCAPTCHA API Key: google-recaptcha-setup.md
     - Header Settings: configure-header-settings.md
     - Home Page Setup:
         - Creating and Configuring Page: home-page-setup.md
@@ -81,12 +88,6 @@ nav:
         - Featured Properties: featured-properties.md
         - Property Types: property-types.md
         - Advance Search Widget: advance-search-widget.md
-    - Google Settings:
-        - Google Maps:
-            - Google Maps API Key: google-maps-setup.md
-            - Custom Markers for Property Type: property-type-custom-markers.md
-        - Google reCAPTCHA:
-            - Get Google reCAPTCHA API Key: google-recaptcha-setup.md
     - Footer:
         - Classic Settings:
             - Partners Settings: footer-settings.md
