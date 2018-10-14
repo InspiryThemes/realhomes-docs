@@ -14,11 +14,11 @@ After this you will have a property search form displayed on homepage.
 
 Now, you can also use the RealHomes - Advance Search Widget in sidebar as that widget uses the same configurations.
 
-### Step 2. Show / Hide Fields and Search Form Labels
+### Step 2. Show / Hide and Drag & Drop Fields with Search Form Labels
 
-Navigate to Search Form Basics section in Properties Search panel, In this section you can show / hide fields on properties search form and you can also modify their labels.
+Navigate to **Search Form Basics** section in **Properties Search** panel, In this section you can **Show / Hide Fields** on properties search form as well as **Drag and Drop the Fields** to change their display order and you can also change the labels.
 
-![Properties Search Basics](images/home-setup/search-form-basics.png)
+![Properties Search Basics](images/home-setup/search-form-basics-modern.gif)
 
 ![Properties Search Basics](images/home-setup/search-form-basics-collapse.png)
 
