@@ -86,11 +86,12 @@ nav:
         - Using PayPal: paypal-ipn.md
         - Using Stripe: inspiry-stripe-payments.md
     - Widgets:
-        - Mortgage Calculator: mortgage-calculator.md
-        - Twitter Widget: twitter-widget.md
+        - Advance Search Widget: advance-search-widget.md
+        - Agents Widgets: agents-widget.md
         - Featured Properties: featured-properties.md
         - Property Types: property-types.md
-        - Advance Search Widget: advance-search-widget.md
+        - Mortgage Calculator: mortgage-calculator.md
+        - Twitter Widget: twitter-widget.md
     - Footer:
         - Classic Settings:
             - Partners Settings: footer-settings.md
