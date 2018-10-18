@@ -38,6 +38,7 @@ nav:
             - Custom Markers for Property Type: property-type-custom-markers.md
         - Google reCAPTCHA:
             - Get Google reCAPTCHA API Key: google-recaptcha-setup.md
+    - Real Estate CRM: real-estate-crm.md
     - Header Settings: configure-header-settings.md
     - Home Page Setup:
         - Creating and Configuring Page: home-page-setup.md
