@@ -15,11 +15,13 @@ Real Homes Theme come with multiple human as well as machine translated language
 
 #### **Machine Translated Languages**
 
-There are lots of machine translated language packs available and we have made a separate repository so if anyone wants to contribute to it they can do it. The respository can be accesses here: https://github.com/InspiryThemes/realhomes-translations (feel free to contribute if you can).
+There are lots of machine translated language packs available and we have created a separate repository so anyone can contribute to it. The respository can be found here: https://github.com/InspiryThemes/realhomes-translations (feel free to contribute if you can).
 
 ### **How to apply the available Language Packs**
 
-The human translated languages are already included in the main theme so applying them is very easy. Simply navigate to **Dashboard → Settings → General** and select any of the 6 available human translated languages from **Site Language** drop down.
+The Human Translated languages are already included in the main theme so applying them is very easy. Simply navigate to **Dashboard → Settings → General** and select any of the 6 available human translated languages from **Site Language** drop down.
+
+To apply a Machine Translation language pack, you simply have to download the language pack from the repository at github and upload both .po and .mo file to **wp-content → themes → realhomes → languages** directory. After uploading simply change the **Site Language** in **Dashboard → Settings → General**
 
 ![How to apply an available language pack](images/language-packs-translation/select-language.png)
 
