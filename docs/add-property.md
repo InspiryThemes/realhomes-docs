@@ -2,13 +2,9 @@
 
 Go to **Dashboard → Real Homes → Properties → Add New**
 
-### **Add Property Title**
+### **Add _Property Title_ and _Property Description_**
 
-![Property Title](images/add-content/add-property-title.png)
-
-### **Add Property Description**
-
-![Property Description](images/add-content/property-description.png)
+![Property Title & Description](images/add-content/title-and-description.png)
 
 ### **Add Basic Information**
 
@@ -48,13 +44,13 @@ Provide floor plan details.
 
 You must set a featured image to the property.
 
-**Featured Image (Classic Design)**
+**Featured Image**
 
-![Property Featured Image](images/add-content/property-featured-image.png)
+**Classic:** <span style="color: #ec894d;">The featured image in **Classic Design** should have Minimum Width of **770 pixels** and Minimum Height of **386 pixels**.</span>
 
-**Featured Image (Modern Design)**
+**Modern:** <span style="color: #1ea69a;">The featured image in **Modern Design** should have Minimum Width of **680 pixels** and Minimum Height of **510 pixels**.</span>
 
-![Property Featured Image](images/add-content/property-featured-image-modern.png)
+![Property Featured Image](images/add-content/featured-image-updated.png)
 
 ### **Add Video Tour and Virtual Tour**
 
@@ -110,7 +106,7 @@ You can provide any additional information as key-value pairs.
 
 You can choose or add property features from related meta box displayed in screen shot below.
 
-![Property Features](images/add-content/property-features.png)
+![Property Features](images/add-content/property-features-updated.png)
 
 You can also add an icon to a property feature. This icon will appear on the property details page, before property feature. To add an icon to a feature, follow these steps:
 
@@ -131,19 +127,19 @@ You can also add an icon to a property feature. This icon will appear on the pro
 
 You can choose or add property types from related meta box displayed in screen shot below.
 
-![Property Type](images/add-content/choose-property-types.png)
+![Property Type](images/add-content/property-types-updated.png)
 
 ### **Add/Assign Property Locations**
 
 You can choose or add property locations from related meta box displayed in screen shot below.
 
-![Property City](images/add-content/property-city.png)
+![Property City](images/add-content/property-cities-updated.png)
 
 ### **Add/Assign Property Statuses**
 
 You can choose or add property statuses from related meta box displayed in screen shot below. 
 
-![Property Status](images/add-content/property-status.png)
+![Property Status](images/add-content/property-status-updated.png)
 
 ### Assign Parent Property
 
