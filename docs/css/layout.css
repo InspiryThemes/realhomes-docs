@@ -1,3 +1,6 @@
+/**
+  * Custom Styles for the Documentation
+  */
 .md-typeset h1 {
     font-weight: 700;
     letter-spacing: -.01em;
@@ -5,26 +8,19 @@
     padding: 0 0 1rem 0;
     border-bottom: 1px solid #eff0ef;
 }
-
 .md-typeset h1, .md-typeset h2 {
     font-weight: 700;
     letter-spacing: -.01em;
 }
-
 .md-header-nav__button.md-logo * {
     display: block;
     width: 65px;
     height: auto;
 }
-
 .md-footer-copyright {
     color: hsl(0, 0%, 69%);
     display: none;
 }
-/*.md-nav.md-nav--secondary  ul  li{*/
-    /*font-weight: 600;*/
-/*}*/
-/*.md-nav.md-nav--secondary  ul  li  li {*/
-    /*font-weight: 400;*/
-/*}*/
-
+.md-typeset iframe, .md-typeset img, .md-typeset svg {
+    border: 5px solid #e7e7e7;
+}
