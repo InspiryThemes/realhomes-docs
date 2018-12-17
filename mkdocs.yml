@@ -26,11 +26,33 @@ extra:
 
 nav:
     - Introduction: index.md
-    - Initial Setup:
-        - Installation & Activation: installation-and-activation.md
-        - Selection Of Design: design-selection.md
-        - Import Demo Contents: import-demo.md
-    - Language Packs & Translation: translation.md
+    - Installation & Demo Import:
+        - Installation: installation-and-activation.md
+        - Demo Import: import-demo.md
+        - Design Selection: design-selection.md
+    - Homepage:
+        - Create & Configure: home-page-setup.md
+        - Settings (Classic): homepage-settings-classic.md
+        - Settings (Modern): homepage-settings-modern.md
+    - News/Blog Page:
+        - Create News/Blog Page: news-page.md
+        - Add News/Blog Post: add-news-post.md
+    - Header Settings: configure-header-settings.md
+    - Adding Property:
+        - Add New Property: add-property.md
+        - Property Settings: property-settings.md
+    - Properties Page: add-properties-page.md
+    - Properties Search Setup:
+        - Create Search Page: create-search-page.md
+        - Configure Search (Classic): properties-search-page.md
+        - Configure Search (Modern): properties-search-page-mod.md
+    - Agencies:
+        - Add New Agency: add-agency.md
+        - Create Agencies Page: add-agencies-page.md
+    - Agents:
+        - Add New Agent: add-agent.md
+        - Create Agents Page: add-agents-page.md
+    - CRM: real-estate-crm.md
     - Maps & reCAPTCHA:
         - Open Street Maps: open-street-maps.md
         - Google Maps:
@@ -38,37 +60,10 @@ nav:
             - Troubleshooting: google-maps-troubleshooting.md
             - Custom Markers for Property Type: property-type-custom-markers.md
         - Google reCAPTCHA:
-            - Get Google reCAPTCHA API Key: google-recaptcha-setup.md 
-    - IDX Compatible Plugins:
-        - dsIDXpress IDX Plugin: 
-            - Installation & Setup: dsidxpress-idx-plugin.md
-            - Content Setup: dsidxpress-idx-content-setup.md
-        - Optima Express Plugin:
-            - Installation & Setup: optima-express.md
-            - Content Setup: optima-express-content-setup.md
-    - Real Estate CRM: real-estate-crm.md
-    - Header Settings: configure-header-settings.md
-    - Home Page Setup:
-        - Creating and Configuring Page: home-page-setup.md
-        - Home Page Settings (Classic): homepage-settings-classic.md
-        - Home Page Settings (Modern): homepage-settings-modern.md
-    - News Page and Post:
-        - Create News Page: news-page.md
-        - Add News Post: add-news-post.md
-    - Property Search Setup:
-        - Create Property Search Page: create-search-page.md
-        - Configure Search (Classic): properties-search-page.md
-        - Configure Search (Modern): properties-search-page-mod.md
-    - Property Page and Settings:
-        - Properties Listing Page: add-properties-page.md
-        - Property Settings: property-settings.md
-        - Add Property: add-property.md
-    - Agencies Settings:
-        - Create Agencies Page: add-agencies-page.md
-        - Add Agency: add-agency.md
-    - Agent Settings:
-        - Create Agents Page: add-agents-page.md
-        - Add Agent: add-agent.md
+            - Get Google reCAPTCHA API Key: google-recaptcha-setup.md
+    - Translation: translation.md
+    - Contact Page: contact-page.md
+    - Compare Properties: compare-properties.md
     - Members Pages:
         - Setup Login and Registration: login-and-registration.md
         - Setup Social Login: setup-social-login.md
@@ -88,8 +83,6 @@ nav:
         - Users Page: add-users-page.md
         - Fluid Width Page: add-fluid-width-page.md
         - Full Width Page: add-full-width-page.md
-    - Contact Page: contact-page.md
-    - Compare Properties: compare-properties.md
     - FAQs: faqs-setup.md
     - Individual Property Payments:
         - Using PayPal: paypal-ipn.md
@@ -115,6 +108,13 @@ nav:
     - Price Format Settings: price-format-settings.md
     - URL Slug Settings: url-slugs-settings.md
     - Properties Shortcode: properties-shortcode.md
+    - IDX Compatible Plugins:
+        - dsIDXpress IDX Plugin:
+            - Installation & Setup: dsidxpress-idx-plugin.md
+            - Content Setup: dsidxpress-idx-content-setup.md
+        - Optima Express Plugin:
+            - Installation & Setup: optima-express.md
+            - Content Setup: optima-express-content-setup.md
     - GDPR: gdpr.md
     - Other Features:
         - Other Shortcodes: other-shortcode.md
