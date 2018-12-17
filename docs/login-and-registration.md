@@ -18,7 +18,7 @@ To add Login & Register page, Go to **Dashboard → Pages → Add New**
 
 Provide the page title
 
-![Login & Register Page Title](images/member-pages/login-register-page-title.png)
+![Login & Register Page Title](images/member-pages/login-register-page-title-gutenberg.png)
 
 Select the **Login & Register** template from page attributes.
  

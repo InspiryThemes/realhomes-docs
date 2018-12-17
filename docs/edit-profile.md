@@ -9,7 +9,7 @@ To add Edit Profile page, Go to **Dashboard → Pages → Add New**
 
 Provide the page title 
 
-![Real Homes Documentation](images/member-pages/edit-profile-title.png)
+![Real Homes Documentation](images/member-pages/edit-profile-title-gutenberg.png)
 
 Select the **Edit Profile** template from page attributes.
 

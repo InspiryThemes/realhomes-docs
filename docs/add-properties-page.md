@@ -7,7 +7,7 @@ Go to **Dashboard → Pages** and click the **Add New** button.
 
 - Provide page title
 
-![Properties Listing Page](images/create-pages/add-properties-listing-page.png)
+![Properties Listing Page](images/create-pages/add-properties-listing-page-gutenberg.png)
 
 - Choose appropriate page template.
 

@@ -4,7 +4,7 @@ First, You need to add **Compare Properties** page.
 
 Go to **Dashboard → Pages → Add New** and provide page title.
  
-![Real Homes Documentation](images/other-features/compare-title.png)
+![Real Homes Documentation](images/other-features/compare-title-gutenberg.png)
 
 Select the **Compare Properties** template from page attributes.
 

@@ -9,7 +9,7 @@ To add Submit Property page, Go to **Dashboard → Pages → Add New**
 
 Provide the page title 
 
-![Real Homes Documentation](images/member-pages/submit-property-title.png)
+![Real Homes Documentation](images/member-pages/submit-property-title-gutenberg.png)
 
 Select the **Submit Property** template from page attributes.
 

@@ -6,7 +6,7 @@ To add Favorite Properties page, Go to **Dashboard → Pages → Add New**
 
 Provide the page title
 
-![Real Homes Documentation](images/member-pages/favorites-title.png)
+![Real Homes Documentation](images/member-pages/favorites-title-gutenberg.png)
 
 Select the **Favorite Properties** from page attributes. 
 

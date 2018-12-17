@@ -2,17 +2,11 @@
 
 Go to **Dashboard → Real Homes → Agents → Add New** to add a new agent.
 
-### **Agent Name**
+### **Agent Name and Description**
 
-- Provide the agent name
+- Provide the agent name and description.
 
-![Agent Name](images/add-content/add-agent-title.png)
-
-### **Agent Description**
-
-- Provide the agent description
-
-![Agent Description](images/add-content/agent-description.png)
+![Agent Description](images/add-content/add-agent-title-description.png)
 
 ###**Agent Picture**
 

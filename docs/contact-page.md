@@ -9,7 +9,7 @@ Go to **Dashboard → Pages → Add New**
 
 Provide the page title 
 
-![Add Contact Page](images/contact-page/add-contact-page.png)
+![Add Contact Page](images/contact-page/add-contact-page-gutenberg.png)
 
 Select the **Contact** as template from page attributes.
 
