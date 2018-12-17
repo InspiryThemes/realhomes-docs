@@ -1,4 +1,4 @@
-# Add Properties Listing Page
+# Add Properties List Page
 
 !!! note
     If you have imported the demo contents XML then this page is already created and you might need to only edit these pages to fulfill your needs.
