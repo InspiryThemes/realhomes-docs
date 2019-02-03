@@ -1,6 +1,6 @@
 # Add Agency
 
-Go to **Dashboard → Real Homes → Agencies → Add New** to add a new agency.
+Go to **Dashboard → Easy Real Estate → Agencies → Add New** to add a new agency.
 
 ### Agency Name and Description
 

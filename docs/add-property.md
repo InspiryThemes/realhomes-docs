@@ -1,6 +1,6 @@
 # Add Property
 
-Go to **Dashboard → Real Homes → Properties → Add New**
+Go to **Dashboard → Easy Real Estate → New Property**
 
 ### **Add _Property Title_ and _Property Description_**
 

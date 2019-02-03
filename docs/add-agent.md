@@ -1,6 +1,6 @@
 # **Add Agent**
 
-Go to **Dashboard → Real Homes → Agents → Add New** to add a new agent.
+Go to **Dashboard → Easy Real Estate → Agents → Add New** to add a new agent.
 
 ### **Agent Name and Description**
 
