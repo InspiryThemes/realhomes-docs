@@ -32,6 +32,7 @@ nav:
         - Design Selection: design-selection.md
     - Homepage:
         - Create & Configure: home-page-setup.md
+        - Create Home Page with Elementor: home-page-setup-with-elementor.md
         - Settings (Classic): homepage-settings-classic.md
         - Settings (Modern): homepage-settings-modern.md
     - News/Blog Page:
