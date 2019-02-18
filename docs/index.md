@@ -1,4 +1,4 @@
-This documentation is last updated on **8th February 2019**.
+This documentation is last updated on **18th February 2019**.
 
 Thanks for purchasing **Real Homes WordPress Real Estate Theme**. Any question that is beyond the scope of this documentation should be asked on our [support website](http://support.inspirythemes.com/). You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
@@ -6,7 +6,7 @@ Thanks for purchasing **Real Homes WordPress Real Estate Theme**. Any question t
 
 It is highly recommended to use the child theme so that you can easily update parent theme whenever a new update is available. A pre-built ready to use child theme is included in the main theme pack which you have downloaded from ThemeForest. It is commonly called **rh-main-package.zip**.
 
-Please note some features (which you find in Classic Design) might not be available yet for Modern Design of Real Homes Theme. We are working on adding every possible feature in Modern Design but some of them are simply not possible to add due to design limitations.
+Please note some features (which you find in Classic Design) might not be available yet for Modern Design of Real Homes Theme. We are working on adding every possible feature to Modern Design but some of them are simply not possible to add due to design limitations.
 
 ##Few Performance Improvement Tips
 
@@ -28,6 +28,8 @@ Please note some features (which you find in Classic Design) might not be availa
 ## How to Update Theme
 
 If you want to update your theme then you can consult [this knowledge base article for automatic update](https://support.inspirythemes.com/knowledgebase/update-theme-using-envato-wordpress-toolkit/) OR you can consult [this knowledge base article to safely update Real Homes Theme](https://support.inspirythemes.com/knowledgebase/how-to-update-real-homes-theme-safely/).
+
+**If you are updating from an old version to 3.8.x then you must read the guide [How to Update Real Homes Theme to Version 3.8](https://support.inspirythemes.com/knowledgebase/update-theme-using-envato-wordpress-toolkit/) to properly update the theme.**
 
 If you like this theme, please support us by rating this theme with **5 stars**. ★★★★★
 
