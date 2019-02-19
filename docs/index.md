@@ -31,10 +31,6 @@ If you want to update your theme then you can consult [this knowledge base artic
 
 **If you are updating from an old version to 3.8.x then you must read the guide [How to Update Real Homes Theme to Version 3.8](https://support.inspirythemes.com/knowledgebase/update-real-homes-version-3-8/) to properly update the theme.**
 
-If you like this theme, please support us by rating this theme with **5 stars**. ★★★★★
-
-![How to rate Real Homes Theme](images/general/how-to-rate-theme.png)
-
 ## Support Policy
 
 ### **Support Includes**
