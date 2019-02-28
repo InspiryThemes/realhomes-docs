@@ -24,10 +24,20 @@ If you are creating a recurring membership package through Stripe then paste the
 ![Real Homes Documentation](images/membership/membership-pending-review.png)
 ![Real Homes Documentation](images/membership/membership-update.png)
 
-### User Membership View
+### **User Membership View**
 
 After creating membership packages, they will automatically start appearing on **Edit Profile** page.
 
 The users can view, buy and control their packages from this page.
 
 ![Real Homes Documentation](images/membership/user-membership-view.png)
+
+### **User Membership Page (Modern)**
+
+If you are using **Modern Design** then you must create a new page with **Membership Plans Template** assigned to it.
+
+![Real Homes Documentation](images/membership/membership-page-modern.gif)
+
+After publishing the page, you can assign it in **Dashboard → Members → Basic** and select the page you created for **Select Membership Page** option.
+
+![Real Homes Documentation](images/membership/assign-membership-page.gif)

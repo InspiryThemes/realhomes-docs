@@ -1,4 +1,4 @@
-This documentation is last updated on **18th February 2019**.
+This documentation is last updated on **28th February 2019**.
 
 Thanks for purchasing **Real Homes WordPress Real Estate Theme**. Any question that is beyond the scope of this documentation should be asked on our [support website](http://support.inspirythemes.com/). You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
@@ -8,7 +8,7 @@ It is highly recommended to use the child theme so that you can easily update pa
 
 Please note some features (which you find in Classic Design) might not be available yet for Modern Design of Real Homes Theme. We are working on adding every possible feature to Modern Design but some of them are simply not possible to add due to design limitations.
 
-##Few Performance Improvement Tips
+## Few Performance Improvement Tips
 
 ### **Basic Recommendations**
 
