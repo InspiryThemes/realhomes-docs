@@ -14,7 +14,7 @@ After this you will have a property search form displayed on homepage.
 
 Now, you can also use the RealHomes - Advance Search Widget in sidebar as that widget uses the same configurations.
 
-### **Step 2. Search Form Layout, Show / Hide and Drag & Drop Fields with Search Form Labels**
+### **Step 2. Search Form Layout - Show / Hide and Drag & Drop Fields with Search Form Labels**
 
 Navigate to **Search Form Basics** section in **Properties Search** panel, In this section you can change **Search Form Layout** to **Default** or **Smart**. You can check both layouts in the following screenshots.
 
