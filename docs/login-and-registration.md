@@ -9,6 +9,12 @@ To allow user registration, You need to allow registration from **Settings → G
 !!! warning "Important"
      Since Version 1.6 Real Homes theme automatically provides modal dialog for Login and Registration. So you do not need to follow further details of this section if you are good with using modal dialog.
 
+## Restrict Backend Access
+
+You must restrict backend access of the user level which you have setup in the previous setup. So navigate to **Dashboard → Appearance → Customize → Members → Basic** and select **Contributor** (or the user role you have selected) for the first option (shown in the following screenshot).
+
+![Login & Register Page Title](images/member-pages/restrict-backend-access.png)
+
 ## Create Login & Register Page
 
 !!! note
