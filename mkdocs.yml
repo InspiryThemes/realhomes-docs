@@ -6,13 +6,15 @@
 
 site_name: Real Homes Documentation
 theme:
-  language: 'en'
-  name: 'material'
-  palette:
-    primary: 'blue'
-    accent: 'blue'
-  favicon: 'images/base/realhomes-favicon.png'
-  logo: 'images/base/realhomes-logo.png'
+    language: 'en' 
+    name: 'material' 
+    palette: 
+        primary: 'blue' 
+        accent: 'blue' 
+    favicon: 'images/base/realhomes-favicon.png' 
+    logo: 'images/base/realhomes-logo.png'
+    
+site_dir: '/Users/inspirythemes/OneDrive/Desktop/Documentations/rh-live-doc'
 
 extra_css:
     - css/layout.css
