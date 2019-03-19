@@ -19,6 +19,12 @@ There are **3 Templates** for properties listing pages.
 
 ![Properties Listing Templates](images/create-pages/properties-listing-templates.png)
 
+### **Map Settings**
+
+If you like to disable the map on Properties Listing pages then you can disable it by navigating to **Dashboard → Appearance → Customize → Various Pages → List Templates & Taxonomy Archives** as shown below.
+
+![Properties Listing Templates](images/create-pages/properties-listing-map-settings.png)
+
 ### **Properties Filter Settings**
 
 You can **Filter Properties** based on your requirements using meta boxes displayed in screen shot below. 
