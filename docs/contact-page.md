@@ -1,6 +1,6 @@
 # Contact Page and Settings
 
-## Create Page
+## **Create Page**
 
 !!! note
     If you have imported the demo contents XML then this page is already created.
@@ -31,20 +31,20 @@ After publishing you need to add the newly created page in menu from **Dashboard
 
 Next step is to configure **Contact Page** settings.
 
-## Contact Settings
+## **Contact Settings**
 
 Navigate to **Dashboard → Real Homes → Customize Settings**. In this panel look for **Contact Page** section and explore all the available settings in it to configure Contact page.
 
 ![Various Pages Panel](images/contact-page/various-pages-panel.png)
 
-### Header Variation
+### **Header Variation**
 
 ![show/hide banner](images/single-property-page/banner-display.png)
 
 !!! note
     **Header Variation** option is available in **Modern** Variation only.
 
-### Google Map
+### **Google Map**
 
 If you want to display the google map on contact page then you need to enable it from settings displayed below. Please provide your location's coordinates. You can find your location's latitude and longitude from [itouchmap.com/latlong.html](http://itouchmap.com/latlong.html). You also need to provide the appropriate zoom level value as displayed below.
 
@@ -53,13 +53,13 @@ If you want to display the google map on contact page then you need to enable it
 !!! note
     To enable Google Maps for your website, You need to configure **Google Maps API key** under **Customize → Maps** panel.
 
-### Contact Details
+### **Contact Details**
 
 Using settings displayed below, You can share any contact details that you want your site's visitors to have.
 
 ![Contact Details](images/contact-page/contact-details.png)
 
-### Contact Form
+### **Contact Form**
 
 Use the settings displayed below to provide **Contact Form Heading** and **Contact Form Email** to receive contact form messages. You can also add **CC** and **BCC** email addresses seprated by comma.
 

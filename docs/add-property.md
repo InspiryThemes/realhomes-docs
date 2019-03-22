@@ -90,6 +90,8 @@ If you want to make this property stick to top on home page and listing pages, t
 
 If you want to add this property in homepage slider then check the related option and provide slide image.
 
+![Property Floor Plans](images/add-content/add-property-to-home-page-slider.png)
+
 ### **Add Top Banner**
 
 You can override the default banner set in Customizer settings by adding a new banner for a specific property in the settings shown below.
