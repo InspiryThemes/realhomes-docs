@@ -143,10 +143,16 @@ You can choose or add property statuses from related meta box displayed in scree
 
 ![Property Status](images/add-content/property-status-updated.png)
 
-### Assign Parent Property
+### **Assign Parent Property**
 
 If this property is a sub/child property of another property then you can select the parent property from related meta box displayed in screen shot below. 
 
 ![Property Attributes](images/add-content/property-attributes.png)
+
+### **Property Page Layout**
+
+If you want to make the single property page full width then you can do that by changing the **Page Template** from **Page Attributes** to **Property full-width layout**.
+
+![Property Attributes](images/add-content/select-single-property-template.gif)
 
 **Publish the property post once it is ready**.
