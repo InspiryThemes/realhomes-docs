@@ -30,6 +30,8 @@ There are multiple options for **Property Detail Page** in this section. To modi
 
 ![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics-2.png)
 
+![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics-3.png)
+
 ## Common Note
 
 A common note can also be added on property page via **Dashboard → Real Homes → Customize Settings → Property Detail Page → Common Note**. 
