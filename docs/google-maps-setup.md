@@ -20,7 +20,7 @@
 ![Real Homes Documentation](images/google-maps/apis-and-services-http-referrers.gif)
 
 6. Copy the generated **Google Maps API key** from the popup. Click on **Close** button to proceed after you copied the **API Key**. 
-![Real Homes Documentation](images/google-maps/api-key.png)sdf
+![Real Homes Documentation](images/google-maps/api-key.png)
 
 7. Put this **API Key** you just copied in **Customizer** Settings (**Dashboard → Real Homes → Customize Settings → Maps → Google Maps API Key**). 
 ![Real Homes Documentation](images/google-maps/google-maps-api-key-section-in-customizer.png)
