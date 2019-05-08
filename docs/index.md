@@ -1,9 +1,9 @@
-This documentation is last updated on **17th April 2019**.
+This documentation is last updated on **8th May 2019**.
 
 Thanks for purchasing **Real Homes WordPress Real Estate Theme**. Any question that is beyond the scope of this documentation should be asked on our [support website](http://support.inspirythemes.com/). You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
 ### **Important Note**
-
+    xxx
 It is highly recommended to use the child theme so that you can easily update parent theme whenever a new update is available. A pre-built ready to use child theme is included in the main theme pack which you have downloaded from ThemeForest. It is commonly called **rh-main-package.zip**.
 
 Please note some features (which you find in Classic Design) might not be available yet for Modern Design of Real Homes Theme. We are working on adding every possible feature to Modern Design but some of them are simply not possible to add due to design limitations.
