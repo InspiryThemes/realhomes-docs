@@ -54,7 +54,7 @@ You must set a featured image to the property.
 
 ### **Add Video Tour and Virtual Tour**
 
-If your property has any virtual tour video then it is recommended that you upload the video on vimeo or youtube and provide it's URL here with related screen shot or property photo.
+If your property has any virtual tour video then it is recommended that you upload the video on vimeo or youtube and provide it's URL here with related screen shot or property photo. Property Photo is very important because if there is no property photo assigned to the video then it will not be shown.
 
 > You can also add 360 Virtual Tour of your property using iframe tag. For example, the following code will add a 360 virtual tour from matterport.com to your property. 
 
