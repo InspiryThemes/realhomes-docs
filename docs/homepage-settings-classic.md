@@ -21,7 +21,7 @@ You can feed slider contents from following sources
 2. **Revolution Slider** - You can add text,images, buttons and videos the way you want. ( Little difficult to use but awesome results )
 3. **Slides Custom Post Type** - You can attach a simple image to your slide with related text data ( easy to use with results similar to properties based slider )
 
-Navigate to **Appearance → Customize** and look into **Home Page → Slider Area** section to configure slider settings.
+Navigate to **Dashboard → Real Homes → Customize Settings** and look into **Home Page → Slider Area** section to configure slider settings.
 
 ![Home Page Slider](images/home-setup/slider-classic1.png)
 
@@ -55,7 +55,7 @@ To display slider based on slides custom post type, You need to add new slides a
 
 ![Home Page Slider](images/home-setup/slider-classic5.png)
 
-After adding slides navigate to **Appearance → Customize** and Go to section **Home Page → Slider Area** and choose **Slider Based on Slides Custom Post Type** As displayed in screenshot below.
+After adding slides navigate to **Dashboard → Real Homes → Customize Settings** and Go to section **Home Page → Slider Area** and choose **Slider Based on Slides Custom Post Type** As displayed in screenshot below.
 
 ![Home Page Slider](images/home-setup/slider-classic7.png)
 
