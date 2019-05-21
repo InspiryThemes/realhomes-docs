@@ -16,7 +16,9 @@ Once you have a working version of WordPress, You need to download "**All Files 
 ![Screenshot](images/installation/realhomes-zip.png)
 - Once the theme is uploaded you need to activate it. 
 ![Screenshot](images/installation/activate-theme.png)
-- A notice will be displayed right after the activation of the theme asking you to install and activate the required plugins. So, go ahead and click on Begin installing plugins. 
+- Once you activated the theme, you will be redirected to the RealHomes welcome page. Here you select your desired design variation and click the **Save Changes** button. 
+![Screenshot](images/installation/welcome-page.png)
+- Also, a notice will be displayed at the top of welcome page asking you to install and activate the required plugins. So, go ahead and click on Begin installing plugins. 
 ![Screenshot](images/installation/begin-plugin-installation.png)
 - On next page you will see the list of plugins to install. Select all the plugins and click on **Install** and then click on **Apply** to install all of them at once (as shown in the screenshot below). </br>
 ![Screenshot](images/installation/install-plugins.png)
@@ -24,7 +26,7 @@ Once you have a working version of WordPress, You need to download "**All Files 
 ![Screenshot](images/installation/return-to-install.png)
 - Once again select all the plugins and click on **Activate** and then click on **Apply** to activate all the plugins and you are done. 
 ![Screenshot](images/installation/activate-plugins.png)
-- After activation go to "**Appearance → Customize**" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer. 
+- After activation go to "**Real Homes → Customize Settings**" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer. 
 ![Screenshot](images/installation/customize.png)
 
 if you face any problem during upload through dashboard, please upload the theme using FTP as guided below.
