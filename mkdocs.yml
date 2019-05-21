@@ -32,6 +32,9 @@ nav:
         - Installation: installation-and-activation.md
         - Demo Import: import-demo.md
         - Design Selection: design-selection.md
+        - Plugins: plugins.md
+        - Feedback: feedback.md
+        - Help: help.md
     - Homepage:
         - Create & Configure: home-page-setup.md
         - Create Home Page with Elementor: home-page-setup-with-elementor.md

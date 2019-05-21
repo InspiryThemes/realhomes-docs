@@ -69,7 +69,7 @@ Look for Import XML folder in unzipped package downloaded from themeforest and u
 
 ![Screenshot](images/import-demo/assign-post.png)
 
-Import process can take few minutes. So wait for it and try to keep the focus on current tab in your browser.
+Import process can take a few minutes. So wait for it and try to keep the focus on current tab in your browser.
 
 After that is done, you will have bunch of posts, pages, properties and other contents as on the theme demo.
 

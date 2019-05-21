@@ -18,6 +18,7 @@ Once you have a working version of WordPress, You need to download "**All Files 
 ![Screenshot](images/installation/activate-theme.png)
 - Once you activated the theme, you will be redirected to the RealHomes welcome page. Here you select your desired design variation and click the **Save Changes** button. 
 ![Screenshot](images/installation/welcome-page.png)
+For more details please check [Design Selection](design-selection.md) page.
 - Also, a notice will be displayed at the top of welcome page asking you to install and activate the required plugins. So, go ahead and click on Begin installing plugins. 
 ![Screenshot](images/installation/begin-plugin-installation.png)
 - On next page you will see the list of plugins to install. Select all the plugins and click on **Install** and then click on **Apply** to install all of them at once (as shown in the screenshot below). </br>
