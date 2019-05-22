@@ -48,6 +48,12 @@ Please note that this note will be displayed on every property page.
 **Modern**
 ![Common Note on Property Page](images/single-property-page/property-common-note-modern.png)
 
+## Floor Plan
+
+**Floor Plan Settings** are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Floor Plan**.
+
+![Floor Plan Settings](images/single-property-page/floor-plan.png)
+
 ## Video
 
 **Property Video Settings** are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Video**. You can either choose to display the video or hide it.
