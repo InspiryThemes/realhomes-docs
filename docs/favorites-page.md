@@ -20,7 +20,7 @@ Now you need to navigate to **Dashboard → Real Homes → Customize Settings** 
 
 ![Real Homes Documentation](images/member-pages/favorites-main-panel.png)
 
-Select **Favorites** page from the drop-down list as shown in the above screenshot. You can also Show/Hide related button on property detail page.
+Select **Favorites** page from the drop-down list as shown in screenshot given below. You can Show/Hide favorite button on property detail page and also **Require Login** for adding to favorite.
 
 ![Real Homes Documentation](images/member-pages/favorites-customizer-settings.png)
 
