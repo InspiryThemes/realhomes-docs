@@ -19,7 +19,7 @@ Publish the page once it is ready.
 
 ## Configure My Properties Settings
 
-Navigate to **Dashboard → Real Homes → Customize Settings → Members** and look for **My Properties** panel where you can configure related settings. **Select My Properties Page** from dropdown as displayed in above screenshot below. 
+Navigate to **Dashboard → Real Homes → Customize Settings → Members** and look for **My Properties** panel where you can configure related settings. **Select My Properties Page** from dropdown. You can also Show/Hide **My Properties Search Form** as displayed in screenshot below. 
 
 ![Real Homes Documentation](images/member-pages/my-properties-panel.png)
 
