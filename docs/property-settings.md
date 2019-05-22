@@ -32,6 +32,8 @@ There are multiple options for **Property Detail Page** in this section. To modi
 
 ![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics-3.png)
 
+![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics-4.png)
+
 ## Common Note
 
 A common note can also be added on property page via **Dashboard → Real Homes → Customize Settings → Property Detail Page → Common Note**. 
@@ -70,7 +72,8 @@ Please note that this note will be displayed on every property page.
 
 ![Property Map on Property Detail Page](images/single-property-page/map-on-property-page.png)
 
-**Please note that you have to Configure Google Maps API Key Settings in Customize → Maps to display the maps properly throughout your website**.
+!!! note
+    Please note that you have to Configure Google Maps API Key Settings in **Easy Real Estate → Settings → Maps** section to display the maps properly throughout your website.
 
 ## Attachments
 
@@ -80,9 +83,21 @@ Please note that this note will be displayed on every property page.
 
 ![Attachments on Property Detail Page](images/single-property-page/attachments-on-property-page.png)
 
+## Energy Performance
+**Energy Performance Settings** are located in **Dashboard → Real Homes → Property Detail Page → Energy Performance**.You can show/Hide Energy Performance section for the properties.
+
+
+![Property Attachments on Property Detail Page](images/single-property-page/property-energy-performance.png)
+
+**Classic**
+![Attachments on Property Detail Page](images/single-property-page/property-energy-performance-classic.png)
+
+**Modern**
+![Attachments on Property Detail Page](images/single-property-page/property-energy-performance-modern.png)
+
 ## Agent
 
-**Property Agent Settings** can be changed via **Dashboard → Real Homes → Customize Settings → Property Detail Page → Agent**. You can either choose to display the agent on property detail page or hide this section. A copy of the message sent to agent can also be received by adding your email in "**Email Address to Get Copy**" and make sure to select "**Yes**" for the option which says "**Get Copy of Message Sent to Agent**".
+**Property Agent Settings** can be changed via **Dashboard → Real Homes → Customize Settings → Property Detail Page → Agent**. You can either choose to display the agent on property detail page or hide this section along with its position in **Main Content** or **Sidebar**. A copy of the message sent to agent can also be received by adding your email in "**Email Address to Get Copy**" and make sure to select "**Yes**" for the option which says "**Get Copy of Message Sent to Agent**".
 
 ![Property Agents Settings](images/single-property-page/property-agent.png)
 
