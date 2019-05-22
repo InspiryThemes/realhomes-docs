@@ -1,7 +1,7 @@
 # Price Format Settings
 
-To change price format, Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Price Format** panel for related settings.
+For the price format settings, Navigate to **Easy Real Estate → Settings → Price Format**.
 
-![Real Homes Documentation](images/other-features/price-format.png)  ![Real Homes Documentation](images/other-features/price-format-settings.png)
+![Real Homes Documentation](images/ere-tabs/price-format.png)
 
 These settings allow you to modify price to any format in the world.

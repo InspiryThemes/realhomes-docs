@@ -1,5 +1,5 @@
 # Footer Social Icons Settings
 
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Social Links** to change social links settings.
+Navigate to **Easy Real Estate → Settings → Social** to change social links settings. You can also Show/Hide all social icons without changing social links values.
 
-![Footer Settings](images/home-setup/social-links.png)
+![Footer Settings](images/ere-tabs/social.png)

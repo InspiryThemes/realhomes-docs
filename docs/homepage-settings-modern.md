@@ -66,7 +66,7 @@ Adding google map on homepage is super simple as properties already have their l
 ![Display Google Map on Homepage](images/home-setup/homepage-google-maps-modern.png)
 
 !!! note
-    To enable **Google Maps** for your website, You need to configure **Google Maps API key** under **Dashboard → Real Homes → Customize Settings → Maps** panel.
+    To enable Google Maps for your website, You need to configure **Google Maps API key** by navigating to **Easy Real Estate → Settings → Maps**.
 
 ### **Properties on Home Page**
 
