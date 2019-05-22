@@ -30,8 +30,6 @@ You can also **Show / Hide Fields** on properties search form as well as **Drag 
 
 ![Properties Search Basics](images/home-setup/search-form-basics-modern.gif)
 
-![Properties Search Basics](images/home-setup/search-form-basics-collapse.png)
-
 ![Searcch Form Basics](images/home-setup/search-basic-one.png)
 
 ![Searcch Form Basics](images/home-setup/search-basic-two.png)
