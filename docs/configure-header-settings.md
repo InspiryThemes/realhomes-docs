@@ -8,7 +8,7 @@ Navigate to **Dashboard → Real Homes → Customize Settings** and look into **
 
 ## **Site Identity**
 
-You can upload your site's logo, title, description tag and site icon from this section.
+You can upload your site's logo, retina logo, title, description tag and site icon from this section.
 
 ![Site Identity](images/home-setup/site-identity.png)
 
@@ -22,7 +22,7 @@ You can customize almost all the components of the header from this very section
 
 ### **Variations**
 
-To change header variation please navigate to **Dashboard → Real Homes → Customize Settings → Header → Others** and select **Center** for the option which says Choose **Header Variation**. You can also **Enable/Disable** the **Sticky Header** in this section.
+To change header variation please navigate to **Dashboard → Real Homes → Customize Settings → Header → Others** and select **Center** for the option which says Choose **Header Variation**. You can also **Enable/Disable** the **Sticky Header** and select site logo filter for print in this section.
 
 ![Header Variation](images/home-setup/header-variation.png)
 
