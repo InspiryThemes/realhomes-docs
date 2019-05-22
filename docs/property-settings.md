@@ -6,6 +6,19 @@ To change property settings go to **Dashboard → Real Homes → Customize Setti
 
 ![Property Detail Page Settings](images/single-property-page/properties-detail-page.png)
 
+## Sections Manager
+
+To reorder property detail page sections, go to **Dashboard → Real Homes → Customize Settings → Property Detail Page → Sections Manager**.
+
+**Classic**
+
+![Section Manager Classic](images/single-property-page/property-sections-manager.png)
+
+**Modern**
+
+![Section Manager Modern](images/single-property-page/property-sections-manager-mod.png)
+
+
 ## Breadcrumbs
 
 **Breadcrumb Settings** can be changed in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Breadcrumbs**.

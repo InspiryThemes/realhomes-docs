@@ -51,7 +51,7 @@ If you want to display the google map on contact page then you need to enable it
 ![Google Map On Contact Page](images/contact-page/google-map-on-contact-page.png)
 
 !!! note
-    To enable Google Maps for your website, You need to configure **Google Maps API key** by navigating to **Easy Real Estate → Settings → Maps**.
+    **Map Type** option works only with Google Maps. To enable Google Maps for your website, You need to configure **Google Maps API key** by navigating to **Easy Real Estate → Settings → Maps**.
 
 ### **Contact Details**
 
