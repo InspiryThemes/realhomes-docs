@@ -54,11 +54,13 @@ You must set a featured image to the property.
 
 ### **Add Video Tour and Virtual Tour**
 
-If your property has any virtual tour video then it is recommended that you upload the video on vimeo or youtube and provide it's URL here with related screen shot or property photo. Property Photo is very important because if there is no property photo assigned to the video then it will not be shown.
+If your property has any virtual tour video then it is recommended that you upload the video on vimeo or youtube and provide it's URL here with related screen shot or property photo. Property Photo is very important because if there is no property photo assigned to the video then it will not be shown. You can add multiple virtual tour videos by clicking on the **+ Add more** button.
 
 > You can also add 360 Virtual Tour of your property using iframe tag. For example, the following code will add a 360 virtual tour from matterport.com to your property. 
 
 `<iframe src="https://my.matterport.com/show/?m=aSx1MpRRqif&play=1" width="100%" height="100%" allowvr="" allowfullscreen="allowfullscreen"></iframe>`
+
+You can also use the [iPanorama 360 WordPress Virtual Tour Builder](https://wordpress.org/plugins/ipanorama-360-virtual-tour-builder-lite/) plugin to build custom virtual tours and then put current property related `iPanorama` short-code in the **360 Virtual Tour** box.
 
 ![Property Video](images/add-content/property-video.png)
 
@@ -79,6 +81,10 @@ Choose the kind of information you want to display in agent's information box.
 If you have adequate rights, You can also modify the author from Author meta box on property edit page. 
 ![Property Author](images/add-content/property-author.png)
 3. Display agent's information will display the selected agent's information. You can add the agent from **Dashboard → Agents → Add New**.
+
+### **Energy Performance**
+You can add a property **Energy Performance Certificate** details in this section. This is information will be displayed with a visual energy class graph.
+![Property Author](images/add-content/energy-performance.png)
 
 ### **Mark Property as Sticky**
 
