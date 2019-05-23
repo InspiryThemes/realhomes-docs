@@ -27,6 +27,6 @@ After publishing you need to add the newly created page in menu from **Dashboard
 
 ![Add Agents Page to Menu](images/create-pages/add-agents-page-menu.png)
 
-Now that you have agents page published, kindly navigate to **Dashboard → Appearance → Appearance → Customize → Various Pages → Agents Pages** and configure the settings for agents page accordingly. 
+Now that you have agents page published, kindly navigate to **Dashboard → Real Homes → Customize Settings → Various Pages → Agents Pages** and configure the settings for agents page accordingly. 
 
 ![Agents Page Customizer Settings](images/create-pages/agents-page-customizer-settings.png)
