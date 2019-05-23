@@ -100,6 +100,7 @@ nav:
         - Property Types: property-types.md
         - Mortgage Calculator: mortgage-calculator.md
         - Twitter Widget: twitter-widget.md
+        - Newsletter Widget: newsletter-widget.md
     - Footer:
         - Classic Settings:
             - Partners Settings: footer-settings.md
