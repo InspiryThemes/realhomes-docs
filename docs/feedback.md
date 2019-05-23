@@ -1,6 +1,8 @@
 # Feedback
 
-RealHomes theme allows its users to give feedback to improve our products and in results you get a better product after every update. So, participate in our improvement efforts by providing us your valuable feedback.
+As a valued customer, provide your feedback on your recent experience with **Real Homes** theme.
+
+By participating in the feedback, your are making your voice heard and helping us to continually improve our products in ways that are important to you.
 
 Feedback form can be found by navigating to the **Dashboard → Real Homes → Feedback** page.
 
