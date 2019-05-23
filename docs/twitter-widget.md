@@ -1,8 +1,8 @@
 # How to set up Twitter Widget
 
-Latest tweets widget uses [Quick and Easy Tweets](https://wordpress.org/plugins/quick-and-easy-tweets/) Plugin.
+Latest tweets widget uses [Quick and Easy Tweets](https://wordpress.org/plugins/quick-and-easy-tweets/) plugin.
 
-- Install the [Quick and Easy Tweets](https://wordpress.org/plugins/quick-and-easy-tweets/) Plugin plugin.
+- Install and activate the [Quick and Easy Tweets](https://wordpress.org/plugins/quick-and-easy-tweets/) plugin.
 
 - Now, you need the twitter App's consumer key, consumer secret, access token and access token secret for twitter authentication. 
 
