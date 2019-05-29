@@ -24,10 +24,10 @@ Go to **Dashboard → Easy Real Estate → Agents → Add New** to add a new age
 
 - Provide the top banner related information on agent detail page if you want for **Classic** Variation!
 
-![Add Gallery Page](images/add-content/agent-banner-area-settings.png)
+![Add Gallery Page](images/add-content/top-banner-area-settings.png)
 
 - Provide the top banner related information on agent detail page if you want for **Modern** Variation!
 
-![Add Gallery Page](images/create-pages/agent-banner-area-settings-mod.png)
+![Add Gallery Page](images/add-content/top-banner-area-settings-mod.png)
 
 - Publish the agent post once it is ready.
