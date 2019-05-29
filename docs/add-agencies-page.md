@@ -15,11 +15,11 @@ Go to **Dashboard → Pages → Add New**
 
 - Provide the top banner related information if you want for **Classic** Variation!
 
-![Add Gallery Page](images/create-pages/agencies-banner-area-settings.png)
+![Add Gallery Page](images/add-content/top-banner-area-settings.png)
 
 - Provide the top banner related information if you want for **Modern** Variation!
 
-![Add Gallery Page](images/create-pages/agency-banner-area-settings-mod.png)
+![Add Gallery Page](images/add-content/top-banner-area-settings-mod.png)
 
 - **Publish** the page once it is ready.
 

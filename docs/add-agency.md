@@ -28,6 +28,6 @@ Go to **Dashboard → Easy Real Estate → Agencies → Add New** to add a new a
 
 - Provide the top banner related information on agency detail page if you want for **Modern** Variation!
 
-![Add Agency Page](images/create-pages/agent-banner-area-settings-mod.png)
+![Add Agency Page](images/add-content/top-banner-area-settings-mod.png)
 
 - Publish the Agency post once it is ready.
