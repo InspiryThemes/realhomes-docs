@@ -12,7 +12,7 @@ Please note some features (which you find in Classic Design) might not be availa
 
 ### **Basic Recommendations**
 
-* Use **PHP 7.3 or greater** as it is faster than previous versions of PHP and a [base requirement of WordPress](https://wordpress.org/about/requirements/). ( You can communicate with your hosting provider to get it updated. )
+* Use **PHP 7.2 or greater** as it is faster than previous versions of PHP and a [base requirement of WordPress](https://wordpress.org/about/requirements/). ( You can communicate with your hosting provider to get it updated. )
 * Make sure your hosting is based on SSD drives.
 * It is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on.
 * Use a good cache plugin and test your site properly after installing and configuring it.
