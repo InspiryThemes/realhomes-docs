@@ -56,7 +56,7 @@ You can modify the banner information as shown in the screenshot below for **Cla
 
 You can modify information related to banner as displayed in the screenshot below for **Modern** Varitaion.
 
-![Add Gallery Page](images/create-pages/agent-banner-area-settings-mod.png)
+![Add Gallery Page](images/add-content/top-banner-area-settings-mod.png)
 
 **Publish** the page once it is ready.
 

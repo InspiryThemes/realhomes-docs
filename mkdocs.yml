@@ -14,7 +14,7 @@ theme:
     favicon: 'images/base/realhomes-favicon.png' 
     logo: 'images/base/realhomes-logo.png'
     
-site_dir: '/Users/inspirythemes/OneDrive/Desktop/Documentations/rh-live-doc'
+site_dir: 'rh-live-doc'
 
 extra_css:
     - css/layout.css

@@ -15,11 +15,11 @@ Go to **Dashboard → Pages → Add New**
 
 - Provide the top banner related information if you want for **Classic** Variation!
 
-![Add Agents Page](images/create-pages/agent-banner-area-settings.png)
+![Add Agents Page](images/add-content/top-banner-area-settings.png)
 
 - Provide the top banner related information if you want for **Modern** Variation!
 
-![Add Agents Page](images/create-pages/agent-banner-area-settings-mod.png)
+![Add Agents Page](images/add-content/top-banner-area-settings-mod.png)
 
 - **Publish** the page once it is ready.
 
@@ -29,4 +29,10 @@ After publishing you need to add the newly created page in menu from **Dashboard
 
 Now that you have agents page published, kindly navigate to **Dashboard → Real Homes → Customize Settings → Various Pages → Agents Pages** and configure the settings for agents page accordingly. 
 
+**Classic**
+
 ![Agents Page Customizer Settings](images/create-pages/agents-page-customizer-settings.png)
+
+**Modern**
+
+![Agents Page Customizer Settings](images/create-pages/agents-page-customizer-settings-mod.png)
