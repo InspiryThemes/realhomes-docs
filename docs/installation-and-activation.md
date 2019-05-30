@@ -1,25 +1,24 @@
 # Installation
 
-To start you must have a working version of WordPress. Almost all major web hosts provides one click WordPress install and you can consult your host's help site for more information in this regard. For manual installation, you can consult WordPress Codex Installing WordPress especially the Requirements.
+To start you must have a working version of WordPress. Almost all major web hosts provide one click WordPress install and you can consult your host's help site for more information in this regard. For manual installation, you can consult WordPress Codex Installing WordPress especially the Requirements.
 
 Once you have a working version of WordPress, You need to download "**All Files and Documentation**" from themeforest download page (screenshot below) and extract the downloaded zip to get required files including **realhomes.zip**.
 ![Screenshot](images/installation/download-rh-full-package.png)
 
 ## Install Theme Via WordPress Dashboard ( _Recommended_ )
 
-- Go to '**Appearance → Themes**' section
-- Click '**Add New**' and select the '**Upload Theme**' option 
+- Go to **Appearance → Themes** section and click **Add New**
 ![Screenshot](images/installation/add-new.png)
-- Click '**Upload Theme**' 
+- Click **Upload Theme**
 ![Screenshot](images/installation/upload-theme.png)
-- Choose the **realhomes.zip** file and press '**Install Now**' 
+- Choose the **realhomes.zip** file and press **Install Now**
 ![Screenshot](images/installation/realhomes-zip.png)
 - Once the theme is uploaded you need to activate it. 
 ![Screenshot](images/installation/activate-theme.png)
 - Once you activated the theme, you will be redirected to the RealHomes welcome page. Here you select your desired design variation and click the **Save Changes** button. 
 ![Screenshot](images/installation/welcome-page.png)
 For more details please check [Design Selection](design-selection.md) page.
-- Also, a notice will be displayed at the top of welcome page asking you to install and activate the required plugins. So, go ahead and click on Begin installing plugins. 
+- Also, a notice will be displayed at the top of welcome page asking you to install and activate the required plugins. So, go ahead and click on **Begin installing plugins**. 
 ![Screenshot](images/installation/begin-plugin-installation.png)
 - On next page you will see the list of plugins to install. Select all the plugins and click on **Install** and then click on **Apply** to install all of them at once (as shown in the screenshot below). </br>
 ![Screenshot](images/installation/install-plugins.png)
