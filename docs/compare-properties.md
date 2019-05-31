@@ -12,20 +12,16 @@ Select the **Compare Properties** template from page attributes.
 
 **Publish** the page once you are ready.
 
-Now you need to navigate to **Dashboard → Real Homes → Customize Settings** and look for **Compare Properties** panel.
+Now you need to navigate to **Dashboard → Real Homes → Customize Settings → Floating Features** and look for **Compare Properties** panel.
 
 ![Real Homes Documentation](images/other-features/compare-properties-panel.png)
 
-Select option to Enable or Disable Properties Compare functionality for Properties List Templates.
+Select the **Compare Properties** page that you created in the **Select Compare Page** option. You can **Enable**/**Disable** Properties Compare functionality for Properties List Templates and configure other related settings here.
 
-![Real Homes Documentation](images/other-features/list-templates-taxonomy-pages.png)
-
-**Save** the changes and your **Compare Properties Feature** is ready to use. 
+![Real Homes Documentation](images/other-features/compare-properties-section.png)
 
 **Classic** </br>
-![Real Homes Documentation](images/other-features/compare-properties-frontend.png)
+![Real Homes Documentation](images/other-features/compare-properties-classic.png)
 
 **Modern** </br>
-![Real Homes Documentation](images/other-features/compare-properties-frontend-mod.png)
-
-Feel free to get in touch with us using our [support website](https://support.inspirythemes.com/) in case of any confusion.
+![Real Homes Documentation](images/other-features/compare-properties-modern.png)
