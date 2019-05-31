@@ -20,10 +20,10 @@ Go to **Dashboard → Pages → Add New**
 - Provide the top banner related information
 
 **Classic**
-![Banner Area Settings](images/create-pages/users-banner-area-settings.png)
+![Banner Area Settings](images/add-content/top-banner-area-settings.png)
 
 **Modern**
-![Banner Area Settings](images/create-pages/users-banner-area-settings-mod.png)
+![Banner Area Settings](images/add-content/top-banner-area-settings-mod.png)
 
 - Publish the page once it is ready.
 
