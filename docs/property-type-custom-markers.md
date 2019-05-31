@@ -10,7 +10,7 @@
 
 4. Upload a retina image of your marker using **Retina Icon Image** option.
 
-5. These markers will now display on related property maps in place of default theme icons.
+5. Now, this marker will display for the related property on maps instead of default theme icon.
 
 !!! note
     Recommended image size is 42px by 57px for map icon / 84px by 114px for retina map icon.

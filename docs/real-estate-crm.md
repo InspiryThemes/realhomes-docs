@@ -4,7 +4,7 @@
 
 ### **Installation**
 
-If you have not installed **Real Estate CRM Plugin** with the required plugins with the installation of the theme then you can simply install it via **Dashboard → Appearance → Install Plugins** and then install and activate it.
+If you have not installed **Real Estate CRM Plugin** with the required plugins while installing the Real Homes theme then you can simply install it via **Dashboard → Appearance → Install Plugins** and activate.
 
 ![Real Estate CRM Plugin](images/real-estate-crm/installation.png)
 

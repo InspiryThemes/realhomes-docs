@@ -31,11 +31,11 @@ To apply a Machine Translation language pack, you simply have to download the la
 
 **Real Homes Theme** is fully translation ready.
 
-To translate it to one language then please visit [This Knowledge Base Article](https://support.inspirythemes.com/knowledgebase/how-to-translate-your-theme-to-your-language/)
+To translate it in one language, please consult the Knowledge Base article on [How to translate your theme to your language](https://support.inspirythemes.com/knowledgebase/how-to-translate-your-theme-to-your-language/)
 
 **OR**
 
-You can also use [Loco Translate Plugin](https://wordpress.org/plugins/loco-translate/) by Tim Whitlock to translate this theme to your language or single language.
+You can also use [Loco Translate Plugin](https://wordpress.org/plugins/loco-translate/) by Tim Whitlock to translate this theme in one language.
 
 ### **Real Homes Theme in Multilingual**
 
