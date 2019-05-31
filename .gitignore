@@ -77,4 +77,5 @@ Rails
 site/*
 /site/**
 site/**
+rh-live-doc
 
