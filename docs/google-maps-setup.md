@@ -10,19 +10,22 @@
 
 3. On the next step you have to create a billing profile.
 
-3. After creating the billing profile navigate to the Console and click on APIs from the right navigation.
+4. After creating the billing profile navigate to the Console and click on APIs from the right navigation.
 ![Real Homes Documentation](images/google-maps/google-maps-apis.png)
 
-4. On this new page, click on **Geocoding API** and **Enable** it for your project. This is also needed to make the **Find Address** field work properly on **Property Edit Page**. 
+5. On this new page, click on **Geocoding API** and **Enable** it for your project. This is also needed to make the **Find Address** field work properly on **Property Edit Page**. 
 ![Real Homes Documentation](images/google-maps/enable-geocoding-api.gif)
 
-5. After activating **Geocoding API** click on the **Navigation Menu** and select **APIs & Services** and click on **Credentials**. In this section, you will see the name of your **API Key** (so click on it) and restrict it by adding your site URLs as shown in the screencast below.
+6. After activating **Geocoding API** click on the **Navigation Menu** and select **APIs & Services** and click on **Credentials**. In this section, you will see the name of your **API Key** (so click on it) and restrict it by adding your site URLs as shown in the screencast below.
 ![Real Homes Documentation](images/google-maps/apis-and-services-http-referrers.gif)
 
-6. Copy the generated **Google Maps API key** from the popup. Click on **Close** button to proceed after you copied the **API Key**. 
+7. Copy the generated **Google Maps API key** from the popup. Click on **Close** button to proceed after you copied the **API Key**. 
 ![Real Homes Documentation](images/google-maps/api-key.png)
 
-7. Put this **API Key** you just copied in **Maps** Settings (**Easy Real Estate → Settings → Maps → Google Maps API Key**). 
+8. Put this **API Key** you just copied in **Maps** Settings (**Easy Real Estate → Settings → Maps → Google Maps API Key**).
 ![Real Homes Documentation](images/ere-tabs/maps.png)
+
+!!! warning
+    If you are running the Real Homes theme older than {==3.9.0==} version then related settings can be found by navigating to **Dashboard → Real Homes → Customize Settings → Map**
 
 **Verify Domain with Google**: [https://support.google.com/webmasters/answer/35179](https://support.google.com/webmasters/answer/35179)

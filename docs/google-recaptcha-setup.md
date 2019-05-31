@@ -8,6 +8,9 @@ Please note that you must add the **URL of YOUR website** and select **reCAPTCHA
 
 After that use those keys to fill the related fields in **Easy Real Estate → Settings → reCAPTCHA** as displayed below.
 
+!!! warning
+    If you are running the Real Homes theme older than {==3.9.0==} version then related settings can be found by navigating to **Dashboard → Real Homes → Customize Settings → Google reCAPTCHA**
+
 ![Register a New Site - Google reCAPTCHA](images/ere-tabs/recaptcha.png)
 
-The reCAPTCHA keys are configured and the Google reCAPTCHA should be active on all the forms throughout Real Homes Theme.
+Once reCAPTCHA keys are configured, Google reCAPTCHA will be activated on all forms throughout the Real Homes theme.
