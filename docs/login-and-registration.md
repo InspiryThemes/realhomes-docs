@@ -2,12 +2,9 @@
 
 ## Allow Registration
 
-To allow user registration, You need to allow registration from **Settings → General** as displayed in screen shot below. Otherwise you will only have login form available for use.
+To allow user registration, you need to check the **Anyone can register** option from **Dashboard → Settings → General** page and *Save Changes* as displayed in the following screenshot. Otherwise only Login form will be available for the users.
 
 ![Anyone can register](images/member-pages/anyone-can-register.png)
-
-!!! warning "Important"
-     Since Version 1.6 Real Homes theme automatically provides modal dialog for Login and Registration. So you do not need to follow further details of this section if you are good with using modal dialog.
 
 ## Restrict Backend Access
 

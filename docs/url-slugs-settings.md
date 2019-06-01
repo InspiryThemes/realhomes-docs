@@ -2,7 +2,7 @@
 
 To change **URL Slugs** for property or agent or various taxonomies please navigate to **Easy Real Estate → Settings → URL Slugs** for related settings. As demonstrated in the screenshots below.
 
-!!! warning
+!!! info "Important Information"
     If you are running the Real Homes theme older than {==3.9.0==} version then related settings can be found by navigating to **Dashboard → Real Homes → Customize Settings → URL Slugs**
 
 ![Real Homes Documentation](images/ere-tabs/url-slugs.png)
