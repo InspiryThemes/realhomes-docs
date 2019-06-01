@@ -29,7 +29,11 @@ Select the **Login & Register** template from page attributes.
 
 Provide the top banner related information 
 
-![Login & Register Banner Area Settings](images/member-pages/login-register-banner-settings.png)
+**Classic**
+![Login & Register Banner Area Settings](images/add-content/top-banner-area-settings.png)
+
+**Modern**
+![Login & Register Banner Area Settings](images/add-content/top-banner-area-settings-mod.png)
 
 Publish the page once it is ready.
 
@@ -39,12 +43,12 @@ Now you need to go to **Dashboard → Real Homes → Customize Settings** and lo
 
 ![Members in Customizer Settings](images/member-pages/members-customizer.png)
 
-Look for Login & Register Section in that panel.
+Look for **Login & Register** Section in that panel.
 
 ![Members Panel](images/member-pages/members-panel.png)
 
-Now select the Login & Register page that has been created earlier as shown in image below.
+Now select the **Login & Register** page that has been created earlier as shown in image below.
 
 ![Login & Register Customizer Settings](images/member-pages/login-register-customizer-settings.png)
 
-Publish the settings and your Login & Register page is ready for use.
+Publish the settings and your **Login & Register** page is ready for use.
