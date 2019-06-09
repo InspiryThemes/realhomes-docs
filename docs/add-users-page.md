@@ -21,3 +21,5 @@ Provide information related to top banner.
 Publish the page once it is ready.
 
 After publishing you need to add the newly created page in menu from **Dashboard → Appearance → Menus**.
+
+![Add User Page Menu](images/create-pages/add-user-page-menu.png)
