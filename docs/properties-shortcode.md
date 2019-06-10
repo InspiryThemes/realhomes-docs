@@ -37,11 +37,9 @@ You can use the reference provided below to add attributes to properties shortco
 
 ## Visual Composer Support
 
-`[properties]` short code comes integrated with visual composer and if you have installed and activated visual composer then make sure you have enabled it from visual composer settings as displayed in screen shot below. 
+`[properties]` short code comes integrated with visual composer and if you have installed and activated visual composer. 
 
-![Real Homes Documentation](images/other-features/vc-settings.png)
-
-Once enabled, You can view the properties element under the theme tab as displayed in screen shot below. 
+You can view the properties element under the theme tab as displayed in screen shot below. 
 
 ![Real Homes Documentation](images/other-features/vc-add-element.png)
 
