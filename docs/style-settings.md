@@ -1,5 +1,5 @@
 # Footer Styles
 
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for Footer panel for related sections & settings.
+For the footer styles, navigate to **Dashboard → Real Homes → Customize Settings → Styles → Footer** section.
 
 ![Footer Settings](images/home-setup/styles-settings-full.png)
