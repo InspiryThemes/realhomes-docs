@@ -96,6 +96,8 @@ nav:
     - Widgets:
         - Advance Search Widget: advance-search-widget.md
         - Agents Widgets: agents-widget.md
+        - Agent Featured Properties: agent-featured-properties-widget.md
+        - Agent Related Properties: agent-related-properties-widget.md
         - Featured Properties: featured-properties.md
         - Property Types: property-types.md
         - Mortgage Calculator: mortgage-calculator.md
