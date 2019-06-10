@@ -18,11 +18,9 @@ Provide the **API key** and save the changes.
 
 ![Real Homes Documentation](images/other-features/wp-currencies-settings.png)
 
-Now you need to navigate to **Dashboard → Real Homes → Customize Settings** and look for Header panel. This panel contains **Currency Switcher** section ( which only appears if related plugin is installed ) There you can configure related settings.
+Now you need to navigate to **Dashboard → Real Homes → Customize Settings → Floating Features** panel. This panel contains **Currency Switcher** section ( which only appears if related plugin is installed ) There you can configure related settings.
 
-![Real Homes Documentation](images/other-features/header-customizer.png)
-
-![Real Homes Documentation](images/other-features/currency-switcher-panel.png)
+![Real Homes Documentation](images/other-features/floating-features-currency-switcher.png)
 
 ![Real Homes Documentation](images/other-features/currency-switcher-settings.png)
 
@@ -31,7 +29,7 @@ Configure base currency and target currencies.
 !!! note
     If you find base currency dropdown empty then simply wait for few minutes and refresh your settings page. As this could be due to the late completion of first time data fetch request from openexchangerates.org. In case of any problem reach us on our support site.
 
-After making all the above settings, Visit your site's front end and you will have a currency switcher in your header. As displayed in screen shot below. 
+After making all the above settings, Visit your site's front end and you will have a currency switcher floating on the right side of your site. As displayed in screenshot below.
 
 ![Real Homes Documentation](images/other-features/currency-switcher-frontend.png)
 
