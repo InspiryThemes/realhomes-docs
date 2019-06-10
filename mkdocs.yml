@@ -111,7 +111,7 @@ nav:
             - Styles: style-settings.md
         - Modern Settings:
             - Footer Logo: footer-logo-modern.md
-            - Text Settings: text-settings-modern.md
+            - Text Settings: text-settings.md
             - Layout: footer-layout-modern.md
             - Styles: style-settings-modern.md
     - Social Links: social-links.md

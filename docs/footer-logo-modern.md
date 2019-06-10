@@ -1,5 +1,5 @@
 # Footer Logo Settings
 
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Footer** panel for related sections & settings.
+To configure footer logo area settings, navigate to **Dashboard → Real Homes → Customize Settings → Footer → Footer Logo** section.
 
 ![Footer Settings](images/home-setup/footer-mod-logo.png)
