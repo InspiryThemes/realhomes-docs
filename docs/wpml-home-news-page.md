@@ -12,11 +12,12 @@
 
 4. Now you can go to the **Home** page on front end ( visit the site ) and choose the translated home page's language from language switcher in header top bar and you will see that page will refresh and URL will be changed to your newly translated homepage. 
 !!! note
-    If you are not able to view language switcher then make sure to enable the setting in **Dashboard → Appearance > Customize → Header → Others** section as displayed in screen shot below.
+    If you are not able to view language switcher then make sure to enable the setting in **Dashboard → Appearance → Customize Settings → Floating Features** panel and look for the **WPML Language Switcher** section (appears only when WPML plugin is activated) as displayed in the screenshots below.
 
-    <br>![Real Homes Documentation](images/wpml/display-wpml-language-switcher.png)
+    <br>![Real Homes Documentation](images/wpml/wpml-language-switcher-section.png)
+    ![Real Homes Documentation](images/wpml/wpml-language-switcher-settings.png)
 
-5. Do not worry about lots of un-translated things in header, footer and content area. You will learn to translate those one by one.
+Do not worry about lots of un-translated things in header, footer and content area. You will learn to translate those one by one.
 
 ### **Duplicate News Page for Other Language**
 

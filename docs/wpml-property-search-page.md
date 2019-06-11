@@ -19,6 +19,13 @@ Before setting up **Property Search page** please make sure that the **Language 
 5. **Publish** the page once ready.
 
 6. **Note:** For English Property Search page we have already configured the URL in appropriate settings section. Now, We need to translate that URL value so that search form on our other language pass the parameters to translated search page. 
-![Real Homes Documentation](images/wpml/select-property-search-page.png)
+
+**Classic**
+
+![Search Page Settings Classic](images/home-setup/search-page-settings-full.png)
+
+**Modern**
+
+![Search Page Settings Modern](images/home-setup/search-page-settings-full-mod.png)
 
 7. **Property Search page** is translated and ready to be used.
