@@ -2,7 +2,7 @@
 
 ### Installation
 
-Look for the folder name **Plugins → Visual Composer** in unzipped package downloaded from themeforest.net. This folder contains visual composer plugin zip named as **js_composer.zip**. This folder also contains visual composer documentation and readme file. You need to go to **Dashboard → Plugins → Add New** in your WordPress admin side and upload the **js_composer.zip** as displayed in image below.
+Look for the folder name **Plugins → Visual Composer** in unzipped package downloaded from themeforest.net. This folder contains visual composer plugin zip named as **js_composer.zip**. You need to go to **Dashboard → Plugins → Add New** in your WordPress admin side and upload the **js_composer.zip** as displayed in the following screenshots.
 
 ![Real Homes Documentation](images/included-plugins/vc-1.png)
 ![Real Homes Documentation](images/included-plugins/vc-2.png)
@@ -14,6 +14,8 @@ Once installed, You need to activate the plugin as displayed in screen shot belo
 After activation you can create a test page to try out visual composer.
 
 ![Real Homes Documentation](images/included-plugins/vc-4.png)
+
+![Real Homes Documentation](images/included-plugins/vc-backend-editor.png)
 
 Click on "**Backend Editor**" Button in visual composer toolbar, and you will have the visual composer page builder layout ready for use as displayed in screen shot below.
 
