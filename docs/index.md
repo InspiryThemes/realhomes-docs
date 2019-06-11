@@ -30,7 +30,7 @@ Please note some features (which you find in Classic Design) might not be availa
 
 If you want to update your theme then you can consult [this knowledge base article for automatic update](https://support.inspirythemes.com/knowledgebase/update-theme-using-envato-wordpress-toolkit/) OR you can consult [this knowledge base article to safely update Real Homes Theme](https://support.inspirythemes.com/knowledgebase/how-to-update-real-homes-theme-safely/).
 
-**If you are updating from an old version to 3.8.x then you must read the guide [How to Update Real Homes Theme to Version 3.8](https://support.inspirythemes.com/knowledgebase/update-real-homes-version-3-8/) to properly update the theme.**
+**If you are updating from an old version to 3.x then you must read the guide [How to Update Real Homes Theme to Version 3.x](https://support.inspirythemes.com/knowledgebase/update-real-homes-version-3-x/) to properly update the theme.**
 
 ## Support Policy
 
