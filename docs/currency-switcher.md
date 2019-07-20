@@ -4,7 +4,7 @@
     We recently learned from our experience that this feature is not stable yet and I would not recommend you to use it for now.
      Actually, it’s related API produce inconsistencies with currency conversion data while updating currency exchange rates.    So, We are working on making it stable in future updates.
 
-We will use [WP Currencies plugin](https://wordpress.org/plugins/wp-currencies/) to add currency switcher.
+We will use [WP Currencies plugin](https://wordpress.org/plugins/wp-currencies/) to add currency switcher. If you are unable to install it via Dashboard Plugin then you can directly download it from [here](https://github.com/unfulvio/wp-currencies/archive/1.4.6.zip).
 
 Install the [WP Currencies plugin](https://wordpress.org/plugins/wp-currencies/). As guided in screen shot below. 
 
