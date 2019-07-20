@@ -10,13 +10,13 @@
 
 3. On the next step you have to create a billing profile.
 
-4. After creating the billing profile navigate to the Console and click on APIs from the right navigation.
+4. After creating the billing profile navigate to the Console and click on **APIs** from the right navigation.
 ![Real Homes Documentation](images/google-maps/google-maps-apis.png)
 
-5. On this new page, click on **Geocoding API** and **Enable** it for your project. This is also needed to make the **Find Address** field work properly on **Property Edit Page**. 
+5. On this new page, click on **Maps Javascript API** and **Enable** it. Now go back to the **APIs** page and click on **Geocoding API** and **Enable** it as well. This is also needed to make the **Find Address** field work properly on **Property Edit Page**. 
 ![Real Homes Documentation](images/google-maps/enable-geocoding-api.gif)
 
-6. After activating **Geocoding API** click on the **Navigation Menu** and select **APIs & Services** and click on **Credentials**. In this section, you will see the name of your **API Key** (so click on it) and restrict it by adding your site URLs as shown in the screencast below.
+6. After activating both **APIs** in the previous step now click on the **Navigation Menu** and select **APIs & Services** and click on **Credentials**. In this section, you will see the name of your **API Key** (so click on it) and restrict it by adding your site URLs as shown in the screencast below.
 ![Real Homes Documentation](images/google-maps/apis-and-services-http-referrers.gif)
 
 7. Copy the generated **Google Maps API key** from the popup. Click on **Close** button to proceed after you copied the **API Key**. 
