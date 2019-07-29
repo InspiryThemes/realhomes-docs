@@ -1,10 +1,10 @@
-# Properties Short Code
+# Properties Shortcode
 
-`[properties]` short code facilitates you to display properties based on any filter you want at any page you want.
+`[properties]` shortcode facilitates you to display properties based on any filter you want at any page you want.
 
 ##Examples
 
-###1st Example: 
+###1st Example:
 
 `[properties count="4" layout="list" orderby="price" order="ASC" locations="miami" types="residential" statuses="for-sale" featured="no" agent="3"]`
 
@@ -37,7 +37,7 @@ You can use the reference provided below to add attributes to properties shortco
 
 ## Visual Composer Support
 
-`[properties]` short code comes integrated with visual composer and if you have installed and activated visual composer. 
+`[properties]` shortcode comes integrated with visual composer and if you have installed and activated visual composer. 
 
 You can view the properties element under the theme tab as displayed in screen shot below. 
 
