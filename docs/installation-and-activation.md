@@ -18,7 +18,9 @@ Once you have a working version of WordPress, You need to download "**All Files 
 - Once you activated the theme, you will be redirected to the RealHomes welcome page. Here you select your desired design variation and click the **Save Changes** button. 
 ![Screenshot](images/installation/welcome-page.png)
 For more details please check [Design Selection](design-selection.md) page.
-- Also, a notice will be displayed at the top of welcome page asking you to install and activate the required plugins. So, go ahead and click on **Begin installing plugins**. 
+- Also, a notice will be displayed at the top of welcome page asking you to **Enter Item Purchase Code** and then click on the **Verify** button. RealHomes purchase verification allows you to **install plugins, import demo contents** and avail **auto updates**. For help to retrieve RealHomes purchase code you can follow our knowledge base article on [How to Get Themeforest Item Purchase Code](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) 
+![Screenshot](images/installation/purchase-verification.png)
+- After **RealHomes Purchase Verification**, a notice will be displayed at the top asking you to install and activate the required plugins. So, go ahead and click on **Begin installing plugins**.
 ![Screenshot](images/installation/begin-plugin-installation.png)
 - On next page you will see the list of plugins to install. Select all the plugins and click on **Install** and then click on **Apply** to install all of them at once (as shown in the screenshot below). </br>
 ![Screenshot](images/installation/install-plugins.png)
