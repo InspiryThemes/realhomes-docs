@@ -15,7 +15,19 @@ Select the **Contact** as template from page attributes.
 
 ![Contact Page Template](images/contact-page/contact-page-template.png)
 
-Provide the top banner related information 
+## Contact Page Settings
+Since theme version `3.9.2` you can create as many contact pages as you want and configure each contact page information from its add/edit page.
+
+### Contact Map
+![Contact Map Tab](images/contact-page/contact-map-tab.png)
+### Contact Details
+![Contact Details Tab](images/contact-page/contact-details-tab.png)
+### Contact Form
+![Contact Form Tab](images/contact-page/contact-form-tab.png)
+
+**Note**: The *Contact Details Title* and *Contact Form Heading* fields are only for the **Classic** design variation.
+
+### Top Banner 
 
 **Classic**
 ![Banner Area Settings](images/add-content/top-banner-area-settings.png)
