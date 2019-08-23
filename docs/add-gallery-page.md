@@ -42,10 +42,12 @@ After publishing you need to add the newly created page in menu from **Dashboard
 
 ![Add Gallery Page to Menu](images/create-pages/add-gallery-page-menu.png)
 
-Provide information related to top banner.
+### **Banner And Spacing Settings**
 
 **Classic**
-![Banner Area Settings](images/add-content/top-banner-area-settings.png)
+
+![Banner And Spacing](images/news-page/banner-spacing-classic.png)
 
 **Modern**
-![Banner Area Settings](images/add-content/top-banner-area-settings-mod.png)
+
+![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)

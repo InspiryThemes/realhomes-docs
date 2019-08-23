@@ -32,13 +32,15 @@ Since theme version `3.9.2` you can create as many contact pages as you want and
 !!! note
     The **Contact Details Title** and **Contact Form Heading** fields are only for the **Classic** design variation.
 
-### Top Banner 
+### **Banner And Spacing Settings**
 
 **Classic**
-![Banner Area Settings](images/add-content/top-banner-area-settings.png)
+
+![Banner And Spacing](images/news-page/banner-spacing-classic.png)
 
 **Modern**
-![Banner Area Settings](images/add-content/top-banner-area-settings-mod.png)
+
+![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
 
 Publish the page once it is ready.
 

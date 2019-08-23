@@ -15,6 +15,16 @@ Select the **Submit Property** template from page attributes.
 
 ![Real Homes Documentation](images/member-pages/submit-property-template.png)
 
+### **Banner And Spacing Settings**
+
+**Classic**
+
+![Banner And Spacing](images/news-page/banner-spacing-classic.png)
+
+**Modern**
+
+![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
+
 Publish the page once it is ready. 
 
 Now you need to navigate to **Dashboard → Real Homes → Customize Settings → Members** and look for **Submit Property** section where you can configure related settings.

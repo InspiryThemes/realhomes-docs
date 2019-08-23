@@ -14,13 +14,11 @@ Go to **Dashboard → Pages → Add New**
 
 ![Fluid Width Content](images/create-pages/full-width-content.png)
 
-- Provide the top banner related information
+**Modern Banner and Spacing Settings**
+![Banner And Spacing](images/news-page/banner-spacing.png)
 
-**Classic**
-![Banner Area Settings](images/add-content/top-banner-area-settings.png)
-
-**Modern**
-![Banner Area Settings](images/add-content/top-banner-area-settings-mod.png)
+**Classic Banner and Spacing Settings**
+![Banner And Spacing](images/news-page/banner-spacing-classic.png)
 
 - Publish the page once it is ready.
 

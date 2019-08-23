@@ -15,3 +15,11 @@ I am assuming that you have already created Home page.
 To configure reading settings you need to visit **Dashboard → Settings → Reading** and choose that front page displays as static page. Then select **Home** as **Front Page** and **News** as **Posts Page**. As, displayed in screen shot below.
 
 ![Configure Reading Settings](images/import-demo/home-and-blog-settings.png)
+
+## Banner and Spacing 
+
+### Modern
+![Banner And Spacing](images/news-page/banner-spacing.png)
+
+### Classic
+![Banner And Spacing](images/news-page/banner-spacing-classic.png)

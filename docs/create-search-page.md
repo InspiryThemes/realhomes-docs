@@ -15,3 +15,13 @@ Other search templates with sidebar support are also available for use, for the 
 If you are using Classic Design and you want to change the Search Page Variation then you can navigate to **Dashboard &rarr; Appearance &rarr; Customize &rarr; Properties Search &rarr; Properties Search Page** and in the bottom of this section you have the option to choose the Search Page Variation.
 
 ![Property Search Page Variation - Classic](images/home-setup/search-page-variation.png)
+
+### **Banner And Spacing Settings**
+
+**Classic**
+
+![Banner And Spacing](images/news-page/banner-spacing-classic.png)
+
+**Modern**
+
+![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)

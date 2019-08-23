@@ -48,15 +48,15 @@ In above displayed **Properties Filter Settings**, you can control the following
 - You can also filter the property by minimum/maximum beds and minimum/maximum price.
 - You can even show the properties by a specific agent.
 
-### **Banner Settings**
+### **Banner And Spacing Settings**
 
-You can modify the banner information as shown in the screenshot below for **Classic** Variation.
+**Classic**
 
-![Banner Area Settings](images/create-pages/banner-area-settings.png)
+![Banner And Spacing](images/news-page/banner-spacing-classic.png)
 
-You can modify information related to banner as displayed in the screenshot below for **Modern** Varitaion.
+**Modern**
 
-![Add Gallery Page](images/add-content/top-banner-area-settings-mod.png)
+![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
 
 **Publish** the page once it is ready.
 

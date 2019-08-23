@@ -13,13 +13,13 @@ Go to **Dashboard → Pages → Add New**
 
 ![Add Agents Page](images/create-pages/agent-listing-template.png)
 
-- Provide the top banner related information if you want for **Classic** Variation!
+**Classic Banner and Spacing Settings**
 
-![Add Agents Page](images/add-content/top-banner-area-settings.png)
+![Banner And Spacing](images/news-page/banner-spacing-classic.png)
 
-- Provide the top banner related information if you want for **Modern** Variation!
+**Modern Banner and Spacing Settings**
 
-![Add Agents Page](images/add-content/top-banner-area-settings-mod.png)
+![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
 
 - **Publish** the page once it is ready.
 
