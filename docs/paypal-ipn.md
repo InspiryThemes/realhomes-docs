@@ -4,8 +4,8 @@
 
 You have to install [PayPal IPN Plugin](https://wordpress.org/plugins/paypal-ipn/) for this purpose.
 
-!!!note
-	If the above link doesn't work then you can download the plugin directly by [clicking here](https://github.com/InspiryThemes/paypal-ipn/archive/master.zip).
+!!!note "Alternative Link to Download"
+	If the above link doesn't work then you can **download the plugin directly by [clicking here](https://github.com/InspiryThemes/paypal-ipn/archive/master.zip)**.
 
 1. Navigate to **Dashboard → Plugins → Add New** and search for **PayPal IPN** as shown in the screenshot below: 
 	
