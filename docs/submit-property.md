@@ -49,14 +49,6 @@ You can change the status of the newly submitted property. You can either select
 
 ![Submit Property](images/member-pages/submitted-property-status.png)
 
-### **Default Address & Map Location in Submit Form**
-
-You can change the **Default Address** which is shown in **Submit Property** page. 
-
-You can also modify the longitude and latitude of the default map location. Please make sure that you add the coordinates properly, adding bad coordinates will result in the issues accessing the Submit Property or Add New Property page.
-
-![Submit Property](images/member-pages/default-address-coordinates.png)
-
 ### **Auto-Generated Property ID**
 
 You can enable/disable **Auto-Generated Property ID** for your properties, if you will activate the **Auto-Generated Property ID** then you will not be able to edit the **Property ID** anymore. You can also provide a pattern of your choice for the **Property ID** field.
@@ -80,6 +72,14 @@ The message which is shown after successful submission of the property can also 
 The email address where you want to get the notification of new property listing submissions are also changed here.
 
 ![Submit Property](images/member-pages/submit-notice-email.png)
+
+### **Default Address & Map Location in Submit Form**
+
+You can change the **Default Address** which is shown in **Submit Property** page from **Maps** Settings (**Easy Real Estate → Settings → Maps**). 
+
+You can also modify the longitude and latitude of the default map location. Please make sure that you add the coordinates properly, adding bad coordinates will result in the issues accessing the Submit Property or Add New Property page.
+
+![Real Homes Documentation](images/ere-tabs/maps.png)
 
 Save the changes and your **Submit Property** page is ready for use. 
 
