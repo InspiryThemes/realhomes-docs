@@ -81,6 +81,11 @@ After that you can provide banner image for the Homepage **OR** for overall site
 
 ![Header Banner](images/home-setup/header-banner.png)
 
+### **Search Form**
+Go to the **Homepage Settings → Search Form** tab to show/hide Properties Search form on Homepage.
+
+![Header Banner](images/home-setup/search-form.png)
+
 ### **Slogan on Home Page**
 
 Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page** section. It contains **Slogan** section where you can change slogan text and description text.
