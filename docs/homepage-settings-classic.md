@@ -86,35 +86,25 @@ Go to the **Homepage Settings → Search Form** tab to show/hide Properties Sear
 
 ![Header Banner](images/home-setup/search-form.png)
 
-### **Slogan on Home Page**
+### **Slogan & Properties on Homepage**
 
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page** section. It contains **Slogan** section where you can change slogan text and description text.
+Go to **Homepage Settings → Properties** tab. It contains **Slogan** section where you can change slogan text and description text and configure homepage **Properties** settings.
 
-![Slogan On Home Page](images/home-setup/customize-homepage-full.png)
-
-### **Properties on Home Page**
-
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → Home Properties** section for related settings.
-
-![Properties On Home Page](images/home-setup/customize-homepage-prop-full.png)
+![Slogan On Home Page](images/home-setup/slogan-properties.png)
 
 ### **Filter Properties**
 
-To display properties related to on or more particular locations, statuses or types you can use related settings displayed in screen shot below.
+To display properties based on locations, statuses or types particularly you can use related settings displayed in screenshot below.
 
 ![Slogan Section](images/home-setup/home-properties-filter.png)
 
-### **Properties Sorting, Number of Properties and AJAX Pagination**
-
-![Slogan Section](images/home-setup/home-properties-sort.png)
-
 ### **Features Section**
 
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → Features Section** for related settings.
+Go to **Homepage Settings → Features Section** for related settings. Add Feature Image, Feature Title, Feature Description and Feature URL for three columns by using the **+ Add more** button to display Features Section on Homepage.
 
 ![Properties On Home Page](images/home-setup/features-settings-classic-combined.png)
 
-Add Featrue Image, Feature Title, Feature Description and Feature URL for three columns to show Features Section on Home Page.
+
 
 ![Properties On Home Page](images/home-setup/features-settings-classic-combined2.png)
 
