@@ -2,7 +2,7 @@
 
 You can configure **Homepage Settings** from its add/edit page.
 
-### **Sections Manager**
+### **Homepage Sections Manager**
 
 **Sections Manager** gives you control over the sections order of Homepage, for example, you can display the blog posts section as first instead of featured properties section or you can put Features section at the top or in the middle.
 
@@ -10,7 +10,7 @@ To change the order of the sections you can drag and drop them in the **Sections
 
 ![Sections Manager for Home Page](images/home-setup/sections-manager.png)
 
-### **Home Page Slider**
+### **Homepage Slider**
 You can feed slider contents from following sources
 
 1. **Properties Custom Post Type** - It will attach properties to your slides ( Very easy to use )
@@ -54,7 +54,7 @@ After adding slides go to **Homepage Settings → Slider Area** and choose **Sli
 ![Home Page Slider](images/home-setup/slider-classic7.png)
 
 
-### **Search Form Over Image**
+### **Search Form Over Image on Homepage**
 
 Navigate to **Homepage Settings → Slider Area** and choose related option as displayed in screenshot below.
 
@@ -62,7 +62,7 @@ Navigate to **Homepage Settings → Slider Area** and choose related option as d
 
 For **Properties Search Form** settings, Check out related section in this documentation.
 
-### **Display Google Maps**
+### **Display Google Maps on Homepage**
 
 Adding google map on homepage is super simple as properties already have their locations stored in database. So, Go to **Homepage Settings → Slider Area** tab and choose related option as shown in below screenshot.
 
@@ -71,7 +71,7 @@ Adding google map on homepage is super simple as properties already have their l
 !!! note
     To enable Google Maps for your website, You need to configure **Google Maps API key** by navigating to **Easy Real Estate → Settings → Maps**.
 
-### **Display Image Banner**
+### **Display Image Banner on Homepage**
 
 To display image banner on homepage, Go to **Homepage → Slider Area** tab and choose banner related option as displayed in screenshot below.
 
@@ -81,7 +81,7 @@ After that you can provide banner image for the Homepage **OR** for overall site
 
 ![Header Banner](images/home-setup/header-banner.png)
 
-### **Search Form**
+### **Search Form on Homepage**
 Go to the **Homepage Settings → Search Form** tab to show/hide Properties Search form on Homepage.
 
 ![Header Banner](images/home-setup/search-form.png)
@@ -98,28 +98,24 @@ To display properties based on locations, statuses or types particularly you can
 
 ![Slogan Section](images/home-setup/home-properties-filter.png)
 
-### **Features Section**
+### **Features Section on Homepage**
 
 Go to **Homepage Settings → Features Section** for related settings. Add Feature Image, Feature Title, Feature Description and Feature URL for three columns by using the **+ Add more** button to display Features Section on Homepage.
 
 ![Properties On Home Page](images/home-setup/features-settings-classic-combined.png)
 
-
-
-![Properties On Home Page](images/home-setup/features-settings-classic-combined2.png)
-
 Features Section will be visible when all three features are filled.
 
 ![Properties On Home Page](images/home-setup/features-settings-classic-combined3.png)
 
-### **Featured Properties on Home Page**
+### **Featured Properties on Homepage**
 
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → Featured Properties** section for related settings.
+Go to **Homepage Settings → Featured Properties** tab for related settings.
 
 ![Featured Properties Settings](images/home-setup/featured-properties-settings-full.png)
 
-### **News Posts on Home Page**
+### **News Posts on Homepage**
 
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → News** or Blog Posts section for related settings.
+Go to **Homepage Settings → News/Blog Posts** tab for related settings.
 
 ![News Posts Settings](images/home-setup/news-settings-full.png)
