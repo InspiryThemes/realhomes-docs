@@ -17,6 +17,8 @@ You can feed slider contents from following sources
 2. **Revolution Slider** - You can add text,images, buttons and videos the way you want. ( Little difficult to use but awesome results )
 3. **Slides Custom Post Type** - You can attach a simple image to your slide with related text data ( easy to use with results similar to properties based slider )
 
+Go to **Homepage Settings → Slider Area** tab to configure slider settings.
+
 ![Home Page Slider](images/home-setup/slider-classic1.png)
 
 #### 1. Properties Based Slider ####

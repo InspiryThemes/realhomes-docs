@@ -1,27 +1,23 @@
-## Home Page Settings (Modern)
+## Homepage Settings (Modern)
 
-Navigate to **Dashboard → Real Homes → Customize Settings** and look into **Home Page** panel to explore further sections.
-
-![Home Page Settings](images/home-setup/homepage-panel-modern.png)
+You can configure **Homepage Settings** from its add/edit page.
 
 ### **Sections Manager**
 
-If you want to change the order of the sections of home page then you can use **Sections Manager**.
+**Homepage Sections Manager** gives you control over the sections order of Homepage, for example, you can display the blog posts section as first instead of featured properties section or you can put Features section at the top or in the middle.
 
-**Sections Manager** gives you control over the sections order of home page, for example, you can display the Call to Action section between the Features and the Partners section or you can put Latest Properties section at the top or in the middle.
-
-Navigate to **Dashboard → Real Homes → Customize Settings → Home Page → Sections Manager**. To change the order of the sections simply select **Custom** and just drag and drop the sections.
+To change the order of the sections you can drag and drop them in the **Sections Manager** tab.
 
 ![Sections Manager for Home Page](images/home-setup/sections-manager-modern.png)
 
-### **Home Page Slider**
+### **Homepage Slider**
 You can feed slider contents from following sources
 
 1. **Properties Custom Post Type** - It will attach properties to your slides ( Very easy to use )
 2. **Revolution Slider** - You can add text,images, buttons and videos the way you want. ( Little difficult to use but awesome results )
 3. **Slides Custom Post Type** - You can attach a simple image to your slide with related text data ( easy to use with results similar to properties based slider )
 
-Navigate to **Dashboard → Real Homes → Customize Settings** and look into **Home Page → Slider Area** section to configure slider settings.
+Go to **Homepage Settings → Slider Area** tab to configure slider settings.
 
 ![Home Page Slider](images/home-setup/slider-modern1.png)
 
@@ -45,7 +41,7 @@ After installing and activating Revolution Slider please navigate to **Dashboard
 
 ![Home Page Slider](images/home-setup/slider-classic4.png)
 
-Once the slider is imported then set it in the **Customizer Settings** (**Dashboard → Real Homes → Customize Settings → Home Page → Slider Area → What to Display Below Header on Home Page ?** and set this option as **Slider Based on Revolution Slider Plugin** and set **Revolution Slider Alias** as **realhomes**.
+Once the slider is imported then set it in the **Homepage Settings → Slider Area → What to Display Below Header on Home Page ?** option as **Slider Based on Revolution Slider Plugin** and set **Revolution Slider Alias** as **realhomes**.
 
 ![Home Page Slider](images/home-setup/slider-modern2.png)
 
@@ -55,88 +51,81 @@ To display slider based on slides custom post type, You need to add new slides a
 
 ![Home Page Slider](images/home-setup/slider-classic5.png)
 
-After adding slides navigate to **Appearance → Customize** and Go to section **Home Page → Slider Area** and choose **Slider Based on Slides Custom Post Type** As displayed in screenshot below.
+After adding slides go to **Homepage Settings → Slider Area** and choose **Slider Based on Slides Custom Post Type** as displayed in screenshot below.
 
 ![Home Page Slider](images/home-setup/slider-modern3.png)
 
-### **Display Google Maps**
+### **Display Google Maps on Homepage**
 
-Adding google map on homepage is super simple as properties already have their locations stored in database. So, Navigate to **Dashboard → Real Homes → Customize Settings** and Go to section **Home Page → Slider Area** and choose related option as shown in below screenshot.
+Adding google map on homepage is super simple as properties already have their locations stored in database. So, Go to **Homepage Settings → Slider Area** tab and choose related option as shown in below screenshot.
 
 ![Display Google Map on Homepage](images/home-setup/homepage-google-maps-modern.png)
 
 !!! note
     To enable Google Maps for your website, You need to configure **Google Maps API key** by navigating to **Easy Real Estate → Settings → Maps**.
 
-### **Properties on Home Page**
+### **Search Form on Homepage**
+Go to the **Homepage Settings → Search Form** tab for the related settings.
 
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → Home Properties** section for related settings.
+![Header Banner](images/home-setup/search-form-modern.png)
+
+### **Properties on Homepage**
+
+Go to **Homepage Settings → Properties** tab to configure homepage **Properties** settings.
 
 ![Home Properties Section](images/home-setup/customize-homepage-prop-mod.png)
 
 ### **Filter Properties**
 
-To display properties related to on or more particular locations, statuses or types you can use related settings displayed in screen shot below.
+To display properties based on locations, statuses or types particularly you can use related settings displayed in screenshot below.
 
 ![Slogan Section](images/home-setup/home-properties-filter-modern.png)
 
-### **Properties Sorting, Number of Properties and Section Styles**
+### **Features on Homepage**
 
-![Slogan Section](images/home-setup/home-properties-sort-modern.png)
-
-### **Featured Propertiese**
-
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → Featured Properties** section for related settings.
-
-![Featured Properties on Home Page](images/home-setup/featured-section-mod.png)
-
-### **Testimonial**
-
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → Testimonial** for related settings.
-
-![Testimonials Settings](images/home-setup/homepage-testimonials-modern-full.png)
-
-### **Call to Action**
-
-Go to **Dashboard → Real Homes → Customize Settings** and search for **Home Page → Call to Action** for related settings.
-
-![Call to Action](images/home-setup/call-to-action.png)
-
-### **Agents Section**
-
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → Agents Section** for related settings.
-
-![Home Page Features](images/home-setup/agents-on-homepage-modern-full.png)
-
-### **Features Section**
-
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → Features Section** for related settings.
+Go to **Homepage Settings → Features Section** for related settings. Add Feature Image, Feature Title, Feature Description and Feature URL for three columns by using the **+ Add more** button to display Features Section on Homepage.
 
 ![Home Page Features](images/home-setup/modern-features-settings-full.png)
 
-### **How to add Features**
+### **Featured Properties on Homepage**
 
-To add features navigate to **Dashboard → Pages** and edit the page which is assigned as homepage of your website. 
+Go to **Homepage Settings → Featured Properties** tab for related settings.
 
-On the page edit screen you will have the option to add/remove/change the information of the Features.
+![Featured Properties on Home Page](images/home-setup/featured-section-mod.png)
 
-![Home Page Features](images/home-setup/how-to-add-features-modern.png)
+### **Testimonial on Homepage**
 
-### **Partners**
+Go to **Homepage Settings → Testimonial** tab for related settings.
 
-Go to **Dashboard → Real Homes → Customize Settings** and search for **Home Page → Partners** for related settings.
+![Testimonials Settings](images/home-setup/homepage-testimonials-modern-full.png)
+
+### **Call to Action on Homepage**
+
+Go to **Realhomes Settings → Call to Action** tab for related settings.
+
+![Call to Action](images/home-setup/call-to-action.png)
+
+### **Agents on Homepage**
+
+Go to **Realhomes Settings → Agents** tab for related settings.
+
+![Home Page Features](images/home-setup/agents-on-homepage-modern-full.png)
+
+### **Partners on Homepage**
+
+Go to **Homepage Settings → Partners** tab for related settings.
 
 ![Call to Action](images/home-setup/partners-settings-full-modern.png)
 
 ### **News Posts on Home Page**
 
-Navigate to **Dashboard → Real Homes → Customize Settings** and look for **Home Page → News** or Blog Posts section for related settings.
+Go to **Homepage Settings → News/Blog Posts** tab for related settings.
 
 ![News Posts Settings](images/home-setup/news-settings-full-modern.png)
 
-### **Call to Action - Contact**
+### **Call to Action - Contact on Homepage**
 
-Go to **Dashboard → Real Homes → Customize Settings** and search for **Home Page → Call to Action - Contact** for related settings.
+Go to **Homepage Settings → Call to Action - Contact** tab for related settings.
 
 ![Call to Action - Contact](images/home-setup/call-to-action-contact.png)
 
