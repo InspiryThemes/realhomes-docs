@@ -69,6 +69,11 @@ Go to the **Homepage Settings → Search Form** tab for the related settings.
 
 ![Header Banner](images/home-setup/search-form-modern.png)
 
+### **Content Area on Homepage**
+Go to the **Homepage Settings → Content Area** tab for the related settings.
+
+![Header Banner](images/home-setup/content-area.png)
+
 ### **Properties on Homepage**
 
 Go to **Homepage Settings → Properties** tab to configure homepage **Properties** settings.
