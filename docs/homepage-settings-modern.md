@@ -122,7 +122,7 @@ Go to **Homepage Settings → Partners** tab for related settings.
 
 ![Call to Action](images/home-setup/partners-settings-full-modern.png)
 
-### **News Posts on Home Page**
+### **News Posts on Homepage**
 
 Go to **Homepage Settings → News/Blog Posts** tab for related settings.
 
