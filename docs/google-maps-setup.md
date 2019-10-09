@@ -25,6 +25,8 @@
 8. Put this **API Key** you just copied in **Maps** Settings (**Easy Real Estate → Settings → Maps → Google Maps API Key**).
 ![Real Homes Documentation](images/ere-tabs/maps.png)
 
+In this **Maps** settings tab, you can also provide the default location for *New Property Map* and *Properties Listing Map* (when there is no property to display).
+
 !!! info "Important Information"
     If you are running the Real Homes theme older than {==3.9.0==} version then related settings can be found by navigating to **Dashboard → Real Homes → Customize Settings → Map**
 
