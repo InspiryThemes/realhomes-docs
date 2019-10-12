@@ -1,8 +1,8 @@
 # Installation
 
-To start you must have a working version of WordPress. Almost all major web hosts provide one click WordPress install and you can consult your host's help site for more information in this regard. For manual installation, you can consult WordPress Codex Installing WordPress especially the Requirements.
+To start you must have a working version of WordPress. Almost all major web hosts provide one-click WordPress install and you can consult your host's help site for more information in this regard. For manual installation, you can consult WordPress Codex Installing WordPress especially the Requirements.
 
-Once you have a working version of WordPress, You need to download "**All Files and Documentation**" from themeforest download page (screenshot below) and extract the downloaded zip to get required files including **realhomes.zip**.
+Once you have a working version of WordPress, You need to download "**All Files and Documentation**" from ThemeForest download page (screenshot below) and extract the downloaded zip to get the required files including **realhomes.zip**.
 ![Screenshot](images/installation/download-rh-full-package.png)
 
 ## Install Theme Via WordPress Dashboard ( _Recommended_ )
@@ -31,7 +31,7 @@ For more details please check [Design Selection](design-selection.md) page.
 - After activation go to "**Real Homes → Customize Settings**" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer. 
 ![Screenshot](images/installation/customize.png)
 
-if you face any problem during upload through dashboard, please upload the theme using FTP as guided below.
+If you face any problem during upload through the dashboard, please upload the theme using FTP as guided below.
 
 ## Install Theme Via FTP ( Alternative Way )
 
@@ -43,7 +43,6 @@ if you face any problem during upload through dashboard, please upload the theme
 
 ## Install Child Theme ( Highly Recommended )
 
-It is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from themeforest.
+It is highly recommended to use a child theme so that you can easily update the parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from ThemeForest.
 
-
-To install child theme, You need to upload the **realhomes-child.zip** and activate it in the same way as you have uploaded and activated parent theme's **realhomes.zip**.
+To install the child theme, you need to upload the **realhomes-child.zip** and activate it just like every other WordPress theme.
