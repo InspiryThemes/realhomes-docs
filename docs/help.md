@@ -1,7 +1,7 @@
 # Inspiry Help Desk
 
-There is a **Help** section for you to access quick guides, knowledge base for common questions and issues so you can resolve common problems quickly.
+There is a quick Help section to help you with basic theme settings and fix common issues without the need of support team. 
 
-You can find it by navigating to the **Dashboard → Real Homes → Help** page.
+It can be found by navigating to the **Dashboard → Real Homes → Help** page.
 
 ![Help](images/rh-tabs/help.png)
