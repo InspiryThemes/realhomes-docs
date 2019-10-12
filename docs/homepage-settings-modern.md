@@ -2,6 +2,8 @@
 
 You can configure **Homepage Settings** from its add/edit page.
 
+![Homepage Settings](images/home-setup/homepage-settings-modern.gif)
+
 ### **Sections Manager**
 
 **Homepage Sections Manager** gives you control over the sections order of Homepage, for example, you can display the blog posts section as first instead of featured properties section or you can put Features section at the top or in the middle.
@@ -10,18 +12,21 @@ To change the order of the sections you can drag and drop them in the **Sections
 
 ![Sections Manager for Home Page](images/home-setup/sections-manager-modern.png)
 
-### **Homepage Slider**
+### **Homepage Slider Area**
 You can feed slider contents from following sources
 
-1. **Properties Custom Post Type** - It will attach properties to your slides ( Very easy to use )
-2. **Revolution Slider** - You can add text,images, buttons and videos the way you want. ( Little difficult to use but awesome results )
-3. **Slides Custom Post Type** - You can attach a simple image to your slide with related text data ( easy to use with results similar to properties based slider )
+1. **Properties Custom Post Type** - It will attach properties to your slides with a description box ( Default Slider, Very easy to use )
+2. **Map with Properties Markers** - Selecting this option will display a map at the home page instead of the slider
+3. **Image Based Banner** - It will be an image based banner just like the banner in sub-pages
+4. **Revolution Slider** - You can add text,images, buttons and videos the way you want. ( Little difficult to use but awesome results )
+5. **Slides Custom Post Type** - You can attach a simple image to your slide with related text data ( easy to use with results similar to properties based slider )
+6. **Contact Form Over Slider** - Select this option to have a Contact Form Over the Slider.
 
 Go to **Homepage Settings → Slider Area** tab to configure slider settings.
 
 ![Home Page Slider](images/home-setup/slider-modern1.png)
 
-#### 1. Properties Based Slider ####
+#### 1. **Properties Based Slider** ####
 
 Visit the slider settings as guided above and choose **Slider Based on Properties Custom Post Type** as displayed in screenshot above.
 
@@ -29,7 +34,22 @@ If you want to include a property in homepage slider, Then you need to edit that
 
 ![Home Page Slider](images/home-setup/slider-classic2.png)
 
-#### 2. Revolution Slider ####
+#### 2. **Display Google Maps on Homepage**
+
+Adding google map on homepage is super simple as properties already have their locations stored in database. So, Go to **Homepage Settings → Slider Area** tab and choose related option as shown in below screenshot.
+
+![Display Google Map on Homepage](images/home-setup/homepage-google-maps-modern.png)
+
+!!! note
+    To enable Google Maps for your website, You need to configure **Google Maps API key** by navigating to **Easy Real Estate → Settings → Maps**.
+
+#### 3. **Display Image Banner on Homepage**
+
+You can also display a simple image based banner on home page with the image of your choice. So, Go to **Homepage Settings → Image Based Banner** tab and choose related option as shown in below screenshot.
+
+![Display Google Map on Homepage](images/home-setup/homepage-image-based-banner.png)
+
+#### 4. **Revolution Slider** ####
 
 Look for the folder name **Plugins/Revolution** Slider in unzipped package downloaded from themeforest.net. This folder will contain revolution slider's plugin zip, documentation and demo slider import zip. You need to go to **Plugins → Add New** in your WordPress dashboard side and upload the **revslider.zip** as displayed in image below.
 
@@ -45,7 +65,7 @@ Once the slider is imported then set it in the **Homepage Settings → Slider Ar
 
 ![Home Page Slider](images/home-setup/slider-modern2.png)
 
-#### 3. "Slides" Custom Post Type Based Slider ####
+#### 5. **"Slides" Custom Post Type Based Slider** ####
 
 To display slider based on slides custom post type, You need to add new slides as displayed in screenshot below.
 
@@ -55,14 +75,15 @@ After adding slides go to **Homepage Settings → Slider Area** and choose **Sli
 
 ![Home Page Slider](images/home-setup/slider-modern3.png)
 
-### **Display Google Maps on Homepage**
+#### 6. **Display a Contact Form Over Slider**
 
-Adding google map on homepage is super simple as properties already have their locations stored in database. So, Go to **Homepage Settings → Slider Area** tab and choose related option as shown in below screenshot.
+You can also have a Contact Form over the Slider. So, Go to **Homepage Settings → Slider Area** tab and choose **Contact Form Over Slider** option as displayed below.
 
-![Display Google Map on Homepage](images/home-setup/homepage-google-maps-modern.png)
+![Home Page Slider](images/home-setup/homepage-contact-form-over-slider.png)
 
-!!! note
-    To enable Google Maps for your website, You need to configure **Google Maps API key** by navigating to **Easy Real Estate → Settings → Maps**.
+After adding slides go to **Homepage Settings → Slider Area** and choose **Slider Based on Slides Custom Post Type** as displayed in screenshot below.
+
+![Home Page Slider](images/home-setup/slider-modern3.png)
 
 ### **Search Form on Homepage**
 Go to the **Homepage Settings → Search Form** tab for the related settings.
