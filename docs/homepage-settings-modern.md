@@ -2,7 +2,7 @@
 
 You can configure **Homepage Settings** from its add/edit page.
 
-![Homepage Settings](images/home-setup/homepage-settings-modern.gif)
+![Homepage Settings Modern](images/home-setup/homepage-settings-modern.gif)
 
 ### **Sections Manager**
 
@@ -80,10 +80,6 @@ After adding slides go to **Homepage Settings → Slider Area** and choose **Sli
 You can also have a Contact Form over the Slider. So, Go to **Homepage Settings → Slider Area** tab and choose **Contact Form Over Slider** option as displayed below.
 
 ![Home Page Slider](images/home-setup/homepage-contact-form-over-slider.png)
-
-After adding slides go to **Homepage Settings → Slider Area** and choose **Slider Based on Slides Custom Post Type** as displayed in screenshot below.
-
-![Home Page Slider](images/home-setup/slider-modern3.png)
 
 ### **Search Form on Homepage**
 Go to the **Homepage Settings → Search Form** tab for the related settings.
