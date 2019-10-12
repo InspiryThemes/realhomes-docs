@@ -1,8 +1,8 @@
 # Installation
 
-To start you must have a working version of WordPress. Almost all major web hosts provide one click WordPress install and you can consult your host's help site for more information in this regard. For manual installation, you can consult WordPress Codex Installing WordPress especially the Requirements.
+To start you must have a working version of WordPress. Almost all major web hosts provide one-click WordPress install and you can consult your host's help site for more information in this regard. For manual installation, you can consult WordPress Codex Installing WordPress especially the Requirements.
 
-Once you have a working version of WordPress, You need to download "**All Files and Documentation**" from themeforest download page (screenshot below) and extract the downloaded zip to get required files including **realhomes.zip**.
+Once you have a working version of WordPress, You need to download "**All Files and Documentation**" from themeforest download page (screenshot below) and extract the downloaded zip to get required the files including **realhomes.zip**.
 ![Screenshot](images/installation/download-rh-full-package.png)
 
 ## Install Theme Via WordPress Dashboard ( _Recommended_ )
@@ -46,4 +46,4 @@ if you face any problem during upload through dashboard, please upload the theme
 It is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from themeforest.
 
 
-To install child theme, You need to upload the **realhomes-child.zip** and activate it in the same way as you have uploaded and activated parent theme's **realhomes.zip**.
+To install child theme, You need to upload the **realhomes-child.zip** and activate it just like a normal WordPress Theme.
