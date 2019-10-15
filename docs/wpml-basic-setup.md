@@ -43,4 +43,6 @@ Please follow the steps below to configure the basic settings for WPML Plugin.
 
 17. Now, Go to **Dashboard → WPML → String Translation** section and configure the following settings. ![Real Homes Documentation](images/wpml/track-strings.png)
 
-18.  Basic settings are complete and you can translate any string that does not exist in the post, pages and taxonomies via **Dashboard → WPML → String Translation** section. For more information consult: https://wpml.org/documentation/getting-started-guide/string-translation/
+18. After that, navigate to **Dashboard → WPML → Settings** and scroll down until you find "**How to translate posts and pages**" and set it to **Use WPML's Classic Translation Editor** as shown below. ![Real Homes Documentation](images/wpml/wpml-classic-editor.png)
+
+19.  Basic settings are complete and you can translate any string that does not exist in the post, pages and taxonomies via **Dashboard → WPML → String Translation** section. For more information consult: https://wpml.org/documentation/getting-started-guide/string-translation/
