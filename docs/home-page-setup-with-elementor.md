@@ -50,6 +50,10 @@ To add any Real Homes Widget simply drag the widget to the right as shown in the
 
 <iframe width="688" height="387" src="https://www.youtube.com/embed/Ub5ZbjIWznM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### **Adding Amazing Features**
+
+<iframe width="688" height="387" src="https://www.youtube.com/embed/BB4r6ZCxcIY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### **Adding Big Testimonial**
 
 <iframe width="688" height="387" src="https://www.youtube.com/embed/-QT42NcuaeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
