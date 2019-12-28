@@ -12,7 +12,7 @@ Go to **Dashboard → Real Homes → Customize Settings → Styles** for all sty
 
 Make sure that you have selected **My Own Custom Colors** in **Dashboard → Real Homes → Customize Settings → Styles → Default or Custom** section to override the default styles and colors of the design.
 
-![Real Homes Documentation](images/customize-theme/my-own-custom-colors.png)
+<iframe width="688" height="387" src="https://www.youtube.com/embed/qjAgcc2R09k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Additional CSS
 
