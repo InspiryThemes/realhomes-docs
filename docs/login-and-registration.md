@@ -49,9 +49,15 @@ Look for **Login & Register** Section in that panel.
 
 Now select the **Login & Register** page that has been created earlier as shown in image below.
 
-![Login & Register Customizer Settings](images/member-pages/login-register-customizer-settings.png)
+![Login & Register Customizer Settings](images/member-pages/select_login_register_page.gif)
 
 Publish the settings and your **Login & Register** page is ready for use.
+
+## Redirect Users after Login
+
+You can also redirect the users once they have logged in. The settigns are found in **Dashboard → Real Homes → Customize Settings → Members → Login & Register**.
+
+![Login & Register Customizer Settings](images/member-pages/login-register-customizer-settings.gif)
 
 ## User and Agent/Agency Synchronization
 
