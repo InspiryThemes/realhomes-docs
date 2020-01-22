@@ -26,8 +26,13 @@ On this new page, click on **Maps Javascript API** and **Enable** it. Now go bac
 
 ### **Restrict the API Key to your Domain Only**
 
-After activating both **APIs** in the previous step now click on the **Navigation Menu** and select **APIs & Services** and click on **Credentials**. In this section, you will see the name of your **API Key** (so click on it) and restrict it by adding your site URLs (in 3 formats) as shown in the screencast below.
+After activating both **APIs** in the previous step now click on the **Navigation Menu** and select **APIs & Services** and click on **Credentials**.
+
+In this section, you will see the name of your **API Key** (so click on it) and restrict it by adding your site URLs (in 3 formats: yourdomain.com, *.yourdomain.com and *.yourdomain.com/*) as shown in the screencast below.
 ![Real Homes Documentation](images/google-maps/apis-and-services-http-referrers.gif)
+
+!!! warning "Important"
+    If you don't restrict the Google Maps API Key then anyone can use it on his website because the API Key is exposed in the code. So, you must restrict the API Key to your domain only.
 
 ### **Copy the API Key and Add it**
 

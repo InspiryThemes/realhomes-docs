@@ -4,7 +4,7 @@
 
 To allow user registration, you need to check the **Anyone can register** option from **Dashboard → Settings → General** page and *Save Changes* as displayed in the following screenshot. Otherwise only Login form will be available for the users.
 
-![Anyone can register](images/member-pages/anyone-can-register.png)
+![Anyone can register](images/member-pages/anyone_can_register.gif)
 
 ## Restrict Backend Access
 
