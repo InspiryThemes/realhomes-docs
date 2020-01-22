@@ -2,6 +2,13 @@
 
 **Real Estate CRM (Customer Relationship Management) plugin** provides the ability to manage the enquiries of your customers. It has separate Enquiries and Contacts sections.
 
+Some key features of **Real Estate CRM plugin** are.
+
+- Manage enquiries of your customers in one place.
+- Catch all the enquiries from all the forms throughout the theme.
+- Add contacts to the system.
+- Multiple Negotiator Sources are availbale.
+
 ### **Installation**
 
 If you have not installed **Real Estate CRM Plugin** with the required plugins while installing the Real Homes theme then you can simply install it via **Dashboard → Appearance → Install Plugins** and activate.
@@ -42,3 +49,6 @@ All the contacts are found in **Dashboard → Real Estate CRM → Contacts**. Cl
 
 ![Real Estate CRM Plugin](images/real-estate-crm/crm-add-new-contact.png)
 
+### **Share Your Feedback**
+
+Please feel free to share your feedback about Real Estate CRM plugin as it will help us improve it in the future. You can send your feedback by filling this form: https://inspirythemes.com/feedback/
