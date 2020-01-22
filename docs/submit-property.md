@@ -90,3 +90,7 @@ Save the changes and your **Submit Property** page is ready for use.
 **Modern**
 
 ![Submit Property](images/member-pages/submit-property-front-end-mod.png)
+
+### **Individual Property Payments Settings**
+
+If you like to charge the user/member of your website to list their properties for a cost then you can activate Individual Property Payments feature using either [**PayPal**](/paypal-ipn/) or [**Stripe**](/inspiry-stripe-payments/) or even both. Please visit the **Individual Property Payments** section to learn how.
