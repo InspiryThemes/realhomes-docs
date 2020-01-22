@@ -46,6 +46,12 @@ In Modern Design, there are multiple header variations and you can change them v
 
 ![Header Variation](images/home-setup/header-variations-modern.gif)
 
+### **Responsive Variations**
+
+There are two Responsive Header Variations for Modern Design called **Transparent** and **Solid**. You can change the **Responsive Header Variation** in **Modern Design** by navigating to **Dashboard → Real Homes → Customize Settings → Header → Others** (displayed below).
+
+![Header Variation](images/header/responsive_variations_modern.gif)
+
 ### **Styles**
 
 To change header styles for Modern Design please navigate to **Dashboard → Real Homes → Customize Settings → Styles**.
