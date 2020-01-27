@@ -91,6 +91,7 @@ nav:
         - PayPal Settings: ims-paypal-settings.md
         - Wire Settings: ims-wire-settings.md
         - Creating Membership Packages: creating-membership-packages.md
+        - Membership Page & Settings: configure-membership-page.md
     - Other Pages:
         - Gallery Page: add-gallery-page.md
         - Users Page: add-users-page.md
