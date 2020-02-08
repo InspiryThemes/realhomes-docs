@@ -23,11 +23,11 @@ To reorder property detail page sections, go to **Dashboard → Real Homes → C
 
 **Breadcrumb Settings** can be changed in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Breadcrumbs**.
 
-## Classic
+### Classic
 
 ![Breadcrumbs on Property Detail Page](images/single-property-page/property-breadcrumbs.png) ![Breadcrumbs on Property Detail Page](images/single-property-page/breadcrumbs-on-property-details-page.png)
 
-## Modern
+### Modern
 
 ![Breadcrumbs on Property Detail Page](images/single-property-page/property-breadcrumbs.png) ![Breadcrumbs on Property Detail Page](images/single-property-page/breadcrumbs-on-property-details-page-modern.png)
 
@@ -46,6 +46,19 @@ There are multiple options for **Property Detail Page** in this section. To modi
 ![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics-3.png)
 
 ![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics-4.png)
+
+## Gallery
+
+Global option to change **Gallery Type** for all properties. This option is located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Gallery**. 
+
+!!! info
+    You can override this setting for a specific property using **Property Meta Box** [here!](./add-property.md#add-gallery-images). 
+
+### Classic
+![Gallery Settings of Property Detail Page](images/single-property-page/property-detail-gallery-classic.png)
+
+### Modern
+![Gallery Settings of Property Detail Page](images/single-property-page/property-detail-gallery-modern.png)
 
 ## Common Note
 
