@@ -6,6 +6,8 @@
 
 **Install** and **Activate** [WordPress Social Login plugin](https://wordpress.org/plugins/wordpress-social-login/).
 
+[Click here to download zip file](https://github.com/jobstertheme/wordpress-social-login/archive/master.zip)
+
 After activation, go to plugin settings and configure those for your desired social networks, As displayed in screenshot below. 
 
 ![Social Plugin Settings](images/member-pages/social-plugin-settings.png)

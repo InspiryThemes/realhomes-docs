@@ -39,25 +39,29 @@ Publish the page once it is ready.
 
 ## Configure Settings
 
-Now you need to go to **Dashboard → Real Homes → Customize Settings** and look for **Members** panel.
+Now you need to go to **Dashboard → Real Homes → Customize Settings -> Header ** and go to **Login & Register Basics** section.
 
-![Members in Customizer Settings](images/member-pages/members-customizer.png)
+Now select the **Login Or Register** page that has been created earlier as shown in image below.
 
-Look for **Login & Register** Section in that panel.
-
-![Members Panel](images/member-pages/members-panel.png)
-
-Now select the **Login & Register** page that has been created earlier as shown in image below.
-
-![Login & Register Customizer Settings](images/member-pages/select_login_register_page.gif)
+![Login & Register Customizer Settings](images/member-pages/customizer-login-modal-1.png)
 
 Publish the settings and your **Login & Register** page is ready for use.
 
 ## Redirect Users after Login
 
-You can also redirect the users once they have logged in. The settigns are found in **Dashboard → Real Homes → Customize Settings → Members → Login & Register**.
+You can also redirect the users once they have logged in. The settings are found in **Dashboard → Real Homes → Customize Settings → Header  → Login & Register Basics**.
 
-![Login & Register Customizer Settings](images/member-pages/login-register-customizer-settings.gif)
+![Login & Register Customizer Settings](images/member-pages/customizer-login-modal-2.png)
+
+## Login Dialog Box Options
+
+You can customize the login dialog box. The settings are found in **Dashboard → Real Homes → Customize Settings → Header  → Login & Register Dialog**. 
+
+![Login & Register Customizer Settings](images/member-pages/customizer-login-modal-3.png)
+
+!!! note
+    Dialog box will appear if no page is select in **Dashboard → Real Homes → Customize Settings -> Header -> Login & Register Basics** ==Login and Register Page (optional)== field.
+    ![Login & Register Customizer Settings](images/member-pages/customizer-login-modal-4.png)
 
 ## User and Agent/Agency Synchronization
 
