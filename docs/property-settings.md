@@ -107,6 +107,16 @@ Please note that this note will be displayed on every property page.
 !!! note
     Please note that you have to Configure Google Maps API Key Settings in **Easy Real Estate → Settings → Maps** section to display the maps properly throughout your website.
 
+## WalkScore
+![Property WalkScore](images/single-property-page/property-walkscore.png)
+
+![Property WalkScore on Property Detail Page](images/single-property-page/property-walkscore-front.png)
+
+## Nearby Places
+![Property Nearby Places](images/single-property-page/property-nearby-places.png)
+
+![Property Nearby Places on Property Detail Page](images/single-property-page/property-nearby-places-front.png)
+
 ## Attachments
 
 **Property Attachments Settings** can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Attachments**. You can either choose to display the property attachment or hide them and the attachments can be in .jpg/.png/.pdf formats.
@@ -114,6 +124,24 @@ Please note that this note will be displayed on every property page.
 ![Property Attachments on Property Detail Page](images/single-property-page/property-attachments.png)
 
 ![Attachments on Property Detail Page](images/single-property-page/attachments-on-property-page.png)
+
+## Child Porperties
+
+**Child Porperties Settings** can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Child Porperties**.
+
+![Property Detail Page Child Properties](images/single-property-page/child-properties.png)
+
+**Classic**
+
+![Child Properties Classic Default Layout](images/single-property-page/child-properties-classic.png)
+
+![Child Properties Classic Table Layout](images/single-property-page/child-properties-classic-table.png)
+
+**Modern**
+
+![Child Properties Modern Default Layout](images/single-property-page/child-properties-modern.png)
+
+![Child Properties Modern Table Layout](images/single-property-page/child-properties-modern-table.png)
 
 ## Agent
 
@@ -131,7 +159,6 @@ You can also show/hide contact form in **Modern** Variation.
 
 ## Energy Performance
 **Energy Performance Settings** are located in **Dashboard → Real Homes → Property Detail Page → Energy Performance**.You can show/Hide Energy Performance section for the properties.
-
 
 ![Energy Performance on Property Detail Page](images/single-property-page/property-energy-performance.png)
 
