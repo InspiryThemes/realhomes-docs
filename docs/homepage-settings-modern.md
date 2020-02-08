@@ -16,11 +16,12 @@ To change the order of the sections you can drag and drop them in the **Sections
 You can feed slider contents from following sources
 
 1. **Properties Custom Post Type** - It will attach properties to your slides with a description box ( Default Slider, Very easy to use )
-2. **Map with Properties Markers** - Selecting this option will display a map at the home page instead of the slider
-3. **Image Based Banner** - It will be an image based banner just like the banner in sub-pages
-4. **Revolution Slider** - You can add text,images, buttons and videos the way you want. ( Little difficult to use but awesome results )
-5. **Slides Custom Post Type** - You can attach a simple image to your slide with related text data ( easy to use with results similar to properties based slider )
-6. **Contact Form Over Slider** - Select this option to have a Contact Form Over the Slider.
+2. **Search Form Over Image / Video** - It is also possible to have search form with an image or video as a background
+3. **Map with Properties Markers** - Selecting this option will display a map at the home page instead of the slider
+4. **Image Based Banner** - It will be an image based banner just like the banner in sub-pages
+5. **Revolution Slider** - You can add text,images, buttons and videos the way you want. ( Little difficult to use but awesome results )
+6. **Slides Custom Post Type** - You can attach a simple image to your slide with related text data ( easy to use with results similar to properties based slider )
+7. **Contact Form Over Slider** - Select this option to have a Contact Form Over the Slider.
 
 Go to **Homepage Settings → Slider Area** tab to configure slider settings.
 
@@ -32,9 +33,17 @@ Visit the slider settings as guided above and choose **Slider Based on Propertie
 
 If you want to include a property in homepage slider, Then you need to edit that property and look for metabox field with tab title **"Homepage Slider"**. Open the tab and select **Yes** plus provide slide image as required by **Slider Image** field in screen shot below it.
 
+#### 2. **Search Form Over Image / Video on Homepage**
+
+Navigate to **Homepage Settings → Slider Area** and choose related option as displayed in screenshot below.
+
+![Search Form Over Image on Homepage](images/home-setup/search-form-over-image-1.png)
+
+For **Properties Search Form** settings, Check out related section in this documentation.
+
 ![Home Page Slider](images/home-setup/slider-classic2.png)
 
-#### 2. **Display Google Maps on Homepage**
+#### 3. **Display Google Maps on Homepage**
 
 Adding google map on homepage is super simple as properties already have their locations stored in database. So, Go to **Homepage Settings → Slider Area** tab and choose related option as shown in below screenshot.
 
@@ -43,13 +52,13 @@ Adding google map on homepage is super simple as properties already have their l
 !!! note
     To enable Google Maps for your website, You need to configure **Google Maps API key** by navigating to **Easy Real Estate → Settings → Maps**.
 
-#### 3. **Display Image Banner on Homepage**
+#### 4. **Display Image Banner on Homepage**
 
 You can also display a simple image based banner on home page with the image of your choice. So, Go to **Homepage Settings → Image Based Banner** tab and choose related option as shown in below screenshot.
 
 ![Display Google Map on Homepage](images/home-setup/homepage-image-based-banner.png)
 
-#### 4. **Revolution Slider** ####
+#### 5. **Revolution Slider** ####
 
 Look for the folder name **Plugins/Revolution** Slider in unzipped package downloaded from themeforest.net. This folder will contain revolution slider's plugin zip, documentation and demo slider import zip. You need to go to **Plugins → Add New** in your WordPress dashboard side and upload the **revslider.zip** as displayed in image below.
 
@@ -65,7 +74,7 @@ Once the slider is imported then set it in the **Homepage Settings → Slider Ar
 
 ![Home Page Slider](images/home-setup/slider-modern2.png)
 
-#### 5. **"Slides" Custom Post Type Based Slider** ####
+#### 6. **"Slides" Custom Post Type Based Slider** ####
 
 To display slider based on slides custom post type, You need to add new slides as displayed in screenshot below.
 
@@ -75,7 +84,7 @@ After adding slides go to **Homepage Settings → Slider Area** and choose **Sli
 
 ![Home Page Slider](images/home-setup/slider-modern3.png)
 
-#### 6. **Display a Contact Form Over Slider**
+#### 7. **Display a Contact Form Over Slider**
 
 You can also have a Contact Form over the Slider. So, Go to **Homepage Settings → Slider Area** tab and choose **Contact Form Over Slider** option as displayed below.
 
