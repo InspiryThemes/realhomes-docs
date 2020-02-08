@@ -39,7 +39,7 @@ Publish the page once it is ready.
 
 ## Configure Settings
 
-Now you need to go to **Dashboard → Real Homes → Customize Settings -> Header ** and go to **Login & Register Basics** section.
+Now you need to go to **Dashboard → Real Homes → Customize Settings -> Header** and go to **Login & Register Basics** section.
 
 Now select the **Login Or Register** page that has been created earlier as shown in image below.
 
