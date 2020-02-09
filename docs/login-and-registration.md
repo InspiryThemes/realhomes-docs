@@ -60,7 +60,7 @@ You can customize the login dialog box. The settings are found in **Dashboard �
 ![Login & Register Customizer Settings](images/member-pages/customizer-login-modal-3.png)
 
 !!! note
-    Dialog box will appear if no page is select in **Dashboard → Real Homes → Customize Settings -> Header -> Login & Register Basics** ==Login and Register Page (optional)== field.
+    Dialog box will appear if no page is selected in **Dashboard → Real Homes → Customize Settings -> Header -> Login & Register Basics** ==Login and Register Page (optional)== field.
     ![Login & Register Customizer Settings](images/member-pages/customizer-login-modal-4.png)
 
 ## User and Agent/Agency Synchronization
