@@ -11,24 +11,19 @@ To change property settings go to **Dashboard → Real Homes → Customize Setti
 To reorder property detail page sections, go to **Dashboard → Real Homes → Customize Settings → Property Detail Page → Sections Manager**.
 
 **Classic**
-
 ![Section Manager Classic](images/single-property-page/property-sections-manager.png)
 
 **Modern**
-
 ![Section Manager Modern](images/single-property-page/property-sections-manager-mod.png)
-
 
 ## Breadcrumbs
 
 **Breadcrumb Settings** can be changed in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Breadcrumbs**.
 
-### Classic
-
+**Classic**
 ![Breadcrumbs on Property Detail Page](images/single-property-page/property-breadcrumbs.png) ![Breadcrumbs on Property Detail Page](images/single-property-page/breadcrumbs-on-property-details-page.png)
 
-### Modern
-
+**Modern**
 ![Breadcrumbs on Property Detail Page](images/single-property-page/property-breadcrumbs.png) ![Breadcrumbs on Property Detail Page](images/single-property-page/breadcrumbs-on-property-details-page-modern.png)
 
 ## Basic
@@ -54,10 +49,10 @@ Global option to change **Gallery Type** for all properties. This option is loca
 !!! info
     You can override this setting for a specific property using **Property Meta Box** [here!](./add-property.md#add-gallery-images). 
 
-### Classic
+**Classic**
 ![Gallery Settings of Property Detail Page](images/single-property-page/property-detail-gallery-classic.png)
 
-### Modern
+**Modern**
 ![Gallery Settings of Property Detail Page](images/single-property-page/property-detail-gallery-modern.png)
 
 ## Common Note
@@ -110,12 +105,18 @@ Please note that this note will be displayed on every property page.
 ## WalkScore
 ![Property WalkScore](images/single-property-page/property-walkscore.png)
 
+ **Classic**
 ![Property WalkScore on Property Detail Page](images/single-property-page/property-walkscore-front.png)
+
+**Modern**
+![Property WalkScore on Property Detail Page](images/single-property-page/property-walkscore-front-mod.png)
 
 ## Nearby Places
 ![Property Nearby Places](images/single-property-page/property-nearby-places.png)
 
 ![Property Nearby Places on Property Detail Page](images/single-property-page/property-nearby-places-front.png)
+
+![Property Nearby Places on Property Detail Page](images/single-property-page/property-nearby-places-front-mod.png)
 
 ## Attachments
 
@@ -132,13 +133,11 @@ Please note that this note will be displayed on every property page.
 ![Property Detail Page Child Properties](images/single-property-page/child-properties.png)
 
 **Classic**
-
 ![Child Properties Classic Default Layout](images/single-property-page/child-properties-classic.png)
 
 ![Child Properties Classic Table Layout](images/single-property-page/child-properties-classic-table.png)
 
 **Modern**
-
 ![Child Properties Modern Default Layout](images/single-property-page/child-properties-modern.png)
 
 ![Child Properties Modern Table Layout](images/single-property-page/child-properties-modern-table.png)
