@@ -18,7 +18,9 @@ Go to **Dashboard → Easy Real Estate → Agencies → Add New** to add a new a
 
 - Provide the agency related information
 
-![Agency Information](images/add-content/agency-information.png)
+![Agency Contact Information](images/add-content/agency-information.png)
+
+![Agency Social Information](images/add-content/agency-information-2.png)
 
 ### Top Banner Settings
 
