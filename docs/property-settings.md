@@ -181,6 +181,19 @@ You can also show/hide contact form in **Modern** Variation.
 
 ![Energy Performance on Property Detail Page](images/single-property-page/property-energy-performance-modern.png)
 
+## Property Analytics
+**Property Analytics Settings** are located in **Dashboard → Real Homes → Property Detail Page → Property Analytics**.You can show/Hide and change the Label of Property Analytics section.
+
+![Energy Performance on Property Detail Page](images/single-property-page/property-analytics.jpg)
+
+**Classic**
+
+![Energy Performance on Property Detail Page](images/single-property-page/property-views-classic.jpg)
+
+**Modern**
+
+![Energy Performance on Property Detail Page](images/single-property-page/property-views-modern.jpg)
+
 ## Similar Properties
 
 **Similar Properties Settings** are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Similar Properties**.
