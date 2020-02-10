@@ -11,9 +11,11 @@ To change property settings go to **Dashboard → Real Homes → Customize Setti
 To reorder property detail page sections, go to **Dashboard → Real Homes → Customize Settings → Property Detail Page → Sections Manager**.
 
 **Classic**
+
 ![Section Manager Classic](images/single-property-page/property-sections-manager.png)
 
 **Modern**
+
 ![Section Manager Modern](images/single-property-page/property-sections-manager-mod.png)
 
 ## Breadcrumbs
@@ -21,9 +23,11 @@ To reorder property detail page sections, go to **Dashboard → Real Homes → C
 **Breadcrumb Settings** can be changed in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Breadcrumbs**.
 
 **Classic**
+
 ![Breadcrumbs on Property Detail Page](images/single-property-page/property-breadcrumbs.png) ![Breadcrumbs on Property Detail Page](images/single-property-page/breadcrumbs-on-property-details-page.png)
 
 **Modern**
+
 ![Breadcrumbs on Property Detail Page](images/single-property-page/property-breadcrumbs.png) ![Breadcrumbs on Property Detail Page](images/single-property-page/breadcrumbs-on-property-details-page-modern.png)
 
 ## Basic
@@ -50,9 +54,11 @@ Global option to change **Gallery Type** for all properties. This option is loca
     You can override this setting for a specific property using **Property Meta Box** [here!](./add-property.md#add-gallery-images). 
 
 **Classic**
+
 ![Gallery Settings of Property Detail Page](images/single-property-page/property-detail-gallery-classic.png)
 
 **Modern**
+
 ![Gallery Settings of Property Detail Page](images/single-property-page/property-detail-gallery-modern.png)
 
 ## Common Note
@@ -64,9 +70,11 @@ Please note that this note will be displayed on every property page.
 ![Common Note Settings](images/single-property-page/common-note.png)
 
 **Classic**
+
 ![Common Note on Property Page](images/single-property-page/property-common-note.png)
 
 **Modern**
+
 ![Common Note on Property Page](images/single-property-page/property-common-note-modern.png)
 
 ## Floor Plan
@@ -106,9 +114,11 @@ Please note that this note will be displayed on every property page.
 ![Property WalkScore](images/single-property-page/property-walkscore.png)
 
  **Classic**
+
 ![Property WalkScore on Property Detail Page](images/single-property-page/property-walkscore-front.png)
 
 **Modern**
+
 ![Property WalkScore on Property Detail Page](images/single-property-page/property-walkscore-front-mod.png)
 
 ## Nearby Places
@@ -133,11 +143,13 @@ Please note that this note will be displayed on every property page.
 ![Property Detail Page Child Properties](images/single-property-page/child-properties.png)
 
 **Classic**
+
 ![Child Properties Classic Default Layout](images/single-property-page/child-properties-classic.png)
 
 ![Child Properties Classic Table Layout](images/single-property-page/child-properties-classic-table.png)
 
 **Modern**
+
 ![Child Properties Modern Default Layout](images/single-property-page/child-properties-modern.png)
 
 ![Child Properties Modern Table Layout](images/single-property-page/child-properties-modern-table.png)
@@ -162,9 +174,11 @@ You can also show/hide contact form in **Modern** Variation.
 ![Energy Performance on Property Detail Page](images/single-property-page/property-energy-performance.png)
 
 **Classic**
+
 ![Energy Performance on Property Detail Page](images/single-property-page/property-energy-performance-classic.png)
 
 **Modern**
+
 ![Energy Performance on Property Detail Page](images/single-property-page/property-energy-performance-modern.png)
 
 ## Similar Properties
@@ -178,7 +192,9 @@ You can also show/hide contact form in **Modern** Variation.
 ![Similar Properties Settings](images/single-property-page/similar-properties.png)
 
 **Classic**
+
 ![Similar Properties on Property Page](images/single-property-page/similar-properties-frontend.png)
 
 **Modern**
+
 ![Similar Properties on Property Page](images/single-property-page/similar-properties-frontend-mod.png)
