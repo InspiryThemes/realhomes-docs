@@ -111,6 +111,9 @@ Please note that this note will be displayed on every property page.
     Please note that you have to Configure Google Maps API Key Settings in **Easy Real Estate → Settings → Maps** section to display the maps properly throughout your website.
 
 ## WalkScore
+
+**WalkScore Settings** can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → WalkScore**.
+
 ![Property WalkScore](images/single-property-page/property-walkscore.png)
 
  **Classic**
@@ -121,7 +124,10 @@ Please note that this note will be displayed on every property page.
 
 ![Property WalkScore on Property Detail Page](images/single-property-page/property-walkscore-front-mod.png)
 
-## Nearby Places
+## Yelp Nearby Places
+
+**Yelp Nearby Places Settings** can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Yelp Nearby Places**.
+
 ![Property Nearby Places](images/single-property-page/property-nearby-places.png)
 
 ![Property Nearby Places on Property Detail Page](images/single-property-page/property-nearby-places-front.png)

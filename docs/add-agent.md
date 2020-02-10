@@ -16,9 +16,13 @@ Go to **Dashboard → Easy Real Estate → Agents → Add New** to add a new age
 
 ### **Agent Contact & Agency Details**
 
-- Provide the agent related information including **agent email, mobile, social and agent's agency**
+Provide the agent contact information using contact tab. 
 
-![Agent Information](images/add-content/agent-information.png)
+![Agent Contact Information](images/add-content/agent-information.png)
+
+Provide the agent social networks information using social tab.
+
+![Agent Social Information](images/add-content/agent-information-2.png)
 
 ### **Top Banner Settings**
 

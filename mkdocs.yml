@@ -153,6 +153,7 @@ nav:
     - Included Plugins:
         - Visual Composer: visual-composer.md
         - Slider Revolution: slider-revolution.md
+    - Email Template: email-template.md     
     - Customize Theme:
         - Customize Styles: customize-styles.md
         - Custom Meta Fields for Property: custom-meta-field-for-property.md
