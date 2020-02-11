@@ -188,6 +188,10 @@ You can also show/hide contact form in **Modern** Variation.
 ![Energy Performance on Property Detail Page](images/single-property-page/property-energy-performance-modern.png)
 
 ## Property Views
+
+!!! note
+    You must need to enable [Property Analytics](property-analytics-settings.md) from its settings to show **Property Views** on property detail page.
+
 **Property Views Settings** are located in **Dashboard → Real Homes → Property Detail Page → Property Views**.You can show/Hide and change the Label of Property Views section.
 
 ![Property Views on Property Detail Page Settings](images/single-property-page/property-analytics.jpg)
