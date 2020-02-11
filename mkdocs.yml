@@ -59,6 +59,7 @@ nav:
         - Create Search Page: create-search-page.md
         - Configure Search (Classic): properties-search-page.md
         - Configure Search (Modern): properties-search-page-mod.md
+    - New Fields Builder: new-fields-builder.md
     - Agencies:
         - Add New Agency: add-agency.md
         - Create Agencies Page: add-agencies-page.md
