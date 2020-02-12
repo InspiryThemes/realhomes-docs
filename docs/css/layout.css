@@ -9,8 +9,11 @@
     border-bottom: 1px solid #eff0ef;
 }
 .md-typeset h1, .md-typeset h2 {
-    font-weight: 700;
+    font-weight: 700 !important;
     letter-spacing: -.01em;
+}
+.md-typeset h4 {
+    font-size: 1rem;
 }
 .md-header-nav__button.md-logo * {
     display: block;

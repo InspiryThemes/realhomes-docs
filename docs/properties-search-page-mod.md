@@ -58,6 +58,14 @@ If you face any confusion, Simply make the changes in settings and preview them 
 
 You can also Hide Empty Locations and Sort Locations Alphabetically. It means that if a location is not assigned to any property it won't be displayed in the location drop-down list.
 
+#### Enable Dynamic Locations (Optimize Large Number Of Locations)
+
+Speeding up the loading time of large number of locations is now possible. All you have to do is to navigate to **Dashboard → Real Homes → Customize Settings → Properties Search → Search Form Locations** and activate Enable Dynamic Locations option as shown below.
+
+![Minimum and Maximum Values For Beds & Baths](images/home-setup/dynamic_locations.gif)
+
+It will help your website performance by loading the locations dynamically by scrolling and lists only 15 locations non-hierarchically and 15 more with each scroll until all locations are listed.
+
 ### **Step 4. Minimum and Maximum Values For Beds & Baths**
 
 Properties Search panel also contains a special section for Beds & Baths. Using which, Beds and Baths fields can be customized to your requirements.
