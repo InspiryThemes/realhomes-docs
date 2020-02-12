@@ -1,6 +1,6 @@
 # Email Template
 
-Email template is added for contact, agent and agency emails with related customizer settings. To change email template settings go to **Dashboard → Real Homes → Customize Settings → Email Template** section.
+ An Email template for better user experience is added in version 3.10 that works for emails generated from Contact Form, Agent Form and Agency Form. We have also provided related customization settings under **Dashboard → Real Homes → Customize Settings → Email Template**.
 
 ![Email Template Settings](images/email-template/email-template-settings.png)
 
