@@ -1,4 +1,4 @@
-You can create new **Search Form**, **Property Submit** and **User Profile** fileds by navigating to the **Easy Real Estate > New Fields Builder** page as demonstrated in the following screenshot.
+You can create new property fields that can be added to **Search Form**, **Property Submit Form** and **Property Detail Page** by navigating to the **Easy Real Estate > New Fields Builder** page as demonstrated in the following screenshot. 
 
 ![New Fields Builder](images/other-features/new-fields-builder.png)
 
