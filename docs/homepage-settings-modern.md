@@ -25,23 +25,28 @@ You can feed slider contents from following sources
 
 Go to **Homepage Settings → Slider Area** tab to configure slider settings.
 
-![Home Page Slider](images/home-setup/slider-modern1.png)
+
 
 #### 1. **Properties Based Slider** ####
 
 Visit the slider settings as guided above and choose **Slider Based on Properties Custom Post Type** as displayed in screenshot above.
 
+![Home Page Slider](images/home-setup/slider-modern1.jpg)
+
 If you want to include a property in homepage slider, Then you need to edit that property and look for metabox field with tab title **"Homepage Slider"**. Open the tab and select **Yes** plus provide slide image as required by **Slider Image** field in screen shot below it.
+
+![Home Page Slider](images/home-setup/slider-classic2.png)
 
 #### 2. **Search Form Over Image / Video on Homepage**
 
 Navigate to **Homepage Settings → Slider Area** and choose related option as displayed in screenshot below.
 
-![Search Form Over Image on Homepage](images/home-setup/search-form-over-image-1.png)
+![Search Form Over Image on Homepage](images/home-setup/search-form-over-image-1.jpg)
 
-For **Properties Search Form** settings, Check out related section in this documentation.
+For Search Form settings go to **Dashboard → Real Homes → Customize Settings → Properties Search**.
 
-![Home Page Slider](images/home-setup/slider-classic2.png)
+![Search Form Over Image on Homepage](images/home-setup/search-form-over-image-2.jpg)
+
 
 #### 3. **Display Google Maps on Homepage**
 
