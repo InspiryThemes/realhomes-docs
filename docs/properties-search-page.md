@@ -48,7 +48,7 @@ If you face any confusion, Simply make the changes in settings and preview them 
 
 You can also Hide Empty Locations and Sort Locations Alphabetically. It means that if a location is not assigned to any property it won't be displayed in the location drop-down list.
 
-#### Enable Dynamic Locations (Optimize Large Number Of Locations)
+### **Enable Dynamic Locations** (Optimize Large Number Of Locations)
 
 Speeding up the loading time of large number of locations is now possible. All you have to do is to navigate to **Dashboard → Real Homes → Customize Settings → Properties Search → Search Form Locations** and activate **Enable Dynamic Locations** option as shown below.
 
