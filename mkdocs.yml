@@ -78,8 +78,10 @@ nav:
     - Translation: translation.md
     - Contact Page: contact-page.md
     - Compare Properties: compare-properties.md
-    - Members Pages:
-        - Setup Login and Registration: login-and-registration.md
+    - Members:
+        - Setup Login: setup-login.md
+        - Setup Registration: setup-registration.md
+        - User and Agent/Agency Synchronization: user-agent-agency-synchronization.md
         - Setup Social Login: setup-social-login.md
         - Submit Property Page: submit-property.md
         - My Properties Page: my-properties.md
