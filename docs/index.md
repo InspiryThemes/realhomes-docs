@@ -1,6 +1,6 @@
 !!! info "Important Information"
 
-    This documentation is last updated on **16th February 2020** and current Real Homes Theme version is {== **3.10.0** ==}
+    This documentation is last updated on **19th February 2020** and current Real Homes Theme version is {== **3.10.1** ==}
 
 Thanks for purchasing **Real Homes WordPress Real Estate Theme**. Any question that is beyond the scope of this documentation you should search in our [knowledge base](https://support.inspirythemes.com/) or ask it on our [support website](https://support.inspirythemes.com/login-register//). You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
@@ -14,10 +14,13 @@ Please note some features (which you find in Classic Design) might not be availa
 
 ### **Basic Recommendations**
 
-* Use **PHP 7.2 or greater** as it is faster than previous versions of PHP and a [base requirement of WordPress](https://wordpress.org/about/requirements/). ( You can communicate with your hosting provider to get it updated. )
+* Use **PHP 7.3 or greater** as it is faster than previous versions of PHP and a [base requirement of WordPress](https://wordpress.org/about/requirements/) with **MySQL version 5.6** or greater. ( You can communicate with your hosting provider to get it updated. )
+* Nginx or Apache with mod_rewrite module.
 * Make sure your hosting is based on SSD drives.
 * It is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on.
-* Use a good cache plugin and test your site properly after installing and configuring it.
+* Use a good cache plugin like **[WP Fastest Cache Plugin](https://wordpress.org/plugins/wp-fastest-cache/)** and test your site properly after installing and configuring it.
+* Images should also be compressed using a plugin like **[Imagify](https://wordpress.org/plugins/imagify/)** for good performance.
+* We also recommend you to use **BunnyCDN** (using their WordPress Plugin which is **[BunnyCDN – WordPress CDN Plugin](https://wordpress.org/plugins/bunnycdn/)**) as we have tested it and it turn out to be one of the finest plugins for CDN.
 
 ### **Real Homes Specific**
 
