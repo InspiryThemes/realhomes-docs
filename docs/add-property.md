@@ -10,9 +10,13 @@ Go to **Dashboard → Easy Real Estate → New Property**
 
 Add basic information related to property, Like price, area, beds, baths, garages etc. 
 
-If you want to add this property into featured properties then mark this property as featured. 
-
 ![Property Basic Information](images/add-content/basic-info.png)
+
+### **Mark Property as Featured**
+
+If you want to add this property into featured properties then mark this property as featured.
+
+![Mark Property as Featured](images/add-content/mark-featured.png)
 
 ### **Provide Location on Google Map**
 
