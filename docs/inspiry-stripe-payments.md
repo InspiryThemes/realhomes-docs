@@ -12,13 +12,17 @@ You have to install [Inspiry Stripe Payments](https://wordpress.org/plugins/insp
 
 ## Configure related Settings
 
-1. You should learn about [Stripe API Keys](https://stripe.com/docs/keys) and obtain yours.
+1. Go to https://dashboard.stripe.com/test/dashboard and sign up or log in for your account.
 
-2. Navigate to **Dashboard → Settings → Inspiry Stripe Payments**  
+2. Click on **Developer &rarr; API Keys** and you will see your API Keys there.
+
+	![Inspiry Stripe API Keys](images/other-features/stripe-api-keys.png)
+
+3. Navigate to **Dashboard → Settings → Inspiry Stripe Payments** and you can use your API Keys you have found in the last step.
 	
 	![Inspiry Stripe Payments Settings](images/other-features/inspiry-stripe-payments-settings.png)
 
-3. Configure the settings as per your requirements and **Save Options**
+3. Configure the settings as per your requirements and **Save Options**.
  
 4. Once done, You can visit my properties page on your website to view Stripe payment button for individual properties.
 	
