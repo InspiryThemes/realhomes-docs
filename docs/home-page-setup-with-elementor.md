@@ -62,8 +62,6 @@ To add any Real Homes Widget simply drag the widget to the right as shown in the
 
 <iframe width="688" height="387" src="https://www.youtube.com/embed/WrP9prsTYm8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## **Configure Reading Settings**
+## **Set as Home Page**
 
-To configure reading settings you need to visit **Dashboard → Settings → Reading** and choose that front page displays as static page. Then select **Home** as **Front Page** and **News** as **Posts Page**. As, displayed in screen shot below.
-
-![Configure Reading Settings](images/import-demo/home-and-blog-settings.png)
+To set this page which you just created as your home page please visit [Configure Reading Settings](https://realhomes.io/documentation/home-page-setup/#configure-reading-settings)
