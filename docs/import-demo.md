@@ -23,7 +23,7 @@ Go to **Real Homes → Demo Import** to import demo data.
 ![Screenshot](images/import-demo/import-demo-data.png)
 
 !!! note
-    Since version 3.0.0, we have added a new design variation in Real Homes Theme for our clients so you will see two variations for the demo data import. You can import one variation or both and you won't have any issues. Before you begin, make sure all the required plugins are installed and activated.
+    Since version 3.0.0, we have added a new design variation in RealHomes Theme for our clients so you will see two variations for the demo data import. You can import one variation or both and you won't have any issues. Before you begin, make sure all the required plugins are installed and activated.
 
 Click on blue **Import** button and you will see a popup so click on the blue **Yes, import!** button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.
 

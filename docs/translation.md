@@ -2,7 +2,7 @@
 
 ### **Language Packs**
 
-Real Homes Theme come with multiple human as well as machine translated languages which are listed below.
+RealHomes Theme come with multiple human as well as machine translated languages which are listed below.
 
 #### **Human Translated Languages**
 
@@ -27,9 +27,9 @@ To apply a Machine Translation language pack, you simply have to download the la
 
 ![How to apply an available language pack](images/language-packs-translation/select-language.png)
 
-### **Translating Real Homes Theme**
+### **Translating RealHomes Theme**
 
-**Real Homes Theme** is fully translation ready.
+**RealHomes Theme** is fully translation ready.
 
 To translate it in one language, please consult the Knowledge Base article on [How to translate your theme to your language](https://support.inspirythemes.com/knowledgebase/how-to-translate-your-theme-to-your-language/)
 
@@ -37,7 +37,7 @@ To translate it in one language, please consult the Knowledge Base article on [H
 
 You can also use [Loco Translate Plugin](https://wordpress.org/plugins/loco-translate/) by Tim Whitlock to translate this theme in one language.
 
-### **Real Homes Theme in Multilingual**
+### **RealHomes Theme in Multilingual**
 
 If you are planning to translate your website into multiple languages then [WPML Multilingual Plugin](https://wpml.org) is the best option out there. To initiate its setup you can start reading from the [WPML Setup](https://realhomes.io/documentation/wpml-basic-setup/) section in the documentation.
 

@@ -9,4 +9,4 @@ You can create new property fields that can be added to **Search Form**, **Prope
 
 !!! warning "Important"
 
-    The **New Field Builder** is added in {==**v3.10.0**==} so if you have Real Homes Theme older than 3.10.0 then you must update it to the latest version to have it.
+    The **New Field Builder** is added in {==**v3.10.0**==} so if you have RealHomes Theme older than 3.10.0 then you must update it to the latest version to have it.

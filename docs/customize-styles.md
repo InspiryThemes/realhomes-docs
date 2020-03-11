@@ -1,6 +1,6 @@
 # How to Modify Styles
 
-There are various options available to modify styles in Real Homes Theme. These options gives you control over default colors as well as styles throughout the theme.
+There are various options available to modify styles in RealHomes Theme. These options gives you control over default colors as well as styles throughout the theme.
 
 ## Styles Settings
 

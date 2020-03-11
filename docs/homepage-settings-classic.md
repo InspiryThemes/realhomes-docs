@@ -68,7 +68,7 @@ Look for the folder name **Plugins/Revolution** Slider in unzipped package downl
 
 ![Home Page Slider](images/home-setup/slider-classic3.png)
 
-After installing and activating Revolution Slider please navigate to **Dashboard → Slider Revolution** and click on **Import Slider** as shown in this screenshot below. The zip file of the slider is located in the main package of Real Homes Theme (**rh-main-package → Plugins → Revolution Slider → realhomes-slider-zip → realhomes.zip**).
+After installing and activating Revolution Slider please navigate to **Dashboard → Slider Revolution** and click on **Import Slider** as shown in this screenshot below. The zip file of the slider is located in the main package of RealHomes Theme (**rh-main-package → Plugins → Revolution Slider → realhomes-slider-zip → realhomes.zip**).
 
 ![Home Page Slider](images/included-plugins/rs-1.png)
 

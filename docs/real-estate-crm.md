@@ -11,7 +11,7 @@ Some key features of **Real Estate CRM plugin** are.
 
 ### **Installation**
 
-If you have not installed **Real Estate CRM Plugin** with the required plugins while installing the Real Homes theme then you can simply install it via **Dashboard → Appearance → Install Plugins** and activate.
+If you have not installed **Real Estate CRM Plugin** with the required plugins while installing the RealHomes Theme then you can simply install it via **Dashboard → Appearance → Install Plugins** and activate.
 
 ![Real Estate CRM Plugin](images/real-estate-crm/installation.png)
 

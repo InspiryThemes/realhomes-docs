@@ -1,6 +1,6 @@
 # Create Home Page with Elementor
 
-Since version 3.8.0, you get **Elementor Page Builder** with **Real Homes Theme main** package so you can add the  content easily using Elementor Page Builder. It comes with **14 Elementor Custom Widgets of Real Homes Theme** which means you will find 14 custom widgets in Elementor's panel with lots of customizable options and settings.
+Since version 3.8.0, you get **Elementor Page Builder** with **RealHomes Theme main** package so you can add the  content easily using Elementor Page Builder. It comes with **14 Elementor Custom Widgets of RealHomes Theme** which means you will find 14 custom widgets in Elementor's panel with lots of customizable options and settings.
 
 If you are unfamiliar with **Elementor Page Builder** then you can check out their [getting started guide](https://docs.elementor.com/collection/1-getting-started).
 

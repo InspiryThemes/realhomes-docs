@@ -18,7 +18,7 @@ Newsletter widget uses [Mailchimp for WordPress](https://wordpress.org/plugins/m
 
 ![Create Mailchimp Form](images/widgets/mailchimp-form.png)
 
-- To match the **Newsletter Widget** styles with Real Homes theme, ensure you have selected the **Inherit from RealHomes theme** option in the **Appearance** tab.
+- To match the **Newsletter Widget** styles with RealHomes Theme, ensure you have selected the **Inherit from RealHomes theme** option in the **Appearance** tab.
 
 ![Set Mailchimp Form Style](images/widgets/mailchimp-form-style.png)
 
