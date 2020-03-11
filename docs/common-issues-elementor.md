@@ -2,7 +2,7 @@
 
 ## The Content Area Was Not Found in Your Page
 
-![Real Homes Documentation](images/elementor/content-area-not-found.jpg)
+![RealHomes Content Area Not Found Issue](images/elementor/content-area-not-found.jpg)
 
 If this issue is occuring on the home page then navigate to **Dashboard &rarr; Real Homes &rarr; Customize Settings &rarr; Home Page &rarr; Content Area** and select **Show** for the first option.
 

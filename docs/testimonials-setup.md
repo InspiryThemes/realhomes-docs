@@ -4,11 +4,11 @@ I have developed [Quick and Easy Testimonials plugin](https://wordpress.org/plug
 
 Install the [Quick and Easy Testimonials plugin](https://wordpress.org/plugins/quick-and-easy-testimonials/). As guided in screen shot below.
 
-![Real Homes Documentation](images/other-features/testimonial-plugin-search.png)
+![RealHomes Documentation](images/other-features/testimonial-plugin-search.png)
 
 After installing and activating the plugin. You can add testimonials as displayed in screenshot below. 
 
-![Real Homes Documentation](images/other-features/add-a-testimonial.png)
+![RealHomes Documentation](images/other-features/add-a-testimonial.png)
 
 Later on you can use following shortcodes to display testimonials on a page.
 

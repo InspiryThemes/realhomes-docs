@@ -4,11 +4,11 @@ I have developed [Quick and Easy FAQs plugin](https://wordpress.org/plugins/quic
 
 Install the [Quick and Easy FAQs plugin](https://wordpress.org/plugins/quick-and-easy-faqs/). As guided in screen shot below. 
 
-![Real Homes Documentation](images/other-features/faqs-plugin-search.png)
+![RealHomes Documentation](images/other-features/faqs-plugin-search.png)
 
 After installing and activating the plugin. You can add **FAQs** as displayed in screen shot below. 
 
-![Real Homes Documentation](images/other-features/adding-a-faq.png)
+![RealHomes Documentation](images/other-features/adding-a-faq.png)
 
 Later on you can use following shortcodes to display FAQs on a page.
 

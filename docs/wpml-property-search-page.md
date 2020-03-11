@@ -2,19 +2,19 @@
 
 Before setting up **Property Search page** please make sure that the **Language URL Format** should be set to **Different languages in directories** (as displayed in the screenshot below). 
 
-![Real Homes Documentation](images/wpml/language-url-format.png)
+![RealHomes Documentation](images/wpml/language-url-format.png)
 
 1. Go to **Dashboard → Pages** in WordPress admin side and look for **Property Search Page**. Click on the + button to add it's translation. 
-![Real Homes Documentation](images/wpml/pages-section.png)
+![RealHomes Documentation](images/wpml/pages-section.png)
 
 2. Provide the translated page title. 
-![Real Homes Documentation](images/wpml/translated-page-title.png)
+![RealHomes Documentation](images/wpml/translated-page-title.png)
 
 3. Make sure the language meta box is showing the right settings. 
-![Real Homes Documentation](images/wpml/language-meta-box.png)
+![RealHomes Documentation](images/wpml/language-meta-box.png)
 
 4. Make sure it is using the **Property Search Template**.<br>
-![Real Homes Documentation](images/wpml/property-search-template.png)
+![RealHomes Documentation](images/wpml/property-search-template.png)
 
 5. **Publish** the page once ready.
 

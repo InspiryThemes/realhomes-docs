@@ -4,7 +4,7 @@
 1. Go to **Dashboard → Properties → Property Types**.
 
 2. Create a new property type or select an existing one.
-![Real Homes Documentation](images/google-maps/property-type-custom-marker.png) 
+![RealHomes Documentation](images/google-maps/property-type-custom-marker.png) 
 
 3. Upload your marker using **Icon Image** option under **Property Map Icon**.
 

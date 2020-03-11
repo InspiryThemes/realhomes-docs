@@ -6,7 +6,7 @@ There are various options available to modify styles in Real Homes Theme. These 
 
 Go to **Dashboard → Real Homes → Customize Settings → Styles** for all styles related options.
 
-![Real Homes Documentation](images/customize-theme/styles-options.png) 
+![RealHomes Documentation](images/customize-theme/styles-options.png) 
 
 ## Override Default Styles
 
@@ -18,13 +18,13 @@ Make sure that you have selected **My Own Custom Colors** in **Dashboard → Rea
 
 **Additional CSS** - Go to **Dashboard → Real Homes → Customize Settings** and click on **Additional CSS** to add any CSS code. 
 
-![Real Homes Documentation](images/customize-theme/customize-4.png)
+![RealHomes Documentation](images/customize-theme/customize-4.png)
 
 ## Custom CSS in Child Theme
 
 The `realhomes-child/css/child-custom.css` file is provided in child theme to add major css changes.
 
-![Real Homes Documentation](images/customize-theme/custom-css-child.png)
+![RealHomes Documentation](images/customize-theme/custom-css-child.png)
 
 !!! note
     It is highly recommended to use child theme for any changes that you want to make as this way you can update parent theme whenever an update becomes available. Simply copy a template file that you want to change to child theme after creating same directory structure and then modify it. For more info http://codex.wordpress.org/Child_Themes.
@@ -35,11 +35,11 @@ If you are not using child theme then you can use **custom.css** file of the par
 
 If you are using *Classic* design variation **custom.css** file  path would be `realhomes/assets/classic/css/custom.css` 
 
-![Real Homes Documentation](images/customize-theme/custom-css-classic.png)
+![RealHomes Documentation](images/customize-theme/custom-css-classic.png)
 
 And if you are using **Modern** design variation then **custom.css** file path would be `realhomes/assets/modern/css/custom.css`
 
-![Real Homes Documentation](images/customize-theme/custom-css-modern.png)
+![RealHomes Documentation](images/customize-theme/custom-css-modern.png)
 
 ## Use Child Theme for Customization ( Highly Recommended )
 

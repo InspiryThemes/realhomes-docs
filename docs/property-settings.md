@@ -191,7 +191,7 @@ You can also show/hide contact form in **Modern** Variation.
 
 Enable **Property Analytics** by navigating to **Easy Real Estate → Settings → Property Analytics** settings tab as displayed in the following screenshot.
 
-![Real Homes Documentation](images/ere-tabs/property-analytics.jpg)
+![RealHomes Documentation](images/ere-tabs/property-analytics.jpg)
 
 After that goto **Dashboard → Real Homes → Property Detail Page → Property Views**  where you can Show/Hide and change the Label of *Property Views* section.
 

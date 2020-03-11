@@ -6,11 +6,11 @@ To add Favorite Properties page, Go to **Dashboard → Pages → Add New**
 
 Provide the page title
 
-![Real Homes Documentation](images/member-pages/favorites-title-gutenberg.png)
+![RealHomes Documentation](images/member-pages/favorites-title-gutenberg.png)
 
 Select the **Favorite Properties** from page attributes. 
 
-![Real Homes Documentation](images/member-pages/favorites-template.png)
+![RealHomes Documentation](images/member-pages/favorites-template.png)
 
 Publish the page once it is ready.
 
@@ -18,21 +18,21 @@ Publish the page once it is ready.
 
 Now you need to navigate to **Dashboard → Real Homes → Customize Settings** and look for **Favorites** panel.
 
-![Real Homes Documentation](images/member-pages/favorites-main-panel.png)
+![RealHomes Documentation](images/member-pages/favorites-main-panel.png)
 
 Select **Favorites** page from the drop-down list as shown in screenshot given below. You can Show/Hide favorite button on property detail page and also **Require Login** for adding to favorite.
 
-![Real Homes Documentation](images/member-pages/favorites-customizer-settings.png)
+![RealHomes Documentation](images/member-pages/favorites-customizer-settings.png)
 
 Save the changes and your **Favorites** page is ready to use.
 
 **Classic**
 
-![Real Homes Documentation](images/member-pages/favorites-front-end.png)
+![RealHomes Documentation](images/member-pages/favorites-front-end.png)
 
 **Modern**
 
-![Real Homes Documentation](images/member-pages/favorites-front-end-mod.png)
+![RealHomes Documentation](images/member-pages/favorites-front-end-mod.png)
 
 ## How Favorite Properties Feature Works!
 
@@ -46,8 +46,8 @@ The user can delete the Property from favorites collection by clicking on trash/
 
 **Classic**
 
-![Real Homes Documentation](images/member-pages/favorites-section-front-end.jpeg)
+![RealHomes Documentation](images/member-pages/favorites-section-front-end.jpeg)
 
 **Modern**
 
-![Real Homes Documentation](images/member-pages/favorites-section-front-end-mod.png)
+![RealHomes Documentation](images/member-pages/favorites-section-front-end-mod.png)

@@ -9,11 +9,11 @@ To add **Submit Property** page, Go to **Dashboard → Pages → Add New**
 
 Provide the page title 
 
-![Real Homes Documentation](images/member-pages/submit-property-title-gutenberg.png)
+![RealHomes Documentation](images/member-pages/submit-property-title-gutenberg.png)
 
 Select the **Submit Property** template from page attributes.
 
-![Real Homes Documentation](images/member-pages/submit-property-template.png)
+![RealHomes Documentation](images/member-pages/submit-property-template.png)
 
 ### **Banner And Spacing Settings**
 
@@ -29,13 +29,13 @@ Publish the page once it is ready.
 
 Now you need to navigate to **Dashboard → Real Homes → Customize Settings → Members** and look for **Submit Property** section where you can configure related settings.
 
-![Real Homes Documentation](images/member-pages/members-customizer.png) ![Real Homes Documentation](images/member-pages/submit-property-panel.png)
+![RealHomes Documentation](images/member-pages/members-customizer.png) ![RealHomes Documentation](images/member-pages/submit-property-panel.png)
 
 ## **Submit Property Settings**
 
 In order to change the settings for new properties submitted by the user you can navigate to **Dashboard → Real Homes → Customize Settings → Members → Submit Property** where you can change the settings accordingly.
 
-![Real Homes Documentation](images/member-pages/submit-property-customizer-settings.png) ![Real Homes Documentation](images/member-pages/submit-property-customizer-settings-2.png)
+![RealHomes Documentation](images/member-pages/submit-property-customizer-settings.png) ![RealHomes Documentation](images/member-pages/submit-property-customizer-settings-2.png)
 
 ### **Terms & Conditions**
 
@@ -79,7 +79,7 @@ You can change the **Default Address** which is shown in **Submit Property** pag
 
 You can also modify the longitude and latitude of the default map location. Please make sure that you add the coordinates properly, adding bad coordinates will result in the issues accessing the Submit Property or Add New Property page.
 
-![Real Homes Documentation](images/ere-tabs/maps.png)
+![RealHomes Documentation](images/ere-tabs/maps.png)
 
 Save the changes and your **Submit Property** page is ready for use. 
 

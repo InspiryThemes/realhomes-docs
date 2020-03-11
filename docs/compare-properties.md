@@ -4,11 +4,11 @@ First, You need to add **Compare Properties** page.
 
 Go to **Dashboard → Pages → Add New** and provide page title.
  
-![Real Homes Documentation](images/other-features/compare-title-gutenberg.png)
+![RealHomes Compare Page Title](images/other-features/compare-title-gutenberg.png)
 
 Select the **Compare Properties** template from page attributes.
 
-![Real Homes Documentation](images/other-features/compare-page-attributes.png)
+![RealHomes Compare Page Attributes](images/other-features/compare-page-attributes.png)
 
 **Classic Banner and Spacing Settings**
 
@@ -22,14 +22,14 @@ Select the **Compare Properties** template from page attributes.
 
 Now you need to navigate to **Dashboard → Real Homes → Customize Settings → Floating Features** and look for **Compare Properties** panel.
 
-![Real Homes Documentation](images/other-features/compare-properties-panel.png)
+![RealHomes Compare Properties Panel](images/other-features/compare-properties-panel.png)
 
 Select the **Compare Properties** page that you created in the **Select Compare Page** option. You can **Enable**/**Disable** Properties Compare functionality for Properties List Templates and configure other related settings here.
 
-![Real Homes Documentation](images/other-features/compare-properties-section.png)
+![RealHomes Compare Properties Section](images/other-features/compare-properties-section.png)
 
-**Classic** </br>
-![Real Homes Documentation](images/other-features/compare-properties-classic.png)
+**Classic**
+![RealHomes Compare Properties Classic](images/other-features/compare-properties-classic.png)
 
-**Modern** </br>
-![Real Homes Documentation](images/other-features/compare-properties-modern.png)
+**Modern**
+![RealHomes Compare Properties Modern](images/other-features/compare-properties-modern.png)

@@ -10,12 +10,12 @@ Latest tweets widget uses [Quick and Easy Tweets](https://wordpress.org/plugins/
 
 - After registering app and generating access token you will have api keys and access token as displayed below 
 
-![Real Homes Documentation](images/widgets/twitter-app-keys.png)
+![RealHomes Documentation](images/widgets/twitter-app-keys.png)
 
 - API Key is basically consumer key and API secret is consumer secret. 
 
-![Real Homes Documentation](images/widgets/access-token.png)
+![RealHomes Documentation](images/widgets/access-token.png)
 
 - After installing and activating the plugin, Go to **Dashboard → Appearance → Widgets** and look for Quick and Easy Tweets widget. Use it in sidebar or footer widget area and provide requested information. 
 
-![Real Homes Documentation](images/widgets/twitter-widget.png)
+![RealHomes Documentation](images/widgets/twitter-widget.png)

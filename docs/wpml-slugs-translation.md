@@ -8,10 +8,10 @@ Please note that you have to refresh the **Permalinks** settings after making ch
 
 To translate the slugs of **Property**, **Partners** and other **Custom Post Types** navigate to **Dashboard → WPML → Settings** section and scroll down to find **Post Types Translation** section.
 
-![Real Homes Documentation](images/wpml/wpml-slugs-translation-cpt.png)
+![RealHomes Documentation](images/wpml/wpml-slugs-translation-cpt.png)
 
 ### **Taxonomy Slug Translation**
 
 You can also translate slugs of any Taxonomy as well as Category in this very section.
 
-![Real Homes Documentation](images/wpml/wpml-slugs-translation-taxonomy.png)
+![RealHomes Documentation](images/wpml/wpml-slugs-translation-taxonomy.png)

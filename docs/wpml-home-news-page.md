@@ -14,8 +14,8 @@
 !!! note
     If you are not able to view language switcher then make sure to enable the setting in **Dashboard → Appearance → Customize Settings → Floating Features** panel and look for the **WPML Language Switcher** section (appears only when WPML plugin is activated) as displayed in the screenshots below.
 
-    <br>![Real Homes Documentation](images/wpml/wpml-language-switcher-section.png)
-    ![Real Homes Documentation](images/wpml/wpml-language-switcher-settings.png)
+    <br>![RealHomes Documentation](images/wpml/wpml-language-switcher-section.png)
+    ![RealHomes Documentation](images/wpml/wpml-language-switcher-settings.png)
 
 Do not worry about lots of un-translated things in header, footer and content area. You will learn to translate those one by one.
 
@@ -26,7 +26,7 @@ Do not worry about lots of un-translated things in header, footer and content ar
 2. Duplicate it the same way we duplicated home page. ( As explained above )
 
 3. Edit the duplicated news page and provide it translated title. As displayed below. 
-![Real Homes Documentation](images/wpml/news-page-duplication.png)
+![RealHomes Documentation](images/wpml/news-page-duplication.png)
 
 4. Update the page after editing.
 
@@ -34,4 +34,4 @@ Do not worry about lots of un-translated things in header, footer and content ar
 
 After creating Translated Pages for Home and news Go to **Dashboard → Settings → Reading** and configure the translated pages as **Front Page** and **Posts Page**. 
 
-![Real Homes Documentation](images/wpml/update-reading-settings.png)
+![RealHomes Documentation](images/wpml/update-reading-settings.png)

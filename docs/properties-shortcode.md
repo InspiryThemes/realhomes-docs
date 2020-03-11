@@ -41,8 +41,8 @@ You can use the reference provided below to add attributes to properties shortco
 
 You can view the properties element under the theme tab as displayed in screen shot below. 
 
-![Real Homes Documentation](images/other-features/vc-add-element.png)
+![RealHomes Documentation](images/other-features/vc-add-element.png)
 
 Now, You can use all the supported attributes visually as displayed in screen shot below. 
 
-![Real Homes Documentation](images/other-features/vc-shortcode-settings.png)
+![RealHomes Documentation](images/other-features/vc-shortcode-settings.png)

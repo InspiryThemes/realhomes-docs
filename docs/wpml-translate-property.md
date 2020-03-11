@@ -6,13 +6,13 @@
 
 The page will refresh and property will be duplicate. 
 
-![Real Homes Documentation](images/wpml/translate-property-1.png)
+![RealHomes Documentation](images/wpml/translate-property-1.png)
 
 Duplicating a property will save you from lots of hard work.
 
 3. Now, Open the duplicated property for editing by clicking on pencil icon. 
 
-![Real Homes Documentation](images/wpml/translate-property-2.png)
+![RealHomes Documentation](images/wpml/translate-property-2.png)
 
 4. On translated property's edit page, Go through all the fields one by one and provide the translated information.
 

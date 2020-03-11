@@ -8,7 +8,7 @@ We will use [WP Currencies plugin](https://wordpress.org/plugins/wp-currencies/)
 
 Install the [WP Currencies plugin](https://wordpress.org/plugins/wp-currencies/). As guided in screen shot below. 
 
-![Real Homes Documentation](images/other-features/wp-currency-plugin-search.png)
+![RealHomes Documentation](images/other-features/wp-currency-plugin-search.png)
 
 After installing and activating the plugin. 
 
@@ -16,13 +16,13 @@ Go to **Dashboard → Settings → Currencies**. You need to sign up and get a f
 
 Provide the **API key** and save the changes. 
 
-![Real Homes Documentation](images/other-features/wp-currencies-settings.png)
+![RealHomes Documentation](images/other-features/wp-currencies-settings.png)
 
 Now you need to navigate to **Dashboard → Real Homes → Customize Settings → Floating Features** panel. This panel contains **Currency Switcher** section ( which only appears if related plugin is installed ) There you can configure related settings.
 
-![Real Homes Documentation](images/other-features/floating-features-currency-switcher.png)
+![RealHomes Documentation](images/other-features/floating-features-currency-switcher.png)
 
-![Real Homes Documentation](images/other-features/currency-switcher-settings.png)
+![RealHomes Documentation](images/other-features/currency-switcher-settings.png)
 
 Configure base currency and target currencies.
 
@@ -31,6 +31,6 @@ Configure base currency and target currencies.
 
 After making all the above settings, Visit your site's front end and you will have a currency switcher floating on the right side of your site. As displayed in screenshot below.
 
-![Real Homes Documentation](images/other-features/currency-switcher-frontend.png)
+![RealHomes Documentation](images/other-features/currency-switcher-frontend.png)
 
 Use it and you will find that prices are being displayed in your selected currency.
