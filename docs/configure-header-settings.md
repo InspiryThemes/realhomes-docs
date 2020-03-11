@@ -4,7 +4,7 @@
 
 Navigate to **Dashboard → Real Homes → Customize Settings** and look into **Site Identity** and Header section to explore further settings.
 
-![Configure Header Settings](images/home-setup/header-settings.png)
+![Configure Header Settings](images/home-setup/header_settings.png)
 
 ## **Site Identity**
 
@@ -18,7 +18,7 @@ You can upload your site's logo, retina logo, title, description tag and site ic
 
 You can customize almost all the components of the header from this very section in header panel.
 
-![Configure Header Settings](images/home-setup/header.png)
+![Configure Header Settings](images/home-setup/header_classic.png)
 
 ### **Variations**
 
@@ -30,7 +30,7 @@ To change header variation please navigate to **Dashboard → Real Homes → Cus
 
 To change header styles for Classic Design please navigate to **Dashboard → Real Homes → Customize Settings → Styles**.
 
-![Header Variation](images/home-setup/header-styles-classic.png)
+![Header Variation](images/home-setup/header_styles_classic.png)
 
 ## **Header (Modern)**
 
@@ -38,7 +38,7 @@ To change header styles for Classic Design please navigate to **Dashboard → Re
 
 You can customize almost all the components of the header from this very section in header panel.
 
-![Configure Header Settings](images/home-setup/header-2.png)
+![Configure Header Settings](images/home-setup/header_modern.png)
 
 ### **Variations**
 
@@ -56,4 +56,16 @@ There are two Responsive Header Variations for Modern Design called **Transparen
 
 To change header styles for Modern Design please navigate to **Dashboard → Real Homes → Customize Settings → Styles**.
 
-![Header Variation](images/home-setup/header-styles-modern.png)
+![Header Variation](images/home-setup/header_styles_modern.png)
+
+### **Sticky Header Styles**
+
+You can modify the styles of **Sticky Header** in **Dashboard → Real Homes → Customize Settings → Styles** and scroll down to find **Sticky Header** styles.
+
+![Header Variation](images/home-setup/header_sticky_styles_modern.png)
+
+### **Responsive Header Styles**
+
+If you would like to modify the header styles for small screens then you can go to **Dashboard → Real Homes → Customize Settings → Styles** and scroll down to find **Responsive Header** styles.
+
+![Header Variation](images/home-setup/header_responsive_styles_modern.png)
