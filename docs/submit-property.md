@@ -27,15 +27,15 @@ Select the **Submit Property** template from page attributes.
 
 Publish the page once it is ready. 
 
-Now you need to navigate to **Dashboard → Real Homes → Customize Settings → Members** and look for **Submit Property** section where you can configure related settings.
+Now you need to navigate to **Dashboard → Real Homes → Customize Settings → Users & Members** and look for **Submit Property** section where you can configure related settings.
 
 ![RealHomes Documentation](images/member-pages/members-customizer.png) ![RealHomes Documentation](images/member-pages/submit-property-panel.png)
 
 ## **Submit Property Settings**
 
-In order to change the settings for new properties submitted by the user you can navigate to **Dashboard → Real Homes → Customize Settings → Members → Submit Property** where you can change the settings accordingly.
+In order to change the settings for new properties submitted by the user you can navigate to **Dashboard → Real Homes → Customize Settings → Users & Members → Submit Property** where you can change the settings accordingly.
 
-![RealHomes Documentation](images/member-pages/submit-property-customizer-settings.png) ![RealHomes Documentation](images/member-pages/submit-property-customizer-settings-2.png)
+![Submit Property Settings](images/member-pages/submit-property-customizer-settings.png)
 
 ### **Terms & Conditions**
 

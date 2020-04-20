@@ -8,7 +8,7 @@ To allow user registration, you need to check the **Anyone can register** option
 
 ## Restrict Backend Access
 
-You must restrict backend access of the user level which you have setup in the previous setup. So navigate to **Dashboard → Real Homes → Customize Settings → Members → Basic** and select **Contributor** (or the user role you have selected) for the first option (shown in the following screenshot).
+You must restrict backend access of the user level which you have setup in the previous setup. So navigate to **Dashboard → Real Homes → Customize Settings → Users & Members → Basic** and select **Contributor** (or the user role you have selected) for the first option (shown in the following screenshot).
 
 ![Login & Register Page Title](images/member-pages/restrict-backend-access.png)
 

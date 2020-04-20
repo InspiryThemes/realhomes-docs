@@ -23,7 +23,7 @@ You have to install [PayPal IPN Plugin](https://wordpress.org/plugins/paypal-ipn
 
 3. If you want to enable logging for troubleshooting purposes, check the box below and click **Save Changes** as shown in the screenshot above.
 
-4. Navigate to **Dashboard → Real Homes → Customize Settings → Members → Payments** and paste the copied IPN URL in **PayPal IPN URL** field.
+4. Navigate to **Dashboard → Real Homes → Customize Settings → Users & Members → Payments** and paste the copied IPN URL in **PayPal IPN URL** field.
 
 	![PayPal Property Payment Settings](images/other-features/payment-per-property.png)
 	

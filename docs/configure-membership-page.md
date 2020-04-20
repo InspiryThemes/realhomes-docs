@@ -11,6 +11,6 @@ You must create a **Membership Page** with **Member Plan** template for your use
 
 ### **Configure Membership Page in Customizer**
 
-Navigate to **Dashboard → Real Homes → Customize Settings → Members → Basic** and select the page you just created for **Membership Plans** from the dropdown list.
+Navigate to **Dashboard → Real Homes → Customize Settings → Users & Members → Basic** and select the page you just created for **Membership Plans** from the dropdown list.
 
 ![RealHomes Assign Membership Page](images/membership/assign_membership_page_customizer.gif)
