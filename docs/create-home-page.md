@@ -1,6 +1,4 @@
-# Create and Configure Home Page
-
-## Create Home Page
+# Create Home Page
 !!! note
     In case you have Imported Demo Contents the home page is already created and you do not need to follow this section.
 
@@ -9,9 +7,3 @@ To set up the Home page you need to create a new page. In order to do so go to *
 Select the **Home** template from the **Page Attributes** section, as displayed in screenshot below and click **Publish** and then **Reload** the page to see the **Homepage Settings** below content area on the same page.
 
 ![Screenshot](images/home-setup/create-homepage.png)
-
-## Configure Reading Settings
-
-To configure reading settings you need to visit **Dashboard → Settings → Reading** and choose that front page displays as static page. Then select **Home** as **Front Page** and **News** as **Posts Page**. As, displayed in screen shot below.
-
-![Configure Reading Settings](images/import-demo/home-and-blog-settings.png)

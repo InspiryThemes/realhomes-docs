@@ -39,12 +39,13 @@ nav:
     - Elementor:
         - What is Elementor: intro-elementor.md
         - Installation: install-elementor.md
-        - Create Home Page with Elementor: home-page-setup-with-elementor.md
+        - Home Page with Elementor: home-page-setup-with-elementor.md
         - Common Issues: common-issues-elementor.md
         - Elementor Pro: elementor-pro.md
     - Homepage:
-        - Create & Configure: home-page-setup.md
-        - Create Home Page with Elementor: home-page-setup-with-elementor.md
+        - Create Home Page: create-home-page.md
+        - Configure Reading Settings: configure-reading-settings.md
+        - Home Page with Elementor: home-page-setup-with-elementor.md
         - Settings (Classic): homepage-settings-classic.md
         - Settings (Modern): homepage-settings-modern.md
     - News/Blog Page:
