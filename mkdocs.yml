@@ -96,8 +96,8 @@ nav:
     - FAQs: faqs-setup.md
     - Membships Setup: realhomes-memberships-setup.md
     - Individual Property Payments:
-        - Using PayPal: paypal-ipn.md
-        - Using Stripe: inspiry-stripe-payments.md
+        - Via PayPal: realhomes-paypal-payments.md
+        - Via Stripe: inspiry-stripe-payments.md
     - Widgets:
         - Advance Search Widget: advance-search-widget.md
         - Agents Widgets: agents-widget.md
