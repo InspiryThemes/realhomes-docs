@@ -26,21 +26,11 @@ To enable Stripe payments for the individual properties you would need to instal
 
 ![Stripe Settings](images/other-features/inspiry-stripe-payments-settings.png)
 
-1. Go to https://dashboard.stripe.com/test/dashboard and sign up or log in for your account.
+2. Configure all the settings as per your preferences. For help to get your Stripe account **Publishable Key** and **Secret Key** you can follow [Retrieving the API Keys](https://inspirythemes.com/realhomes-memberships-setup/#retrieving-stripe-api-keys) section.
 
-2. Click on **Developer &rarr; API Keys** and you will see your API Keys there.
+6. Once done, visit *My Properties* page on your website to view Stripe payment button for individual properties.
 
-	![Inspiry Stripe API Keys](images/other-features/stripe-api-keys.png)
-
-3. Navigate to **Dashboard → Settings → Inspiry Stripe Payments** and you can use your API Keys you have found in the last step.
-	
-	![Inspiry Stripe Payments Settings](images/other-features/inspiry-stripe-payments-settings.png)
-
-3. Configure the settings as per your requirements and **Save Options**.
- 
-4. Once done, You can visit my properties page on your website to view Stripe payment button for individual properties.
-	
 	![My Properties Payment Buttons](images/other-features/my-properties-payment-buttons.png)
-	
+
 !!!note
 	In case of any issue, you can signup/login to our [support website](https://support.inspirythemes.com/login-register/) and [ask your question](https://support.inspirythemes.com/ask-question/) over there.
