@@ -12,7 +12,7 @@ theme:
         primary: 'blue' 
         accent: 'blue' 
     favicon: 'images/base/realhomes-favicon.png' 
-    logo: 'images/base/realhomes-logo.png'
+    logo: 'images/base/realhomes-logo.svg'
     
 # site_dir: '/Users/inspirythemes/OneDrive/Desktop/Documentations/rh-live-doc'
 site_dir: '/Users/fahidjaved/Sites/documentation/rh-live-doc/app/public'
