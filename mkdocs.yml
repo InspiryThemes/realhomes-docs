@@ -88,6 +88,12 @@ nav:
         - My Properties Page: my-properties.md
         - Edit Profile Page: edit-profile.md
         - Favorites Page: favorites-page.md
+    - Other Pages:
+        - Gallery Page: add-gallery-page.md
+        - Users Page: add-users-page.md
+        - Fluid Width Page: add-fluid-width-page.md
+        - Full Width Page: add-full-width-page.md
+    - FAQs: faqs-setup.md
     - Membership Setup:
         - Installation: ims-installation.md
         - Basic Settings: ims-basic-settings.md
@@ -96,12 +102,6 @@ nav:
         - Wire Settings: ims-wire-settings.md
         - Creating Membership Packages: creating-membership-packages.md
         - Membership Page & Settings: configure-membership-page.md
-    - Other Pages:
-        - Gallery Page: add-gallery-page.md
-        - Users Page: add-users-page.md
-        - Fluid Width Page: add-fluid-width-page.md
-        - Full Width Page: add-full-width-page.md
-    - FAQs: faqs-setup.md
     - Individual Property Payments:
         - Using PayPal: paypal-ipn.md
         - Using Stripe: inspiry-stripe-payments.md
