@@ -5,7 +5,7 @@ To enable PayPal payments for the individual properties you would need to instal
 !!!important "Prerequisite"
 	Before you start following the PayPal payments setup guide, please make sure the **RealHomes theme** and its **Easy Real Estate plugin** are installed and activated on your site.
 
-## Install & Activate RealHomes PayPal Payments Plugin
+## Install & Activate 'RealHomes PayPal Payments' Plugin
 
 1. Navigate to **Dashboard → Plugins → Add New** and search for **RealHomes PayPal Payments** as displayed in the screenshot below: 
 	
@@ -15,8 +15,7 @@ To enable PayPal payments for the individual properties you would need to instal
 
 ## Configure Plugin Settings
 
-1. Navigate to **Dashboard → Easy Real Estate → PayPal Settings** page.
-This page contains the following settings.
+1. Navigate to **Dashboard → Easy Real Estate → PayPal Settings** page. This page contains the following settings.
 	
 	- Enable/Disable PayPal Payments.
 	- PayPal account API Keys.
@@ -26,9 +25,9 @@ This page contains the following settings.
 	- Publish Submited Property after Payment.
 	- Redirect Page (after successfull PayPal payment).
 
-	![PayPal Settings](images/other-features/realhomes-paypal-payments-settings.png)
+![PayPal Settings](images/other-features/realhomes-paypal-payments-settings.png)
 	
-2. Configured all the settings as per your preferences. For help to get your PayPal account **Client ID** and **Client Secret** you can follow [Retrieving the Client ID & Client Secret](https://inspirythemes.com/realhomes-memberships-setup/#retrieving-paypal-client-secret-id) section.
+2. Configure all the settings as per your preferences. For help to get your PayPal account **Client ID** and **Client Secret** you can follow [Retrieving the Client ID & Client Secret](https://inspirythemes.com/realhomes-memberships-setup/#retrieving-paypal-client-secret-id) section.
 
 6. Once done, visit *My Properties* page on your website to view PayPal payment button for individual properties.
 
