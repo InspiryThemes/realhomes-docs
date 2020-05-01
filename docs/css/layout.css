@@ -12,6 +12,20 @@
     font-weight: 700 !important;
     letter-spacing: -.01em;
 }
+body .md-header {
+	height: auto;
+}
+
+body .md-header-nav__button.md-logo img, 
+body .md-header-nav__button.md-logo svg {
+	width: 65px;
+	height: auto;
+}
+
+body .md-ellipsis {
+	margin-top: 4px;
+}
+
 .md-typeset h4 {
     font-size: 1rem;
 }
@@ -22,8 +36,12 @@
 }
 .md-footer-copyright {
     color: hsl(0, 0%, 69%);
-    display: none;
+    /* display: none; */
 }
 .md-typeset iframe, .md-typeset img, .md-typeset svg {
     border: 5px solid #e7e7e7;
+}
+
+.md-footer-social svg {
+	border: none;
 }
