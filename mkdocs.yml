@@ -14,18 +14,18 @@ theme:
     favicon: 'images/base/realhomes-favicon.png' 
     logo: 'images/base/realhomes-logo.png'
     
-site_dir: '/Users/inspirythemes/OneDrive/Desktop/Documentations/rh-live-doc'
-#site_dir: '/Users/fahidjaved/Sites/documentation/rh-live-doc/app/public'
+# site_dir: '/Users/inspirythemes/OneDrive/Desktop/Documentations/rh-live-doc'
+site_dir: '/Users/fahidjaved/Sites/documentation/rh-live-doc/app/public'
 
 extra_css:
     - css/layout.css
 
-extra:
-  social:
-    - type: 'facebook'
-      link: 'https://www.facebook.com/InspiryThemes/'
-    - type: 'twitter'
-      link: 'https://twitter.com/InspiryThemes'
+# extra:
+#   social:
+#     - type: 'facebook'
+#       link: 'https://www.facebook.com/InspiryThemes/'
+#     - type: 'twitter'
+#       link: 'https://twitter.com/InspiryThemes'
 
 nav:
     - Introduction: index.md
