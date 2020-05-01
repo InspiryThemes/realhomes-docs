@@ -20,12 +20,12 @@ site_dir: '/Users/fahidjaved/Sites/documentation/rh-live-doc/app/public'
 extra_css:
     - css/layout.css
 
-# extra:
-#   social:
-#     - type: 'facebook'
-#       link: 'https://www.facebook.com/InspiryThemes/'
-#     - type: 'twitter'
-#       link: 'https://twitter.com/InspiryThemes'
+extra:
+  social:
+    - icon: 'fontawesome/brands/facebook-f'
+      link: 'https://www.facebook.com/InspiryThemes/'
+    - icon: 'fontawesome/brands/twitter'
+      link: 'https://twitter.com/InspiryThemes'
 
 nav:
     - Introduction: index.md
