@@ -26,6 +26,10 @@ body .md-ellipsis {
 	margin-top: 4px;
 }
 
+body .md-search__inner {
+	margin-top: 5px;
+}
+
 .md-typeset h4 {
     font-size: 1rem;
 }
