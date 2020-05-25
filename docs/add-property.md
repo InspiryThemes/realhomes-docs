@@ -104,9 +104,17 @@ If you want to add this property in homepage slider then check the related optio
 
 ### **Add Top Banner**
 
+##### **Classic**
+
 You can override the default banner set in Customizer settings by adding a new banner for a specific property in the settings shown below.
 
 ![Property Home Slider](images/add-content/top-banner-property-settings.png)
+
+##### **Modern**
+
+Along with banner settings you can also hide the advanced search form in the header on single property page.
+
+![Property Home Slider](images/add-content/top-banner-property-settings-modern.png)
 
 ### **Add Aditional Information**
 
