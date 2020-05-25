@@ -85,6 +85,7 @@ nav:
         - Setup Registration: setup-registration.md
         - User and Agent/Agency Synchronization: user-agent-agency-synchronization.md
         - Setup Social Login: setup-social-login.md
+        - Guest Property Submission: guest-property-submission.md
         - Submit Property Page: submit-property.md
         - My Properties Page: my-properties.md
         - Edit Profile Page: edit-profile.md
