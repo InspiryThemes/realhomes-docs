@@ -38,7 +38,7 @@ nav:
         - Feedback: feedback.md
         - Help: help.md
     - Elementor:
-        - Intro & Installation: intro-elementor.md
+        - Intro & Installation: intro-and-installation-elementor.md
         - Home Page with Elementor: home-page-setup-with-elementor.md
         - Common Issues: common-issues-elementor.md
         - Elementor Pro: elementor-pro.md
