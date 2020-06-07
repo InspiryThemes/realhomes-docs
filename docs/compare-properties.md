@@ -1,4 +1,4 @@
-# Compare Properties Setup
+# Compare Properties Page etup
 
 First, You need to add **Compare Properties** page. 
 
@@ -20,16 +20,4 @@ Select the **Compare Properties** template from page attributes.
 
 **Publish** the page once you are ready.
 
-Now you need to navigate to **Dashboard → Real Homes → Customize Settings → Floating Features** and look for **Compare Properties** panel.
-
-![RealHomes Compare Properties Panel](images/other-features/compare-properties-panel.png)
-
-Select the **Compare Properties** page that you created in the **Select Compare Page** option. You can **Enable**/**Disable** Properties Compare functionality for Properties List Templates and configure other related settings here.
-
-![RealHomes Compare Properties Section](images/other-features/compare-properties-section.png)
-
-**Classic**
-![RealHomes Compare Properties Classic](images/other-features/compare-properties-classic.png)
-
-**Modern**
-![RealHomes Compare Properties Modern](images/other-features/compare-properties-modern.png)
+After adding the page configure **Compare Properties Settings** for the theme. **[Click here](https://realhomes.io/documentation/wpml-language-switcher/)** to learn how.

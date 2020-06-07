@@ -14,9 +14,9 @@ theme:
     favicon: 'images/base/realhomes-favicon.png' 
     logo: 'images/base/realhomes-logo.svg'
     custom_dir: overrides
-    
-# site_dir: '/Users/inspirythemes/OneDrive/Desktop/Documentations/rh-live-doc'
-site_dir: '/Users/fahidjaved/Sites/documentation/rh-live-doc/app/public'
+ 
+site_dir: '/Users/inspirythemes/OneDrive/Desktop/Documentations/rh-live-doc'
+#site_dir: '/Users/fahidjaved/Sites/documentation/rh-live-doc/app/public'
 
 extra_css:
     - css/layout.css
@@ -79,7 +79,13 @@ nav:
             - Get Google reCAPTCHA API Key: google-recaptcha-setup.md
     - Translation: translation.md
     - Contact Page: contact-page.md
-    - Compare Properties: compare-properties.md
+    - Floating Features:
+        - Compare Properties: compare-properties.md
+        - Currency Switcher: currency-switcher.md
+        - WPML Language Switcher: wpml-language-switcher.md
+    - Compare Properties: 
+        - Setup Page: compare-properties.md
+        - Configure Settings: compare-properties-settings.md
     - Members:
         - Setup Login: setup-login.md
         - Setup Registration: setup-registration.md
@@ -141,6 +147,7 @@ nav:
         - SSL Enhancements: ssl-enhancements.md
     - WPML:
         - WPML Basic Setup: wpml-basic-setup.md
+        - WPML Language Switcher: wpml-language-switcher.md
         - Home & News Page: wpml-home-news-page.md
         - WPML Menu Sync: wpml-menu-sync.md
         - String Translation: wpml-string-translation.md
