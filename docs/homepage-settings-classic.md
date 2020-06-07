@@ -1,10 +1,10 @@
 ## Homepage Settings (Classic)
 
-You can configure **Homepage Settings** from its add/edit page.
+You can configure **Homepage Settings** from its add/edit page. Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section.
 
 ![Homepage Settings Classic](images/home-setup/homepage-settings-classic.gif)
 
-### **Homepage Sections Manager**
+### **Sections Manager**
 
 **Sections Manager** gives you control over the sections order of Homepage, for example, you can display the blog posts section as first instead of featured properties section or you can put Features section at the top or in the middle.
 
@@ -12,8 +12,11 @@ To change the order of the sections you can drag and drop them in the **Sections
 
 ![Sections Manager for Home Page](images/home-setup/sections-manager.png)
 
-### **Homepage Slider**
-You can feed slider contents from following sources
+### **Homepage Slider Area**
+
+Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section.
+
+You can feed slider contents from following sources.
 
 1. **Properties Custom Post Type** - It will attach properties to your slides with a description box ( Default Slider, Very easy to use )
 2. **Search Form Over Image / Video** - It is also possible to have search form with an image or video as a background
@@ -64,7 +67,9 @@ After that you can provide banner image for the Homepage **OR** for overall site
 
 #### 5. Revolution Slider ####
 
-Look for the folder name **Plugins/Revolution** Slider in unzipped package downloaded from themeforest.net. This folder will contain revolution slider's plugin zip, documentation and demo slider import zip. You need to go to **Plugins → Add New** in your WordPress dashboard side and upload the **revslider.zip** as displayed in image below.
+Look for the folder name **Plugins/Revolution** Slider in unzipped package downloaded from themeforest.net. This folder will contain revolution slider's plugin zip, documentation and demo slider import zip.
+
+You need to go to **Plugins → Add New** in your WordPress dashboard side and upload the **revslider.zip** as displayed in image below.
 
 ![Home Page Slider](images/home-setup/slider-classic3.png)
 
@@ -95,13 +100,16 @@ You can also have a Contact Form over the Slider. So, Go to **Homepage Settings 
 ![Home Page Slider](images/home-setup/homepage-contact-form-over-slider.png)
 
 ### **Search Form on Homepage**
-Go to the **Homepage Settings → Search Form** tab to show/hide Properties Search form on Homepage.
+
+Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Search Form** tab to find the search form settings.
 
 ![Header Banner](images/home-setup/search-form.png)
 
 ### **Slogan & Properties on Homepage**
 
-Go to **Homepage Settings → Properties** tab. It contains **Slogan** section where you can change slogan text and description text and configure homepage **Properties** settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Properties** tab.
+
+This section contains **Slogan** section where you can change slogan text and description text and configure homepage **Properties** settings.
 
 ![Slogan On Home Page](images/home-setup/slogan-properties.png)
 
@@ -113,7 +121,9 @@ To display properties based on locations, statuses or types particularly you can
 
 ### **Features Section on Homepage**
 
-Go to **Homepage Settings → Features Section** for related settings. Add Feature Image, Feature Title, Feature Description and Feature URL for three columns by using the **+ Add more** button to display Features Section on Homepage.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Features Section** for related settings.
+
+Add Feature Image, Feature Title, Feature Description and Feature URL for three columns by using the **+ Add more** button to display Features Section on Homepage.
 
 ![Properties On Home Page](images/home-setup/features-settings-classic-combined.png)
 
@@ -123,12 +133,12 @@ Features Section will be visible when all three features are filled.
 
 ### **Featured Properties on Homepage**
 
-Go to **Homepage Settings → Featured Properties** tab for related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Featured Properties** tab for related settings.
 
 ![Featured Properties Settings](images/home-setup/featured-properties-settings-full.png)
 
 ### **News Posts on Homepage**
 
-Go to **Homepage Settings → News/Blog Posts** tab for related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **News/Blog Posts** tab for related settings.
 
 ![News Posts Settings](images/home-setup/news-settings-full.png)
