@@ -9,7 +9,7 @@ You can follow one of these approaches.
 
 ### **Step 1**
 
-Go to **Dashboard → Settings → Permalinks** and choose Post name from Common Settings and save the changes, As displayed in screen shot below.
+Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes, As displayed in screen shot below.
 
 ![Screenshot](images/import-demo/perma-links.png)
 

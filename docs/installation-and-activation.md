@@ -30,6 +30,8 @@ For more details please check [Design Selection](design-selection.md) page.
 ![Screenshot](images/installation/activate-plugins.png)
 - After activation go to "**Real Homes → Customize Settings**" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer. 
 ![Screenshot](images/installation/customize.png)
+- Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes, As displayed in screen shot below.
+![Screenshot](images/import-demo/perma-links.png)
 
 if you face any problem during upload through dashboard, please upload the theme using FTP as guided below.
 
@@ -39,7 +41,8 @@ if you face any problem during upload through dashboard, please upload the theme
 2. Go to the '**wp-content → themes**' folder of your WordPress installation
 3. Extract the **realhomes.zip** file and put the realhomes folder in '**wp-content → themes**' folder
 4. Go to '**Dashboard → Appearance → Themes**' section to activate the theme
-5. After activation go to "**Dashboard → Real Homes → Customize Settings**" to play with theme's settings.
+5. Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes.
+6. After activation go to "**Dashboard → Real Homes → Customize Settings**" to play with theme's settings.
 
 ## Install Child Theme ( Highly Recommended )
 
