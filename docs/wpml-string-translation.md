@@ -2,7 +2,7 @@
 
 You can translate a string that does not exist in post, pages and taxonomies using **Dashboard → WPML → String Translation** section.
 
-### String Translation Example
+### **String Translation Example**
 
 1. We will learn how to translate site name, Which is "**Theme Test**" for this example.
 
@@ -20,8 +20,16 @@ You can translate a string that does not exist in post, pages and taxonomies usi
 
 6. So, You can translate all strings that are out of post's or page's content area.
 
-### String Translation by Translation Domain
+### **String Translation by Translation Domain**
 
-You can also choose a specific translation domain to precisely translate the strings attached to only that translation domain as shown below.
+You can also choose a specific translation domain to precisely translate the strings attached to only a specific translation domain as shown below.
 
 ![RealHomes Documentation](images/wpml/translate-strings-by-domain.png)
+
+### **Customizer Strings Translation**
+
+You can also translation the strings of **Customizer** in **String Translation** section.
+
+To shortlist or find any **Customizer** string you can click on string with domain and translate all the strings starts with **admin_texts_** because these are Customizer strings.
+
+![RealHomes Documentation](images/wpml/string-translation-customizer.png)
