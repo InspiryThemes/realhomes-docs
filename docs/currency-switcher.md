@@ -2,6 +2,17 @@
 
 To enable Currency Switching feature in RealHomes theme you would need to install and configure the [RealHomes Currency Switcher](https://wordpress.org/plugins/realhomes-currency-switcher/) plugin. Plesae follow the steps given blow.
 
+!!!important "Prerequisite"
+	Before you start following the Social Login setup guide, please make sure the **RealHomes theme** and its **Easy Real Estate plugin** are installed and activated on your site.
+
+## Install & Activate 'RealHomes Currency Switcher' Plugin
+
+1. Navigate to **Dashboard → Plugins → Add New** and search for **RealHomes Currency Switcher** as displayed in the screenshot below: 
+	
+	![Install RealHomes Currency Switcher Plugin](images/other-features/search-realhomes-currency-switcher.png)
+
+2. Once found, **Install** and **Activate** the plugin.
+
 
 
 We will use [WP Currencies plugin](https://wordpress.org/plugins/wp-currencies/) to add currency switcher. If you are unable to install it via Dashboard Plugin then you can directly download it from [here](https://github.com/unfulvio/wp-currencies/archive/1.4.6.zip).
