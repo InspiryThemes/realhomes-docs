@@ -18,7 +18,7 @@ To enable Currency Switching feature in RealHomes theme you would need to instal
 Navigate to **Dashboard → Easy Real Estate → Currencies Settings** page. This page contains the following settings.
 	
 - Enable/Disable Currency Switcher
-- Open Exchange App ID
+- Open Exchange App ID (*You can get your Open Exchange Rate 'App ID' from [here](https://support.openexchangerates.org/article/121-your-app-id)*)
 - Update Interval
 - Base Currency
 - Allowed Currencies
@@ -27,9 +27,7 @@ Navigate to **Dashboard → Easy Real Estate → Currencies Settings** page. Thi
 
 ![Currencies Settings](images/other-features/realhomes-currency-switcher-settings.png)
 
-Configure all the settings as per your preferences. You can get your Open Exchange Rate **App ID** from [here](https://support.openexchangerates.org/article/121-your-app-id).
-
-Once you are done with the above settings, Visit your site's frontend and you will have a currency switcher floating on the right side of your site. As displayed in screenshot below.
+Once you are done with the above settings, visit your site's frontend and you will see a currency switcher floating at the right side of your site. As displayed in screenshot below.
 
 ![RealHomes Documentation](images/other-features/currency-switcher-frontend.png)
 
