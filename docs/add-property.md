@@ -40,7 +40,7 @@ Gallery Images options for **Modern** Variation.
 
 ### **Add Floor Plans**
 
-Provide floor plan details.
+Provide floor plan details, the Floor Plan Image and the Floor Name are the two important details you must add otherwise the floor section will not show.
 
 ![Property Floor Plans](images/add-content/floor-plans.png)
 
