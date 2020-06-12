@@ -32,4 +32,7 @@ Go to **Dashboard → Easy Real Estate → Agencies → Add New** to add a new a
 
 ![Add Agency Page](images/add-content/top-banner-area-settings-mod.png)
 
+!!!info "More information about **Banner Settings** can be found here: "
+    **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
+
 - Publish the Agency post once it is ready.

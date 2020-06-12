@@ -18,6 +18,9 @@ Select the **Compare Properties** template from page attributes.
 
 ![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
 
+!!!info "More information about **Banner Settings** can be found here: "
+    **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
+
 **Publish** the page once you are ready.
 
 After adding the page configure **Compare Properties Settings** for the theme. **[Click here](https://realhomes.io/documentation/wpml-language-switcher/)** to learn how.

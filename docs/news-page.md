@@ -23,3 +23,6 @@ To configure reading settings you need to visit **Dashboard → Settings → Rea
 
 ### Classic
 ![Banner And Spacing](images/news-page/banner-spacing-classic.png)
+
+!!!info "More information about **Banner Settings** can be found here: "
+    **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**

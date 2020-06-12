@@ -25,6 +25,9 @@ Select the **Submit Property** template from page attributes.
 
 ![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
 
+!!!info "More information about **Banner Settings** can be found here: "
+    **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
+
 Publish the page once it is ready. 
 
 Now you need to navigate to **Dashboard → Real Homes → Customize Settings → Users & Members** and look for **Submit Property** section where you can configure related settings.

@@ -116,6 +116,9 @@ Along with banner settings you can also hide the advanced search form in the hea
 
 ![Property Home Slider](images/add-content/top-banner-property-settings-modern.png)
 
+!!!info "More information about **Banner Settings** can be found here: "
+    **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
+
 ### **Add Aditional Information**
 
 You can provide any additional information as key-value pairs. 

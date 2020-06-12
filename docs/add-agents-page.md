@@ -21,6 +21,9 @@ Go to **Dashboard → Pages → Add New**
 
 ![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
 
+!!!info "More information about **Banner Settings** can be found here: "
+    **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
+
 - **Publish** the page once it is ready.
 
 After publishing you need to add the newly created page in menu from **Dashboard → Appearance → Menus**. 

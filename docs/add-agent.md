@@ -34,4 +34,7 @@ Provide the agent social networks information using social tab.
 
 ![Add Gallery Page](images/add-content/top-banner-area-settings-mod.png)
 
+!!!info "More information about **Banner Settings** can be found here: "
+    **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
+
 - Publish the agent post once it is ready.
