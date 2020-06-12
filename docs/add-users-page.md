@@ -1,6 +1,6 @@
 # Add Users Page
 
-Go to **Dashboard → Pages → Add New**
+**User List Template** is added to display the registered users as agents. To add it go to **Dashboard → Pages → Add New**
 
 Provide the page title 
 
