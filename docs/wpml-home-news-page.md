@@ -32,6 +32,6 @@ Do not worry about lots of un-translated things in header, footer and content ar
 
 ### **Update Reading Settings**
 
-After creating Translated Pages for Home and news Go to **Dashboard → Settings → Reading** and configure the translated pages as **Front Page** and **Posts Page**. 
+After creating Translated Pages for Home and news Go to **Dashboard → Settings → Reading** and configure the translated pages as **FrontPage** and **Posts Page**. 
 
 ![RealHomes Documentation](images/wpml/update-reading-settings.png)

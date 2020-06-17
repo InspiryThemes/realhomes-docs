@@ -83,7 +83,7 @@ Navigate to **Dashboard → Appearance → Menus** and use the Already Imported 
 
 ### **Step 5**
 
-To configure reading settings you need to visit **Dashboard → Settings → Reading** and choose that front page displays as static page. Then select Home as Front Page and News as Posts Page (displayed in the following screenshot).
+To configure reading settings you need to visit **Dashboard → Settings → Reading** and choose that front page displays as static page. Then select Home as FrontPage and News as Posts Page (displayed in the following screenshot).
 
 ![Screenshot](images/import-demo/home-and-blog-settings.png)
 

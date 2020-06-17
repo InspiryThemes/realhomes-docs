@@ -1,6 +1,6 @@
 ## Homepage Settings (Classic)
 
-You can configure **Homepage Settings** from its add/edit page. Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section.
+You can configure **Homepage Settings** from its add/edit page. Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section.
 
 ![Homepage Settings Classic](images/home-setup/homepage-settings-classic.gif)
 
@@ -14,7 +14,7 @@ To change the order of the sections you can drag and drop them in the **Sections
 
 ### **Homepage Slider Area**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section.
 
 You can feed slider contents from following sources.
 
@@ -101,13 +101,13 @@ You can also have a Contact Form over the Slider. So, Go to **Homepage Settings 
 
 ### **Search Form on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Search Form** tab to find the search form settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Search Form** tab to find the search form settings.
 
 ![Header Banner](images/home-setup/search-form.png)
 
 ### **Slogan & Properties on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Properties** tab.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Properties** tab.
 
 This section contains **Slogan** section where you can change slogan text and description text and configure homepage **Properties** settings.
 
@@ -121,7 +121,7 @@ To display properties based on locations, statuses or types particularly you can
 
 ### **Features Section on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Features Section** for related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Features Section** for related settings.
 
 Add Feature Image, Feature Title, Feature Description and Feature URL for three columns by using the **+ Add more** button to display Features Section on Homepage.
 
@@ -133,12 +133,12 @@ Features Section will be visible when all three features are filled.
 
 ### **Featured Properties on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Featured Properties** tab for related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Featured Properties** tab for related settings.
 
 ![Featured Properties Settings](images/home-setup/featured-properties-settings-full.png)
 
 ### **News Posts on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **News/Blog Posts** tab for related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **News/Blog Posts** tab for related settings.
 
 ![News Posts Settings](images/home-setup/news-settings-full.png)

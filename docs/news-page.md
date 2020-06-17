@@ -12,7 +12,7 @@ To set up the News page you need to create a new page, Go to **Dashboard → Pag
 
 I am assuming that you have already created Home page.
 
-To configure reading settings you need to visit **Dashboard → Settings → Reading** and choose that front page displays as static page. Then select **Home** as **Front Page** and **News** as **Posts Page**. As, displayed in screen shot below.
+To configure reading settings you need to visit **Dashboard → Settings → Reading** and choose that front page displays as static page. Then select **Home** as **FrontPage** and **News** as **Posts Page**. As, displayed in screen shot below.
 
 ![Configure Reading Settings](images/import-demo/home-and-blog-settings.png)
 

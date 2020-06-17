@@ -1,6 +1,6 @@
 ## Homepage Settings (Modern)
 
-You can configure **Homepage Settings** from its add/edit page. Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section.
+You can configure **Homepage Settings** from its add/edit page. Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section.
 
 ![Homepage Settings Modern](images/home-setup/homepage-settings-modern.gif)
 
@@ -14,7 +14,7 @@ To change the order of the sections you can drag and drop them in the **Sections
 
 ### **Homepage Slider Area**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section.
 
 You can feed slider contents from following sources
 
@@ -99,19 +99,19 @@ You can also have a Contact Form over the Slider. So, Go to **Homepage Settings 
 ![Home Page Slider](images/home-setup/homepage-contact-form-over-slider.png)
 
 ### **Search Form on Homepage**
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Search Form** tab for the related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Search Form** tab for the related settings.
 
 ![Header Banner](images/home-setup/search-form-modern.png)
 
 ### **Content Area on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Content Area** tab for the related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Content Area** tab for the related settings.
 
 ![Header Banner](images/home-setup/content-area.png)
 
 ### **Properties on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Properties** tab to configure homepage **Properties** settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Properties** tab to configure homepage **Properties** settings.
 
 ![Home Properties Section](images/home-setup/customize-homepage-prop-mod.png)
 
@@ -123,48 +123,48 @@ To display properties based on locations, statuses or types particularly you can
 
 ### **Features on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Features Section** for related settings. Add Feature Image, Feature Title, Feature Description and Feature URL for three columns by using the **+ Add more** button to display Features Section on Homepage.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Features Section** for related settings. Add Feature Image, Feature Title, Feature Description and Feature URL for three columns by using the **+ Add more** button to display Features Section on Homepage.
 
 ![Home Page Features](images/home-setup/modern-features-settings-full.png)
 
 ### **Featured Properties on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Featured Properties** tab for related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Featured Properties** tab for related settings.
 
 ![Featured Properties on Home Page](images/home-setup/featured-section-mod.png)
 
 ### **Testimonial on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Testimonial** tab for related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Testimonial** tab for related settings.
 
 ![Testimonials Settings](images/home-setup/homepage-testimonials-modern-full.png)
 
 ### **Call to Action on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Call to Action** tab for related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Call to Action** tab for related settings.
 
 ![Call to Action](images/home-setup/call-to-action.png)
 
 ### **Agents on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Agents** tab for related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Agents** tab for related settings.
 
 ![Home Page Features](images/home-setup/agents-on-homepage-modern-full.png)
 
 ### **Partners on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Partners** tab for related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Partners** tab for related settings.
 
 ![Call to Action](images/home-setup/partners-settings-full-modern.png)
 
 ### **News Posts on Homepage**
 
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **News/Blog Posts** tab for related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **News/Blog Posts** tab for related settings.
 
 ![News Posts Settings](images/home-setup/news-settings-full-modern.png)
 
 ### **Call to Action - Contact on Homepage**
-Go to **Dashboard → Pages** and edit the page assigned as **Home or Front Page**. Scroll down to find the **Homepage Settings** section and click on **Call to Action - Contact** tab for related settings.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Call to Action - Contact** tab for related settings.
 
 ![Call to Action - Contact](images/home-setup/call-to-action-contact.png)
 
