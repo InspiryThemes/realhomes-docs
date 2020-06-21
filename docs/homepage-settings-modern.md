@@ -42,7 +42,7 @@ If you want to include a property in homepage slider, Then you need to edit that
 
 #### 2. **Search Form Over Image / Video on Homepage**
 
-Navigate to **Homepage Settings → Slider Area** and choose related option as displayed in screenshot below.
+Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Slider Area** and choose related option as displayed in screenshot below.
 
 ![Search Form Over Image on Homepage](images/home-setup/search-form-over-image-1.jpg)
 
@@ -53,7 +53,9 @@ For Search Form settings go to **Dashboard → Real Homes → Customize Settings
 
 #### 3. **Display Google Maps on Homepage**
 
-Adding google map on homepage is super simple as properties already have their locations stored in database. So, Go to **Homepage Settings → Slider Area** tab and choose related option as shown in below screenshot.
+Adding google map on homepage is super simple as properties already have their locations stored in database.
+
+So, Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Slider Area** tab and choose related option as shown in below screenshot.
 
 ![Display Google Map on Homepage](images/home-setup/homepage-google-maps-modern.png)
 
@@ -62,7 +64,9 @@ Adding google map on homepage is super simple as properties already have their l
 
 #### 4. **Display Image Banner on Homepage**
 
-You can also display a simple image based banner on home page with the image of your choice. So, Go to **Homepage Settings → Image Based Banner** tab and choose related option as shown in below screenshot.
+You can also display a simple image based banner on home page with the image of your choice.
+
+So, Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Slider Area** and choose **Image Based Banner** option as displayed in below screenshot.
 
 ![Display Google Map on Homepage](images/home-setup/homepage-image-based-banner.png)
 
@@ -78,7 +82,9 @@ After installing and activating Revolution Slider please navigate to **Dashboard
 
 ![Home Page Slider](images/home-setup/slider-classic4.png)
 
-Once the slider is imported then set it in the **Homepage Settings → Slider Area → What to Display Below Header on Home Page ?** option as **Slider Based on Revolution Slider Plugin** and set **Revolution Slider Alias** as **realhomes**.
+Once the slider is imported then set it by navigating to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**.
+
+Scroll down to find the **Homepage Settings** section and click on  **Slider Area** tab and choose the option called **Slider Based on Revolution Slider Plugin** and set **Revolution Slider Alias** as **realhomes**.
 
 ![Home Page Slider](images/home-setup/slider-modern2.png)
 
@@ -88,13 +94,15 @@ To display slider based on slides custom post type, You need to add new slides a
 
 ![Home Page Slider](images/home-setup/slider-classic5.png)
 
-After adding slides go to **Homepage Settings → Slider Area** and choose **Slider Based on Slides Custom Post Type** as displayed in screenshot below.
+After adding slides, go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Slider Area** and choose **Slider Based on Slides Custom Post Type** as displayed in screenshot below.
 
 ![Home Page Slider](images/home-setup/slider-modern3.png)
 
 #### 7. **Display a Contact Form Over Slider**
 
-You can also have a Contact Form over the Slider. So, Go to **Homepage Settings → Slider Area** tab and choose **Contact Form Over Slider** option as displayed below.
+You can also have a Contact Form over the Slider on the home page.
+
+So, Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Slider Area** and choose **Contact Form Over Slider** option as displayed below.
 
 ![Home Page Slider](images/home-setup/homepage-contact-form-over-slider.png)
 
