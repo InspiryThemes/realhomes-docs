@@ -1,6 +1,7 @@
 /**
   * Custom Styles for the Documentation
   */
+
 .md-typeset h1 {
     font-weight: 700;
     letter-spacing: -.01em;
@@ -8,44 +9,60 @@
     padding: 0 0 1rem 0;
     border-bottom: 1px solid #eff0ef;
 }
+
 .md-typeset h1, .md-typeset h2 {
     font-weight: 700 !important;
     letter-spacing: -.01em;
 }
+
 body .md-header {
-	height: auto;
+    height: auto;
 }
 
-body .md-header-nav__button.md-logo img, 
-body .md-header-nav__button.md-logo svg {
-	width: 65px;
-	height: auto;
+body .md-header-nav__button.md-logo img, body .md-header-nav__button.md-logo svg {
+    width: 65px;
+    height: auto;
 }
 
 body .md-ellipsis {
-	margin-top: 4px;
+    margin-top: 4px;
 }
 
 body .md-search__inner {
-	margin-top: 5px;
+    margin-top: 5px;
 }
 
 .md-typeset h4 {
     font-size: 1rem;
 }
+
 .md-header-nav__button.md-logo * {
     display: block;
     width: 65px;
     height: auto;
 }
+
 .md-footer-copyright {
     color: hsl(0, 0%, 69%);
     /* display: none; */
 }
+
 .md-typeset iframe, .md-typeset img, .md-typeset svg {
     border: 5px solid #e7e7e7;
 }
 
 .md-footer-social svg {
-	border: none;
+    border: none;
+}
+
+.setup-btn {
+    background: #0f91f6;
+    color: #fff !important;
+    padding: 15px 20px;
+    text-decoration: none;
+}
+
+.setup-btn:hover {
+    background: #000;
+    color: #fff;
 }
