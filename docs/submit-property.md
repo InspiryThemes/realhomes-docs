@@ -54,7 +54,9 @@ You can change the status of the newly submitted property. You can either select
 
 ### **Auto-Generated Property ID**
 
-You can enable/disable **Auto-Generated Property ID** for your properties, if you will activate the **Auto-Generated Property ID** then you will not be able to edit the **Property ID** anymore. You can also provide a pattern of your choice for the **Property ID** field.
+You can enable/disable **Auto-Generated Property ID** for your properties, if you will activate the **Auto-Generated Property ID** then you will not be able to edit the **Property ID** anymore.
+
+You can also provide a pattern of your choice for the **Property ID** field.
 
 ![Submit Property](images/member-pages/property-id.png)
 
@@ -75,6 +77,12 @@ The message which is shown after successful submission of the property can also 
 The email address where you want to get the notification of new property listing submissions are also changed here.
 
 ![Submit Property](images/member-pages/submit-notice-email.png)
+
+### **Redirect Users After Successful Property Submission**
+
+We have also added an option that can help you setup a page for redirection after successful property submission.
+
+![Redirect Users After Successful Property Submission](images/member-pages/redirect-user-after-successful-submission.png)
 
 ### **Default Address & Map Location in Submit Form**
 

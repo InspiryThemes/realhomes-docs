@@ -12,7 +12,7 @@ It is highly recommended to use the child theme so that you can easily update pa
 
 ### **Basic Recommendations**
 
-* Use **PHP 7.3 or greater** as it is faster than previous versions of PHP and a [base requirement of WordPress](https://wordpress.org/about/requirements/) with **MySQL version 5.6** or greater. ( You can communicate with your hosting provider to get it updated. )
+* Use **PHP 7.4 or greater** as it is faster than previous versions of PHP and a [base requirement of WordPress](https://wordpress.org/about/requirements/) with **MySQL version 5.6** or greater. ( You can communicate with your hosting provider to get it updated. )
 * Nginx or Apache with mod_rewrite module.
 * Make sure your hosting is based on SSD drives.
 * It is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on.
