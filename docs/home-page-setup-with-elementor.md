@@ -30,6 +30,10 @@ The very first step is to set a full width container with no gaps. Please check 
 
 To add any Real Homes Widget simply drag the widget to the right as shown in the following videos (**double click** to **video** for **full screen** mode).
 
+### **Adding Advance Search**
+
+<iframe width="688" height="387" src="https://www.youtube.com/embed/Fp3L21C4uQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### **Adding Properties Grid**
 
 <iframe width="688" height="387" src="https://www.youtube.com/embed/kE66P-9dhTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
