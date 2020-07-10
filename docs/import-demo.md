@@ -16,7 +16,7 @@ Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **
 ### **Step 2**
 
 !!! warning "Important"
-    It is important to complete **Step 1** as import script is programmed to work with pretty permalinks. Otherwise you will have configuration issues after importing demo data contents.
+    It is important to complete **Step 1** as import script is programmed to work with pretty permalinks. Otherwise you will have configuration issues after importing demo data.
 
 Go to **Real Homes → Demo Import** to import demo data.
 
@@ -29,9 +29,12 @@ Click on blue **Import** button and you will see a popup so click on the blue **
 
 ![Screenshot](images/import-demo/one-click-demo-import.png)
 
+!!! warning "Important"
+    Sometimes, the import process takes longer than expected and doesn't complete in the first attempt. So, simply import again until the process is complete.
+
 ### **Step 3**
 
-Once the import process is complete, You will receive a notice like the one displayed in the screen shot below.
+Once the import process is complete, You will receive a notice as the one displayed in the screen shot below.
 
 ![Screenshot](images/import-demo/all-done.png)
 
@@ -57,7 +60,7 @@ Once installed, you can activate the plugin and run it by clicking on Run Import
 
 ### **Step 3**
 
-Look for Import XML folder in unzipped package downloaded from themeforest and use the XML file of the relevant variation (Classic or Modern) within it.
+Look for Import XML folder in unzipped package downloaded from themeforest which is called **rh-main-package.zip** and use the XML file of the variation of your choice i.e. Classic or Modern within it.
 
 ![Screenshot](images/import-demo/xml-file-selection.png)
 
@@ -105,6 +108,6 @@ After successful installation and activation navigate to **Dashboard → Tools �
 
 ![Screenshot](images/import-demo/import-widget-settings.png)
 
-Upon successful import the page will be reloaded and it will display the widgets which are imported.
+Upon successful demo import the page will reload and display the widgets which are imported.
 
 Visit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.
