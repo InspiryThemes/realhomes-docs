@@ -12,11 +12,17 @@ To reorder property detail page sections, go to **Dashboard → Real Homes → C
 
 **Classic**
 
-![Section Manager Classic](images/single-property-page/property-sections-manager.png)
+![Section Manager Classic](images/single-property-page/property-sections-manager-classic.png)
 
 **Modern**
 
-![Section Manager Modern](images/single-property-page/property-sections-manager-mod.png)
+![Section Manager Modern](images/single-property-page/property-sections-manager-modern.png)
+
+## Banner
+
+The banner title settings can be modified in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Banner**.
+
+![Banner Settings](images/single-property-page/banner-settings-property-details-page.png)
 
 ## Breadcrumbs
 
@@ -30,21 +36,69 @@ To reorder property detail page sections, go to **Dashboard → Real Homes → C
 
 ![Breadcrumbs on Property Detail Page](images/single-property-page/property-breadcrumbs.png) ![Breadcrumbs on Property Detail Page](images/single-property-page/breadcrumbs-on-property-details-page-modern.png)
 
+## Header Variation
+
+**Header Variation** option is available in **Modern** Variation only.
+
+![Basic Settings of Property Detail Page](images/single-property-page/banner-display.png)
+
 ## Basic
 
 There are multiple options for **Property Detail Page** in this section. To modify them go to **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
 
-![Basic Settings of Property Detail Page](images/single-property-page/banner-display.png)
+### **Page Template Override**
 
-**Header Variation** option is available in **Modern** Variation only.
+You can over the default property detail page in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
 
-![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics.png)
+![Basic Settings of Property Detail Page](images/single-property-page/property-page-template-override.png)
+
+### **Require Login to Display Property Detail Page**
+
+You can choose to display the content of property details page in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+
+![Basic Settings of Property Detail Page](images/single-property-page/require-login-to-display-property-content.png)
+
+### **Property Address**
+
+You can hide the property address in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+
+![Basic Settings of Property Detail Page](images/single-property-page/property-address.png)
+
+### **Section Labels**
+
+You can modify the labels of all the sections in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
 
 ![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics-2.png)
 
 ![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics-3.png)
 
-![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics-4.png)
+![Basic Settings of Property Detail Page](images/single-property-page/description-and-other-labels.png)
+
+![Basic Settings of Property Detail Page](images/single-property-page/child-properties-title.png)
+
+### **Property Share Icons**
+
+You can activate or deactivate the property share icons in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+
+![Basic Settings of Property Detail Page](images/single-property-page/property-share-icons.png)
+
+### **Open Graph Meta Tags**
+
+You can enable or disable the Open Graph Meta Tags in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**. These Open Graph Meta Tags will help you display the property information while sharing a property on social media websites like facebook, twitter, etc.
+
+![Basic Settings of Property Detail Page](images/single-property-page/open-graph-meta-tags.png)
+
+### **Next or Previous Property**
+
+You can enable or disable the next or previous property buttons in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+
+![Basic Settings of Property Detail Page](images/single-property-page/link-next-or-previous-property.png)
+
+### **Property Ratings**
+
+Property Ratings settings are available in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+
+![Basic Settings of Property Detail Page](images/single-property-page/property-ratings.png)
 
 ## Gallery
 
