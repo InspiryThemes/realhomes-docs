@@ -27,8 +27,8 @@ Please follow the steps below to configure the basic settings for WPML Plugin.
 10. Look for **Language URL Format** section and choose **Different languages in directories**.
 ![RealHomes Documentation](images/wpml/language-url-format.png)
 
-11. Look for **Language Switcher Options** section and then look for What to include in the language switcher option. Choose to display **Flag with in language switcher** and save the changes. Leave all other options as it is. 
-![RealHomes Documentation](images/wpml/language-switcher-options.png)
+step11. Now, search for **Make themes work multilingual** and disable this option.
+![RealHomes Documentation](images/wpml/adjust-ids.gif)
 
 12. Leave all other sections as it is.
 
@@ -45,6 +45,6 @@ Please follow the steps below to configure the basic settings for WPML Plugin.
 
 18. After that, navigate to **Dashboard → WPML → Settings** and scroll down until you find "**How to translate posts and pages**" and set it to **Use WPML's Classic Translation Editor** as shown below. ![RealHomes Documentation](images/wpml/wpml-classic-editor.png)
 
-19.  Basic settings are complete and you can translate any string that does not exist in the post, pages and taxonomies via **Dashboard → WPML → String Translation** section. For more information consult: https://wpml.org/documentation/getting-started-guide/string-translation/
+19. Basic settings are complete and you can translate any string that does not exist in the post, pages and taxonomies via **Dashboard → WPML → String Translation** section. For more information consult: https://wpml.org/documentation/getting-started-guide/string-translation/
 
 Once the basic setup is complete you can move on to setup the **[WPML Language Switcher](https://realhomes.io/documentation/wpml-language-switcher/)**.
