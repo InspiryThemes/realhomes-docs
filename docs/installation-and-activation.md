@@ -45,11 +45,11 @@ For more details please check [Design Selection](design-selection.md) page.
 - Once again select all the plugins and click on **Activate** and then click on **Apply** to activate all the plugins and you are done. 
 ![Screenshot](images/installation/activate-plugins.png)
 - After activation go to "**Real Homes → Customize Settings**" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer.
+![Screenshot](images/installation/customize.png)
 
 ### **Update Permalinks Settings**
 
-![Screenshot](images/installation/customize.png)
-- Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes, As displayed in screen shot below.
+Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes, As displayed in screen shot below.
 ![Screenshot](images/import-demo/perma-links.png)
 
 ### **Initial Elementor Settings**
