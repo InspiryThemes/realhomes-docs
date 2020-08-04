@@ -1,6 +1,6 @@
 !!! info "Important Information"
 
-    This documentation is last updated on **17th July 2020** and current RealHomes Theme version is {== **3.11.0** ==}
+    This documentation is last updated on **4th August 2020** and current RealHomes Theme version is {== **3.11.0** ==}
 
 Thanks for purchasing **RealHomes WordPress Real Estate Theme**. Any question that is beyond the scope of this documentation you should search in our [knowledge base](https://support.inspirythemes.com/) or ask it on our [support website](https://support.inspirythemes.com/login-register//). You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 

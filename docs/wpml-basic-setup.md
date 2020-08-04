@@ -27,7 +27,7 @@ Please follow the steps below to configure the basic settings for WPML Plugin.
 10. Look for **Language URL Format** section and choose **Different languages in directories**.
 ![RealHomes Documentation](images/wpml/language-url-format.png)
 
-step11. Now, search for **Make themes work multilingual** and disable this option.
+11.  Now, search for **Make themes work multilingual** and disable this option.
 ![RealHomes Documentation](images/wpml/adjust-ids.gif)
 
 12. Leave all other sections as it is.
