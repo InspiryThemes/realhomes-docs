@@ -247,11 +247,11 @@ Enable **Property Analytics** by navigating to **Easy Real Estate → Settings �
 
 ![RealHomes Documentation](images/ere-tabs/property-analytics.jpg)
 
-After that goto **Dashboard → Real Homes → Property Detail Page → Property Views**  where you can Show/Hide and change the Label of *Property Views* section.
+After that go to **Dashboard → Real Homes → Property Detail Page → Property Views**  where you can Show/Hide and change the Label of *Property Views* section.
 
 ![Property Views on Property Detail Page Settings](images/single-property-page/property-analytics.jpg)
 
-Once you enable **Property Views**, it will start gathering and displaying Property Views on properties detail pages.
+Once you enable **Property Views**, it will start gathering and displaying **Property Views** on **Properties Detail Pages**.
 
 **Classic**
 

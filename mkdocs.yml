@@ -15,7 +15,7 @@ theme:
     logo: 'images/base/realhomes-logo.svg'
     custom_dir: overrides
  
-site_dir: '/Users/inspirythemes/OneDrive/Desktop/Documentations/rh-live-doc'
+site_dir: '/Users/inspirythemes.com/Desktop/rh-live-doc'
 #site_dir: '/Users/fahidjaved/Sites/documentation/rh-live-doc/app/public'
 
 extra_css:
