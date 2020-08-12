@@ -23,6 +23,16 @@ You should see it on the property detail page according to your selected design 
 **Classic**
 ![RealHomes Documentation](images/widgets/mc-classic-frontend.png)
 
+The new **Mortgage Calculator module is also available as a Widget** and you can add it to any sidebar of your choice throughout the theme.
+
+**Modern**
+
+![RealHomes Documentation](images/widgets/mc-widget-modern.png)
+
+**Classic**
+
+![RealHomes Documentation](images/widgets/mc-widget-classic.png)
+
 ### **Labels & Other Settings**
 
 The Mortgage Calculator title, labels and other elements can be modified from the same Customizer settings (refer to the following screenshots).
