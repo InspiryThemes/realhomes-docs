@@ -1,7 +1,7 @@
 # Mortgage Calculator Setup
 
 !!! note
-    As per version 3.11.1, if you have Imported Demo Contents the Mortgage Calculator is already active and you do not need to follow this section.
+    If you have Imported Demo Contents the Mortgage Calculator is already active and you do not need to follow this section.
 
 From RealHomes v3.11.1, the **Mortgage Calculator is now a part of the theme** and you don't have to install it as a separate plugin.
 
@@ -9,7 +9,7 @@ The new **Mortgage Calculator section/widget will only display for the Propertie
 
 ![RealHomes Documentation](images/widgets/mc-rent-status-customizer.png)
 
-### Activate Mortgage Calculator
+### **Activate Mortgage Calculator**
 
 You can activate it from **Customizer** settings, navigate to **<code>Dashboard → RealHomes → Customize Settings → Property Detail Page → Mortgage Calculator</code>** section.
 
