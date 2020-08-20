@@ -36,15 +36,15 @@ For more details please check [Design Selection](design-selection.md) page.
 
 ### **Required Plugin Installation & Activation**
 
-- After **RealHomes Purchase Verification**, a notice will be displayed at the top asking you to install and activate the required plugins. So, go ahead and click on **Begin installing plugins**.
+- After **RealHomes Purchase Verification**, a notice will be displayed at the top asking you to install and activate the required plugins. So, go ahead and click on **Begin installing plugins**.<br>
 ![Screenshot](images/installation/begin-plugin-installation.png)
 - On next page you will see the list of plugins to install. Select all the plugins and click on **Install** and then click on **Apply** to install all of them at once (as shown in the screenshot below). </br>
 ![Screenshot](images/installation/install-plugins.png)
-- After all the plugins are installed click on **Return** to **Required Plugins Installer**. 
+- After all the plugins are installed click on **Return** to **Required Plugins Installer**. <br>
 ![Screenshot](images/installation/return-to-install.png)
-- Once again select all the plugins and click on **Activate** and then click on **Apply** to activate all the plugins and you are done. 
+- Once again select all the plugins and click on **Activate** and then click on **Apply** to activate all the plugins and you are done. <br>
 ![Screenshot](images/installation/activate-plugins.png)
-- After activation go to "**Real Homes → Customize Settings**" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer.
+- After activation go to "**Real Homes → Customize Settings**" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer.<br>
 ![Screenshot](images/installation/customize.png)
 
 ### **Update Permalinks Settings**
