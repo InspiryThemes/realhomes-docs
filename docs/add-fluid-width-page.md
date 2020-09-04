@@ -10,15 +10,17 @@ Go to **Dashboard → Pages → Add New**
 
 ![Fluid Width Template](images/create-pages/fluid-width-template.png)
 
-- Provide the page contents 
+- Provide the page contents.
 
-![Fluid Width Content](images/create-pages/full-width-content.png)
+You can add contents using the Gutenberg editor or you can use the Elementor (**recommended**) to add contents.For more details please check [Elementor Guide](intro-and-installation-elementor.md) page.
+
+![Fluid Width Content](images/create-pages/full-width-content.jpg)
 
 **Modern Banner and Spacing Settings**
-![Banner And Spacing](images/news-page/banner-spacing.png)
+![Banner And Spacing](images/news-page/banner-spacing.jpg)
 
 **Classic Banner and Spacing Settings**
-![Banner And Spacing](images/news-page/banner-spacing-classic.png)
+![Banner And Spacing](images/news-page/banner-spacing-classic.jpg)
 
 - Publish the page once it is ready.
 

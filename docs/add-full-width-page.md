@@ -13,15 +13,17 @@ Go to **Dashboard → Pages → Add New**
 
 ![Full Width Template](images/create-pages/full-width-template.png)
 
-- Provide the page contents 
+- Provide the page contents.
 
-![Full Width Content](images/create-pages/full-width-content.png)
+You can add contents using the Gutenberg editor or you can use the Elementor (**recommended**) to add contents.For more details please check [Elementor Guide](intro-and-installation-elementor.md) page.
+
+![Full Width Content](images/create-pages/full-width-content.jpg)
 
 **Modern Banner and Spacing Settings**
-![Banner And Spacing](images/news-page/banner-spacing.png)
+![Banner And Spacing](images/news-page/banner-spacing.jpg)
 
 **Classic Banner and Spacing Settings**
-![Banner And Spacing](images/news-page/banner-spacing-classic.png)
+![Banner And Spacing](images/news-page/banner-spacing-classic.jpg)
 
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
