@@ -15,7 +15,7 @@ Go to **Dashboard → Pages → Add New**
 
 **Classic Banner and Spacing Settings**
 
-![Banner And Spacing](images/news-page/banner-spacing-classic.png)
+![Banner And Spacing](images/news-page/banner-spacing-classic.jpg)
 
 **Modern Banner and Spacing Settings**
 

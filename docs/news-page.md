@@ -19,10 +19,10 @@ To configure reading settings you need to visit **Dashboard → Settings → Rea
 ## Banner and Spacing 
 
 ### Modern
-![Banner And Spacing](images/news-page/banner-spacing.png)
+![Banner And Spacing](images/news-page/banner-spacing.jpg)
 
 ### Classic
-![Banner And Spacing](images/news-page/banner-spacing-classic.png)
+![Banner And Spacing](images/news-page/banner-spacing-classic.jpg)
 
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**

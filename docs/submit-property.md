@@ -19,7 +19,7 @@ Select the **Submit Property** template from page attributes.
 
 **Classic**
 
-![Banner And Spacing](images/news-page/banner-spacing-classic.png)
+![Banner And Spacing](images/news-page/banner-spacing-classic.jpg)
 
 **Modern**
 

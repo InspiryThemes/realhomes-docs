@@ -12,7 +12,7 @@ Select the **Compare Properties** template from page attributes.
 
 **Classic Banner and Spacing Settings**
 
-![Banner And Spacing](images/news-page/banner-spacing-classic.png)
+![Banner And Spacing](images/news-page/banner-spacing-classic.jpg)
 
 **Modern Banner and Spacing Settings**
 
