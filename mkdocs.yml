@@ -132,9 +132,6 @@ nav:
     - URL Slug Settings: url-slugs-settings.md
     - Properties Shortcode: properties-shortcode.md
     - IDX Compatible Plugins:
-        - dsIDXpress IDX Plugin:
-            - Installation & Setup: dsidxpress-idx-plugin.md
-            - Content Setup: dsidxpress-idx-content-setup.md
         - Optima Express Plugin:
             - Installation & Setup: optima-express.md
             - Content Setup: optima-express-content-setup.md
