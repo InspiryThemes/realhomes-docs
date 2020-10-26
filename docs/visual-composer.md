@@ -1,37 +1,20 @@
 # Visual Composer
 
-### Installation
+### **Elementor Page Builder Support**
 
-Look for the folder name **Plugins → Visual Composer** in unzipped package downloaded from themeforest.net. This folder contains visual composer plugin zip named as **js_composer.zip**. You need to go to **Dashboard → Plugins → Add New** in your WordPress admin side and upload the **js_composer.zip** as displayed in the following screenshots.
+We have added several widgets of RealHomes theme in Elementor Page Builder, and there are several more in our pipeline, so we decided to remove the support of WP Bakery Visual Composer plugin entirely, and we don't intend to provide it further.
 
-![RealHomes Documentation](images/included-plugins/vc-1.png)
-![RealHomes Documentation](images/included-plugins/vc-2.png)
+### **Migrate to Elementor**
 
-Once installed, You need to activate the plugin as displayed in screen shot below.
+We highly suggest you to use Elementor Page Builder with RealHomes theme and if you are still using Visual Composer then you should start migrating your content from Visual Composer to Elementor Page Builder. Activating both page builders at once may cause issues.
 
-![RealHomes Documentation](images/included-plugins/vc-3.png)
+### **Helpful Information**
 
-After activation you can create a test page to try out visual composer.
+For more information about RealHomes' Elementor Widgets/Features, you can check out the following links.
 
-![RealHomes Documentation](images/included-plugins/vc-4.png)
+- **[Intro & Installation](/intro-and-installation-elementor/)**
+- **[Home Page with Elementor](/home-page-setup-with-elementor/)**
+- **[Elementor Pro](/elementor-pro/)**
 
-![RealHomes Documentation](images/included-plugins/vc-backend-editor.png)
-
-Click on "**Backend Editor**" Button in visual composer toolbar, and you will have the visual composer page builder layout ready for use as displayed in screen shot below.
-
-![RealHomes Documentation](images/included-plugins/vc-5.png)
-
-**Going Full Width**
-
-If you like, You can assign a full width template to the test page.
-
-![RealHomes Documentation](images/included-plugins/vc-6.png)
-
-**Disable Comments**
-
-If you want to disable comments for this page, Then expand the screen options in top right corner and select "**Discussion**" checkbox. It will display discussion meta box below page editor area.
-
-![RealHomes Documentation](images/included-plugins/vc-7.png)
-Un-check the both checkboxes in Discussion meta box and publish/update the page.
-
-![RealHomes Documentation](images/included-plugins/vc-8.png)
+!!!note
+	In case of any further help, you can signup/login to our [support website](https://support.inspirythemes.com/login-register/) and [ask your question](https://support.inspirythemes.com/ask-question/).
