@@ -1,6 +1,6 @@
 !!! info "Important Information"
 
-    This documentation is last updated on **30th October 2020** and current RealHomes Theme version is {== **3.11.1** ==}
+    This documentation is last updated on **6th November 2020** and current RealHomes Theme version is {== **3.11.1** ==}
 
 Thanks for purchasing **RealHomes WordPress Real Estate Theme**. Any question that is beyond the scope of this documentation you should search in our [knowledge base](https://support.inspirythemes.com/) or ask it on our [support website](https://support.inspirythemes.com/login-register//). You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
@@ -26,7 +26,7 @@ It is highly recommended to use the child theme so that you can easily update pa
 * RealHomes uses following cookies (if related settings are enabled). So, You can configure your cache plugin to not cache pages that uses these cookies OR you can request the same from your host if your host is like WPEngine ( who do not allow cache plugin and handles the cache on server level ).
     - inspiry_compare
     - inspiry_favorites
-    - current_currency
+    - realhomes_current_currency
 
 ## How to Update Theme
 
