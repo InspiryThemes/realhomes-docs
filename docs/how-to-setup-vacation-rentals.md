@@ -23,3 +23,9 @@ You can configure the following settings on this page.
 - *Property Sections Labels* - There are different property detail page sections related to the vacation rentals. Those sections labels can be set on this settings page.
 
 ![Vacation Rentals Plugin](images/vacation-rentals/settings.jpg)
+
+Once you activate the vacation rentals, you will have following rentals features.
+### **Vacation Rentals information of Property**
+You can see a new **Vacation Rentals** section on the property add/edit page where all rental information can be added for a property.
+
+![Vacation Rentals Plugin](images/vacation-rentals/property-meta-box.jpg)
