@@ -10,3 +10,16 @@ You would need to install **RealHomes Vacation Rentals** plugin. Go to the **Das
 ![Vacation Rentals Plugin](images/vacation-rentals/installation.jpg)
 
 After plugin installation click on the *Activate* button.
+
+### **Settings**
+To configure Vacation Rentals settings go to **Dashbaord > Vacation Rentals > Settings** page.
+
+You can configure the following settings on this page.
+
+- *Enable/Disable Vacation Rentals* - You can `Enable/Disable` the whole vacation rentals functionality.
+- *Contact Information* - Set the booking `Phone Number*`, `Contact Page` for additional queries and `Booking Email*`.
+- *Booking Notification for Owner* - By default booking notification emails go to the given booking email only. You can also enable the `Booking Notifications for the Property Owner`.
+- *Terms and Conditions* - You can show/hide the `Terms & Conditions Option` and also set this option `Description`.
+- *Property Sections Labels* - There are different property detail page sections related to the vacation rentals. Those sections labels can be set on this settings page.
+
+![Vacation Rentals Plugin](images/vacation-rentals/settings.jpg)
