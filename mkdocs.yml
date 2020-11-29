@@ -15,8 +15,8 @@ theme:
     logo: 'images/base/realhomes-logo.svg'
     custom_dir: overrides
  
-site_dir: '/Users/inspirythemes.com/Desktop/rh-live-doc'
-#site_dir: '/Users/fahidjaved/Sites/documentation/rh-live-doc/app/public'
+# site_dir: '/Users/inspirythemes/OneDrive/Desktop/Documentations/rh-live-doc'
+site_dir: '/Users/fahidjaved/Sites/documentation/rh-live-doc/app/public'
 
 extra_css:
     - css/layout.css
@@ -100,6 +100,7 @@ nav:
         - Users Page: add-users-page.md
         - Fluid Width Page: add-fluid-width-page.md
         - Full Width Page: add-full-width-page.md
+    - Vacation Rentals: vacation-rentals.md
     - FAQs: faqs-setup.md
     - Membships Setup: realhomes-memberships-setup.md
     - Individual Property Payments:
