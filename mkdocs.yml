@@ -85,6 +85,7 @@ nav:
     - Compare Properties: 
         - Setup Page: compare-properties.md
         - Configure Settings: compare-properties-settings.md
+    - Dashboard: dashboard.md
     - Members:
         - Setup Login: setup-login.md
         - Setup Registration: setup-registration.md
