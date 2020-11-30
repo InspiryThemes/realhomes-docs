@@ -13,10 +13,12 @@ Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **
 
 ![Screenshot](images/import-demo/perma-links.png)
 
-### **Step 2**
-
 !!! warning "Important"
     It is important to complete **Step 1** as import script is programmed to work with pretty permalinks. Otherwise you will have configuration issues after importing demo data.
+
+!!! info "Important Information"
+    If you want to build a ==Vacation Rentals== websit then you can skip to the [How to Setup Vacation Rentals](how-to-setup-vacation-rentals.md) guide from here.
+### **Step 2**
 
 Go to **Real Homes → Demo Import** to import demo data.
 
