@@ -19,12 +19,12 @@ Before you begin, make sure all the required plugins are installed and activated
 
 Click on blue **Import** button and you will see a popup so click on the blue **Yes, import!** button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.
 
-![Screenshot](images/import-demo/one-click-demo-import.png)
+![Screenshot](images/vacation-rentals/demo-import.jpg)
 
 !!! warning "Important"
     Sometimes, the import process takes longer than expected and doesn't complete in the first attempt. So, simply import again until the process is complete.
 
-### **Step 3**
+### **After Import is Done**
 
 Once the import process is complete, You will receive a notice as the one displayed in the screen shot below.
 
