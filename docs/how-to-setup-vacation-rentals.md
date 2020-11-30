@@ -11,6 +11,27 @@ You would need to install **RealHomes Vacation Rentals** plugin. Go to the **Das
 
 After plugin installation click on the *Activate* button.
 
+Once you activate the above plugin you are able to import the **Vacation Rentals Demo Contents** now. Go to **Real Homes → Demo Import** to import demo data.
+
+![Screenshot](images/import-demo/import-demo-data.png)
+
+Before you begin, make sure all the required plugins are installed and activated.
+
+Click on blue **Import** button and you will see a popup so click on the blue **Yes, import!** button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.
+
+![Screenshot](images/import-demo/one-click-demo-import.png)
+
+!!! warning "Important"
+    Sometimes, the import process takes longer than expected and doesn't complete in the first attempt. So, simply import again until the process is complete.
+
+### **Step 3**
+
+Once the import process is complete, You will receive a notice as the one displayed in the screen shot below.
+
+![Screenshot](images/import-demo/all-done.png)
+
+Visit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.
+
 ### **Settings**
 To configure Vacation Rentals settings go to **Dashbaord > Vacation Rentals > Settings** page.
 
