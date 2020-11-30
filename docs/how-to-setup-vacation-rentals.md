@@ -2,7 +2,7 @@ RealHomes Vacation Rentals booking system provides a complete rental solution fr
 
 !!! info "Important Information"
 
-    Vacation Rentals booking system is introduced in RealHomes version {== **3.12.0** ==}. Before you start setting it up, ensure RealHomes theme `version 3.12.0` and all latest required plugins are installed and activated. To set it up please follow the guide given below.
+    Vacation Rentals booking system is introduced in RealHomes version {== **3.12.0** ==}. Before you start setting it up, ensure you have followed the [Installation](installation-and-activation.md) guide with the latest theme package files.
 
 ### **Installation**
 You would need to install **RealHomes Vacation Rentals** plugin. Go to the **Dashboard > RealHomes > Plugins** and click on the *Install Now* button of the *RealHomes Vacation Rentals* plugin card.
@@ -15,9 +15,7 @@ Once you activate the above plugin you are able to import the **Vacation Rentals
 
 ![Screenshot](images/import-demo/import-demo-data.png)
 
-Before you begin, make sure all the required plugins are installed and activated.
-
-Click on blue **Import** button and you will see a popup so click on the blue **Yes, import!** button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.
+Click on blue **Import** button of **Vacation Rentals - Elementor** and you will see a popup so click on the blue **Yes, import!** button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.
 
 ![Screenshot](images/vacation-rentals/demo-import.jpg)
 
