@@ -33,6 +33,7 @@ nav:
     - Installation & Demo Import:
         - Installation: installation-and-activation.md
         - Demo Import: import-demo.md
+        - How to setup Vacation Rentals: how-to-setup-vacation-rentals.md
         - Design Selection: design-selection.md
         - Plugins: plugins.md
         - Feedback: feedback.md
@@ -100,7 +101,6 @@ nav:
         - Users Page: add-users-page.md
         - Fluid Width Page: add-fluid-width-page.md
         - Full Width Page: add-full-width-page.md
-    - Vacation Rentals: vacation-rentals.md
     - FAQs: faqs-setup.md
     - Membships Setup: realhomes-memberships-setup.md
     - Individual Property Payments:
