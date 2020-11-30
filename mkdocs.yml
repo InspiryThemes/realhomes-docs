@@ -85,17 +85,19 @@ nav:
     - Compare Properties: 
         - Setup Page: compare-properties.md
         - Configure Settings: compare-properties-settings.md
-    - Dashboard: dashboard.md
+    - Dashboard:
+        - Setup Dashboard: dashboard.md
+        - Submit Property Module: submit-property.md
+        - Guest Property Submission: guest-property-submission.md
+        - My Properties Module: my-properties.md
+        - My Profile Module: edit-profile.md
+        - My Favorites Module: favorites-page.md
+        - User and Agent/Agency Synchronization: user-agent-agency-synchronization.md
+        - Styles: dashboard-styles.md
     - Members:
         - Setup Login: setup-login.md
         - Setup Registration: setup-registration.md
-        - User and Agent/Agency Synchronization: user-agent-agency-synchronization.md
         - Setup Social Login: setup-social-login.md
-        - Guest Property Submission: guest-property-submission.md
-        - Submit Property Page: submit-property.md
-        - My Properties Page: my-properties.md
-        - Edit Profile Page: edit-profile.md
-        - Favorites Page: favorites-page.md
     - Other Pages:
         - Gallery Page: add-gallery-page.md
         - Users Page: add-users-page.md
@@ -161,6 +163,8 @@ nav:
         - Customize Styles: customize-styles.md
         - Custom Meta Fields for Property: custom-meta-field-for-property.md
         - Hire Customization Services: hire-customization-services.md
+    - Deprecated:
+        - Customizer Settings: deprecated.md
 
 # Change it to true before building (mkdocs build) for putting online.
 # It should be false for themeforest package.
