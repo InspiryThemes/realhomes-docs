@@ -1,23 +1,15 @@
 # My Profile Module
 
-## Configure Edit Profile Settings
+Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → My Profile** to enable/disable the module. 
 
-Now you need to navigate to **Dashboard → Real Homes → Customize Settings** and look for **Members** panel. 
+![RealHomes Documentation](images/member-pages/edit-profile-section.png)
 
-![RealHomes Documentation](images/member-pages/members-customizer.png)
- 
-This panel contains **Edit Profile** section where you can configure related settings.
+**Modern**
 
-![RealHomes Documentation](images/member-pages/edit-profile-panel.png)
-
-![RealHomes Documentation](images/member-pages/edit-profile-customizer-settings.png)
-
-Save the changes and your **Edit Profile** page is ready to use.
+![RealHomes Documentation](images/member-pages/edit-profile-front-end-mod.png)
 
 **Classic**
 
 ![RealHomes Documentation](images/member-pages/edit-profile-front-end.png)
 
-**Modern**
-
-![RealHomes Documentation](images/member-pages/edit-profile-front-end-mod.png)
+![RealHomes Documentation](images/dashboard/my-profile.png)

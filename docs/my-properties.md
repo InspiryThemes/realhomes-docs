@@ -1,18 +1,15 @@
 # My Properties Module
 
+Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → My Properties** to enable/disable the module. 
 
-## Configure My Properties Settings
+![RealHomes Documentation](images/member-pages/my-properties-section.png)
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Users & Members** and look for **My Properties** panel where you can configure related settings. **Select My Properties Page** from dropdown. You can also Show/Hide **My Properties Search Form** as displayed in screenshot below. 
+**Modern**
 
-![RealHomes Documentation](images/member-pages/my-properties-panel.png)
-
-Save the changes and your **My Properties** page is ready to use.
+![RealHomes Documentation](images/member-pages/my-properties-front-end-mod.png)
 
 **Classic**
 
 ![RealHomes Documentation](images/member-pages/my-properties-front-end.png)
 
-**Modern**
-
-![RealHomes Documentation](images/member-pages/my-properties-front-end-mod.png)
+![RealHomes Documentation](images/dashboard/my-properties.png)

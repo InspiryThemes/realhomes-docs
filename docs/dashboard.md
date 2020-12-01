@@ -31,3 +31,6 @@ Publish the page once it is ready.
 Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → Basic** section and select the recently created page for dashboard.
 
 ![Dashboard Page Selection](images/dashboard/dashboard-page-selection.png)
+
+
+Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard** and look for **My Properties** section where you can configure related settings. You can also Show/Hide **My Properties Search Form** as displayed in screenshot below. 
