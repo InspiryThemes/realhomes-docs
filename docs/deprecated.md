@@ -1,7 +1,7 @@
 # Deprecated Customizer Settings
 
 !!! note
-        All deprecated customizer settings related to theme can be found in **Deprecated Customizer Panel** that we don’t recommend to use.
+        All deprecated customizer settings related to theme can be found in **Deprecated Customizer Panel**. We don’t recommend to use these settings.
         
 ![Deprecated Customizer Settings](images/deprecated/deprecated-customizer-settings-panel.png)
         

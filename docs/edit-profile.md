@@ -1,6 +1,6 @@
 # My Profile Module
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → My Profile** to enable/disable the module. 
+Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → My Profile** section to enable/disable the module. 
 
 ![RealHomes Documentation](images/member-pages/edit-profile-section.png)
 

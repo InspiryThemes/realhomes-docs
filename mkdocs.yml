@@ -90,8 +90,8 @@ nav:
         - Submit Property Module: submit-property.md
         - Guest Property Submission: guest-property-submission.md
         - My Properties Module: my-properties.md
-        - My Profile Module: edit-profile.md
         - My Favorites Module: favorites-page.md
+        - My Profile Module: edit-profile.md
         - User and Agent/Agency Synchronization: user-agent-agency-synchronization.md
         - Styles: dashboard-styles.md
     - Members:

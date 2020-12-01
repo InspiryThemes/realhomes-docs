@@ -1,6 +1,6 @@
 # My Properties Module
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → My Properties** to enable/disable the module. 
+Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → My Properties** section to enable/disable the module. 
 
 ![RealHomes Documentation](images/member-pages/my-properties-section.png)
 

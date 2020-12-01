@@ -32,5 +32,34 @@ Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → B
 
 ![Dashboard Page Selection](images/dashboard/dashboard-page-selection.png)
 
+## Greeting Text for Logged-in User
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard** and look for **My Properties** section where you can configure related settings. You can also Show/Hide **My Properties Search Form** as displayed in screenshot below. 
+Customize **Greeting Text for Logged-in User** using this setting. 
+
+![Dashboard Page Greeting Text for Logged-in User](images/dashboard/dashboard-greeting-text.png)
+
+![Dashboard Page Greeting Text for Logged-in User](images/dashboard/dashboard-greeting-text-frontend.png)
+
+## Summarised Info Module
+
+You can enable/disable **Summarised Info on Dashboard** module using following setting. 
+
+![Dashboard Summarised Info Module](images/dashboard/dashboard-page-summarised-info.png)
+
+![Dashboard Summarised Info Module](images/dashboard/dashboard-page-summarised-info-frontend.png)
+
+## Properties Search Field
+
+Show/Hide **Properties Search Field** using this setting. 
+
+![Dashboard Properties Search Field](images/dashboard/dashboard-properties-search-field.png)
+
+![Dashboard Properties Search Field](images/dashboard/dashboard-properties-search-field-frontend.png)
+
+## Posts Per Page
+
+Set the default number of posts value for dashboard posts list pages using this setting. 
+
+![Dashboard Posts Per Page](images/dashboard/dashboard-posts-per-page.png)
+
+![Dashboard Posts Per Page](images/dashboard/dashboard-posts-per-page-frontend.png)

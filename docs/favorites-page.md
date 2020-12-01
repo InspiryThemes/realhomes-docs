@@ -1,24 +1,18 @@
-# Setup Favorites Page
+# My Favorites Module
 
-## Configure Favorites Settings
+Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → My Favorites** section to enable/disable the module. 
 
-Now you need to navigate to **Dashboard → Real Homes → Customize Settings** and look for **Favorites** panel.
+![RealHomes Documentation](images/member-pages/favorites-main-section.png)
 
-![RealHomes Documentation](images/member-pages/favorites-main-panel.png)
-
-Select **Favorites** page from the drop-down list as shown in screenshot given below. You can Show/Hide favorite button on property detail page and also **Require Login** for adding to favorite.
-
-![RealHomes Documentation](images/member-pages/favorites-customizer-settings.png)
-
-Save the changes and your **Favorites** page is ready to use.
-
-**Classic**
-
-![RealHomes Documentation](images/member-pages/favorites-front-end.png)
+You can Show/Hide favorite button on property detail page and also **Require Login** for adding to favorite.
 
 **Modern**
 
 ![RealHomes Documentation](images/member-pages/favorites-front-end-mod.png)
+
+**Classic**
+
+![RealHomes Documentation](images/member-pages/favorites-front-end.png)
 
 ## How Favorite Properties Feature Works!
 
