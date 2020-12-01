@@ -50,7 +50,7 @@ For more details please check [Design Selection](design-selection.md) page.
 ### **Update Permalinks Settings**
 
 Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes, As displayed in screen shot below.
-![Screenshot](images/import-demo/perma-links.png)
+![Screenshot](images/import-demo/permalinks.jpg)
 
 ### **Initial Elementor Settings**
 

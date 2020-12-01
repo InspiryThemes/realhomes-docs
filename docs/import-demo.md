@@ -14,7 +14,7 @@ You can follow one of these approaches.
 
 Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes, As displayed in screen shot below.
 
-![Screenshot](images/import-demo/perma-links.png)
+![Screenshot](images/import-demo/permalinks.jpg)
 
 !!! warning "Important"
     It is important to complete **Step 1** as import script is programmed to work with pretty permalinks. Otherwise you will have configuration issues after importing demo data.
@@ -48,7 +48,7 @@ Visit your site and you will find your site working like the theme demo. In case
 
 Go to **Dashboard → Settings → Permalinks** and choose Post name from Common Settings and save the changes, As displayed in screen shot below.
 
-![Screenshot](images/import-demo/perma-links.png)
+![Screenshot](images/import-demo/permalinks.jpg)
 
 ### **Step 2**
 

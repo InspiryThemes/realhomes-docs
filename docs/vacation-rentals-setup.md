@@ -33,7 +33,7 @@ To change **URL Slugs** for property and various taxonomies please navigate to *
 
 Go to **Dashboard → Settings → Permalinks** and choose *Post name* from Common Settings and save the changes, As displayed in the following screenshot.
 
-![Screenshot](images/import-demo/perma-links.png)
+![Screenshot](images/import-demo/permalinks.jpg)
 
 ### **Import Vacation Rentals Demo Data**
 
