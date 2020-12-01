@@ -86,6 +86,10 @@ nav:
     - Compare Properties: 
         - Setup Page: compare-properties.md
         - Configure Settings: compare-properties-settings.md
+    - Members:
+        - Setup Login: setup-login.md
+        - Setup Registration: setup-registration.md
+        - Setup Social Login: setup-social-login.md
     - Dashboard:
         - Setup Dashboard: dashboard.md
         - Submit Property Module: submit-property.md
@@ -95,10 +99,6 @@ nav:
         - My Profile Module: edit-profile.md
         - User and Agent/Agency Synchronization: user-agent-agency-synchronization.md
         - Styles: dashboard-styles.md
-    - Members:
-        - Setup Login: setup-login.md
-        - Setup Registration: setup-registration.md
-        - Setup Social Login: setup-social-login.md
     - Other Pages:
         - Gallery Page: add-gallery-page.md
         - Users Page: add-users-page.md
