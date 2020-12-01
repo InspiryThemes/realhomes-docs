@@ -1,21 +1,4 @@
-# Setup Edit Profile Page
-
-## Create Edit Profile Page
-
-!!! note
-    If you have imported demo contents then Edit Profile page is already created. But you still need to configure related settings as guided near the end of this section.
-
-To add Edit Profile page, Go to **Dashboard → Pages → Add New**
-
-Provide the page title 
-
-![RealHomes Documentation](images/member-pages/edit-profile-title-gutenberg.png)
-
-Select the **Edit Profile** template from page attributes.
-
-![RealHomes Documentation](images/member-pages/edit-profile-template.png)
-
-Publish the page once it is ready.
+# My Profile Module
 
 ## Configure Edit Profile Settings
 
