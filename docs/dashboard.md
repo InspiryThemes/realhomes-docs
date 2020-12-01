@@ -16,17 +16,23 @@ There are only two steps required to setup dashboard page.
 
 Go to **WordPress Dashboard → Pages → Add New**
 
+#### 1.1 - Page Title 
+
 Provide the page title 
 
 ![Add Dashboard Page](images/dashboard/add-dashboard-page.png)
+
+#### 1.2 - Template Selection
 
 Select the **Dashboard** template from page attributes.
 
 ![Dashboard Page Template](images/dashboard/dashboard-page-template.png)
 
+#### 1.3 - Publish Page
+
 Publish the page once it is ready.
 
-### 2 - Select Dashboard Page 
+### 2 - Configure Dashboard Settings 
 
 Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → Basic** section and select the recently created page for dashboard.
 
