@@ -1,48 +1,34 @@
-# Setup Submit Property Page
+# Submit Property
 
-## Create Submit Property Page
-
-!!! note
-    If you have imported demo contents then **Submit Property** page is already created. But you still need to configure related settings as guided below.
-
-To add **Submit Property** page, Go to **Dashboard → Pages → Add New**
-
-Provide the page title 
-
-![RealHomes Documentation](images/member-pages/submit-property-title-gutenberg.png)
-
-Select the **Submit Property** template from page attributes.
-
-![RealHomes Documentation](images/member-pages/submit-property-template.png)
-
-### **Banner And Spacing Settings**
-
-**Classic**
-
-![Banner And Spacing](images/news-page/banner-spacing-classic.jpg)
-
-**Modern**
-
-![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
-
-!!!info "More information about **Banner Settings** can be found here: "
-    **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
-
-Publish the page once it is ready. 
-
-Now you need to navigate to **Dashboard → Real Homes → Customize Settings → Users & Members** and look for **Submit Property** section where you can configure related settings.
-
-![RealHomes Documentation](images/member-pages/members-customizer.png) ![RealHomes Documentation](images/member-pages/submit-property-panel.png)
-
-## **Submit Property Settings**
-
-In order to change the settings for new properties submitted by the user you can navigate to **Dashboard → Real Homes → Customize Settings → Users & Members → Submit Property** where you can change the settings accordingly.
+### Submit Property Module
+ 
+You can Enable/Disable **Submit Property** module on dashboard by navigating to **Dashboard → RealHomes → Customize Settings → Dashboard → Submit Property** section.
 
 ![Submit Property Settings](images/member-pages/submit-property-customizer-settings.png)
 
+**Modern**
+
+![Submit Property](images/member-pages/submit-property-front-end-mod.png)
+
+**Classic**
+
+![Submit Property](images/member-pages/submit-property-front-end.png)
+
+Frontend view of submit/add property module.
+
+![Submit Property Settings](images/dashboard/frontend-submit-property.png)
+
+### Submit Property Form Layout
+
+![Submit Property Form](images/dashboard/submit-property-form-layout.png)
+
+### Submit Property Form Fields
+
+![Submit Property Form](images/dashboard/submit-property-form-fields.png)
+
 ### **Terms & Conditions**
 
-You can add **Terms & Conditions** field to submit property page. You can also select a page for *Terms & Conditions*.
+You can add **Terms & Conditions** field to submit property module. You can also select a page for *Terms & Conditions*.
 
 ![Submit Property](images/member-pages/terms-and-conditions.png)
 
@@ -51,6 +37,12 @@ You can add **Terms & Conditions** field to submit property page. You can also s
 You can change the status of the newly submitted property. You can either select **Pending** or **Publish**. If you will select Pending the property will not directly available for public view but if you select Publish then it will be published for everyone to see.
 
 ![Submit Property](images/member-pages/submitted-property-status.png)
+
+### **Choose Updated Property Status (Pending or Publish)**
+
+You can change the default status of updated property using this setting.
+
+![Submit Property](images/dashboard/updated-property-status.png)
 
 ### **Auto-Generated Property ID**
 
@@ -86,21 +78,11 @@ We have also added an option that can help you setup a page for redirection afte
 
 ### **Default Address & Map Location in Submit Form**
 
-You can change the **Default Address** which is shown in **Submit Property** page from **Maps** Settings (**Easy Real Estate → Settings → Maps**). 
+You can change the **Default Address** which is shown in **Submit Property** module from **Maps** Settings (**Easy Real Estate → Settings → Maps**). 
 
-You can also modify the longitude and latitude of the default map location. Please make sure that you add the coordinates properly, adding bad coordinates will result in the issues accessing the Submit Property or Add New Property page.
+You can also modify the longitude and latitude of the default map location. Please make sure that you add the coordinates properly, adding bad coordinates will result in the issues accessing the Submit Property or Add New Property module.
 
 ![RealHomes Documentation](images/ere-tabs/maps.png)
-
-Save the changes and your **Submit Property** page is ready for use. 
-
-**Classic**
-
-![Submit Property](images/member-pages/submit-property-front-end.png)
-
-**Modern**
-
-![Submit Property](images/member-pages/submit-property-front-end-mod.png)
 
 ### **Individual Property Payments Settings**
 
