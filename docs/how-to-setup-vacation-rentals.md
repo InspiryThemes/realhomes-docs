@@ -4,14 +4,22 @@ RealHomes Vacation Rentals booking system provides a complete rental solution fr
 
     Vacation Rentals booking system is introduced in RealHomes version {== **3.12.0** ==}. Before you start setting it up, ensure you have followed the [Installation](installation-and-activation.md) guide with the latest theme package files.
 
-### **Installation**
+### **Vaction Rentals Plugin Installation**
 You would need to install **RealHomes Vacation Rentals** plugin. Go to the **Dashboard > RealHomes > Plugins** and click on the *Install Now* button of the *RealHomes Vacation Rentals* plugin card.
 
 ![Vacation Rentals Plugin](images/vacation-rentals/installation.jpg)
 
 After plugin installation click on the *Activate* button.
 
-Once you activate the above plugin you are able to import the **Vacation Rentals Demo Contents** now. Go to **Real Homes → Demo Import** to import demo data.
+### **Save Permalinks Settings**
+
+Go to **Dashboard → Settings → Permalinks** and choose Post name from Common Settings and save the changes, As displayed in screen shot below.
+
+![Screenshot](images/import-demo/perma-links.png)
+
+### **Import Vacation Rentals Demo Data**
+
+Now you can import the **Vacation Rentals Demo Contents**. Go to **Real Homes → Demo Import** to import demo data.
 
 ![Screenshot](images/import-demo/import-demo-data.png)
 
@@ -30,7 +38,7 @@ Once the import process is complete, You will receive a notice as the one displa
 
 Visit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.
 
-### **Settings**
+### **Vacation Rentals Settings**
 To configure Vacation Rentals settings go to **Dashbaord > Vacation Rentals > Settings** page.
 
 You can configure the following settings on this page.
