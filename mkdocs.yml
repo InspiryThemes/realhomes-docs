@@ -16,7 +16,7 @@ theme:
     custom_dir: overrides
  
 # site_dir: '/Users/inspirythemes/OneDrive/Desktop/Documentations/rh-live-doc'
-site_dir: '/Users/fahidjaved/Sites/documentation/rh-live-doc/app/public'
+site_dir: 'app/public'
 
 extra_css:
     - css/layout.css
