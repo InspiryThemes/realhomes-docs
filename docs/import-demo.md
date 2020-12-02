@@ -1,7 +1,7 @@
 # Import Demo Contents
 
 !!! info "Important Information"
-    If you want to build a ==Vacation Rentals== websit then you can skip to the [How to Setup Vacation Rentals](how-to-setup-vacation-rentals.md) guide from here.
+    If you want to build a ==Vacation Rentals== websit then you can skip to the [How to Setup Vacation Rentals](vacation-rentals-setup.md) guide from here.
 
 You can follow one of these approaches.
 
@@ -112,4 +112,6 @@ After successful installation and activation navigate to **Dashboard â†’ Tools â
 
 Upon successful demo import the page will reload and display the widgets which are imported.
 
-Visit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.
+Visit your site and you will find your site working like the theme demo.
+
+For any assistance, Kindly register/login at our [support website](https://support.inspirythemes.com/login-register/) and [ask your question](https://support.inspirythemes.com/ask-question/) over there. So that our support team can assist you properly.

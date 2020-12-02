@@ -1,18 +1,18 @@
-RealHomes Vacation Rentals booking system provides a complete rental solution from booking to reserved dates calendar and dedicated rental specific advance search with many more features.
 
-!!! info "Important Information"
 
-    Vacation Rentals booking system is introduced in RealHomes version {== **3.12.0** ==}. Before you start setting it up, ensure you have followed the [Installation](installation-and-activation.md) guide with the latest theme package files.
+!!! info "About Vacation Rentals"
 
-### **Vaction Rentals Plugin Installation & Activation**
-You would need to install **RealHomes Vacation Rentals** plugin. Go to the **Dashboard > RealHomes > Plugins** and click on the *Install Now* button of the *RealHomes Vacation Rentals* plugin card.
+    Vacation Rentals functionality is introduced in RealHomes version {== **3.12.0** ==}. Make sure you have followed the [Installation](installation-and-activation.md) guide before following the steps given below .
+
+### **Step 1. Install and Activate Vacation Rentals Plugin**
+First you need to install **RealHomes Vacation Rentals** plugin. Navigate to the **Dashboard > RealHomes > Plugins** and Look for **RealHomes Vacation Rentals** plugin and click on *Install Now* button. After plugin installation click on the **Activate** button.
 
 ![Vacation Rentals Plugin](images/vacation-rentals/installation.jpg)
 
-After plugin installation click on the **Activate** button.
-
-### **Vacation Rentals Settings**
+### **Step 2. Configure Vacation Rentals Plugin Settings**
 To configure Vacation Rentals settings go to **Dashbaord > Vacation Rentals > Settings** page.
+
+![Vacation Rentals Plugin](images/vacation-rentals/settings.jpg)
 
 You can configure the following settings on this page.
 
@@ -22,20 +22,19 @@ You can configure the following settings on this page.
 - *Terms and Conditions* - You can show/hide the `Terms & Conditions Option` and also set this option `Description`.
 - *Property Sections Labels* - There are different property detail page sections related to the vacation rentals. Those sections labels can be set on this settings page.
 
-![Vacation Rentals Plugin](images/vacation-rentals/settings.jpg)
 
-### **URL Slugs Settings**
-To change **URL Slugs** for property and various taxonomies please navigate to **Easy Real Estate → Settings → URL Slugs** for related settings. As demonstrated in the screenshot below.
+### **Step 3. Configure URL Slugs in Easy Real Estate Settings**
+To change **URL Slugs** for rentals and various taxonomies please navigate to **Easy Real Estate → Settings → URL Slugs** for related settings. As demonstrated in the screenshot below.
 
 ![RealHomes Documentation](images/vacation-rentals/url-slugs-settings.jpg)
 
-### **Save Permalinks Settings**
+### **Step 4. Save Permalinks Settings**
 
-Go to **Dashboard → Settings → Permalinks** and choose *Post name* from Common Settings and save the changes, As displayed in the following screenshot.
+Go to **Dashboard → Settings → Permalinks** and choose *Post name* from Common Settings and save the changes, As displayed in the following screenshot. It is important to save these settings to avoid 404 Errors after URL slug changes.
 
 ![Screenshot](images/import-demo/permalinks.jpg)
 
-### **Import Vacation Rentals Demo Data**
+### **Step 5. Import Vacation Rentals Demo Data**
 
 Now you can import the **Vacation Rentals Demo Contents**. Go to **Real Homes → Demo Import** to import demo data.
 
@@ -48,10 +47,10 @@ Click on blue **Import** button of **Vacation Rentals - Elementor** and you will
 !!! warning "Important"
     Sometimes, the import process takes longer than expected and doesn't complete in the first attempt. So, simply import again until the process is complete.
 
-### **After Import is Done**
-
-Once the import process is complete, You will receive a notice as the one displayed in the screen shot below.
+**Once the import process is complete**, You will receive a notice as the one displayed in the screen shot below.
 
 ![Screenshot](images/import-demo/all-done.png)
 
-Visit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.
+Visit your site and you will find your site working like the theme demo.
+
+For any assistance, Kindly register/login at our [support website](https://support.inspirythemes.com/login-register/) and [ask your question](https://support.inspirythemes.com/ask-question/) over there. So that our support team can assist you properly.
