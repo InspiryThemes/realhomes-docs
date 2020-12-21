@@ -1,6 +1,8 @@
+Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → Basic** section to configure the following settings.
+
 ## Summarised Info Module
 
-You can enable/disable **Summarised Info on Dashboard** module using following setting. 
+You can enable/disable **Summarised info Module on Dashboard** using following setting. 
 
 ![Dashboard Summarised Info Module](images/dashboard/dashboard-page-summarised-info.png)
 
@@ -8,7 +10,7 @@ You can enable/disable **Summarised Info on Dashboard** module using following s
 
 ## Greeting Text
 
-Customize **Greeting Text for Logged-in User** using this setting. 
+Customize **Greeting Text for Logged-in Users** using this setting. 
 
 ![Dashboard Page Greeting Text for Logged-in User](images/dashboard/dashboard-greeting-text.png)
 

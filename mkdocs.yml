@@ -92,7 +92,7 @@ nav:
         - Setup Social Login: setup-social-login.md
     - Dashboard:
         - Setup Dashboard: dashboard.md
-        - General Settings: dashboard-general.md
+        - Basic Settings: dashboard-general.md
         - Submit Property Module: submit-property.md
         - Guest Property Submission: guest-property-submission.md
         - My Properties Module: my-properties.md
