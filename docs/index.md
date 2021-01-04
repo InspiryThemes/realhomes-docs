@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation is last updated on **2nd December 2020** and current RealHomes Theme version is {== **3.12.0** ==}
+    This documentation is last updated on **4th January 2021** and current RealHomes Theme version is {== **3.12.2** ==}
 
 Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope of this documentation should be searched on our [knowledge base](https://support.inspirythemes.com/) OR asked on our [support website](https://support.inspirythemes.com/login-register//). You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
@@ -12,7 +12,7 @@ Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope
 * Use a good cache plugin like <strong><a href="https://wordpress.org/plugins/wp-fastest-cache/" target="_blank">WP Fastest Cache Plugin</a></strong> and test your site properly after installing and configuring it. 
 * You can also consider installing plugin like  <strong><a href="https://wordpress.org/plugins/flying-pages/" target="_blank">Flying Pages plugin</a></strong> for faster user experience.
 * Consider using a image compression plugin like <strong><a href="https://wordpress.org/plugins/imagify/" target="_blank">Imagify</a></strong>.
-* We also recommend using a CDN plugin like **BunnyCDN** (using their WordPress Plugin which is <strong><a href="https://wordpress.org/plugins/bunnycdn/" target="_blank">BunnyCDN – WordPress CDN Plugin</a></strong> as we have tested it and it turn out to be one of the easy to use plugins for CDN.
+* CDN service also plays an important role to improve the performance of your website so you can use it to deliver the content of your website a little faster.
 
 
 ### RealHomes Specific Cache Configurations
