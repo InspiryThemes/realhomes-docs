@@ -1,8 +1,8 @@
 !!! info "Important"
 
-    This documentation is last updated on **4th January 2021** and current RealHomes Theme version is {== **3.12.2** ==}
+    This documentation is last updated on **1st February 2021** and current RealHomes Theme version is {== **3.12.2** ==}
 
-Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope of this documentation should be searched on our [knowledge base](https://support.inspirythemes.com/) OR asked on our [support website](https://support.inspirythemes.com/login-register//). You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
+Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope of this documentation should be searched on our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> OR asked on our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. You can visit <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this knowledge base article</a> to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
 
 
@@ -23,12 +23,12 @@ Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope
 
 ## About Child Theme
     
-It is highly recommended to use the child theme so that you can easily update parent theme whenever a new update is available. A pre-built ready to use child theme is included in the main theme pack which you have downloaded from [ThemeForest](https://themeforest.net/downloads). It is commonly called **rh-main-package.zip**.
+It is highly recommended to use the child theme so that you can easily update parent theme whenever a new update is available. A pre-built ready to use child theme is included in the main theme pack which you have downloaded from <a target="_blank" href="https://themeforest.net/downloads">ThemeForest</a>. It is commonly called **rh-main-package.zip**.
 
 ## How to Update Theme
-RealHomes provides auto-updates within WordPress dashboard. But if you are updating your theme from a very old version then you can consult [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/).
+RealHomes provides auto-updates within WordPress dashboard. But if you are updating your theme from a very old version then you can consult <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/">this knowledge base article</a>.
 
-For any further assistance, Kindly register/login at our [support website](https://support.inspirythemes.com/login-register/) and [ask your question](https://support.inspirythemes.com/ask-question/) over there. So that our support team can assist you properly.
+For any further assistance, Kindly register/login at our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a> and <a target="_blank" href="https://support.inspirythemes.com/ask-question/">ask your question</a> over there. So that our support team can assist you properly.
 
 ## Support Policy
 
