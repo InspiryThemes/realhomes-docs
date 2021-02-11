@@ -37,7 +37,7 @@ Please follow the steps below to configure the basic settings for WPML Plugin.
 
 14. After that Go to **Dashboard → WPML → Theme and Plugin Localization**.
 
-15. From **Localization options** which is “**How to translate strings in themes and plugins?**”, Choose **Translate themes and plugins using WPML's String Translation only (don't load .mo files)** and **Save**. ![RealHomes Documentation](images/wpml/theme-and-plugin-localization.png)
+15. From **Localization options** , Choose **Automatically load the theme's .mo file using 'load_textdomain'** and type **framework** in **Enter textdomain** field below and **Save**. ![RealHomes Documentation](images/wpml/load_translation_domain_framework.gif)
 
 16. Next Options is “**Strings in the Theme**”, Press the **Scan the theme for Strings** Button and Wait for results. ![RealHomes Documentation](images/wpml/string-in-theme.png)
 
