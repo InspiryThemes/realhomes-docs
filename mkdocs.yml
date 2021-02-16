@@ -38,6 +38,10 @@ nav:
         - Plugins: plugins.md
         - Feedback: feedback.md
         - Help: help.md
+    - Vacation Rentals:
+        - Setup: vacation-rentals-setup.md
+        - Property Booking: booking.md
+
     - Elementor:
         - Intro & Installation: intro-and-installation-elementor.md
         - Home Page with Elementor: home-page-setup-with-elementor.md
