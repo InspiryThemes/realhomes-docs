@@ -1,6 +1,6 @@
 ### **How to Find the Bookings**
 
-All the bookings (confirmed, pending or cancelled) are available at **Dashboard &rarr; Vacation Rentals &rarr; All Bookings**.
+All the bookings (confirmed, pending or cancelled) can be managed at **Dashboard &rarr; Vacation Rentals &rarr; All Bookings**.
 
 ### **Confirm, Cancel or Reject a Booking**
 
