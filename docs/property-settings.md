@@ -233,6 +233,12 @@ You can also show/hide contact form in **Modern** Variation.
 
 ![Energy Performance on Property Detail Page](images/single-property-page/property-energy-performance.png)
 
+## Energy Performance Class Settings
+
+You can customize the **Classes of Energy Performance** section in **Dashboard → Easy Real Estate → Settings → Property**.
+
+![Energy Performance Settings](images/single-property-page/property-energy-performance-classes.png)
+
 **Classic**
 
 ![Energy Performance on Property Detail Page](images/single-property-page/property-energy-performance-classic.png)
@@ -245,7 +251,7 @@ You can also show/hide contact form in **Modern** Variation.
 
 Enable **Property Analytics** by navigating to **Easy Real Estate → Settings → Property Analytics** settings tab as displayed in the following screenshot.
 
-![RealHomes Documentation](images/ere-tabs/property-analytics.jpg)
+![RealHomes Documentation](images/ere-tabs/property-analytics.png)
 
 After that go to **Dashboard → Real Homes → Property Detail Page → Property Views**  where you can Show/Hide and change the Label of *Property Views* section.
 
