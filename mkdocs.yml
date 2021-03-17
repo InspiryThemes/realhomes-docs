@@ -42,7 +42,6 @@ nav:
         - Property Booking: booking.md
     - Single Agent:
         - Installation & Setup: single-agent-setup.md
-
     - Elementor:
         - Intro & Installation: intro-and-installation-elementor.md
         - Home Page with Elementor: home-page-setup-with-elementor.md
