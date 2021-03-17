@@ -33,7 +33,6 @@ nav:
     - Installation & Demo Import:
         - Installation: installation-and-activation.md
         - Demo Import: import-demo.md
-        - Vacation Rentals Setup: vacation-rentals-setup.md
         - Design Selection: design-selection.md
         - Plugins: plugins.md
         - Feedback: feedback.md
@@ -42,7 +41,7 @@ nav:
         - Setup: vacation-rentals-setup.md
         - Property Booking: booking.md
     - Single Agent:
-        - Setup: single-agent-setup.md
+        - Installation & Setup: single-agent-setup.md
 
     - Elementor:
         - Intro & Installation: intro-and-installation-elementor.md
