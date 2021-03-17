@@ -41,6 +41,8 @@ nav:
     - Vacation Rentals:
         - Setup: vacation-rentals-setup.md
         - Property Booking: booking.md
+    - Single Agent:
+        - Setup: single-agent-setup.md
 
     - Elementor:
         - Intro & Installation: intro-and-installation-elementor.md
