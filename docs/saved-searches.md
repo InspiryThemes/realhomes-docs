@@ -25,6 +25,6 @@ Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → S
 - If user is logged-in, then the saved searches will be stored in the database as user meta.
 - Any saved searches that are stored to the local storage before logging-in will be migrated autometically to the logged-in user meta in the database.
 - User will receive email notifications for the latest properties matching their saved searches criteria.
-- The saved searches can be access through the **Saved Searches** dashaboard page, where user can view or delete them.
+- The saved searches can be accessed through the **Saved Searches** dashaboard page, where user can view or delete them.
 
 ![RealHomes Documentation](images/member-pages/save-search-dashboard.jpg)
