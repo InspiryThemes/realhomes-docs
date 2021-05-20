@@ -1,8 +1,10 @@
-
-
 !!! info "About Vacation Rentals"
 
     Vacation Rentals functionality is introduced in RealHomes version {== **3.12.0** ==}. Make sure you have followed the [Installation](installation-and-activation.md) guide before following the steps given below .
+
+!!! warning "Important"
+
+    Activating Vacations Rental will disable some standard Real Estate features to fully provide you a full property rental portal experience.
 
 ### **Step 1. Install and Activate Vacation Rentals Plugin**
 First you need to install **RealHomes Vacation Rentals** plugin. Navigate to the **Dashboard > RealHomes > Plugins** and Look for **RealHomes Vacation Rentals** plugin and click on *Install Now* button. After plugin installation click on the **Activate** button.
