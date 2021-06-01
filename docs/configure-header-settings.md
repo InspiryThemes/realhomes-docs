@@ -20,6 +20,18 @@ You can customize almost all the components of the header from this very section
 
 ![Configure Header Settings](images/home-setup/header_classic.png)
 
+### **Search Form**
+
+You can show or hide the Advance Search Form in the header by modifying the home page at **Page Edit** screen at the backend [ **Homepage Settings → Search Form → Properties Search Form on Homepage** ].
+
+![Configure Header Settings](images/header/header_search_form__classic.png)
+
+### **Sticky Header**
+
+The **Sticky Header** option is located in **Dashboard → Real Homes → Customize Settings → Header → Others**.
+
+![Header Variation](images/header/sticky_header_modern.png)
+
 ### **Variations**
 
 To change header variation please navigate to **Dashboard → Real Homes → Customize Settings → Header → Others** and select **Center** for the option which says Choose **Header Variation**. You can also **Enable/Disable** the **Sticky Header** and select site logo filter for print in this section.
@@ -40,11 +52,23 @@ You can customize almost all the components of the header from this very section
 
 ![Configure Header Settings](images/home-setup/header_modern.png)
 
+### **Search Form**
+
+You can display or hide the Advance Search Form in the header by changing the option in **Dashboard → Real Homes → Customize Settings → Header → Search Form**.
+
+![Configure Header Settings](images/header/header_search_form_customizer.gif)
+
 ### **Variations**
 
 In Modern Design, there are multiple header variations and you can change them via **Dashboard → Real Homes → Customize Settings → Header → Header Variations** (as shown below).
 
 ![Header Variation](images/home-setup/header-variations-modern.gif)
+
+### **Sticky Header**
+
+The **Sticky Header** option is found in **Dashboard → Real Homes → Customize Settings → Header → Others**.
+
+![Header Variation](images/header/sticky_header_modern.png)
 
 ### **Responsive Variations**
 
