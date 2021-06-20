@@ -1,7 +1,7 @@
 # Required and Recommended Plugins
 
-RealHomes theme offers a very own organized plugins management page for its required and recommended plugins that can be accessed by navigating to **Dashboard → Real Homes → Plugins** page.
+RealHomes theme has a very own organized plugins management page for its required and recommended plugins that can be accessed by navigating to the **Dashboard → Real Homes → Plugins** section.
 
-Here you can Activate/Deactivate plugins with a single click.
+You can Activate or Deactivate any plugins with a single click here.
 
-![RealHomes Plugins](images/rh-tabs/plugins.png)
+![RealHomes Required and Recommended Plugins](images/rh-tabs/plugins.png)
