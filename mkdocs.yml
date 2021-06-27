@@ -15,7 +15,7 @@ theme:
     logo: 'images/base/realhomes-logo.svg'
     custom_dir: overrides
  
-site_dir: '/Users/inspirythemes.com/Downloads/rh-live-doc'
+site_dir: '/Users/inspirythemes/Downloads/rh-live-doc'
 # site_dir: 'app/public'
 
 extra_css:
@@ -40,6 +40,7 @@ nav:
     - Vacation Rentals:
         - Setup: vacation-rentals-setup.md
         - Property Booking: booking.md
+        - Booking Payments: realhomes-property-booking-payment-setup.md
     - Single Agent:
         - Installation & Setup: single-agent-setup.md
     - Elementor:
@@ -116,7 +117,6 @@ nav:
         - Via PayPal: realhomes-paypal-payments.md
         - Via Stripe: inspiry-stripe-payments.md
         - Via WooCommerce: realhomes-woocommerce-payment-setup.md
-    - Property Booking Payments: realhomes-property-booking-payment-setup.md
     - Widgets:
         - Advance Search Widget: advance-search-widget.md
         - Agents Widgets: agents-widget.md
