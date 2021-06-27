@@ -115,6 +115,8 @@ nav:
     - Individual Property Payments:
         - Via PayPal: realhomes-paypal-payments.md
         - Via Stripe: inspiry-stripe-payments.md
+        - Via WooCommerce: realhomes-woocommerce-payment-setup.md
+    - Property Booking Payments: realhomes-property-booking-payment-setup.md
     - Widgets:
         - Advance Search Widget: advance-search-widget.md
         - Agents Widgets: agents-widget.md
