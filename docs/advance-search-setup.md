@@ -48,9 +48,9 @@ You can also **Show / Hide Fields** on properties search form as well as **Drag 
 
 ### **Search Form Locations**
 
-Properties Search panel contains a section in Customizer for Locations **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Locations**. Using which, Property location field in search form can be customized to fulfill your requirements.
+Properties Search panel contains a section in **Customizer** for Locations **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Locations** to configure the **Locations** fields of the advance search form.
 
-First thing is to decide is the number of location boxes you need on search form. Do not worry too much about it as you can always change these settings in future to match your changing need.
+First thing is to decide the number of location fields you want to set up for search form. Do not worry too much about it as you can always change these settings in future to match your changing needs.
 
 ![Configure Location Field](images/home-setup/configure-location-field.png)
 

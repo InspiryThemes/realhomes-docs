@@ -64,7 +64,7 @@ nav:
     - Properties Page: add-properties-page.md
     - Properties Search Setup:
         - Create Search Page: create-search-page.md
-        - Configure Properties Search: properties-search-page-modern.md
+        - Configure Properties Search: advance-search-setup.md
     - New Fields Builder: new-fields-builder.md
     - Agencies:
         - Add New Agency: add-agency.md
