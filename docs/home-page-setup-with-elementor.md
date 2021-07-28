@@ -68,4 +68,4 @@ To add any Real Homes Widget simply drag the widget to the right as shown in the
 
 ## **Set as Home Page**
 
-To set this page which you just created as your home page please visit [Configure Reading Settings](https://realhomes.io/documentation/home-page-setup/#configure-reading-settings)
+To set this page which you just created as your home page please visit [Configure Reading Settings](https://realhomes.io/documentation/configure-reading-settings/)

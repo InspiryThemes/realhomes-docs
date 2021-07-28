@@ -2,7 +2,7 @@
 
 ## Elementor Pro Compatibility with RealHomes Theme
 
-Elementor Pro is the paid version of Elementor and RealHomes Theme is fully compatible with Elementor Pro. You can find more details about it [here](https://www.elemntor.pro).
+Elementor Pro is the paid version of Elementor and RealHomes Theme is fully compatible with Elementor Pro. You can find more details about it [here](https://elementor.com/pro/).
 
 ## Elementor Pro is not REQUIRED
 

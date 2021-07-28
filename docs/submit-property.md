@@ -86,4 +86,6 @@ You can also modify the longitude and latitude of the default map location. Plea
 
 ### **Individual Property Payments Settings**
 
-If you like to charge the user/member of your website to list their properties for a cost then you can activate Individual Property Payments feature using either [**PayPal**](/realhomes-paypal-payments/) or [**Stripe**](/inspiry-stripe-payments/) or even both. Please visit the **Individual Property Payments** section to learn how.
+If you like to charge the user/member of your website to list their properties for a cost then you can activate Individual Property Payments feature using either [**PayPal**](https://realhomes.io/documentation/realhomes-paypal-payments/), [**Stripe**](https://realhomes.io/documentation/inspiry-stripe-payments/) and [**WooCommerce**](https://realhomes.io/documentation/realhomes-woocommerce-payment-setup/).
+
+Please visit the **Individual Property Payments** section to learn how.
