@@ -12,6 +12,19 @@ Add basic information related to property, Like price, area, beds, baths, garage
 
 ![Property Basic Information](images/add-content/basic-info.png)
 
+### **Add Vacation Rentals Information**
+If you are using the **RealHomes Vacation Rentals** plugin and have [configured](vacation-rentals-setup.md) it, you can see the **Vacation Rentals** tab at the top. There you can add pricing and other property rental information.
+
+![Property Basic Information](images/add-content/vacation-rentals.png)
+
+### **iCalendar Synchronization**
+You can synchronize your property's calendar dates with properties' calendar dates listed on other websites.
+
+#### **Add iCalendar Feed Page**
+Before syncing the properties' calendar dates, you need to create an *iCalendar feed* page using the **iCalendar Feed** template as displayed in the following screenshot.
+
+![Property Basic Information](images/add-content/vacation-rentals.png)
+
 ### **Mark Property as Featured**
 
 If you want to add this property into featured properties then mark this property as featured.
