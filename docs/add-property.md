@@ -23,7 +23,19 @@ You can synchronize your property's calendar dates with properties' calendar dat
 #### **Add iCalendar Feed Page**
 Before syncing the properties' calendar dates, you need to create an *iCalendar feed* page using the **iCalendar Feed** template as displayed in the following screenshot.
 
-![Property Basic Information](images/add-content/vacation-rentals.png)
+![Property Basic Information](images/add-content/add-icalendar-page.png)
+
+#### **Syncing your booking calendar to third-party calendars**
+To stay up to date and avoid double bookings when you have listed your properties on third party websites also, you can sync your booking calendar with third party calendars.
+
+Once you created the iCalendar feed page you can see the booking calendar feed export URL at the very bottom of the *Vacation Rentals* property metabox tab as you can see in the screenshot given below. Copy the URL and add it to the third party iCalendar import field as per their settings. 
+
+![iCalendar import & export](images/add-content/icalendar-import-export.png)
+
+#### **Syncing your booking calendar from third-party calendars**
+To sync third party booking calendars with your booking calendar, copy the iCalendar feed URL from their website. After that you can add that feed URL to iCalendar Import section as you can see in the screenshot given below. Set a name for reference in the "Feed Name" field and feed URL to the "Feed URL" field. You can add multiple feed URLs to sync from.
+
+![iCalendar import & export](images/add-content/icalendar-import-export.png)
 
 ### **Mark Property as Featured**
 
