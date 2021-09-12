@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation is last updated on **13th July 2021** and current RealHomes Theme version is {== **3.14.1** ==}
+    This documentation is last updated on **13th September 2021** and current RealHomes Theme version is {== **3.15.0** ==}
 
 Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope of this documentation should be searched on our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> OR asked on our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. You can visit <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this knowledge base article</a> to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
@@ -15,7 +15,7 @@ Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope
 * CDN service also plays an important role to improve the performance of your website so you can use it to deliver the content of your website a little faster.
 
 
-### RealHomes Specific Cache Configurations
+## RealHomes Specific Cache Configurations
 
 * Do not unify (combine) JavaScript files for RealHomes theme while using a cache plugin ( or any optimisation plugin ) as it is not an average blog theme and certain scripts are only loaded when required. Also, dynamic data is generated before few scripts based on various settings. So, Combining JavaScript files can create errors.
 * RealHomes uses following cookies (if related setting/plugin is enabled). So, You can configure your cache plugin to not cache pages that uses these cookies OR you can request the same from your host if your host is like WPEngine ( who do not allow cache plugin and handles the cache on server level ).

@@ -32,7 +32,7 @@ nav:
     - Introduction: index.md
     - Installation & Demo Import:
         - Installation: installation-and-activation.md
-        - Demo Import: import-demo.md
+        - Import Demo: import-demo.md
         - Design Selection: design-selection.md
         - Plugins: plugins.md
         - Feedback: feedback.md
@@ -58,21 +58,26 @@ nav:
         - Create News/Blog Page: news-page.md
         - Add News/Blog Post: add-news-post.md
     - Header Settings: configure-header-settings.md
-    - Adding Property:
-        - Add New Property: add-property.md
-        - Property Settings: property-settings.md
+    - Easy Real Estate:
+        - Adding Property:
+            - Add New Property: add-property.md
+            - Property Settings: property-settings.md
+        - Agents:
+            - Add New Agent: add-agent.md
+            - Create Agents Page: add-agents-page.md
+        - Agencies:
+            - Add New Agency: add-agency.md
+            - Create Agencies Page: add-agencies-page.md
+        - Price Format: price-format-settings.md
+        - URL Slugs: url-slugs-settings.md
+        - GDPR: gdpr.md
+        - Social Links: social-links.md
+        - Webhooks: webhooks-zohocrm-zapier.md
+        - New Fields Builder: new-fields-builder.md
     - Properties Page: add-properties-page.md
-    - Properties Search Setup:
+    - Advanced Search Setup:
         - Create Search Page: create-search-page.md
         - Configure Properties Search: advance-search-setup.md
-    - New Fields Builder: new-fields-builder.md
-    - Agencies:
-        - Add New Agency: add-agency.md
-        - Create Agencies Page: add-agencies-page.md
-    - Agents:
-        - Add New Agent: add-agent.md
-        - Create Agents Page: add-agents-page.md
-    - CRM: real-estate-crm.md
     - Maps & reCAPTCHA:
         - Open Street Maps: open-street-maps.md
         - Google Maps:
@@ -82,6 +87,7 @@ nav:
         - Google reCAPTCHA:
             - Get Google reCAPTCHA API Key: google-recaptcha-setup.md
     - Translation: translation.md
+    - CRM: real-estate-crm.md
     - Contact Page: contact-page.md
     - Floating Features:
         - Compare Properties: compare-properties.md
@@ -111,11 +117,11 @@ nav:
         - Fluid Width Page: add-fluid-width-page.md
         - Full Width Page: add-full-width-page.md
     - FAQs: faqs-setup.md
-    - Membships Setup: realhomes-memberships-setup.md
-    - Individual Property Payments:
-        - Via PayPal: realhomes-paypal-payments.md
-        - Via Stripe: inspiry-stripe-payments.md
-        - Via WooCommerce: realhomes-woocommerce-payment-setup.md
+    - Memberships & Payments:
+        - Membships Setup: realhomes-memberships-setup.md
+        - Individual Payments via PayPal: realhomes-paypal-payments.md 
+        - Individual Payments via Stripe: inspiry-stripe-payments.md 
+        - Individual Payments via WooCommerce: realhomes-woocommerce-payment-setup.md
     - Widgets:
         - Advance Search Widget: advance-search-widget.md
         - Agents Widgets: agents-widget.md
@@ -138,21 +144,16 @@ nav:
             - Text Settings: text-settings.md
             - Layout: footer-layout-modern.md
             - Styles: style-settings-modern.md
-    - Social Links: social-links.md
-    - Price Format Settings: price-format-settings.md
-    - URL Slug Settings: url-slugs-settings.md
-    - Properties Shortcode: properties-shortcode.md
     - IDX Compatible Plugins:
         - Optima Express Plugin:
             - Installation & Setup: optima-express.md
             - Content Setup: optima-express-content-setup.md
-    - GDPR: gdpr.md
     - Other Features:
+        - Properties Shortcode: properties-shortcode.md
         - Other Shortcodes: other-shortcode.md
         - Testimonials: testimonials-setup.md
         - Currency Switcher: currency-switcher.md
         - SSL Enhancements: ssl-enhancements.md 
-    - Webhooks: webhooks-zohocrm-zapier.md
     - WPML:
         - WPML Basic Setup: wpml-basic-setup.md
         - WPML Language Switcher: wpml-language-switcher.md
