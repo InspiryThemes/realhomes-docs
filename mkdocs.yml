@@ -45,6 +45,15 @@ nav:
         - Installation & Setup: single-agent-setup.md
     - Elementor:
         - Intro & Installation: intro-and-installation-elementor.md
+        - RealHomes Widgets: 
+            - Properties Widgets: properties-elementor-widgets.md
+            - Agents Widgets: agents-elementor-widget.md
+            - Google & Open Street Maps Widgets: google-or-open-street-maps-widgets.md
+            - Amazing Features Widget: amazing-features-elementor-widget.md
+            - News / Posts Widget: news-post-grid-elementor-widget.md
+            - Call to Action Widgets: call-to-action-elementor-widgets.md
+            - Partners Widget: partners-elementor-widget.md
+            - Testimonials Widgets: testimonials-elementor-widgets.md
         - Home Page with Elementor: home-page-setup-with-elementor.md
         - Common Issues: common-issues-elementor.md
         - Elementor Pro: elementor-pro.md
