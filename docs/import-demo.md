@@ -42,7 +42,7 @@ Once the import process is complete, You will receive a notice like the one disp
 
 Visit your site, and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.
 
-## 2. Import XML Contents and Configure Settings Manually
+## Import XML Contents and Configure Settings Manually
 
 ### **Step 1**
 
