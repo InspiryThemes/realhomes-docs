@@ -53,7 +53,11 @@ nav:
             - News / Posts Widget: news-post-grid-elementor-widget.md
             - Call to Action Widgets: call-to-action-elementor-widgets.md
             - Partners Widget: partners-elementor-widget.md
+            - Hero Widget: hero-elementor-widgets.md
+            - How It Works Widget: how-it-works-widget.md
             - Testimonials Widgets: testimonials-elementor-widgets.md
+            - Schedule Tour Form Widget: schedule-tour-form-elementor-widget.md
+            - Single Property Slider Widgets: single-property-slider-elementor-widget.md
         - Home Page with Elementor: home-page-setup-with-elementor.md
         - Common Issues: common-issues-elementor.md
         - Elementor Pro: elementor-pro.md
