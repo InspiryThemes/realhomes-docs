@@ -1,7 +1,7 @@
 # Import Demo Contents
 
 !!! info "Important Information"
-    If you want to build a ==Vacation Rentals== website then you can skip to the [How to Setup Vacation Rentals](vacation-rentals-setup.md) guide.
+    If you want to build a ==**Vacation Rentals**== website then you can skip to the [**How to Setup Vacation Rentals**](vacation-rentals-setup.md) guide.
 
 You can follow one of these approaches.
 
@@ -25,9 +25,11 @@ Go to **Real Homes → Demo Import** to import demo data.
 
 ![Screenshot](images/import-demo/import-demo-data.png)
 
-Before you begin, make sure all the required plugins are installed and activated.
+Click on the blue **Import Demo** button, and you will see the next page where it will confirm the required plugins.
 
-Click on the blue **Import** button, and you will see a popup, so click on the blue **Yes, import!** button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server, and this process can take a couple of minutes.
+If any plugin is missing then the Demo Import process will install it so click on **Continue & Import** button again to confirm the import.
+
+Wait for few minutes as the demo images are being fetched (downloaded) from the remote server to your website, and this process can take a couple of minutes (depending on the speed of your hosting server).
 
 ![Screenshot](images/import-demo/one-click-demo-import.png)
 
@@ -36,11 +38,11 @@ Click on the blue **Import** button, and you will see a popup, so click on the b
 
 ### **Step 3**
 
-Once the import process is complete, You will receive a notice like the one displayed in the screenshot below.
+Once the import process is complete, You will see a notice that the import is complete.
 
 ![Screenshot](images/import-demo/all-done.png)
 
-Visit your site, and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.
+ You can click on Visit Site to see your website after importing the demo content. In case of any problem, Get in touch with our support team using our support site.
 
 ## Import XML Contents and Configure Settings Manually
 
