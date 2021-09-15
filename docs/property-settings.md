@@ -113,7 +113,9 @@ Global option to change **Gallery Type** for all properties. This option is loca
 
 **Modern**
 
-![Gallery Settings of Property Detail Page](images/single-property-page/property-detail-gallery-modern.png)
+Modern design has more **Gallery Types** than classic design. You can switch the **Gallery Types** in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Gallery**.
+
+![Gallery Settings of Property Detail Page](images/single-property-page/gallery_variations.gif)
 
 ## Common Note
 
