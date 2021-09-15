@@ -1,4 +1,4 @@
-# Installation
+## Installation
 
 Before installation, you must make sure that your hosting environment/server must meet the [requirements of WordPress](https://wordpress.org/about/requirements/). RealHomes doesn't requirement any specific setup and it will work perfectly fine on a hosting account (shared, reseller or dedicated) that meets WordPress requirements.
 
@@ -7,9 +7,9 @@ To start you must have a working version of WordPress. Almost all major web host
 Once you have a working version of WordPress, You need to download "**All Files and Documentation**" from themeforest download page (screenshot below) and extract the downloaded zip to get the required files including **realhomes.zip**.
 ![Screenshot](images/installation/download-rh-full-package.png)
 
-## Install Theme Via WordPress Dashboard ( _Recommended_ )
+### Install Theme Via WordPress Dashboard ( _Recommended_ )
 
-### **Upload realhomes.zip & Activate**
+#### **Upload realhomes.zip & Activate**
 
 Go to **Appearance → Themes** section and click **Add New**
 ![Screenshot](images/installation/add-new.png)
@@ -22,19 +22,20 @@ Choose the **realhomes.zip** file and press **Install Now**
 
 Once the theme is uploaded then you need to activate it.
 
-### **Select Design Variation**
+#### **Select Design Variation**
 
 ![Screenshot](images/installation/activate-theme.png)
-- Once you activated the theme, you will be redirected to the RealHomes welcome page. Here you select your desired design variation and click the **Save Changes** button. 
+
+After theme activation, you will be redirected to the RealHomes welcome page. Here you select your desired design variation and click the **Save Changes** button. 
 ![Screenshot](images/installation/welcome-page.png)
 For more details please check [Design Selection](design-selection.md) page.
 
-### **Activate Your License**
+#### **Activate Your License**
 
 - Also, a notice will be displayed at the top of welcome page asking you to **Enter Item Purchase Code** and then click on the **Verify** button. RealHomes purchase verification allows you to **install plugins, import demo contents** and avail **auto updates**. For help to retrieve RealHomes purchase code you can follow our knowledge base article on [How to Get Themeforest Item Purchase Code](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) 
 ![Screenshot](images/installation/purchase-verification.png)
 
-### **Required Plugin Installation & Activation**
+#### **Required Plugin Installation & Activation**
 
 - After **RealHomes Purchase Verification**, a notice will be displayed at the top asking you to install and activate the required plugins. So, go ahead and click on **Begin installing plugins**.<br>
 ![Screenshot](images/installation/begin-plugin-installation.png)
@@ -47,12 +48,12 @@ For more details please check [Design Selection](design-selection.md) page.
 - After activation go to "**Real Homes → Customize Settings**" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer.<br>
 ![Screenshot](images/installation/customize.png)
 
-### **Update Permalinks Settings**
+#### **Update Permalinks Settings**
 
 Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes, As displayed in screen shot below.
 ![Screenshot](images/import-demo/permalinks.jpg)
 
-### **Initial Elementor Settings**
+#### **Initial Elementor Settings**
 
 - Navigate to **Dashboard → Elementor → Settings** and make sure **Disable Default Colors** and **Disable Default Fonts** are enabled.
 ![Screenshot](images/elementor/disable-default-colors-fonts-elementor.png)
@@ -61,7 +62,8 @@ Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **
 
 if you face any problem during upload through dashboard, please upload the theme using FTP as guided below.
 
-## Install Theme Via FTP ( Alternative Way )
+## Alternative Installation Method
+### **Install Theme Via FTP**
 
 1. Access your hosting server using an ftp client like **FileZilla**
 2. Go to the '**wp-content → themes**' folder of your WordPress installation
@@ -70,14 +72,14 @@ if you face any problem during upload through dashboard, please upload the theme
 5. Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes.
 6. After activation go to "**Dashboard → Real Homes → Customize Settings**" to play with theme's settings.
 
-## Install Child Theme ( Highly Recommended )
+### **Install Child Theme ( Highly Recommended )**
 
-It is highly recommended to use child theme, So that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from themeforest.
+It is highly recommended to use child theme if you are going to customize the code of the parent theme. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from themeforest.
 
 
 To install child theme, You need to upload the **realhomes-child.zip** and activate it just like a normal WordPress Theme.
 
-## **Common Installation Issues**
+### **Common Installation Issues**
 
 All of the following issues/errors are either user-created or server-side problems.
 
