@@ -50,8 +50,8 @@ if you face any problem during upload through dashboard, please upload the theme
 
 ## **Import Single Agent Demo**
 
-- Navigate to **Dashboard → Real Homes → Import Demo** and click in the Import button of **Single Agent - Elementor** demo.
-![Screenshot](images/import-demo/import-single-agent-demo.gif)
+- Navigate to **Dashboard → Real Homes → Import Demo** and click in the **Import Demo** button of **Single Agent - Elementor** demo.
+![Screenshot](images/import-demo/import-single-agent-demo.png)
 
 ## **Initial Elementor Settings**
 

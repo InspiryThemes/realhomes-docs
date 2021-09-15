@@ -42,7 +42,11 @@ Now you can import the **Vacation Rentals Demo Contents**. Go to **Real Homes â†
 
 ![Screenshot](images/import-demo/import-demo-data.png)
 
-Click on blue **Import** button of **Vacation Rentals - Elementor** and you will see a popup so click on the blue **Yes, import!** button again to confirm the import for the relevant layout of the theme. Wait for few minutes as the demo images are being fetched from the remote server and this process can take a couple of minutes.
+Click on blue **Import Demo** button of **Vacation Rentals - Elementor** and you will see the next page where it will confirm the required plugins are installed including the Vacation Rentals plugin.
+
+If any plugin is missing then the Demo Import process will install it so click on **Continue & Import** button again to confirm the import.
+
+Wait for few minutes as the demo images are being fetched (downloaded) from the remote server to your website, and this process can take a couple of minutes (depending on the speed of your hosting server).
 
 ![Screenshot](images/vacation-rentals/demo-import.jpg)
 
