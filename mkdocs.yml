@@ -70,7 +70,9 @@ nav:
     - News/Blog Page:
         - Create News/Blog Page: news-page.md
         - Add News/Blog Post: add-news-post.md
-    - Header Settings: configure-header-settings.md
+    - Header Settings:
+        - Modern: configure-header-settings.md
+        - Classic: configure-header-settings-classic.md
     - Easy Real Estate:
         - Adding Property:
             - Add New Property: add-property.md
