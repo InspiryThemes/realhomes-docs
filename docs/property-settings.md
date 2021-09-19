@@ -168,6 +168,8 @@ Please note that this note will be displayed on every property page.
 
 ## WalkScore
 
+First of all, get a **WalkScore API Key** by [**signing up with them**](https://www.walkscore.com/professional/api-sign-up.php) and then you can add it to **WalkScore Settings** in **Customizer**.
+
 **WalkScore Settings** can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → WalkScore**.
 
 ![Property WalkScore](images/single-property-page/property-walkscore.png)
