@@ -6,49 +6,47 @@ Go to **Dashboard → Easy Real Estate → New Property**
 
 ![Property Title & Description](images/add-content/title-and-description.png)
 
+### Vacation Rentals Settings
+
+If you are using the **RealHomes Vacation Rentals** plugin and have [configured](vacation-rentals-setup.md) it, you can see the **Vacation Rentals** tab at the top. There you can add pricing and other property rental information.
+
+![Vacations Rentals](images/add-content/vacation-rentals.png)
+
 ### **Add Basic Information**
 
 Add basic information related to property, Like price, area, beds, baths, garages etc. 
 
 ![Basic Information Vacations Rental](images/add-content/basic-information-vr.png)
 
-### **Add Vacation Rentals Information**
-
-#### Vacation Rentals Settings
-
-If you are using the **RealHomes Vacation Rentals** plugin and have [configured](vacation-rentals-setup.md) it, you can see the **Vacation Rentals** tab at the top. There you can add pricing and other property rental information.
-
-![Vacations Rentals](images/add-content/vacation-rentals.png)
-
-#### Seasonal Prices
+### Seasonal Prices
 
 ![Vacations Rentals](images/add-content/seasional-prices.png)
 
-#### Additional Fees
+### Additional Fees
 
 ![Vacations Rentals](images/add-content/additional-fees.png)
 
-#### Other Fees
+### Other Fees
 
 ![Vacations Rentals](images/add-content/other-fees.png)
 
-#### Guest Accomodations
+### Guest Accomodations
 
 ![Vacations Rentals](images/add-content/guests-accomodation.png)
 
-#### Outdoor Features and Property Surroundings
+### Outdoor Features and Property Surroundings
 
 ![Vacations Rentals](images/add-content/outdoor-features-and-property-surroundings.png)
 
-#### Whats Included and Not Included
+### Whats Included and Not Included
 
 ![Vacations Rentals](images/add-content/included-or-not-included.png)
 
-#### Property Policies or Rules
+### Property Policies or Rules
 
 ![Vacations Rentals](images/add-content/property-policies-and-rules.png)
 
-#### **iCalendar Synchronization**
+### **iCalendar Synchronization**
 To stay up to date and avoid double bookings when you have listed your properties on third party websites also, you can sync your booking calendar with third party calendars.
 
 ##### **Add iCalendar Feed Page**
