@@ -6,7 +6,7 @@ Go to **Dashboard → Easy Real Estate → New Property**
 
 ![Property Title & Description](images/add-content/title-and-description.png)
 
-### Vacation Rentals Settings
+### Add Vacation Rentals Information
 
 If you are using the **RealHomes Vacation Rentals** plugin and have [configured](vacation-rentals-setup.md) it, you can see the **Vacation Rentals** tab at the top. There you can add pricing and other property rental information.
 
