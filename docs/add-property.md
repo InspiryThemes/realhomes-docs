@@ -13,24 +13,24 @@ Add basic information related to property, Like price, area, beds, baths, garage
 ![Property Basic Information](images/add-content/basic-info.png)
 
 ### **Add Vacation Rentals Information**
-If you are using the **RealHomes Vacation Rentals** plugin and have [configured](vacation-rentals-setup.md) it, you can see the **Vacation Rentals** tab at the top. There you can add pricing and other property rental information.
+If you are using the **RealHomes Vacation Rentals** plugin and have [configured](vacation-rentals-setup.md) it, you can see the **Vacation Rentals** tab at the top. There you can add pricing and other property rental information. For more information, check out the detailed guide to add property with [vacation rental information here]((add-property-vr.md)).
 
 ![Property Basic Information](images/add-content/vacation-rentals.png)
 
 ### **iCalendar Synchronization**
 To stay up to date and avoid double bookings when you have listed your properties on third party websites also, you can sync your booking calendar with third party calendars.
 
-#### **Add iCalendar Feed Page**
+#### **Step 1. Add iCalendar Feed Page**
 Before syncing the properties' calendar dates, you need to create an *iCalendar feed* page using the **iCalendar Feed** template as displayed in the following screenshot.
 
 ![Property Basic Information](images/add-content/add-icalendar-page.png)
 
-#### **Syncing your booking calendar to third-party calendars**
+#### **Step 2. Syncing your booking calendar to third-party calendars**
 Once you created the iCalendar feed page you can see the booking calendar feed export URL at the very bottom of the *Vacation Rentals* property metabox tab as you can see in the screenshot given below. Copy the **Feed URL** and add it to the third party iCalendar import field as per their settings. 
 
 ![iCalendar import & export](images/add-content/icalendar-import-export.png)
 
-#### **Syncing your booking calendar from third-party calendars**
+#### **Step 3. Syncing your booking calendar from third-party calendars**
 To sync third party booking calendars with your booking calendar, copy the iCalendar feed URL from their website. After that you can add that feed URL to *iCalendar Import* section as you can see in the screenshot given below. Set a name for reference in the **Feed Name** field and feed URL to the **Feed URL** field. You can add multiple feed URLs to sync from.
 
 ![iCalendar import & export](images/add-content/icalendar-import-export.png)
@@ -51,15 +51,15 @@ Provide property address and drag the google map pointer to correct location.
 
 Provide property gallery images.
 
-Gallery Images options for **Classic** Variation.
-![Property Gallery](images/add-content/property-gallery2.png)
-
->**Note**: Images should have minimum size of 770px by 386px for thumbnails on right and 830px by 460px for thumbnails on bottom. Bigger size images will be cropped automatically, images must be in landscape format. Minimum 2 images are required to display gallery.
-
 Gallery Images options for **Modern** Variation.
 ![Property Gallery](images/add-content/property-gallery3.png)
 
->**Note**: Images should have minimum size of 1200px by 680px. Bigger size images will be cropped automatically, images must be in landscape format. Minimum 2 images are required to display gallery.
+>**Note**: Images should have minimum size of 1240px by 720px. Bigger size images will be cropped automatically. Minimum 2 images are required to display gallery.
+
+Gallery Images options for **Classic** Variation.
+![Property Gallery](images/add-content/property-gallery2.png)
+
+>**Note**: Images should have minimum size of 1170px by 648px for thumbnails on right and 830px by 460px for thumbnails on bottom. Bigger size images will be cropped automatically. Minimum 2 images are required to display gallery.
 
 ### **Add Floor Plans**
 
