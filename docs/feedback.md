@@ -1,9 +1,9 @@
 # Feedback
 
-As a valued customer, provide your feedback on your recent experience with **Real Homes** theme.
+As a valued customer, provide feedback on your recent experience with the **Real Homes** theme.
 
-By participating in the feedback, you are making your voice heard and help us to continually improve our products in ways that are important to you.
+By participating in the feedback, you make your voice heard and helped us continuously improve our products in ways that are important to you.
 
-Feedback form can be found by navigating to the **Dashboard → Real Homes → Feedback** page.
+You can find the Feedback form by going to the **Dashboard → Real Homes → Feedback** page.
 
 ![Feedback](images/rh-tabs/feedback.png)
