@@ -17,7 +17,7 @@ Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **
 ![Screenshot](images/import-demo/permalinks.jpg)
 
 !!! warning "Important"
-    It is important to complete **Step 1** as the import script is programmed to work with pretty permalinks. Otherwise, you will have configuration issues after importing demo data.
+    It is crucial to complete **Step 1** as the import script is programmed to work with pretty permalinks. Otherwise, you will have configuration issues after importing demo data.
 
 ### **Step 2**
 
@@ -25,16 +25,16 @@ Go to **Real Homes → Demo Import** to import demo data.
 
 ![Screenshot](images/import-demo/import-demo-data.png)
 
-Click on the blue **Import Demo** button, and you will see the next page where it will confirm the required plugins.
+Click on the blue **Import Demo** button, and you will see the following page where it will confirm the required plugins.
 
-If any plugin is missing then the Demo Import process will install it so click on **Continue & Import** button again to confirm the import.
+If any plugin is missing, the Demo Import process will install it, so click on the **Continue & Import** button again to confirm the import.
 
 Wait for few minutes as the demo images are being fetched (downloaded) from the remote server to your website, and this process can take a couple of minutes (depending on the speed of your hosting server).
 
 ![Screenshot](images/import-demo/one-click-demo-import.png)
 
 !!! warning "Important"
-    Sometimes, the import process takes longer than expected and doesn't complete on the first attempt. So, simply import again until the process is complete.
+    Sometimes, the import process takes longer than expected and doesn't complete on the first attempt. So, import again until the process is complete.
 
 ### **Step 3**
 
@@ -42,7 +42,7 @@ Once the import process is complete, You will see a notice that the import is co
 
 ![Screenshot](images/import-demo/all-done.png)
 
- You can click on Visit Site to see your website after importing the demo content. In case of any problem, Get in touch with our support team using our support site.
+ You can click on **Visit Site** to see your website after importing the demo content. In case of any problem, Get in touch with our support team using our support site.
 
 ## Import XML Contents and Configure Settings Manually
 
@@ -64,7 +64,7 @@ Once installed, you can activate the plugin and run it by clicking on Run Import
 
 ### **Step 3**
 
-Look for the Import XML folder in the unzipped package downloaded from ThemeForest, which is called **rh-main-package.zip** and use the XML file of the variation of your choice, i.e., Classic or Modern, within it.
+Look for the Import XML folder in the unzipped package downloaded from ThemeForest, called **rh-main-package.zip** and use the XML file of the variation of your choice, i.e., Classic or Modern, within it.
 
 ![Screenshot](images/import-demo/xml-file-selection.png)
 
@@ -72,19 +72,19 @@ Look for the Import XML folder in the unzipped package downloaded from ThemeFore
 
 1. Assign posts to an existing author.
 2. Mark the checkbox to download and import file attachments
-3. Click '**Submit**' button
+3. Click the '**Submit**' button
 
 ![Screenshot](images/import-demo/assign-post.png)
 
-The import process can take a few minutes. So please wait for it and try to keep the focus on the current tab in your browser.
+The import process can take from 2 minutes to 10 minutes, depending on the speed of your hosting server. So please wait for it and try to keep the focus on the current tab in your browser.
 
-After that is done, you will have many posts, pages, properties, and other contents as on the theme demo.
+After it is completed, you will have various posts, pages, properties, and other content on the theme demo.
 
 ![Screenshot](images/import-demo/importer-all-done.png)
 
 ### **Step 4**
 
-Navigate to **Dashboard → Appearance → Menus** and use the Already Imported Menu from XML and assign it to theme location "Main Menu" from the Menu Settings section below menu. After that, save the menu. As pointed in the screenshot below.
+Navigate to **Dashboard → Appearance → Menus**, use the Already Imported Menu from XML, and assign it to theme location "Main Menu" from the Menu Settings section below. After that, save the menu. As pointed in the screenshot below.
 
 ![Screenshot](images/import-demo/menu-assignment.png)
 
@@ -98,7 +98,7 @@ To configure reading settings, you need to visit **Dashboard → Settings → Re
 
 To import Customizer settings, you have to install [Customizer Export/Import](https://wordpress.org/plugins/customizer-export-import/). 
 
-Once the plugin is installed and activated, then navigate to **Dashboard → Real Homes → Customize Settings → Export/Import** and then select the customizer.dat file for the relevant design variation (Classic or Modern).
+Once the plugin is installed and activated, navigate to **Dashboard → Real Homes → Customize Settings → Export/Import** and select the customizer.dat file for the relevant design variation (Classic or Modern).
 
 ![Screenshot](images/import-demo/import-customizer-settings.png)
 
@@ -108,7 +108,7 @@ Upon successful import, the Customizer will be refreshed.
 
 Now you can import widgets too. To do that, kindly install [Widget Importer & Exporter](https://wordpress.org/plugins/widget-importer-exporter/). 
 
-After successful installation and activation, navigate to **Dashboard → Tools → Widget Importer & Exporter** and then select the widgets.wie file for the relevant design variation (Classic or Modern).
+After successful installation and activation, navigate to **Dashboard → Tools → Widget Importer & Exporter** and select the widgets.wie file for the relevant design variation (Classic or Modern).
 
 ![Screenshot](images/import-demo/import-widget-settings.png)
 
@@ -116,4 +116,4 @@ Upon successful demo import, the page will reload and display the widgets which 
 
 Visit your site, and you will find your site working like the theme demo.
 
-For any assistance, Kindly register/login at our [support website](https://support.inspirythemes.com/login-register/) and [ask your question](https://support.inspirythemes.com/ask-question/) over there. So that our support team can assist you properly.
+For any assistance, Kindly register/login at our [support website](https://support.inspirythemes.com/login-register/) and [ask your question](https://support.inspirythemes.com/ask-question/) so our support team can assist you properly.
