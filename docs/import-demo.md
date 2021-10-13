@@ -11,7 +11,7 @@ You can follow one of these approaches.
 
 Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes, As displayed in the screenshot below.
 
-![Screenshot](images/import-demo/permalinks.jpg)
+![Screenshot](images/import-demo/permalinks.png)
 
 !!! warning "Important"
     It is crucial to complete **Step 1** as the import script is programmed to work with pretty permalinks. Otherwise, you will have configuration issues after importing demo data.
