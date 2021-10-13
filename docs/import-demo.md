@@ -18,17 +18,15 @@ Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **
 
 ### **Step 2**
 
-Go to **Real Homes → Demo Import** to import demo data.
+Go to **Real Homes → Demo Import** to import demo data. There are several demos available to import.
 
-![Screenshot](images/import-demo/import-demo-data.png)
+Move the pointer to the demo, and you will have two buttons, "**Preview Demo**" and "**Import Demo**." Click on the **Import Demo** button to import your desired demo.
 
-Click on the blue **Import Demo** button, and you will see the following page where it will confirm the required plugins.
+The Demo Import process will install any missing plugins (if any), so click on the **Continue & Import** button to confirm the operation.
 
-If any plugin is missing, the Demo Import process will install it, so click on the **Continue & Import** button again to confirm the import.
+You should wait for few minutes while the demo images are (downloaded). This process can take a couple of minutes (depending on the speed of your hosting server).
 
-Wait for few minutes as the demo images are being fetched (downloaded) from the remote server to your website, and this process can take a couple of minutes (depending on the speed of your hosting server).
-
-![Screenshot](images/import-demo/one-click-demo-import.png)
+![Screenshot](images/import-demo/import-demo-demonstration.gif)
 
 !!! warning "Important"
     Sometimes, the import process takes longer than expected and doesn't complete on the first attempt. So, import again until the process is complete.
