@@ -45,8 +45,6 @@ For more details please check [Design Selection](design-selection.md) page.
 ![Screenshot](images/installation/return-to-install.png)
 - Once again, select all the plugins and click on **Activate** and then click on **Apply** to activate all the plugins and you are done. <br>
 ![Screenshot](images/installation/activate-plugins.png)
-- After activation, go to "**Real Homes → Customize Settings**" to play with the theme's settings. You can also import the demo data before changing any settings in the Customizer.<br>
-![Screenshot](images/installation/customize.png)
 
 #### **Update Permalinks Settings**
 
