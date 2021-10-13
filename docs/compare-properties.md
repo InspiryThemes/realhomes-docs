@@ -23,4 +23,4 @@ Select the **Compare Properties** template from page attributes.
 
 **Publish** the page once you are ready.
 
-After adding the page configure **Compare Properties Settings** for the theme. **[Click here](https://realhomes.io/documentation/wpml-language-switcher/)** to learn how.
+After adding the page configure **Compare Properties Settings** for the theme. **[Click here](/compare-properties-settings/)** to learn how.
