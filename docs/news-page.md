@@ -18,10 +18,10 @@ To configure reading settings you need to visit **Dashboard → Settings → Rea
 
 ## Banner and Spacing 
 
-### Modern
+### **Modern**
 ![Banner And Spacing](images/news-page/banner-spacing.jpg)
 
-### Classic
+### **Classic**
 ![Banner And Spacing](images/news-page/banner-spacing-classic.jpg)
 
 !!!info "More information about **Banner Settings** can be found here: "
