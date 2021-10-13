@@ -1,8 +1,5 @@
 # Import Demo Contents
 
-!!! info "Important Information"
-    If you want to build a ==**Vacation Rentals**== website then you can skip to the [**How to Setup Vacation Rentals**](vacation-rentals-setup.md) guide.
-
 You can follow one of these approaches.
 
 - One-Click Demo Import **( Automatic & Recommended )**
