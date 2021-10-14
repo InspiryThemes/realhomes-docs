@@ -49,7 +49,7 @@ For more details please check [Design Selection](design-selection.md) page.
 #### **Update Permalinks Settings**
 
 Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes, As displayed in the screenshot below.
-![Screenshot](images/import-demo/permalinks.jpg)
+![Screenshot](images/import-demo/permalinks.png)
 
 #### **Initial Elementor Settings**
 

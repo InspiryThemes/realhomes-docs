@@ -34,7 +34,7 @@ To change **URL Slugs** for rentals and various taxonomies please navigate to **
 
 Go to **Dashboard → Settings → Permalinks** and choose *Post name* from Common Settings and save the changes, As displayed in the following screenshot. It is important to save these settings to avoid 404 Errors after URL slug changes.
 
-![Screenshot](images/import-demo/permalinks.jpg)
+![Screenshot](images/import-demo/permalinks.png)
 
 ### **Step 5. Import Vacation Rentals Demo Data**
 
