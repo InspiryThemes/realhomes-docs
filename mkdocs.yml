@@ -156,8 +156,8 @@ nav:
         - Newsletter Widget: newsletter-widget.md
     - Footer:
         - Classic Settings:
-            - Partners Settings: footer-settings.md
-            - Text Settings: text-settings.md
+            - Partners: footer-settings.md
+            - Widgets: text-settings-classic.md
             - Styles: style-settings.md
         - Modern Settings:
             - Basics: footer-basics.md
