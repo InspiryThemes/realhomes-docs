@@ -54,7 +54,7 @@ Make sure that you have selected **My Own Custom Colors** in **Dashboard → Rea
 
 You can modify the styles of **Sticky Header** in **Dashboard → Real Homes → Customize Settings → Styles** and scroll down to find **Sticky Header** styles.
 
-![Header Variation](images/home-setup/header_sticky_styles_modern.png)
+![Header Variation](images/home-setup/header_sticky_styles_modern.gif)
 
 ### **Responsive Header Styles**
 
