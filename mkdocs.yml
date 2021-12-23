@@ -14,9 +14,12 @@ theme:
     favicon: 'images/base/realhomes-favicon.png' 
     logo: 'images/base/realhomes-logo.svg'
     custom_dir: overrides
- 
-site_dir: 'C:\Users\InspiryThemes.com\Desktop\rh-live-doc'
-# site_dir: 'app/public'
+
+# Windows Directory
+# site_dir: 'C:\Users\InspiryThemes.com\Desktop\rh-live-doc'
+
+# Mac Folder
+site_dir: '/Users/inspirythemes.com/Downloads/rh-live-doc'
 
 extra_css:
     - css/layout.css
@@ -157,9 +160,10 @@ nav:
             - Text Settings: text-settings.md
             - Styles: style-settings.md
         - Modern Settings:
-            - Footer Logo: footer-logo-modern.md
-            - Text Settings: text-settings.md
-            - Layout: footer-layout-modern.md
+            - Basics: footer-basics.md
+            - Logo and Tagline: footer-logo-tagline.md
+            - Widgets: footer-layout-modern.md
+            - Copyright & Designed By Texts: text-settings.md
             - Styles: style-settings-modern.md
     - IDX Compatible Plugins:
         - Optima Express Plugin:
