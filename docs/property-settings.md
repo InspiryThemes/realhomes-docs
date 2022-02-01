@@ -271,6 +271,11 @@ Once you enable **Property Views**, it will start gathering and displaying **Pro
 
 ![Property Views on Property Detail Page](images/single-property-page/property-views-modern.jpg)
 
+### **Analytics on Backend**
+
+You can also track the Property Analytics at **Dashboard → Easy Real Estate → Properties**. You will see a new column displaying the views of all the properties in the system.
+
+![Property Views on Property Detail Page](images/add-content/property-views.jpg)
 ## Similar Properties
 
 **Similar Properties Settings** are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Similar Properties**.
