@@ -65,3 +65,15 @@ In above displayed **Properties Filter Settings**, you can control the following
 After publishing you need to add the newly created page to the menu via **Dashboard → Appearance → Menus** 
 
 ![Adding Listing Page to the Menu](images/create-pages/add-listing-page-menu.png)
+
+### **Properties Archive / Taxonomy Pages**
+
+The settings for Properties Archive & Taxonomy pages are located in **Dashboard → Real Homes → Customize Settings → Various Pages → List Templates & Taxonomy Archives**.
+
+![Adding Listing Page to the Menu](images/create-pages/properties-archive-page-settings.png)
+
+### **Properties Card Settings**
+
+You can change the **Properties Card's** settings for **Grid Layout** in **Dashboard → Real Homes → Customize Settings → Various Pages → List Templates & Taxonomy Archives**.
+
+![Adding Listing Page to the Menu](images/create-pages/properties-card-settings.png)
