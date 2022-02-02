@@ -191,7 +191,8 @@ nav:
     - Email Template: email-template.md     
     - Customize Theme:
         - Customize Styles: customize-styles.md
-        - Custom Meta Fields for Property: custom-meta-field-for-property.md
+        - Preset Color Schemes: preset-color-schemes.md
+        - Additional or Custom CSS: additional-or-custom-css.md
         - Hire Customization Services: hire-customization-services.md
     - Deprecated:
         - Customizer Settings: deprecated.md
