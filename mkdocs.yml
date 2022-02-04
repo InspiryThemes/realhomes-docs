@@ -138,7 +138,7 @@ nav:
         - Full Width Page: add-full-width-page.md
     - FAQs: faqs-setup.md
     - Memberships & Payments:
-        - Membships Setup: realhomes-memberships-setup.md
+        - Memberships Setup: realhomes-memberships-setup.md
         - Individual Payments via PayPal: realhomes-paypal-payments.md 
         - Individual Payments via Stripe: inspiry-stripe-payments.md 
         - Individual Payments via WooCommerce: realhomes-woocommerce-payment-setup.md
