@@ -45,3 +45,11 @@ ere_agency_meta_boxes
 ```
 
 The **ere_agency_meta_boxes** allows you to add new meta-box fields for the Agency Edit/Add page.
+
+#### ere_property_max_gallery_images
+
+```
+ere_property_max_gallery_images
+```
+
+The **ere_property_max_gallery_images** can be used to override the default limit for the gallery images which is 48 by default.
