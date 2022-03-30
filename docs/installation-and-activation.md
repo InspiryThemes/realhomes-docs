@@ -53,10 +53,8 @@ Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **
 
 #### **Initial Elementor Settings**
 
-- Navigate to **Dashboard → Elementor → Settings** and make sure **Disable Default Colors** and **Disable Default Fonts** are enabled.
+Navigate to **Dashboard → Elementor → Settings** and make sure **Disable Default Colors** and **Disable Default Fonts** are enabled.
 ![Screenshot](images/elementor/disable-default-colors-fonts-elementor.png)
-- In this same section, click on **Styles** and check the **Content Width** is set to **1240**.
-![Screenshot](images/elementor/content-width-1240-elementor.png)
 
 If you face any problem during upload through the dashboard, please upload the theme using FTP as guided below.
 
