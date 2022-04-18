@@ -49,6 +49,7 @@ nav:
         - Installation & Setup: single-agent-setup.md
     - Elementor:
         - Intro & Installation: intro-and-installation-elementor.md
+        - Custom Header & Footer: custom-header-footer-elementor.md
         - RealHomes Widgets: 
             - RealHomes Elementor Widgets: realhomes-elementor-widgets.md
             - Properties Widgets: properties-elementor-widgets.md
