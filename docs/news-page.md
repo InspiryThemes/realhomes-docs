@@ -15,7 +15,6 @@ I am assuming that you have already created Home page.
 To configure reading settings you need to visit **Dashboard → Settings → Reading** and choose that front page displays as static page. Then select **Home** as **FrontPage** and **News** as **Posts Page**. As, displayed in screen shot below.
 
 ![Configure Reading Settings](images/import-demo/home-and-blog-settings.png)
-
 ## Banner and Spacing 
 
 ### **Modern**
@@ -26,3 +25,9 @@ To configure reading settings you need to visit **Dashboard → Settings → Rea
 
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
+
+## Blog Page Header and Meta Settings
+
+The header variation and blog meta settings are located in **Customizer** panel [ **Dashboard → RealHomes → Customize Settings → Blog Page** ].
+
+![Header Variation & Meta Settings](images/news-page/header-variation-and-meta-settings.png)
