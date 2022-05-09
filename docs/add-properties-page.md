@@ -42,11 +42,13 @@ You can **Filter Properties** based on your requirements using meta boxes displa
 
 In above displayed **Properties Filter Settings**, you can control the following:
 
-- Number of properties on each page in the pagination.
+- Number of properties on each page.
 - The order of properties by date, price etc.
 - Properties by specific location, status, type, feature etc.
-- You can also filter the property by minimum/maximum beds and minimum/maximum price.
-- You can even show the properties by a specific agent.
+- Filter the properties by minimum/maximum beds and minimum/maximum price.
+- Properties by a specific agent.
+- Enable/Disable AJAX Pagination.
+- Display Featured Properties only.
 
 ### **Banner And Spacing Settings**
 
