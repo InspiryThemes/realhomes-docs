@@ -12,6 +12,10 @@ You can upload your site's logo, retina logo, title, description tag and site ic
 
 ![Site Identity](images/home-setup/site-identity.png)
 
+## Create Custom Header
+
+You can create your own Custom Header using Elementor (free version) with RealHomes. You can consult <strong><a href="https://realhomes.io/documentation/custom-header-footer-elementor/">this section of the documentation</a></strong> to learn how.
+
 ## **Header Settings**
 
 You can customize almost all the components of the header from this very section in header panel.
