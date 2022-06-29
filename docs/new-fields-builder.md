@@ -7,6 +7,7 @@ Navigate to the **Dashboard → Easy Real Estate → New Fields Builder** page a
 ### **New Fields Builder Guide**
 - You can re-order a field by drag and drop handle that you can be seen near the field label.
 - For multi-option fields e.g ***Checkbox***, ***Radio*** and ***Select*** you can add comma separated values to create lists.
+- You can choose where you want to display the new fields e.g. **Advance Search Form**, **Property Submit Page**, **Property Listing Cards** and Property **Single Page**.
 - Don't forget to ***Save Settings*** once you are done with adding new fields.
 
 !!! warning "Important"
