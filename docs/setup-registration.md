@@ -30,10 +30,10 @@ Select the **Login & Register** template from page attributes.
 Provide the top banner related information 
 
 **Classic**
-![Login & Register Banner Area Settings](images/add-content/top-banner-area-settings.png)
+![Login & Register Banner Area Settings](images/create-pages/banner-spacing-classic.png)
 
 **Modern**
-![Login & Register Banner Area Settings](images/add-content/top-banner-area-settings-mod.png)
+![Login & Register Banner Area Settings](images/create-pages/modern-banner-spacing-full.png)
 
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**

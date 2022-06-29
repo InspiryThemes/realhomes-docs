@@ -20,10 +20,10 @@ You can add contents using the Gutenberg editor or you can use the Elementor (**
 ![Full Width Content](images/create-pages/full-width-content.jpg)
 
 **Modern Banner and Spacing Settings**
-![Banner And Spacing](images/news-page/banner-spacing.jpg)
+![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
 
 **Classic Banner and Spacing Settings**
-![Banner And Spacing](images/news-page/banner-spacing-classic.jpg)
+![Banner And Spacing](images/create-pages/banner-spacing-classic.png)
 
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**

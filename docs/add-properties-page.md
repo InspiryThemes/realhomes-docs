@@ -54,7 +54,7 @@ In above displayed **Properties Filter Settings**, you can control the following
 
 **Classic**
 
-![Banner And Spacing](images/news-page/banner-spacing-classic.jpg)
+![Banner And Spacing](images/create-pages/banner-spacing-classic.png)
 
 **Modern**
 

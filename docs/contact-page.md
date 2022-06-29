@@ -36,7 +36,7 @@ Since theme version `3.9.2` you can create as many contact pages as you want and
 
 **Classic**
 
-![Banner And Spacing](images/news-page/banner-spacing-classic.jpg)
+![Banner And Spacing](images/create-pages/banner-spacing-classic.png)
 
 **Modern**
 

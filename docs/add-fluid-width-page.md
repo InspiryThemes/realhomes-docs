@@ -17,10 +17,10 @@ You can add contents using the Gutenberg editor or you can use the Elementor (**
 ![Fluid Width Content](images/create-pages/full-width-content.jpg)
 
 **Modern Banner and Spacing Settings**
-![Banner And Spacing](images/news-page/banner-spacing.jpg)
+![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
 
 **Classic Banner and Spacing Settings**
-![Banner And Spacing](images/news-page/banner-spacing-classic.jpg)
+![Banner And Spacing](images/create-pages/banner-spacing-classic.png)
 
 - Publish the page once it is ready.
 

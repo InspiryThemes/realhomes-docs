@@ -13,10 +13,10 @@ Select the **Users List** from page attributes.
 Provide information related to top banner.
 
 **Classic**
-![Banner Area Settings](images/add-content/top-banner-area-settings.png)
+![Banner Area Settings](images/create-pages/banner-spacing-classic.png)
 
 **Modern**
-![Banner Area Settings](images/add-content/top-banner-area-settings-mod.png)
+![Banner Area Settings](images/create-pages/modern-banner-spacing-full.png)
 
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**

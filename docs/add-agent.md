@@ -28,11 +28,11 @@ Provide the agent social networks information using social tab.
 
 - Provide the top banner related information on agent detail page if you want for **Classic** Variation!
 
-![Add Gallery Page](images/add-content/top-banner-area-settings.png)
+![Add Gallery Page](images/create-pages/banner-spacing-classic.png)
 
 - Provide the top banner related information on agent detail page if you want for **Modern** Variation!
 
-![Add Gallery Page](images/add-content/top-banner-area-settings-mod.png)
+![Add Gallery Page](images/create-pages/modern-banner-spacing-full.png)
 
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**

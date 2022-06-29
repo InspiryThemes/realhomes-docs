@@ -20,7 +20,7 @@ If you are using Classic Design and you want to change the Search Page Variation
 
 **Classic**
 
-![Banner And Spacing](images/news-page/banner-spacing-classic.jpg)
+![Banner And Spacing](images/create-pages/banner-spacing-classic.png)
 
 **Modern**
 
