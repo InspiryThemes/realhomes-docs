@@ -24,7 +24,7 @@ Move the pointer to the demo, and you will have two buttons, "**Preview Demo**" 
 
 The Demo Import process will install any missing plugins (if any), so click on the **Continue & Import** button to confirm the operation.
 
-You should wait for few minutes while the demo images are (downloaded). This process can take a couple of minutes (depending on the speed of your hosting server).
+Wait for few minutes while the demo content and images are downloaded. This process can take a couple of minutes (depending on the speed of your hosting server).
 
 ![Screenshot](images/import-demo/import-demo-demonstration.gif)
 
