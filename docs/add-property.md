@@ -12,6 +12,12 @@ Add basic information related to property, Like price, area, beds, baths, garage
 
 ![Property Basic Information](images/add-content/basic-info.png)
 
+### **Add Aditional Information**
+
+You can provide any additional information as key-value pairs. 
+
+![Property Additional Information](images/add-content/additional-information.png)
+
 ### **Add Vacation Rentals Information**
 If you are using the **RealHomes Vacation Rentals** plugin and have [configured](vacation-rentals-setup.md) it, you can see the **Vacation Rentals** tab at the top. There you can add pricing and other property rental information. For more information, check out the detailed guide to add property with [vacation rental information here]((add-property-vr.md)).
 
@@ -142,11 +148,14 @@ Along with banner settings you can also hide the advanced search form in the hea
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
 
-### **Add Aditional Information**
+### **Custom Header & Footer**
 
-You can provide any additional information as key-value pairs. 
+You can also apply a unique custom header and footer to any property by selecting it from Custom Header or Custom Footer settings.
 
-![Property Additional Information](images/add-content/additional-information.png)
+![Custom Header & Footer](images/add-content/custom-header-footer-single-property.png)
+
+!!!info "Custom Header & Footer"
+    You can create your own Custom Header or Footer using Elementor (free version) with RealHomes. You can consult <strong><a href="https://realhomes.io/documentation/custom-header-footer-elementor/">this section of the documentation</a></strong> to learn how.
 
 ### **Add/Select Property Features**
 
