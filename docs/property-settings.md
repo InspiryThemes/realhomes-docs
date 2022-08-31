@@ -58,6 +58,12 @@ You can over the default property detail page in **Dashboard → Real Homes → 
 
 ![Basic Settings of Property Detail Page](images/single-property-page/property-page-template-override.png)
 
+### **Single Property Variations**
+
+We have added **5 New Property Detail Page Design Variations** for the property details page. Learn more in the following video.
+
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/0Rb8ajNRcN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### **Require Login to Display Property Detail Page**
 
 You can choose to display the content of property details page in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
