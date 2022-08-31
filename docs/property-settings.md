@@ -24,6 +24,12 @@ The banner title settings can be modified in **Dashboard → Real Homes → Cust
 
 ![Banner Settings](images/single-property-page/banner-settings-property-details-page.png)
 
+## Report Property
+
+You can enable Report Property feature in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Report Property**.
+
+![Report Property Settings](images/single-property-page/report-property-single-property-page.png)
+
 ## Breadcrumbs
 
 **Breadcrumb Settings** can be changed in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Breadcrumbs**.
