@@ -20,7 +20,7 @@ You can create your own Custom Header using Elementor (free version) with RealHo
 
 You can customize almost all the components of the header from this very section in header panel.
 
-![Configure Header Settings](images/home-setup/header_modern.png)
+![Configure Header Settings](images/header/header_modern.png)
 
 ### **Search Form**
 
