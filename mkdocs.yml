@@ -45,6 +45,7 @@ nav:
         - Add Property: add-property-vr.md
         - Property Booking: booking.md
         - Booking Payments: realhomes-property-booking-payment-setup.md
+        - Bookings Module: bookings.md
     - Single Agent:
         - Installation & Setup: single-agent-setup.md
     - Elementor:
@@ -129,6 +130,7 @@ nav:
         - Submit Property Module: submit-property.md
         - Guest Property Submission: guest-property-submission.md
         - My Properties Module: my-properties.md
+        - Bookings Module: bookings.md
         - My Favorites Module: favorites-page.md
         - Saved Searches: saved-searches.md
         - My Profile Module: edit-profile.md
