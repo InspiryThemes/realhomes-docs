@@ -32,6 +32,12 @@ In Modern Design, there are multiple header variations and you can change them v
 
 The **Sticky Header** option is found in **Dashboard → Real Homes → Customize Settings → Header → Basics**.
 
+### **Contact Information**
+
+You can add/modify the **Contact Information** for the header in **Dashboard → Real Homes → Customize Settings → Header → Contact Information**.
+
+![Search Form](images/header/header_contact_information.png)
+
 ### **Search Form**
 
 You can display or hide the Advance Search Form in the header by changing the option in **Dashboard → Real Homes → Customize Settings → Header → Search Form**.
@@ -42,7 +48,7 @@ You can display or hide the Advance Search Form in the header by changing the op
 
 There are two Responsive Header Variations for Modern Design called **Transparent** and **Solid**. You can change the **Responsive Header Variation** in **Modern Design** by navigating to **Dashboard → Real Homes → Customize Settings → Header → Basics** (displayed above).
 
-### **Styles**
+### **Header Styles**
 
 To change **Header Styles**, please navigate to **Dashboard → Real Homes → Customize Settings → Styles → Header**.
 
