@@ -24,7 +24,7 @@ You can customize almost all the components of the header from this very section
 
 ### **Basics**
 
-In Modern Design, there are multiple header variations and you can change them via **Dashboard → Real Homes → Customize Settings → Header → Basics**.
+You can change **Header Settings** in **Dashboard → Real Homes → Customize Settings → Header → Basics**.
 
 ![Header Variation](images/header/header-settings-basics.png)
 

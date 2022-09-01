@@ -22,28 +22,42 @@ You can customize almost all the components of the header from this very section
 
 ![Configure Header Settings](images/home-setup/header_classic.png)
 
+### **Basics**
+
+You can change **Header Settings** in **Dashboard → Real Homes → Customize Settings → Header → Basics**.
+
+![Header Variation](images/header/header-settings-basics-classic.png)
+
+### **Sticky Header**
+
+The **Sticky Header** option is located in **Dashboard → Real Homes → Customize Settings → Header → Basics** (shown above).
+
+### **Variations**
+
+To change header variation please navigate to **Dashboard → Real Homes → Customize Settings → Header → Basics** and select **Center** for the option which says Choose **Header Variation**.
+
+### **Contact Information**
+
+You can add/modify the **Contact Information** for the header in **Dashboard → Real Homes → Customize Settings → Header → Contact Information**.
+
+![Search Form](images/header/header_contact_information_classic.png)
+
 ### **Search Form**
 
 You can show or hide the Advance Search Form in the header by modifying the home page at **Page Edit** screen at the backend [ **Homepage Settings → Search Form → Properties Search Form on Homepage** ].
 
 ![Configure Header Settings](images/header/header_search_form__classic.png)
 
-### **Sticky Header**
-
-The **Sticky Header** option is located in **Dashboard → Real Homes → Customize Settings → Header → Others**.
-
-![Header Variation](images/header/sticky_header_modern.png)
-
-### **Variations**
-
-To change header variation please navigate to **Dashboard → Real Homes → Customize Settings → Header → Others** and select **Center** for the option which says Choose **Header Variation**. You can also **Enable/Disable** the **Sticky Header** and select site logo filter for print in this section.
-
-![Header Variation](images/home-setup/header-variation.png)
-
-### **Styles**
+### **Header Styles**
 
 To change header styles for Classic Design please navigate to **Dashboard → Real Homes → Customize Settings → Styles**.
 
 Make sure that you have selected **My Own Custom Colors** in **Dashboard → Real Homes → Customize Settings → Styles → Default or Custom** so the style changes can work properly.
 
 ![Header Variation](images/home-setup/header_styles_classic.png)
+
+### **Responsive Header Styles**
+
+If you would like to modify the header styles for small screens then you can go to **Dashboard → Real Homes → Customize Settings → Styles → Header** and scroll down to find **Responsive Header** styles.
+
+![Header Variation](images/header/header_responsive_styles_classic.png)
