@@ -58,8 +58,8 @@ Navigate to **Dashboard → Elementor → Settings** and make sure **Disable Def
 
 If you face any problem during upload through the dashboard, please upload the theme using FTP as guided below.
 
-# **Alternative Installation Method**
-### **Install Theme Via FTP**
+### **Alternative Installation Method**
+#### **Install Theme Via FTP**
 
 1. Access your hosting server using an FTP client like **FileZilla**
 2. Go to the '**wp-content → themes**' folder of your WordPress installation
@@ -68,7 +68,7 @@ If you face any problem during upload through the dashboard, please upload the t
 5. Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes.
 6. After activation, go to "**Dashboard → Real Homes → Customize Settings**" to play with the theme's settings.
 
-### **Install Child Theme ( Highly Recommended )**
+#### **Install Child Theme ( Highly Recommended )**
 
 It is highly recommended to use a child theme if you are going to customize the parent theme's code. A pre-built ready-to-use child theme is included in the main theme pack that you have downloaded from ThemeForest.
 
@@ -77,7 +77,7 @@ To install the child theme, You need to upload the **realhomes-child.zip** and a
 
 ### **Common Installation Issues**
 
-All of the following issues/errors are either user-created or server-side problems.
+All the following issues/errors are either user-created or server-side problems.
 
 !!! error "**Theme is missing the style.css stylesheet error**"
     This issue occurs if you upload the rh-main-package.zip file. Check out this guide: https://help.market.envato.com/hc/en-us/articles/202821510-Theme-is-missing-the-style-css-stylesheet-error
