@@ -22,37 +22,31 @@ You can customize almost all the components of the header from this very section
 
 ![Configure Header Settings](images/header/header_modern.png)
 
+### **Basics**
+
+In Modern Design, there are multiple header variations and you can change them via **Dashboard → Real Homes → Customize Settings → Header → Basics**.
+
+![Header Variation](images/header/header-settings-basics.png)
+
+### **Sticky Header**
+
+The **Sticky Header** option is found in **Dashboard → Real Homes → Customize Settings → Header → Basics**.
+
 ### **Search Form**
 
 You can display or hide the Advance Search Form in the header by changing the option in **Dashboard → Real Homes → Customize Settings → Header → Search Form**.
 
-![Configure Header Settings](images/header/header_search_form_customizer.gif)
-
-### **Variations**
-
-In Modern Design, there are multiple header variations and you can change them via **Dashboard → Real Homes → Customize Settings → Header → Header Variations** (as shown below).
-
-![Header Variation](images/home-setup/header-variations-modern.gif)
-
-### **Sticky Header**
-
-The **Sticky Header** option is found in **Dashboard → Real Homes → Customize Settings → Header → Others**.
-
-![Header Variation](images/header/sticky_header_modern.png)
+![Search Form](images/header/header_search_form_customizer.gif)
 
 ### **Responsive Variations**
 
-There are two Responsive Header Variations for Modern Design called **Transparent** and **Solid**. You can change the **Responsive Header Variation** in **Modern Design** by navigating to **Dashboard → Real Homes → Customize Settings → Header → Others** (displayed below).
-
-![Header Variation](images/header/responsive_variations_modern.gif)
+There are two Responsive Header Variations for Modern Design called **Transparent** and **Solid**. You can change the **Responsive Header Variation** in **Modern Design** by navigating to **Dashboard → Real Homes → Customize Settings → Header → Basics** (displayed above).
 
 ### **Styles**
 
-To change header styles for Modern Design please navigate to **Dashboard → Real Homes → Customize Settings → Styles**.
+To change **Header Styles**, please navigate to **Dashboard → Real Homes → Customize Settings → Styles → Header**.
 
-Make sure that you have selected **My Own Custom Colors** in **Dashboard → Real Homes → Customize Settings → Styles → Default or Custom** so the style changes can work properly.
-
-![Header Variation](images/home-setup/header_styles_modern.png)
+![Header Variation](images/header/header_styles_modern.png)
 
 ### **Sticky Header Styles**
 
@@ -62,6 +56,6 @@ You can modify the styles of **Sticky Header** in **Dashboard → Real Homes →
 
 ### **Responsive Header Styles**
 
-If you would like to modify the header styles for small screens then you can go to **Dashboard → Real Homes → Customize Settings → Styles** and scroll down to find **Responsive Header** styles.
+If you would like to modify the header styles for small screens then you can go to **Dashboard → Real Homes → Customize Settings → Styles → Header** and scroll down to find **Responsive Header** styles.
 
-![Header Variation](images/home-setup/header_responsive_styles_modern.png)
+![Header Variation](images/header/header_responsive_styles_modern.png)
