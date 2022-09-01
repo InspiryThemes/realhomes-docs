@@ -38,7 +38,7 @@ Copy the generated **Google Maps API key** from the popup. Click on **Close** bu
 ![RealHomes Documentation](images/google-maps/api-key.png)
 
 Put this **API Key** you just copied in **Maps** Settings (**Easy Real Estate → Settings → Maps → Google Maps API Key**).
-![RealHomes Documentation](images/ere-tabs/maps.png)
+![RealHomes Documentation](images/google-maps/google-maps-ere.png)
 
 ### **Default Location for Maps on Single Property & Property Listing Pages**
 

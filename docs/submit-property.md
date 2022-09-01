@@ -82,7 +82,7 @@ You can change the **Default Address** which is shown in **Submit Property** mod
 
 You can also modify the longitude and latitude of the default map location. Please make sure that you add the coordinates properly, adding bad coordinates will result in the issues accessing the Submit Property or Add New Property module.
 
-![RealHomes Documentation](images/ere-tabs/maps.png)
+![RealHomes Documentation](images/google-maps/google-maps-ere.png)
 
 ### **Individual Property Payments Settings**
 
