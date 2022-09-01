@@ -1,6 +1,6 @@
 # Submit Property
 
-### Submit Property Module
+### **Submit Property Module**
  
 You can Enable/Disable **Submit Property** module on dashboard by navigating to **Dashboard → RealHomes → Customize Settings → Dashboard → Submit Property** section.
 
@@ -18,11 +18,17 @@ Frontend view of submit/add property module.
 
 ![Submit Property Settings](images/dashboard/frontend-submit-property.png)
 
-### Submit Property Form Layout
+### **Submit Property Labels**
+
+You can change the labels of each field of Submit Property form in **Dashboard → RealHomes → Customize Settings → Dashboard → Submit Property Labels**.
+
+![Submit Property Form](images/dashboard/submit-property-labels.gif)
+
+### **Submit Property Form Layout**
 
 ![Submit Property Form](images/dashboard/submit-property-form-layout.png)
 
-### Submit Property Form Fields
+### **Submit Property Form Fields**
 
 ![Submit Property Form](images/dashboard/submit-property-form-fields.png)
 
