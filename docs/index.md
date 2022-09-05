@@ -34,7 +34,7 @@ For any further assistance, Kindly register/login at our <a target="_blank" href
 
 ### Support Includes
 
-- Answering technical questions about theme features.
+- Answering technical questions about theme's features.
 - Assistance with reported bugs and issues.
 - Guidance with included 3rd party assets.
 
