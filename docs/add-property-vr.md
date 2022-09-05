@@ -110,7 +110,7 @@ You must set a featured image to the property. This featured image will be displ
 
 ### **Add Video Tour and Virtual Tour**
 
-If your property has any virtual tour video then it is recommended that you upload the video on vimeo or youtube and provide it's URL here with related screen shot or property photo. Property Photo is very important because if there is no property photo assigned to the video then it will not be shown. You can add multiple virtual tour videos by clicking on the **+ Add more** button.
+If your property has any virtual tour video then it is recommended that you upload the video on vimeo or youtube and provide it's URL here with related screenshot or property photo. Property Photo is very important because if there is no property photo assigned to the video then it will not be shown. You can add multiple virtual tour videos by clicking on the **+ Add more** button.
 
 > You can also add 360 Virtual Tour of your property using iframe tag. For example, the following code will add a 360 virtual tour from matterport.com to your property. 
 
@@ -173,7 +173,7 @@ Along with banner settings you can also hide the advanced search form in the hea
 
 ### **Add/Select Property Features**
 
-You can choose or add property features from related meta box displayed in screen shot below.
+You can choose or add property features from related meta box displayed in screenshot below.
 
 ![Property Features](images/add-content/property-features-updated.png)
 
@@ -194,25 +194,25 @@ You can also add an icon to a property feature. This icon will appear on the pro
 
 ### **Add/Assign Property Types**
 
-You can choose or add **Property Types** from related meta box displayed in screen shot below.
+You can choose or add **Property Types** from related meta box displayed in screenshot below.
 
 ![Property Type](images/add-content/property-types-updated.png)
 
 ### **Add/Assign Property Locations**
 
-You can choose or add **Property Locations** from related meta box displayed in screen shot below.
+You can choose or add **Property Locations** from related meta box displayed in screenshot below.
 
 ![Property City](images/add-content/property-cities-updated.png)
 
 ### **Add/Assign Property Statuses**
 
-You can choose or add **Property Statuses** from related meta box displayed in screen shot below. 
+You can choose or add **Property Statuses** from related meta box displayed in screenshot below. 
 
 ![Property Status](images/add-content/property-status-updated.png)
 
 ### **Assign Parent Property**
 
-If this property is a sub/child property of another property then you can select the parent property from related meta box displayed in screen shot below. 
+If this property is a sub/child property of another property then you can select the parent property from related meta box displayed in screenshot below. 
 
 ![Property Attributes](images/add-content/property-attributes.png)
 

@@ -10,6 +10,6 @@ You can enable Partner Carousel by navigating to **Dashboard → Real Homes → 
 
 ### How to Add a Partner
 
-After enabling partners carousel you need to add partners from **Real Homes → Partners → Add New** as displayed in screen shot below.
+After enabling partners carousel you need to add partners from **Real Homes → Partners → Add New** as displayed in screenshot below.
 
 ![Home Page Properties](images/home-setup/add-partner.png)

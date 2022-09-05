@@ -30,7 +30,7 @@ Once the theme is uploaded then you need to activate it.
 
 ### **Update Permalinks Settings**
 
-Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes, As displayed in screen shot below.
+Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes, As displayed in screenshot below.
 ![Screenshot](images/import-demo/permalinks.png)
 
 ### **Required Plugin Installation & Activation**

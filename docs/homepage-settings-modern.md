@@ -36,7 +36,7 @@ Visit the slider settings as guided above and choose **Slider Based on Propertie
 
 ![Home Page Slider](images/home-setup/slider-modern1.jpg)
 
-If you want to include a property in homepage slider, Then you need to edit that property and look for metabox field with tab title **"Homepage Slider"**. Open the tab and select **Yes** plus provide slide image as required by **Slider Image** field in screen shot below it.
+If you want to include a property in homepage slider, Then you need to edit that property and look for metabox field with tab title **"Homepage Slider"**. Open the tab and select **Yes** plus provide slide image as required by **Slider Image** field in screenshot below it.
 
 ![Home Page Slider](images/home-setup/slider-classic2.png)
 

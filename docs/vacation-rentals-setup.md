@@ -53,7 +53,7 @@ Wait for few minutes as the demo images are being fetched (downloaded) from the 
 !!! warning "Important"
     Sometimes, the import process takes longer than expected and doesn't complete in the first attempt. So, simply import again until the process is complete.
 
-**Once the import process is complete**, You will receive a notice as the one displayed in the screen shot below.
+**Once the import process is complete**, You will receive a notice as the one displayed in the screenshot below.
 
 ![Screenshot](images/import-demo/all-done.png)
 

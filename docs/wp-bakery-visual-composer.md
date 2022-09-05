@@ -7,7 +7,7 @@ Look for the folder name **Plugins → Visual Composer** in unzipped package dow
 ![RealHomes Documentation](images/included-plugins/vc-1.png)
 ![RealHomes Documentation](images/included-plugins/vc-2.png)
 
-Once installed, You need to activate the plugin as displayed in screen shot below.
+Once installed, You need to activate the plugin as displayed in screenshot below.
 
 ![RealHomes Documentation](images/included-plugins/vc-3.png)
 
@@ -17,7 +17,7 @@ After activation you can create a test page to try out visual composer.
 
 ![RealHomes Documentation](images/included-plugins/vc-backend-editor.png)
 
-Click on "**Backend Editor**" Button in visual composer toolbar, and you will have the visual composer page builder layout ready for use as displayed in screen shot below.
+Click on "**Backend Editor**" Button in visual composer toolbar, and you will have the visual composer page builder layout ready for use as displayed in screenshot below.
 
 ![RealHomes Documentation](images/included-plugins/vc-5.png)
 

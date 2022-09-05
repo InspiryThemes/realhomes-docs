@@ -2,7 +2,7 @@ How to set up Testimonials Page
 
 I have developed [Quick and Easy Testimonials plugin](https://wordpress.org/plugins/quick-and-easy-testimonials/) for this purpose.
 
-Install the [Quick and Easy Testimonials plugin](https://wordpress.org/plugins/quick-and-easy-testimonials/). As guided in screen shot below.
+Install the [Quick and Easy Testimonials plugin](https://wordpress.org/plugins/quick-and-easy-testimonials/). As guided in screenshot below.
 
 ![RealHomes Documentation](images/other-features/testimonial-plugin-search.png)
 

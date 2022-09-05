@@ -4,7 +4,7 @@ You can include IDX contents to your site. The easiest way to get started is to 
 
 1. First you have to register a **Trial Account** at http://www.diversesolutions.com and get an activation key.
 
-2. After that you have to install **dsIDXpress Plugin** (https://wordpress.org/plugins/dsidxpress/) and activate it using **Activation Key** you got from registering with divers solutions website. Related screen shot is given below. 
+2. After that you have to install **dsIDXpress Plugin** (https://wordpress.org/plugins/dsidxpress/) and activate it using **Activation Key** you got from registering with divers solutions website. Related screenshot is given below. 
 ![RealHomes Documentation](images/idx/1.png)
 
 3. After activation you can access your **IDX Listing** using following URL format http://www.yourwebsite.com/idx/
@@ -18,5 +18,5 @@ You can include IDX contents to your site. The easiest way to get started is to 
 !!! note
     The easiest way to access **IDX Listing Page** is, http://www.yoursitename.com/idx
 
-6. You can add **IDX Listing Page** in menu as displayed in screen shot below. 
+6. You can add **IDX Listing Page** in menu as displayed in screenshot below. 
 ![RealHomes Documentation](images/idx/4.png)

@@ -36,7 +36,7 @@ If you like to disable the map on Properties Listing pages then you can disable 
 
 ### **Properties Filter Settings**
 
-You can **Filter Properties** based on your requirements using meta boxes displayed in screen shot below. 
+You can **Filter Properties** based on your requirements using meta boxes displayed in screenshot below. 
 
 ![Properties Filter Settings](images/create-pages/properties-filter.png)
 

@@ -16,7 +16,7 @@ The good thing is now you can add the elements of Modern or Classic design anywh
 
 To set up the Home page you need to create a new page. In order to do so go to **Dashboard → Pages → Add New**. You can give this page a title "**Home**" yet you do not need to include any contents for now.
 
-Select the “**Home**” template from the **Page Attributes** section, as displayed in screen shot below and click “**Publish**”.
+Select the “**Home**” template from the **Page Attributes** section, as displayed in screenshot below and click “**Publish**”.
 
 ![Screenshot](images/home-setup/create-homepage.png)
 
