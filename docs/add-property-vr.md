@@ -14,7 +14,7 @@ If you are using the **RealHomes Vacation Rentals** plugin and have [configured]
 
 ### **Add Basic Information**
 
-Add basic information related to property, Like price, area, beds, baths, garages etc. 
+Add basic information related to property, Like price, area, beds, baths, garages, etc. 
 
 ![Basic Information Vacations Rental](images/add-content/basic-information-vr.png)
 
@@ -47,7 +47,7 @@ Add basic information related to property, Like price, area, beds, baths, garage
 ![Vacations Rentals](images/add-content/property-policies-and-rules.png)
 
 ### **iCalendar Synchronization**
-To stay up to date and avoid double bookings when you have listed your properties on third party websites also, you can sync your booking calendar with third party calendars.
+To stay up to date and avoid double bookings when you have listed your properties on third-party websites also, you can sync your booking calendar with third-party calendars.
 
 ##### **Step 1. Add iCalendar Feed Page**
 Before syncing the properties' calendar dates, you need to create an *iCalendar feed* page using the **iCalendar Feed** template as displayed in the following screenshot.
@@ -55,24 +55,24 @@ Before syncing the properties' calendar dates, you need to create an *iCalendar 
 ![Property Basic Information](images/add-content/add-icalendar-page.png)
 
 ##### **Step 2. Syncing your booking calendar to third-party calendars**
-Once you created the iCalendar feed page you can see the booking calendar feed export URL at the very bottom of the *Vacation Rentals* property metabox tab as you can see in the screenshot given below. Copy the **Feed URL** and add it to the third party iCalendar import field as per their settings. 
+Once you created the iCalendar feed page, you can see the booking calendar feed export URL at the very bottom of the *Vacation Rentals* property metabox tab as you can see in the screenshot given below. Copy the **Feed URL** and add it to the third-party iCalendar import field as per their settings. 
 
 ![iCalendar import & export](images/add-content/icalendar-import-export.png)
 
 ##### **Step 3. Syncing your booking calendar from third-party calendars**
-To sync third party booking calendars with your booking calendar, copy the iCalendar feed URL from their website. After that you can add that feed URL to *iCalendar Import* section as you can see in the screenshot given below. Set a name for reference in the **Feed Name** field and feed URL to the **Feed URL** field. You can add multiple feed URLs to sync from.
+To sync third-party booking calendars with your booking calendar, copy the iCalendar feed URL from their website. After that you can add that feed URL to *iCalendar Import* section as you can see in the screenshot given below. Set a name for reference in the **Feed Name** field and feed URL to the **Feed URL** field. You can add multiple feed URLs to sync from.
 
 ![iCalendar import & export](images/add-content/icalendar-import-export.png)
 
 ### **Mark Property as Featured**
 
-If you want to add this property into featured properties then mark this property as featured.
+If you want to add this property to featured properties, then mark this property as featured.
 
 ![Mark Property as Featured](images/add-content/mark-featured.png)
 
 ### **Provide Location on Google Map**
 
-Provide property address and drag the google map pointer to correct location. 
+Provide property address and drag the google map pointer to the correct location. 
 
 ![Property Map](images/add-content/property-map.png)
 
@@ -83,7 +83,7 @@ Provide property gallery images.
 Gallery Images options for **Modern** Variation.
 ![Property Gallery](images/add-content/property-gallery3.png)
 
->**Note**: Images should have minimum size of 1240px by 720px. Bigger size images will be cropped automatically. Minimum 2 images are required to display gallery.
+>**Note**: Images should have minimum size of 1240px by 720px. Bigger size images will be cropped automatically. Minimum 2 images are required to display the gallery.
 
 Gallery Images options for **Classic** Variation.
 ![Property Gallery](images/add-content/property-gallery2.png)
@@ -92,13 +92,13 @@ Gallery Images options for **Classic** Variation.
 
 ### **Add Floor Plans**
 
-Provide floor plan details, the Floor Plan Image and the Floor Name are the two important details you must add otherwise the floor section will not show.
+Provide floor plan details, the **Floor Plan Image** and the **Floor Name** are the two important details you must add otherwise the floor section will not show.
 
 ![Property Floor Plans](images/add-content/floor-plans.png)
 
 ### **Add Featured Image**
 
-You must set a featured image to the property.
+You must set a featured image to the property. This featured image will be displayed in property cards on listing pages throughout the website.
 
 **Featured Image**
 
@@ -194,19 +194,19 @@ You can also add an icon to a property feature. This icon will appear on the pro
 
 ### **Add/Assign Property Types**
 
-You can choose or add property types from related meta box displayed in screen shot below.
+You can choose or add **Property Types** from related meta box displayed in screen shot below.
 
 ![Property Type](images/add-content/property-types-updated.png)
 
 ### **Add/Assign Property Locations**
 
-You can choose or add property locations from related meta box displayed in screen shot below.
+You can choose or add **Property Locations** from related meta box displayed in screen shot below.
 
 ![Property City](images/add-content/property-cities-updated.png)
 
 ### **Add/Assign Property Statuses**
 
-You can choose or add property statuses from related meta box displayed in screen shot below. 
+You can choose or add **Property Statuses** from related meta box displayed in screen shot below. 
 
 ![Property Status](images/add-content/property-status-updated.png)
 
@@ -218,7 +218,11 @@ If this property is a sub/child property of another property then you can select
 
 ### **Property Page Layout**
 
-If you want to make the single property page full width then you can do that by changing the **Page Template** from **Page Attributes** to **Property full-width layout**.
+If you want to make the single property page full width, then you can change the **Page Template** from **Templates** to **Property Full Width**.
+
+![Property Attributes](images/add-content/gutenberg-template-section-full-width.png)
+
+If you are using **Classic Editor** then select the same template from **Page Attributes** (shown below).
 
 ![Property Attributes](images/add-content/select-single-property-template.gif)
 
