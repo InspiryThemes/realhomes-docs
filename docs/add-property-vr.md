@@ -218,11 +218,7 @@ If this property is a sub/child property of another property then you can select
 
 ### **Property Page Layout**
 
-If you want to make the single property page full width, then you can change the **Page Template** from **Templates** to **Property Full Width**.
-
-![Property Attributes](images/add-content/gutenberg-template-section-full-width.png)
-
-If you are using **Classic Editor** then select the same template from **Page Attributes** (shown below).
+If you want to make the single property page full width, then you can change the **Page Template** from **Templates** to **Property Full Width**. For **Classic Editor**, select the same template from **Page Attributes**.
 
 ![Property Attributes](images/add-content/select-single-property-template.gif)
 
