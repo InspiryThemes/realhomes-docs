@@ -4,15 +4,19 @@
 
 In case you have Imported Demo Contents the news page is already created and you do not need to follow this section.
 
-To set up the News page you need to create a new page, Go to **Dashboard → Pages → Add New**. You can give this page a title "**News**" yet you do not need to include any contents for now. Select the “**Default Template**” template from the **Page Attributes** section, as displayed in screen shot below and click “**Publish**”.
+To set up the News page you need to create a new page, Go to **Dashboard → Pages → Add New**. You can give this page a title as "**News**", you do not need to add any contents for now.
+
+No template selection is necessary, as it requires **Default Template** as displayed below.
 
 ![Create News Page](images/news-page/create-news-page.png)
 
+Click “**Publish**” to publish the page.
+
 ## Configure Reading Settings
 
-I am assuming that you have already created Home page.
+I am assuming that you have already created a Home page.
 
-To configure reading settings you need to visit **Dashboard → Settings → Reading** and choose that front page displays as static page. Then select **Home** as **FrontPage** and **News** as **Posts Page**. As, displayed in screen shot below.
+To configure reading settings you need to visit **Dashboard → Settings → Reading** and choose that front page displays as static page. Then select **Home** as **FrontPage** and **News** as **Posts Page** (shown below)
 
 ![Configure Reading Settings](images/import-demo/home-and-blog-settings.png)
 ## Banner and Spacing 
