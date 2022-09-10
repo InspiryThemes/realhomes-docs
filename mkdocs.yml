@@ -68,18 +68,59 @@ nav:
         # - Home Page with Elementor: home-page-setup-with-elementor.md
         - Common Issues: common-issues-elementor.md
         - Elementor Pro: elementor-pro.md
-    - Homepage:
+    - Maps & reCAPTCHA:
+        - Open Street Maps: open-street-maps.md
+        - Google Maps:
+            - Setup: google-maps-setup.md
+            - Troubleshooting: google-maps-troubleshooting.md
+            - Custom Markers for Property Type: property-type-custom-markers.md
+        - MapBox:
+            - Setup: mapbox-setup.md
+        - Google reCAPTCHA:
+            - Get Google reCAPTCHA API Key: google-recaptcha-setup.md
+    - Header & Footer:
+        - Header Settings:
+            - Modern: configure-header-settings.md
+            - Classic: configure-header-settings-classic.md
+        - Footer Settings:
+            - Classic Settings:
+                - Partners: footer-settings.md
+                - Widgets: text-settings-classic.md
+                - Styles: style-settings.md
+            - Modern Settings:
+                - Basics: footer-basics.md
+                - Logo and Tagline: footer-logo-tagline.md
+                - Widgets: footer-layout-modern.md
+                - Copyright & Designed By Texts: text-settings.md
+                - Styles: style-settings-modern.md
+    - Login & Registration:
+        - Setup Login: setup-login.md
+        - Setup Registration: setup-registration.md
+        - Setup Social Login: setup-social-login.md
+    - Dashboard:
+        - Setup Dashboard: dashboard.md
+        - Basic Settings: dashboard-general.md
+        - Submit Property Module: submit-property.md
+        - Guest Property Submission: guest-property-submission.md
+        - My Properties Module: my-properties.md
+        - Bookings Module: bookings.md
+        - My Favorites Module: favorites-page.md
+        - Saved Searches: saved-searches.md
+        - My Profile Module: edit-profile.md
+        - User and Agent/Agency Synchronization: user-agent-agency-synchronization.md
+        - Styles: dashboard-styles.md
+    - Home Page:
         - Create Home Page: create-home-page.md
         - Configure Reading Settings: configure-reading-settings.md
         - Home Page with Elementor: home-page-setup-with-elementor.md
         - Settings (Classic): homepage-settings-classic.md
         - Settings (Modern): homepage-settings-modern.md
+    - Advanced Search Setup:
+        - Create Search Page: create-search-page.md
+        - Configure Properties Search: advance-search-setup.md
     - News/Blog Page:
         - Create News/Blog Page: news-page.md
         - Add News/Blog Post: add-news-post.md
-    - Header Settings:
-        - Modern: configure-header-settings.md
-        - Classic: configure-header-settings-classic.md
     - Easy Real Estate:
         - Adding Property:
             - Add New Property: add-property.md
@@ -96,22 +137,12 @@ nav:
         - Social Links: social-links.md
         - Webhooks: webhooks-zohocrm-zapier.md
         - New Fields Builder: new-fields-builder.md
-    - Properties Page: add-properties-page.md
-    - Advanced Search Setup:
-        - Create Search Page: create-search-page.md
-        - Configure Properties Search: advance-search-setup.md
-    - Maps & reCAPTCHA:
-        - Open Street Maps: open-street-maps.md
-        - Google Maps:
-            - Setup: google-maps-setup.md
-            - Troubleshooting: google-maps-troubleshooting.md
-            - Custom Markers for Property Type: property-type-custom-markers.md
-        - MapBox:
-            - Setup: mapbox-setup.md
-        - Google reCAPTCHA:
-            - Get Google reCAPTCHA API Key: google-recaptcha-setup.md
+    - Property Listing Pages:
+        - Listing Layouts: add-listing-pages.md
+        - Grid Variations & Card Settings: grid-variations-card-settings.md
+        - Properties Filter Settings: properties-filter-settings.md
     - Translation: translation.md
-    - CRM: real-estate-crm.md
+    - Setup CRM: real-estate-crm.md
     - Contact Page: contact-page.md
     - Floating Features:
         - Compare Properties: compare-properties.md
@@ -120,28 +151,12 @@ nav:
     - Compare Properties: 
         - Setup Page: compare-properties.md
         - Configure Settings: compare-properties-settings.md
-    - Members:
-        - Setup Login: setup-login.md
-        - Setup Registration: setup-registration.md
-        - Setup Social Login: setup-social-login.md
-    - Dashboard:
-        - Setup Dashboard: dashboard.md
-        - Basic Settings: dashboard-general.md
-        - Submit Property Module: submit-property.md
-        - Guest Property Submission: guest-property-submission.md
-        - My Properties Module: my-properties.md
-        - Bookings Module: bookings.md
-        - My Favorites Module: favorites-page.md
-        - Saved Searches: saved-searches.md
-        - My Profile Module: edit-profile.md
-        - User and Agent/Agency Synchronization: user-agent-agency-synchronization.md
-        - Styles: dashboard-styles.md
     - Other Pages:
         - Gallery Page: add-gallery-page.md
         - Users Page: add-users-page.md
         - Fluid Width Page: add-fluid-width-page.md
         - Full Width Page: add-full-width-page.md
-    - FAQs: faqs-setup.md
+    - Setup FAQs: faqs-setup.md
     - Memberships & Payments:
         - Memberships Setup: realhomes-memberships-setup.md
         - Individual Payments via PayPal: realhomes-paypal-payments.md 
@@ -159,17 +174,6 @@ nav:
         - Mortgage Calculator: mortgage-calculator.md
         - Twitter Widget: twitter-widget.md
         - Newsletter Widget: newsletter-widget.md
-    - Footer:
-        - Classic Settings:
-            - Partners: footer-settings.md
-            - Widgets: text-settings-classic.md
-            - Styles: style-settings.md
-        - Modern Settings:
-            - Basics: footer-basics.md
-            - Logo and Tagline: footer-logo-tagline.md
-            - Widgets: footer-layout-modern.md
-            - Copyright & Designed By Texts: text-settings.md
-            - Styles: style-settings-modern.md
     - IDX Compatible Plugins:
         - Optima Express Plugin:
             - Installation & Setup: optima-express.md
@@ -180,7 +184,7 @@ nav:
         - Testimonials: testimonials-setup.md
         - Currency Switcher: currency-switcher.md
         - SSL Enhancements: ssl-enhancements.md 
-    - WPML:
+    - WPML Setup:
         - WPML Basic Setup: wpml-basic-setup.md
         - WPML Language Switcher: wpml-language-switcher.md
         - Home & News Page: wpml-home-news-page.md
