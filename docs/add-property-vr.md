@@ -12,11 +12,9 @@ If you are using the **RealHomes Vacation Rentals** plugin and have [configured]
 
 ![Vacations Rentals](images/add-content/vacation-rentals.png)
 
-### **Add Basic Information**
+### Reserve Booking Dates
 
-Add basic information related to property, Like price, area, beds, baths, garages, etc. 
-
-![Basic Information Vacations Rental](images/add-content/basic-information-vr.png)
+![Vacations Rentals](images/vacation-rentals/reserve-booking-dates.png)
 
 ### Seasonal Prices
 
@@ -33,6 +31,10 @@ Add basic information related to property, Like price, area, beds, baths, garage
 ### Guest Accomodations
 
 ![Vacations Rentals](images/add-content/guests-accomodation.png)
+
+### Assign Owner
+
+![Vacations Rentals](images/vacation-rentals/assign-owner.png)
 
 ### Outdoor Features and Property Surroundings
 
@@ -63,6 +65,12 @@ Once you created the iCalendar feed page, you can see the booking calendar feed 
 To sync third-party booking calendars with your booking calendar, copy the iCalendar feed URL from their website. After that you can add that feed URL to *iCalendar Import* section as you can see in the screenshot given below. Set a name for reference in the **Feed Name** field and feed URL to the **Feed URL** field. You can add multiple feed URLs to sync from.
 
 ![iCalendar import & export](images/add-content/icalendar-import-export.png)
+
+### **Add Basic Information**
+
+Add basic information related to property, Like price, area, beds, baths, garages, etc.
+
+![Basic Information Vacations Rental](images/add-content/basic-information-vr.png)
 
 ### **Mark Property as Featured**
 
