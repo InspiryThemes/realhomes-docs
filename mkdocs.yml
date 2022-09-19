@@ -141,7 +141,9 @@ nav:
         - Listing Layouts: add-listing-pages.md
         - Grid Variations & Card Settings: grid-variations-card-settings.md
         - Properties Filter Settings: properties-filter-settings.md
-    - Translation: translation.md
+    - Translation:
+        - Single Language: translation-single.md
+        - Multilingual: translation-multilingual.md
     - Setup CRM: real-estate-crm.md
     - Contact Page: contact-page.md
     - Floating Features:
@@ -189,9 +191,9 @@ nav:
         - WPML Language Switcher: wpml-language-switcher.md
         - Home & News Page: wpml-home-news-page.md
         - WPML Menu Sync: wpml-menu-sync.md
-        - String Translation: wpml-string-translation.md
-        - Taxonomy Translation: wpml-taxonomy-translation.md
-        - Slugs Translation: wpml-slugs-translation.md
+        - String Translation: wpml-string-translation-single.md
+        - Taxonomy Translation: wpml-taxonomy-translation-single.md
+        - Slugs Translation: wpml-slugs-translation-single.md
         - Translate Property: wpml-translate-property.md
         - Property Search Page: wpml-property-search-page.md
     - Included Plugins:

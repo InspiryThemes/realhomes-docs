@@ -36,11 +36,3 @@ To translate it in one language, please consult the Knowledge Base article on [H
 **OR**
 
 You can also use [Loco Translate Plugin](https://wordpress.org/plugins/loco-translate/) by Tim Whitlock to translate this theme in one language.
-
-### **RealHomes Theme in Multilingual**
-
-If you are planning to translate your website into multiple languages then [WPML Multilingual Plugin](https://wpml.org) is the best option out there. To initiate its setup you can start reading from the [WPML Setup](https://realhomes.io/documentation/wpml-basic-setup/) section in the documentation.
-
-### **Which WPML Package do I need?**
-
-You must buy **Multilingual CMS Package** of WPML Translation plugin because the Multilingual Blog doesn't contain **String Translation Plugin of WPML** and it is quite essential to translate the strings of the theme and your website.
