@@ -10,4 +10,6 @@ We don't recommend or suggest our clients to buy it if they only want to use Rea
 
 ## Custom Header & Footer
 
-If you already have Elementor Pro or you are going to buy it, then you can use the Custom Header and Footer feature of Elementor Pro. RealHomes Theme is 100% compatible with the custom header and footer features of Elementor Pro.
+**Elementor Pro is not required to create Custom Header and Footer in RealHomes**.
+
+You can create your own Custom Header or Footer using Elementor (free version) with RealHomes. Check out <strong><a href="https://realhomes.io/documentation/custom-header-footer-elementor/">this section of the documentation</a></strong> to learn how.
