@@ -32,13 +32,13 @@ For any further assistance, Kindly register/login at our <a target="_blank" href
 
 ## Support Policy
 
-### Support Includes
+### **Support Includes**
 
 - Answering technical questions about theme's features.
 - Assistance with reported bugs and issues.
 - Guidance with included 3rd party assets.
 
-### Support Does Not Include
+### **Support Does Not Include**
 
 - Code customization.
 - Theme installation and setup.
