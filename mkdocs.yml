@@ -121,6 +121,12 @@ nav:
     - News/Blog Page:
         - Create News/Blog Page: news-page.md
         - Add News/Blog Post: add-news-post.md
+    - Other Pages:
+        - Gallery Page: add-gallery-page.md
+        - Users Page: add-users-page.md
+        - Fluid Width Page: add-fluid-width-page.md
+        - Full Width Page: add-full-width-page.md
+    - Contact Page: contact-page.md
     - Easy Real Estate:
         - Adding Property:
             - Add New Property: add-property.md
@@ -155,7 +161,6 @@ nav:
             - Translate Property: wpml-translate-property.md
             - Property Search Page: wpml-property-search-page.md
     - Setup CRM: real-estate-crm.md
-    - Contact Page: contact-page.md
     - Floating Features:
         - Compare Properties: compare-properties.md
         - Currency Switcher: currency-switcher.md
@@ -163,11 +168,6 @@ nav:
     - Compare Properties: 
         - Setup Page: compare-properties.md
         - Configure Settings: compare-properties-settings.md
-    - Other Pages:
-        - Gallery Page: add-gallery-page.md
-        - Users Page: add-users-page.md
-        - Fluid Width Page: add-fluid-width-page.md
-        - Full Width Page: add-full-width-page.md
     - Setup FAQs: faqs-setup.md
     - Memberships & Payments:
         - Memberships Setup: realhomes-memberships-setup.md
