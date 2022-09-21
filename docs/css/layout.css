@@ -37,6 +37,10 @@ body .md-search__inner {
     margin-top: 5px;
 }
 
+.md-typeset {
+    font-size: .7rem;
+}
+
 .md-typeset h4 {
     font-size: 1rem;
 }

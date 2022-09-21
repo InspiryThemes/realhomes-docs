@@ -5,6 +5,7 @@ Before installation, you must make sure that your hosting environment/server mus
 To start, you must have a working version of WordPress. Almost all primary web hosts provide one-click WordPress install, and you can consult your host's help site for more information in this regard. For manual installation, you can consult [WordPress Official Installation guide](https://wordpress.org/support/article/how-to-install-wordpress/).
 
 Once you have a working version of WordPress, You need to download "**All Files and Documentation**" from the ThemeForest download page (screenshot below) and extract the downloaded zip to get the required files, including **realhomes.zip**.
+
 ![Screenshot](images/installation/download-rh-full-package.png)
 
 ### **Install Theme Via WordPress Dashboard ( _Recommended_ )**
@@ -49,11 +50,13 @@ For more details please check [Design Selection](design-selection.md) page.
 #### **Update Permalinks Settings**
 
 Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes, As displayed in the screenshot below.
+
 ![Screenshot](images/import-demo/permalinks.png)
 
 #### **Initial Elementor Settings**
 
 Navigate to **Dashboard → Elementor → Settings** and make sure **Disable Default Colors** and **Disable Default Fonts** are enabled.
+
 ![Screenshot](images/elementor/disable-default-colors-fonts-elementor.png)
 
 If you face any problem during upload through the dashboard, please upload the theme using FTP as guided below.
