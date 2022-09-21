@@ -19,7 +19,7 @@ You can add any additional information as key-value pairs in additional informat
 ![Property Additional Information](images/add-content/additional-information.png)
 
 ### **Add Vacation Rentals Information**
-If you are using the **RealHomes Vacation Rentals** plugin and have [configured](vacation-rentals-setup.md) it, you can see the **Vacation Rentals** tab at the top. There you can add pricing and other property rental information. For more information, check out the detailed guide to adding a property with [vacation rental information here]((add-property-vr.md)).
+If you are using the **RealHomes Vacation Rentals** plugin and have [configured](vacation-rentals-setup.md) it, you can see the **Vacation Rentals** tab at the top. There you can add pricing and other property rental information. For more information, check out the detailed guide to adding a property with [vacation rental information here](add-property-vr.md).
 
 ![Property Basic Information](images/add-content/vacation-rentals.png)
 
