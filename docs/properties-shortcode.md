@@ -34,15 +34,3 @@ You can use the reference provided below to add attributes to properties shortco
 | max_area	  | null | To display properties with area less than or equal to maximum area value. <br>Example value: 4500 ( only provide digits without any comma or dash )| 
 | featured    | no   | To display featured properties. Possible values are "no" and "yes" |
 | agent    | null   | To display properties by agent. Possible value should be the ID of the agent |
-
-## Visual Composer Support
-
-`[properties]` shortcode comes integrated with visual composer and if you have installed and activated visual composer. 
-
-You can view the properties element under the theme tab as displayed in screenshot below. 
-
-![RealHomes Documentation](images/other-features/vc-add-element.png)
-
-Now, You can use all the supported attributes visually as displayed in screenshot below. 
-
-![RealHomes Documentation](images/other-features/vc-shortcode-settings.png)
