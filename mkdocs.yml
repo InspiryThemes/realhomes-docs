@@ -40,14 +40,71 @@ nav:
         - Plugins: plugins.md
         - Feedback: feedback.md
         - Help: help.md
-    - Vacation Rentals:
-        - Setup: vacation-rentals-setup.md
-        - Add Property: add-property-vr.md
-        - Property Booking: booking.md
-        - Booking Payments: realhomes-property-booking-payment-setup.md
-        - Bookings Module: bookings.md
-    - Single Agent:
-        - Installation & Setup: single-agent-setup.md
+    - Purpose Oriented Demos:
+        - Vacation Rentals:
+            - Setup: vacation-rentals-setup.md
+            - Add Property: add-property-vr.md
+            - Property Booking: booking.md
+            - Booking Payments: realhomes-property-booking-payment-setup.md
+            - Bookings Module: bookings.md
+        - Single Agent:
+            - Installation & Setup: single-agent-setup.md
+    - Header & Footer:
+        - Header Settings:
+            - Modern: configure-header-settings.md
+            - Classic: configure-header-settings-classic.md
+        - Footer Settings:
+            - Classic Settings:
+                - Partners: footer-settings.md
+                - Widgets: text-settings-classic.md
+                - Styles: style-settings.md
+            - Modern Settings:
+                - Basics: footer-basics.md
+                - Logo and Tagline: footer-logo-tagline.md
+                - Widgets: footer-layout-modern.md
+                - Copyright & Designed By Texts: text-settings.md
+                - Styles: style-settings-modern.md
+    - Home Page:
+        - Create Home Page: create-home-page.md
+        - Configure Reading Settings: configure-reading-settings.md
+        - Home Page with Elementor: home-page-setup-with-elementor.md
+        - Settings (Classic): homepage-settings-classic.md
+        - Settings (Modern): homepage-settings-modern.md
+    - Advanced Search Setup:
+        - Create Search Page: create-search-page.md
+        - Configure Properties Search: advance-search-setup.md
+    - Easy Real Estate:
+        - Adding Property:
+            - Add New Property: add-property.md
+            - Property Settings: property-settings.md
+        - Agents:
+            - Add New Agent: add-agent.md
+            - Create Agents Page: add-agents-page.md
+        - Agencies:
+            - Add New Agency: add-agency.md
+            - Create Agencies Page: add-agencies-page.md
+        - Price Format: price-format-settings.md
+        - URL Slugs: url-slugs-settings.md
+        - GDPR: gdpr.md
+        - Social Links: social-links.md
+        - Webhooks: webhooks-zohocrm-zapier.md
+        - New Fields Builder: new-fields-builder.md
+    - Property Listing Pages:
+        - Listing Layouts: add-listing-pages.md
+        - Grid Variations & Card Settings: grid-variations-card-settings.md
+        - Properties Filter Settings: properties-filter-settings.md
+    - Compare Properties:
+        - Setup Page: compare-properties.md
+        - Configure Settings: compare-properties-settings.md
+    - News/Blog Page:
+        - Create News/Blog Page: news-page.md
+        - Add News/Blog Post: add-news-post.md
+    - Contact Page: contact-page.md
+    - Other Pages:
+        - Gallery Page: add-gallery-page.md
+        - Users Page: add-users-page.md
+        - Fluid Width Page: add-fluid-width-page.md
+        - Full Width Page: add-full-width-page.md
     - Elementor:
         - Intro & Installation: intro-and-installation-elementor.md
         - Custom Header & Footer: custom-header-footer-elementor.md
@@ -78,21 +135,6 @@ nav:
             - Setup: mapbox-setup.md
         - Google reCAPTCHA:
             - Get Google reCAPTCHA API Key: google-recaptcha-setup.md
-    - Header & Footer:
-        - Header Settings:
-            - Modern: configure-header-settings.md
-            - Classic: configure-header-settings-classic.md
-        - Footer Settings:
-            - Classic Settings:
-                - Partners: footer-settings.md
-                - Widgets: text-settings-classic.md
-                - Styles: style-settings.md
-            - Modern Settings:
-                - Basics: footer-basics.md
-                - Logo and Tagline: footer-logo-tagline.md
-                - Widgets: footer-layout-modern.md
-                - Copyright & Designed By Texts: text-settings.md
-                - Styles: style-settings-modern.md
     - Login & Registration:
         - Setup Login: setup-login.md
         - Setup Registration: setup-registration.md
@@ -109,65 +151,11 @@ nav:
         - My Profile Module: edit-profile.md
         - User and Agent/Agency Synchronization: user-agent-agency-synchronization.md
         - Styles: dashboard-styles.md
-    - Home Page:
-        - Create Home Page: create-home-page.md
-        - Configure Reading Settings: configure-reading-settings.md
-        - Home Page with Elementor: home-page-setup-with-elementor.md
-        - Settings (Classic): homepage-settings-classic.md
-        - Settings (Modern): homepage-settings-modern.md
-    - Advanced Search Setup:
-        - Create Search Page: create-search-page.md
-        - Configure Properties Search: advance-search-setup.md
-    - News/Blog Page:
-        - Create News/Blog Page: news-page.md
-        - Add News/Blog Post: add-news-post.md
-    - Other Pages:
-        - Gallery Page: add-gallery-page.md
-        - Users Page: add-users-page.md
-        - Fluid Width Page: add-fluid-width-page.md
-        - Full Width Page: add-full-width-page.md
-    - Contact Page: contact-page.md
-    - Easy Real Estate:
-        - Adding Property:
-            - Add New Property: add-property.md
-            - Property Settings: property-settings.md
-        - Agents:
-            - Add New Agent: add-agent.md
-            - Create Agents Page: add-agents-page.md
-        - Agencies:
-            - Add New Agency: add-agency.md
-            - Create Agencies Page: add-agencies-page.md
-        - Price Format: price-format-settings.md
-        - URL Slugs: url-slugs-settings.md
-        - GDPR: gdpr.md
-        - Social Links: social-links.md
-        - Webhooks: webhooks-zohocrm-zapier.md
-        - New Fields Builder: new-fields-builder.md
-    - Property Listing Pages:
-        - Listing Layouts: add-listing-pages.md
-        - Grid Variations & Card Settings: grid-variations-card-settings.md
-        - Properties Filter Settings: properties-filter-settings.md
-    - Translation:
-        - Single Language: translation-single.md
-        - Multilingual: translation-multilingual.md
-        - WPML Setup:
-            - WPML Basic Setup: wpml-basic-setup.md
-            - WPML Language Switcher: wpml-language-switcher.md
-            - Home & News Page: wpml-home-news-page.md
-            - WPML Menu Sync: wpml-menu-sync.md
-            - String Translation: wpml-string-translation.md
-            - Taxonomy Translation: wpml-taxonomy-translation.md
-            - Slugs Translation: wpml-slugs-translation.md
-            - Translate Property: wpml-translate-property.md
-            - Property Search Page: wpml-property-search-page.md
     - Setup CRM: real-estate-crm.md
     - Floating Features:
         - Compare Properties: compare-properties.md
         - Currency Switcher: currency-switcher.md
         - WPML Language Switcher: wpml-language-switcher.md
-    - Compare Properties: 
-        - Setup Page: compare-properties.md
-        - Configure Settings: compare-properties-settings.md
     - Setup FAQs: faqs-setup.md
     - Memberships & Payments:
         - Memberships Setup: realhomes-memberships-setup.md
@@ -197,7 +185,6 @@ nav:
         - Currency Switcher: currency-switcher.md
         - SSL Enhancements: ssl-enhancements.md
     - Included Plugins:
-        - Visual Composer: visual-composer.md
         - Slider Revolution: slider-revolution.md
     - Email Template: email-template.md     
     - Customize Theme:
@@ -208,6 +195,20 @@ nav:
         - Available Filters: available-filters.md
     - Deprecated:
         - Customizer Settings: deprecated.md
+        - Visual Composer: visual-composer.md
+    - Translation:
+        - Single Language: translation-single.md
+        - Multilingual: translation-multilingual.md
+        - WPML Setup:
+            - WPML Basic Setup: wpml-basic-setup.md
+            - WPML Language Switcher: wpml-language-switcher.md
+            - Home & News Page: wpml-home-news-page.md
+            - WPML Menu Sync: wpml-menu-sync.md
+            - String Translation: wpml-string-translation.md
+            - Taxonomy Translation: wpml-taxonomy-translation.md
+            - Slugs Translation: wpml-slugs-translation.md
+            - Translate Property: wpml-translate-property.md
+            - Property Search Page: wpml-property-search-page.md
 
 # Change it to true before building (mkdocs build) for putting online.
 # It should be false for themeforest package.
