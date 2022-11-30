@@ -41,6 +41,7 @@ nav:
         - Feedback: feedback.md
         - Help: help.md
     - Purpose Oriented Demos:
+        - Ultra: ultra-design.md
         - Vacation Rentals:
             - Setup: vacation-rentals-setup.md
             - Add Property: add-property-vr.md
