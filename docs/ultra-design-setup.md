@@ -8,13 +8,13 @@ Now you can import the **Ultra Design Demo Contents**. Go to **Real Homes → De
 
 ![Screenshot](images/import-demo/import-demo-data.png)
 
-Click on blue **Import Demo** button of **Ultra Design - Elementor** and you will see the next page where it will confirm the required plugins are installed including the Ultra Design plugin.
+Click on blue **Import Demo** button of **Ultra - Elementor** and you will see the next page where it will confirm the required plugins are installed including the Ultra Design plugin.
 
 If any plugin is missing then the Demo Import process will install it so click on **Continue & Import** button again to confirm the import.
 
 Wait for few minutes as the demo images are being fetched (downloaded) from the remote server to your website, and this process can take a couple of minutes (depending on the speed of your hosting server).
 
-![Screenshot](images/vacation-rentals/demo-import.jpg)
+![Screenshot](images/ultra/ultra-demo-import.png)
 
 !!! warning "Important"
     Sometimes, the import process takes longer than expected and doesn't complete in the first attempt. So, simply import again until the process is complete.
