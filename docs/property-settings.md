@@ -244,6 +244,22 @@ You can also show/hide contact form in **Modern** Variation.
 
 ![Agent On Property Page](images/single-property-page/agent-on-property-page-mod.png)
 
+## Mortgage Calculator
+
+The settings for **Mortgage Calculator** are located in **Dashboard → Real Homes → Property Detail Page → Mortgage Calculator**. 
+
+![Property Mortgage Calculator Settings](images/single-property-page/single-property-mortgage-settings-one.png)
+
+![Property Mortgage Calculator Settings](images/single-property-page/single-property-mortgage-settings-two.png)
+
+![Property Mortgage Calculator Settings](images/single-property-page/single-property-mortgage-settings-three.png)
+
+You can also show/hide contact form in **Modern** Variation.
+
+![Property Agents Settings](images/single-property-page/property-agent-mod.png)
+
+![Agent On Property Page](images/single-property-page/agent-on-property-page-mod.png)
+
 ## Energy Performance
 **Energy Performance Settings** are located in **Dashboard → Real Homes → Property Detail Page → Energy Performance**.You can show/Hide Energy Performance section for the properties.
 
