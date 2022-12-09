@@ -40,10 +40,16 @@ To change header styles for Classic Design please navigate to **Dashboard → Re
 
 Make sure that you have selected **My Own Custom Colors** in **Dashboard → Real Homes → Customize Settings → Styles → Default or Custom** so the style changes can work properly.
 
-![Header Variation](images/home-setup/header_styles_classic.png)
+![Header Variation](images/header/header_styles_ultra.png)
 
 ### **Responsive Header Styles**
 
 If you would like to modify the header styles for small screens then you can go to **Dashboard → Real Homes → Customize Settings → Styles → Header** and scroll down to find **Responsive Header** styles.
 
-![Header Variation](images/header/header_responsive_styles_classic.png)
+![Header Variation](images/header/header_responsive_styles_ultra.png)
+
+### **Sticky Header Styles**
+
+You can modify sticky header styles by navigating to **Dashboard → Real Homes → Customize Settings → Styles → Header** and scroll down to find **Sticky Header** styles.
+
+![Header Variation](images/header/header_sticky_header_styles_ultra.png)
