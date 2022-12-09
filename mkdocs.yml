@@ -80,8 +80,11 @@ nav:
         - Settings (Classic): homepage-settings-classic.md
         - Settings (Modern): homepage-settings-modern.md
     - Advanced Search Setup:
-        - Create Search Page: create-search-page.md
-        - Configure Properties Search: advance-search-setup.md
+        - Ultra:
+            - Configure Properties Search: advance-search-setup-ultra.md
+        - Modern & Classic:
+            - Create Search Page: create-search-page.md
+            - Configure Properties Search: advance-search-setup.md
     - Easy Real Estate:
         - Adding Property:
             - Add New Property: add-property.md
