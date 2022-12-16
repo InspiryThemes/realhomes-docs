@@ -35,8 +35,8 @@ nav:
     - Introduction: index.md
     - Installation & Demo Import:
         - Installation: installation-and-activation.md
-        - Import Demo: import-demo.md
         - Design Selection: design-selection.md
+        - Import Demo: import-demo.md
         - Plugins: plugins.md
         - Feedback: feedback.md
         - Help: help.md
