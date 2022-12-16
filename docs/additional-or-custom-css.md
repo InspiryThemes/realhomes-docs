@@ -2,7 +2,7 @@
 
 ## Additional CSS
 
-**Additional CSS** - Go to **Dashboard → Real Homes → Customize Settings** and click on **Additional CSS** to add any CSS code. 
+**Additional CSS** - Go to **Dashboard → RealHomes → Customize Settings** and click on **Additional CSS** to add any CSS code. 
 
 ![RealHomes Documentation](images/customize-theme/customize-4.png)
 

@@ -18,7 +18,7 @@ Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **
 
 ### **Step 2**
 
-Go to **Real Homes → Demo Import** to import demo data. There are several demos available to import.
+Go to **RealHomes → Demo Import** to import demo data. There are several demos available to import.
 
 Move the pointer to the demo, and you will have two buttons, "**Preview Demo**" and "**Import Demo**." Click on the **Import Demo** button to import your desired demo.
 
@@ -93,7 +93,7 @@ To configure reading settings, you need to visit **Dashboard → Settings → Re
 
 To import Customizer settings, you have to install [Customizer Export/Import](https://wordpress.org/plugins/customizer-export-import/). 
 
-Once the plugin is installed and activated, navigate to **Dashboard → Real Homes → Customize Settings → Export/Import** and select the customizer.dat file for the relevant design variation (Classic or Modern).
+Once the plugin is installed and activated, navigate to **Dashboard → RealHomes → Customize Settings → Export/Import** and select the customizer.dat file for the relevant design variation (Classic or Modern).
 
 ![Screenshot](images/import-demo/import-customizer-settings.png)
 

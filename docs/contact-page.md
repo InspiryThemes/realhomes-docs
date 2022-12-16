@@ -54,7 +54,7 @@ After publishing you need to add the newly created page in menu from **Dashboard
 
 ### **Header Variation (Modern)**
 
-Navigate to **Dashboard → Real Homes → Customize Settings → Contact Page** section.
+Navigate to **Dashboard → RealHomes → Customize Settings → Contact Page** section.
 
 ![show/hide banner](images/contact-page/banner-display.png)
 

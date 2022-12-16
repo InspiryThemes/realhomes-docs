@@ -2,13 +2,13 @@
 
 ## Intro
 
-To change property settings go to **Dashboard → Real Homes → Customize Settings → Property Detail Page**.
+To change property settings go to **Dashboard → RealHomes → Customize Settings → Property Detail Page**.
 
 ![Property Detail Page Settings](images/single-property-page/properties-detail-page.png)
 
 ## Sections Manager
 
-To reorder property detail page sections, go to **Dashboard → Real Homes → Customize Settings → Property Detail Page → Sections Manager**.
+To reorder property detail page sections, go to **Dashboard → RealHomes → Customize Settings → Property Detail Page → Sections Manager**.
 
 **Classic**
 
@@ -20,19 +20,19 @@ To reorder property detail page sections, go to **Dashboard → Real Homes → C
 
 ## Banner
 
-The banner title settings can be modified in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Banner**.
+The banner title settings can be modified in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Banner**.
 
 ![Banner Settings](images/single-property-page/banner-settings-property-details-page.png)
 
 ## Report Property
 
-You can enable Report Property feature in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Report Property**.
+You can enable Report Property feature in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Report Property**.
 
 ![Report Property Settings](images/single-property-page/report-property-single-property-page.png)
 
 ## Breadcrumbs
 
-**Breadcrumb Settings** can be changed in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Breadcrumbs**.
+**Breadcrumb Settings** can be changed in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Breadcrumbs**.
 
 **Classic**
 
@@ -50,11 +50,11 @@ You can enable Report Property feature in **Dashboard → Real Homes → Customi
 
 ## Basic
 
-There are multiple options for **Property Detail Page** in this section. To modify them go to **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+There are multiple options for **Property Detail Page** in this section. To modify them go to **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**.
 
 ### **Page Template Override**
 
-You can over the default property detail page in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+You can over the default property detail page in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**.
 
 ![Basic Settings of Property Detail Page](images/single-property-page/property-page-template-override.png)
 
@@ -66,19 +66,19 @@ We have added **5 New Property Detail Page Design Variations** for the property 
 
 ### **Require Login to Display Property Detail Page**
 
-You can choose to display the content of property details page in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+You can choose to display the content of property details page in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**.
 
 ![Basic Settings of Property Detail Page](images/single-property-page/require-login-to-display-property-content.png)
 
 ### **Property Address**
 
-You can hide the property address in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+You can hide the property address in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**.
 
 ![Basic Settings of Property Detail Page](images/single-property-page/property-address.png)
 
 ### **Section Labels**
 
-You can modify the labels of all the sections in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+You can modify the labels of all the sections in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**.
 
 ![Basic Settings of Property Detail Page](images/single-property-page/property-detail-basics-2.png)
 
@@ -90,31 +90,31 @@ You can modify the labels of all the sections in **Dashboard → Real Homes → 
 
 ### **Property Share Icons**
 
-You can activate or deactivate the property share icons in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+You can activate or deactivate the property share icons in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**.
 
 ![Basic Settings of Property Detail Page](images/single-property-page/property-share-icons.png)
 
 ### **Open Graph Meta Tags**
 
-You can enable or disable the Open Graph Meta Tags in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**. These Open Graph Meta Tags will help you display the property information while sharing a property on social media websites like facebook, twitter, etc.
+You can enable or disable the Open Graph Meta Tags in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**. These Open Graph Meta Tags will help you display the property information while sharing a property on social media websites like facebook, twitter, etc.
 
 ![Basic Settings of Property Detail Page](images/single-property-page/open-graph-meta-tags.png)
 
 ### **Next or Previous Property**
 
-You can enable or disable the next or previous property buttons in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+You can enable or disable the next or previous property buttons in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**.
 
 ![Basic Settings of Property Detail Page](images/single-property-page/link-next-or-previous-property.png)
 
 ### **Property Ratings**
 
-Property Ratings settings are available in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Basics**.
+Property Ratings settings are available in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**.
 
 ![Basic Settings of Property Detail Page](images/single-property-page/property-ratings.png)
 
 ## Gallery
 
-Global option to change **Gallery Type** for all properties. This option is located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Gallery**. 
+Global option to change **Gallery Type** for all properties. This option is located in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Gallery**. 
 
 !!! info
     You can override this setting for a specific property using **Property Meta Box** [here!](./add-property.md#add-gallery-images). 
@@ -125,13 +125,13 @@ Global option to change **Gallery Type** for all properties. This option is loca
 
 **Modern**
 
-Modern design has more **Gallery Types** than classic design. You can switch the **Gallery Types** in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Gallery**.
+Modern design has more **Gallery Types** than classic design. You can switch the **Gallery Types** in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Gallery**.
 
 ![Gallery Settings of Property Detail Page](images/single-property-page/gallery_variations.gif)
 
 ## Common Note
 
-A common note can also be added on property page via **Dashboard → Real Homes → Customize Settings → Property Detail Page → Common Note**. 
+A common note can also be added on property page via **Dashboard → RealHomes → Customize Settings → Property Detail Page → Common Note**. 
 
 Please note that this note will be displayed on every property page.
 
@@ -147,13 +147,13 @@ Please note that this note will be displayed on every property page.
 
 ## Floor Plan
 
-**Floor Plan Settings** are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Floor Plan**.
+**Floor Plan Settings** are located in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Floor Plan**.
 
 ![Floor Plan Settings](images/single-property-page/floor-plan.png)
 
 ## Video
 
-**Property Video Settings** are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Video**. You can either choose to display the video or hide it.
+**Property Video Settings** are located in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Video**. You can either choose to display the video or hide it.
 
 ![Property Video Settings](images/single-property-page/property-video.png)
 
@@ -161,7 +161,7 @@ Please note that this note will be displayed on every property page.
 
 ## Virtual Tour
 
-**Property Virtual Tour Settings** are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Virtual Tour**. You can either choose to display the virtual tour or hide it.
+**Property Virtual Tour Settings** are located in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Virtual Tour**. You can either choose to display the virtual tour or hide it.
 
 ![Property Virtual Tour Settings](images/single-property-page/property-virtual-tour.png)
 
@@ -169,7 +169,7 @@ Please note that this note will be displayed on every property page.
 
 ## Map
 
-**Property Map Settings** can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Property Map**. You can either choose to display the google map or hide it.
+**Property Map Settings** can be found in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Property Map**. You can either choose to display the google map or hide it.
 
 ![Property Map on Property Detail Page](images/single-property-page/property-map.png)
 
@@ -182,7 +182,7 @@ Please note that this note will be displayed on every property page.
 
 First of all, get a **WalkScore API Key** by [**signing up with them**](https://www.walkscore.com/professional/api-sign-up.php) and then you can add it to **WalkScore Settings** in **Customizer**.
 
-**WalkScore Settings** can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → WalkScore**.
+**WalkScore Settings** can be found in **Dashboard → RealHomes → Customize Settings → Property Detail Page → WalkScore**.
 
 ![Property WalkScore](images/single-property-page/property-walkscore.png)
 
@@ -196,7 +196,7 @@ First of all, get a **WalkScore API Key** by [**signing up with them**](https://
 
 ## Yelp Nearby Places
 
-**Yelp Nearby Places Settings** can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Yelp Nearby Places**.
+**Yelp Nearby Places Settings** can be found in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Yelp Nearby Places**.
 
 ![Property Nearby Places](images/single-property-page/property-nearby-places.png)
 
@@ -206,7 +206,7 @@ First of all, get a **WalkScore API Key** by [**signing up with them**](https://
 
 ## Attachments
 
-**Property Attachments Settings** can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Attachments**. You can either choose to display the property attachment or hide them and the attachments can be in .jpg/.png/.pdf formats.
+**Property Attachments Settings** can be found in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Attachments**. You can either choose to display the property attachment or hide them and the attachments can be in .jpg/.png/.pdf formats.
 
 ![Property Attachments on Property Detail Page](images/single-property-page/property-attachments.png)
 
@@ -214,7 +214,7 @@ First of all, get a **WalkScore API Key** by [**signing up with them**](https://
 
 ## Child Porperties
 
-**Child Porperties Settings** can be found in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Child Porperties**.
+**Child Porperties Settings** can be found in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Child Porperties**.
 
 ![Property Detail Page Child Properties](images/single-property-page/child-properties.png)
 
@@ -232,7 +232,7 @@ First of all, get a **WalkScore API Key** by [**signing up with them**](https://
 
 ## Agent
 
-**Property Agent Settings** can be changed via **Dashboard → Real Homes → Customize Settings → Property Detail Page → Agent**. You can either choose to display the agent on property detail page or hide this section along with its position in **Main Content** or **Sidebar**. A copy of the message sent to agent can also be received by adding your email in "**Email Address to Get Copy**" and make sure to select "**Yes**" for the option which says "**Get Copy of Message Sent to Agent**".
+**Property Agent Settings** can be changed via **Dashboard → RealHomes → Customize Settings → Property Detail Page → Agent**. You can either choose to display the agent on property detail page or hide this section along with its position in **Main Content** or **Sidebar**. A copy of the message sent to agent can also be received by adding your email in "**Email Address to Get Copy**" and make sure to select "**Yes**" for the option which says "**Get Copy of Message Sent to Agent**".
 
 ![Property Agents Settings](images/single-property-page/property-agent.png)
 
@@ -252,7 +252,7 @@ You can also show/hide contact form in **Modern** Variation.
 
 ## Mortgage Calculator
 
-The settings for **Mortgage Calculator** are located in **Dashboard → Real Homes → Property Detail Page → Mortgage Calculator**. 
+The settings for **Mortgage Calculator** are located in **Dashboard → RealHomes → Property Detail Page → Mortgage Calculator**. 
 
 ![Property Mortgage Calculator Settings](images/single-property-page/single-property-mortgage-settings-one.png)
 
@@ -262,12 +262,12 @@ The settings for **Mortgage Calculator** are located in **Dashboard → Real Hom
 
 ## Schedule a Tour
 
-The settings for **Schedule A Tour** are located in **Dashboard → Real Homes → Property Detail Page → Schedule A Tour**. 
+The settings for **Schedule A Tour** are located in **Dashboard → RealHomes → Property Detail Page → Schedule A Tour**. 
 
 ![Property Schedule A Tour Settings](images/single-property-page/single-property-schedule-a-tour.png)
 
 ## Energy Performance
-**Energy Performance Settings** are located in **Dashboard → Real Homes → Property Detail Page → Energy Performance**.You can show/Hide Energy Performance section for the properties.
+**Energy Performance Settings** are located in **Dashboard → RealHomes → Property Detail Page → Energy Performance**.You can show/Hide Energy Performance section for the properties.
 
 ![Energy Performance on Property Detail Page](images/single-property-page/property-energy-performance.png)
 
@@ -291,7 +291,7 @@ Enable **Property Analytics** by navigating to **Easy Real Estate → Settings �
 
 ![RealHomes Documentation](images/ere-tabs/property-analytics.png)
 
-After that go to **Dashboard → Real Homes → Property Detail Page → Property Views**  where you can Show/Hide and change the Label of *Property Views* section.
+After that go to **Dashboard → RealHomes → Property Detail Page → Property Views**  where you can Show/Hide and change the Label of *Property Views* section.
 
 ![Property Views on Property Detail Page Settings](images/single-property-page/property-analytics.jpg)
 
@@ -312,7 +312,7 @@ You can also track the Property Analytics at **Dashboard → Easy Real Estate �
 ![Property Views on Property Detail Page](images/add-content/property-views.jpg)
 ## Similar Properties
 
-**Similar Properties Settings** are located in **Dashboard → Real Homes → Customize Settings → Property Detail Page → Similar Properties**.
+**Similar Properties Settings** are located in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Similar Properties**.
 
 * Just like all other settings for property detail page's elements you can choose to display the similar properties section on property detail page or hide it.
 * You can also select how similar properties will be selected based on their features, types, locations and status.

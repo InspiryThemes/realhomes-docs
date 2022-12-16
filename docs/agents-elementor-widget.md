@@ -1,4 +1,4 @@
-## Add Real Homes Widgets with Elementor
+## Add RealHomes Widgets with Elementor
 
 First of all, to edit the page with Elementor by simple clicking on **Edit with Elementor** button. It will redirect you to the **Elementor's Editing Mode** where you will have **Elementor's Widget Panel** on left and **Page's Preview** on the right.
 

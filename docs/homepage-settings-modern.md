@@ -46,7 +46,7 @@ Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage*
 
 ![Search Form Over Image on Homepage](images/home-setup/search-form-over-image-1.jpg)
 
-For Search Form settings go to **Dashboard → Real Homes → Customize Settings → Properties Search**.
+For Search Form settings go to **Dashboard → RealHomes → Customize Settings → Properties Search**.
 
 ![Search Form Over Image on Homepage](images/home-setup/search-form-over-image-2.jpg)
 

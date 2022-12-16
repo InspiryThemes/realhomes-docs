@@ -9,7 +9,7 @@ Please note that you must add the **URL of YOUR website** and select reCAPTCHA t
 After that use those keys to fill the related fields in **Easy Real Estate → Settings → reCAPTCHA** as displayed below.
 
 !!! info "Important Information"
-    If you are running the RealHomes Theme older than {==3.9.0==} version then related settings can be found by navigating to **Dashboard → Real Homes → Customize Settings → Google reCAPTCHA**
+    If you are running the RealHomes Theme older than {==3.9.0==} version then related settings can be found by navigating to **Dashboard → RealHomes → Customize Settings → Google reCAPTCHA**
 
 ![Register a New Site - Google reCAPTCHA](images/ere-tabs/recaptcha.png)
 

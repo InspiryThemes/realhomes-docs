@@ -38,7 +38,7 @@ Go to **Dashboard → Settings → Permalinks** and choose *Post name* from Comm
 
 ### **Step 5. Import Vacation Rentals Demo Data**
 
-Now you can import the **Vacation Rentals Demo Contents**. Go to **Real Homes → Demo Import** to import demo data.
+Now you can import the **Vacation Rentals Demo Contents**. Go to **RealHomes → Demo Import** to import demo data.
 
 ![Screenshot](images/import-demo/import-demo-data.png)
 

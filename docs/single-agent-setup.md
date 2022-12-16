@@ -43,16 +43,16 @@ Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **
 ![Screenshot](images/installation/return-to-install.png)
 - Once again select all the plugins and click on **Activate** and then click on **Apply** to activate all the plugins and you are done. <br>
 ![Screenshot](images/installation/activate-plugins.png)
-- The next step is navigate to "**Dashboard → Real Homes → Plugins**" and install and active **Slider Revolution**.
+- The next step is navigate to "**Dashboard → RealHomes → Plugins**" and install and active **Slider Revolution**.
 ![Screenshot](images/installation/slider-revolution-installation.gif)
-- After activation go to "**Real Homes → Customize Settings**" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer.<br>
+- After activation go to "**RealHomes → Customize Settings**" to play with theme's settings. You can also import the demo data before changing any settings in the Customizer.<br>
 ![Screenshot](images/installation/customize.png)
 
 if you face any problem during upload through dashboard, please upload the theme using FTP as guided below.
 
 ## **Import Single Agent Demo**
 
-- Navigate to **Dashboard → Real Homes → Import Demo** and click in the **Import Demo** button of **Single Agent - Elementor** demo.
+- Navigate to **Dashboard → RealHomes → Import Demo** and click in the **Import Demo** button of **Single Agent - Elementor** demo.
 ![Screenshot](images/import-demo/import-single-agent-demo.png)
 
 ## **Initial Elementor Settings**

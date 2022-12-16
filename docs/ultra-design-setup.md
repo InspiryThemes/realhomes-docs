@@ -4,7 +4,7 @@
 
 ### **Import Ultra Design Demo Data**
 
-Now you can import the **Ultra Design Demo Contents**. Go to **Real Homes → Demo Import** to import demo data.
+Now you can import the **Ultra Design Demo Contents**. Go to **RealHomes → Demo Import** to import demo data.
 
 ![Screenshot](images/import-demo/import-demo-data.png)
 

@@ -30,7 +30,7 @@ Follow the steps below to use the **dsIDXpress Search Widget** on homepage.
 2. Look for the widget area named **Home Search Area** and put **IDX Guided Search** widget in it.
 ![RealHomes Documentation](images/idx/idx-guided-search-widget.png)
 
-3. After that visit the homepage and you wil have the **dsIDXpress Search Widget** in place of Real Homes default search form.
+3. After that visit the homepage and you wil have the **dsIDXpress Search Widget** in place of RealHomes default search form.
 
 ![RealHomes Documentation](images/idx/idx-guided-search-frontend.png)
 

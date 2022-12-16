@@ -8,6 +8,6 @@ If you are unfamiliar with **Elementor Page Builder**, you can check out their [
 
 ![RealHomes Elementor Widgets](images/elementor/realhomes-elementor-widgets.jpg)
 
-## Use Real Homes Elementor Widgets in any Design
+## Use RealHomes Elementor Widgets in any Design
 
 The great thing is now you can add the elements of Modern or Classic Design anywhere despite the Design you are using. For example, you can add Classic Properties Grid to Modern Design or vice versa using Elementor.

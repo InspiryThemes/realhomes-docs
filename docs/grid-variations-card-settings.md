@@ -10,6 +10,6 @@ Grid Listing templates comes with **5 different Property Card Designs**. You can
 
 ### **Grid Card Settings**
 
-You can change the **Properties Card's** settings for **Grid Layout** in **Dashboard → Real Homes → Customize Settings → Various Pages → List Templates & Taxonomy Archives**.
+You can change the **Properties Card's** settings for **Grid Layout** in **Dashboard → RealHomes → Customize Settings → Various Pages → List Templates & Taxonomy Archives**.
 
 ![Adding Listing Page to the Menu](images/create-pages/properties-card-settings.png)

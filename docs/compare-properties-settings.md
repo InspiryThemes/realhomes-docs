@@ -1,6 +1,6 @@
 # Configure Compare Properties Settings
 
-Navigate to **Dashboard → Real Homes → Customize Settings → Floating Features** and look for **Compare Properties** panel.
+Navigate to **Dashboard → RealHomes → Customize Settings → Floating Features** and look for **Compare Properties** panel.
 
 ![RealHomes Compare Properties Panel](images/other-features/compare-properties-panel.png)
 

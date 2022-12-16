@@ -69,7 +69,7 @@ If you face any problem during upload through the dashboard, please upload the t
 3. Extract the **realhomes.zip** file and put the realhomes folder in '**wp-content → themes**' folder
 4. Go to '**Dashboard → Appearance → Themes**' section to activate the theme
 5. Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes.
-6. After activation, go to "**Dashboard → Real Homes → Customize Settings**" to play with the theme's settings.
+6. After activation, go to "**Dashboard → RealHomes → Customize Settings**" to play with the theme's settings.
 
 #### **Install Child Theme ( Highly Recommended )**
 

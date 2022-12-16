@@ -6,7 +6,7 @@ Follow the steps below to configure the search functionality.
 
 ### **Select Property Search Page**
 
-Please navigate to **Dashboard → Real Homes → Customize Settings** and then go into **Properties Search → Properties Search Page** and select the property search page from **Select Search Page**. You can setup other options according to your requirements.
+Please navigate to **Dashboard → RealHomes → Customize Settings** and then go into **Properties Search → Properties Search Page** and select the property search page from **Select Search Page**. You can setup other options according to your requirements.
 
 ![Properties Search Page Settings](images/home-setup/search-page-settings-full-mod.png)
 
@@ -71,7 +71,7 @@ You can also Hide Empty Locations and Sort Locations Alphabetically. It means th
 ![Configure Location Field](images/home-setup/search-form-keyword.gif)
 ### **Enable Dynamic Locations** (Optimize Large Number Of Locations)
 
-Speeding up the loading time of large number of locations is now possible. All you have to do is to navigate to **Dashboard → Real Homes → Customize Settings → Properties Search → Search Form Locations** and activate Enable Dynamic Locations option as shown below.
+Speeding up the loading time of large number of locations is now possible. All you have to do is to navigate to **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Locations** and activate Enable Dynamic Locations option as shown below.
 
 ![Minimum and Maximum Values For Beds & Baths](images/home-setup/dynamic_locations.gif)
 

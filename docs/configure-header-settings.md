@@ -2,7 +2,7 @@
 
 ## **Header Panel**
 
-Navigate to **Dashboard → Real Homes → Customize Settings** and look into **Site Identity** and Header section to explore further settings.
+Navigate to **Dashboard → RealHomes → Customize Settings** and look into **Site Identity** and Header section to explore further settings.
 
 ![Configure Header Settings](images/home-setup/header_settings.png)
 
@@ -24,44 +24,44 @@ You can customize almost all the components of the header from this very section
 
 ### **Basics**
 
-You can change **Header Settings** in **Dashboard → Real Homes → Customize Settings → Header → Basics**.
+You can change **Header Settings** in **Dashboard → RealHomes → Customize Settings → Header → Basics**.
 
 ![Header Variation](images/header/header-settings-basics.png)
 
 ### **Sticky Header**
 
-The **Sticky Header** option is found in **Dashboard → Real Homes → Customize Settings → Header → Basics**.
+The **Sticky Header** option is found in **Dashboard → RealHomes → Customize Settings → Header → Basics**.
 
 ### **Contact Information**
 
-You can add/modify the **Contact Information** for the header in **Dashboard → Real Homes → Customize Settings → Header → Contact Information**.
+You can add/modify the **Contact Information** for the header in **Dashboard → RealHomes → Customize Settings → Header → Contact Information**.
 
 ![Search Form](images/header/header_contact_information.png)
 
 ### **Search Form**
 
-You can display or hide the Advance Search Form in the header by changing the option in **Dashboard → Real Homes → Customize Settings → Header → Search Form**.
+You can display or hide the Advance Search Form in the header by changing the option in **Dashboard → RealHomes → Customize Settings → Header → Search Form**.
 
 ![Search Form](images/header/header_search_form_customizer.gif)
 
 ### **Responsive Variations**
 
-There are two Responsive Header Variations for Modern Design called **Transparent** and **Solid**. You can change the **Responsive Header Variation** in **Modern Design** by navigating to **Dashboard → Real Homes → Customize Settings → Header → Basics** (displayed above).
+There are two Responsive Header Variations for Modern Design called **Transparent** and **Solid**. You can change the **Responsive Header Variation** in **Modern Design** by navigating to **Dashboard → RealHomes → Customize Settings → Header → Basics** (displayed above).
 
 ### **Header Styles**
 
-To change **Header Styles**, please navigate to **Dashboard → Real Homes → Customize Settings → Styles → Header**.
+To change **Header Styles**, please navigate to **Dashboard → RealHomes → Customize Settings → Styles → Header**.
 
 ![Header Variation](images/header/header_styles_modern.png)
 
 ### **Sticky Header Styles**
 
-You can modify the styles of **Sticky Header** in **Dashboard → Real Homes → Customize Settings → Styles** and scroll down to find **Sticky Header** styles.
+You can modify the styles of **Sticky Header** in **Dashboard → RealHomes → Customize Settings → Styles** and scroll down to find **Sticky Header** styles.
 
 ![Header Variation](images/home-setup/header_sticky_styles_modern.gif)
 
 ### **Responsive Header Styles**
 
-If you would like to modify the header styles for small screens then you can go to **Dashboard → Real Homes → Customize Settings → Styles → Header** and scroll down to find **Responsive Header** styles.
+If you would like to modify the header styles for small screens then you can go to **Dashboard → RealHomes → Customize Settings → Styles → Header** and scroll down to find **Responsive Header** styles.
 
 ![Header Variation](images/header/header_responsive_styles_modern.png)

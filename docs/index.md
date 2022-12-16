@@ -14,7 +14,7 @@ Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope
 * Consider using a image compression plugin like <strong><a href="https://wordpress.org/plugins/imagify/" target="_blank">Imagify</a></strong>.
 * CDN service also plays an important role to improve the performance of your website so you can use it to deliver the content of your website a little faster.
 
-
+``
 ## RealHomes Specific Cache Configurations
 
 * Do not unify (combine) JavaScript files for RealHomes theme while using a cache plugin ( or any optimisation plugin ) as it is not an average blog theme and certain scripts are only loaded when required. Also, dynamic data is generated before few scripts based on various settings. So, Combining JavaScript files can create errors.

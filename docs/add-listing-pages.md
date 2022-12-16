@@ -25,7 +25,7 @@ There are **3 Templates** for properties listing pages.
 
 ### **Map Settings**
 
-If you like to disable the map on Properties Listing pages then you can disable it and control several other options by navigating to **Dashboard → Real Homes → Customize Settings → Various Pages → List Templates & Taxonomy Archives** as shown below.
+If you like to disable the map on Properties Listing pages then you can disable it and control several other options by navigating to **Dashboard → RealHomes → Customize Settings → Various Pages → List Templates & Taxonomy Archives** as shown below.
 
 **Classic**
 

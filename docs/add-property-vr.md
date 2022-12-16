@@ -187,7 +187,7 @@ You can choose or add property features from related meta box displayed in scree
 
 You can also add an icon to a property feature. This icon will appear on the property details page, before property feature. To add an icon to a feature, follow these steps:
 
-- Go to **Dashboard → Real Homes → Property Features**
+- Go to **Dashboard → RealHomes → Property Features**
 
 - Create a new property feature or select an existing one. 
 
