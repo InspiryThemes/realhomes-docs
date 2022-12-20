@@ -23,9 +23,9 @@ Choose the **realhomes.zip** file and press **Install Now**
 
 Once the theme is uploaded, then you need to activate it.
 
-#### **Select Design Variation**
-
 ![Screenshot](images/installation/activate-theme.png)
+
+#### **Select Design Variation**
 
 After theme activation, you will be redirected to the RealHomes welcome page. Here you select your desired design variation and click the **Save Changes** button. 
 ![Screenshot](images/installation/welcome-page.png)

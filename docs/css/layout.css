@@ -83,6 +83,15 @@ body .md-ellipsis {
     margin-top: 0px;
 }
 
+.md-nav__link span.label {
+    position: relative;
+    left: -42px;
+    font-size: 8px;
+    text-transform: uppercase;
+    color: red;
+    margin-top: -14px;
+}
+
 .md-footer-nav__inner {
     display: flex;
     justify-content: space-between;
@@ -161,5 +170,13 @@ body .md-ellipsis {
 @media (min-width: 1219px) {
     .md-header__title {
         visibility: hidden;
+    }
+    .md-nav__link span.label {
+        position: relative;
+        left: -48px;
+        font-size: 8px;
+        text-transform: uppercase;
+        color: red;
+        margin-top: -14px;
     }
 }

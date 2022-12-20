@@ -40,9 +40,9 @@ nav:
         - Plugins: plugins.md
         - Feedback: feedback.md
         - Help: help.md
+    - Ultra Design <span class='label'>New</span>:
+        - Setup: ultra-design-setup.md
     - Purpose Oriented Demos:
-        - Ultra: 
-            - Setup: ultra-design-setup.md
         - Vacation Rentals:
             - Setup: vacation-rentals-setup.md
             - Add Property: add-property-vr.md
@@ -52,27 +52,28 @@ nav:
         - Single Agent:
             - Installation & Setup: single-agent-setup.md
     - Header & Footer:
-        - Header Settings:
-            - Ultra: configure-header-settings-ultra.md
-            - Modern: configure-header-settings.md
-            - Classic: configure-header-settings-classic.md
-        - Footer Settings:
-            - Ultra Settings:
+        - Ultra:
+            - Header: configure-header-settings-ultra.md
+            - Footer:
                 - Basics: footer-basics-ultra.md
                 - Logo and Tagline: footer-logo-tagline-ultra.md
                 - Widgets: footer-layout-ultra.md
                 - Copyright & Designed By Texts: text-settings-ultra.md
                 - Styles: style-settings-ultra.md
-            - Classic Settings:
-                - Partners: footer-settings.md
-                - Widgets: text-settings-classic.md
-                - Styles: style-settings.md
-            - Modern Settings:
+        - Modern:
+            - Header: configure-header-settings.md
+            - Footer:
                 - Basics: footer-basics.md
                 - Logo and Tagline: footer-logo-tagline.md
                 - Widgets: footer-layout-modern.md
                 - Copyright & Designed By Texts: text-settings.md
                 - Styles: style-settings-modern.md
+        - Classic:
+            - Header: configure-header-settings-classic.md
+            - Footer:
+                - Partners: footer-settings.md
+                - Widgets: text-settings-classic.md
+                - Styles: style-settings.md
     - Home Page:
         - Create Home Page: create-home-page.md
         - Configure Reading Settings: configure-reading-settings.md
