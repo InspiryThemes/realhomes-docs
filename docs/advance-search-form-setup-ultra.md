@@ -4,7 +4,7 @@ Before starting with this section, Make sure you have pretty permalinks enabled 
 
 ## Ultra Search Elementor Widget
 
-Ultra design is completely based on Elementor, so you can use Ultra Seach Form Elementor Widget anywhere. You can find the Ultra Search form in Elementor Widgets panel.
+Ultra design is mostly based on Elementor, so you can use Ultra Seach Form Elementor Widget almost anywhere. You can find the Ultra Search form in Elementor Widgets panel.
 
 ![Properties Search Ultra](images/ultra/ultra-search-widget.png)
 
