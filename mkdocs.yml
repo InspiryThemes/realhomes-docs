@@ -49,8 +49,7 @@ nav:
             - Property Booking: booking.md
             - Booking Payments: realhomes-property-booking-payment-setup.md
             - Bookings Module: bookings.md
-        - Single Agent:
-            - Installation & Setup: single-agent-setup.md
+        - Single Agent:  single-agent-setup.md
     - Header & Footer:
         - Ultra:
             - Header: configure-header-settings-ultra.md
@@ -145,10 +144,8 @@ nav:
             - Setup: google-maps-setup.md
             - Troubleshooting: google-maps-troubleshooting.md
             - Custom Markers for Property Type: property-type-custom-markers.md
-        - MapBox:
-            - Setup: mapbox-setup.md
-        - Google reCAPTCHA:
-            - Get Google reCAPTCHA API Key: google-recaptcha-setup.md
+        - MapBox: mapbox-setup.md
+        - Google reCAPTCHA: google-recaptcha-setup.md
     - Login & Registration:
         - Setup Login: setup-login.md
         - Setup Registration: setup-registration.md

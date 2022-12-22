@@ -1,4 +1,4 @@
-# Google reCAPTCHA
+# Google reCAPTCHA Setup
 
 To configure **Google reCAPTCHA** you need to register your website at [Visit Google reCAPTCHA Site](https://www.google.com/recaptcha/intro/index.html) and get public and private keys for your website after successful registration.
 

@@ -6,13 +6,17 @@ Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → M
 
 You can Show/Hide favorite button on property detail page and also **Require Login** for adding to favorite.
 
+**Ultra**
+
+![RealHomes Favorties Ultra](images/member-pages/favorites-front-end-ultra.png)
+
 **Modern**
 
-![RealHomes Documentation](images/member-pages/favorites-front-end-mod.png)
+![RealHomes Favorties Modern](images/member-pages/favorites-front-end-mod.png)
 
 **Classic**
 
-![RealHomes Documentation](images/member-pages/favorites-front-end.png)
+![RealHomes Favorties Classic](images/member-pages/favorites-front-end.png)
 
 ## How Favorite Properties Feature Works!
 

@@ -4,9 +4,13 @@ Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → M
 
 ![RealHomes Documentation](images/member-pages/edit-profile-section.png)
 
+**Ultra**
+
+![RealHomes Profile Ultra](images/member-pages/profile-front-end-ultra.png)
+
 **Modern**
 
-![RealHomes Documentation](images/member-pages/edit-profile-front-end-mod.png)
+![RealHomes Profile Modern](images/member-pages/edit-profile-front-end-mod.png)
 
 **Classic**
 

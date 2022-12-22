@@ -4,6 +4,10 @@ Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → M
 
 ![RealHomes Documentation](images/member-pages/my-properties-section.png)
 
+**Ultra**
+
+![RealHomes Documentation](images/member-pages/my-properties-front-end-ultra.png)
+
 **Modern**
 
 ![RealHomes Documentation](images/member-pages/my-properties-front-end-mod.png)
