@@ -12,7 +12,7 @@ You must restrict backend access of the user level which you have setup in the p
 
 ![Login & Register Page Title](images/member-pages/restrict-backend-access.png)
 
-## Create Login & Register Page
+## Create Login & Register Page (Optional)
 
 !!! note
     If you have imported demo contents then Login & Register page might already be created. But you still need to configure related settings as guided near the end of this section.
@@ -35,7 +35,7 @@ Provide the top banner related information
 **Modern**
 ![Login & Register Banner Area Settings](images/create-pages/modern-banner-spacing-full.png)
 
-### **Ultra**
+**Ultra**
 ![Login & Register Banner Area Settings](images/create-pages/ultra-banner-spacing-full.png)
 
 !!!info "More information about **Banner Settings** can be found here: "
