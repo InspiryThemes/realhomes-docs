@@ -32,6 +32,10 @@ Go to **Dashboard → Easy Real Estate → Agencies → Add New** to add a new a
 
 ![Add Agency Page](images/create-pages/modern-banner-spacing-full.png)
 
+- Provide the top banner related information on agency detail page if you want for **Ultra** Variation!
+
+![Add Agency Page](images/create-pages/ultra-banner-spacing-full.png)
+
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
 
