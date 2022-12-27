@@ -35,6 +35,9 @@ Provide the top banner related information
 **Modern**
 ![Login & Register Banner Area Settings](images/create-pages/modern-banner-spacing-full.png)
 
+### **Ultra**
+![Login & Register Banner Area Settings](images/create-pages/ultra-banner-spacing-full.png)
+
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
 

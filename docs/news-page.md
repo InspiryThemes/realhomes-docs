@@ -21,11 +21,14 @@ To configure reading settings you need to visit **Dashboard → Settings → Rea
 ![Configure Reading Settings](images/import-demo/home-and-blog-settings.png)
 ## Banner and Spacing 
 
+### **Classic**
+![Banner And Spacing](images/create-pages/banner-spacing-classic.png)
+
 ### **Modern**
 ![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
 
-### **Classic**
-![Banner And Spacing](images/create-pages/banner-spacing-classic.png)
+### **Ultra**
+![Banner And Spacing](images/create-pages/ultra-banner-spacing-full.png)
 
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**

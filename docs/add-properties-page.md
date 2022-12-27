@@ -60,6 +60,10 @@ In above displayed **Properties Filter Settings**, you can control the following
 
 ![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
 
+### **Ultra**
+
+![Banner And Spacing](images/create-pages/ultra-banner-spacing-full.png)
+
 ### **Grid Layout Variations**
 
 Grid Listing templates comes with **5 different Property Card Designs**. You can select any layout of your choice with the number of columns to divide the cards.

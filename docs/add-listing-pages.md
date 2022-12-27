@@ -44,3 +44,7 @@ If you like to disable the map on Properties Listing pages then you can disable 
 **Modern**
 
 ![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
+
+### **Ultra**
+
+![Banner And Spacing](images/create-pages/ultra-banner-spacing-full.png)

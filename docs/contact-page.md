@@ -42,6 +42,9 @@ Since theme version `3.9.2` you can create as many contact pages as you want and
 
 ![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
 
+### **Ultra**
+![Banner And Spacing](images/create-pages/ultra-banner-spacing-full.png)
+
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
 
