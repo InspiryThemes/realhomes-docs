@@ -34,6 +34,10 @@ Provide the agent social networks information using social tab.
 
 ![Add Gallery Page](images/create-pages/modern-banner-spacing-full.png)
 
+- Provide the top banner related information on agency detail page if you want for **Ultra** Variation!
+
+![Add Gallery Page](images/create-pages/ultra-banner-spacing-full.png)
+
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
 
