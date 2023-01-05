@@ -1,4 +1,4 @@
-# Compare Properties Page etup
+# Compare Properties Page Setup
 
 First, You need to add **Compare Properties** page. 
 
