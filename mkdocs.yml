@@ -16,10 +16,10 @@ theme:
     custom_dir: overrides
 
 # Windows Directory
-site_dir: 'E:\rh-live-doc'
+# site_dir: 'E:\rh-live-doc'
 
 # Mac Folder
-# site_dir: '/Users/inspirythemes.com/Downloads/rh-live-doc'
+site_dir: '/Users/usmanaliqureshi/Downloads/rh-live-doc'
 
 extra_css:
     - css/layout.css
