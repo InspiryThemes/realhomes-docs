@@ -1,10 +1,12 @@
 !!! info "Important"
 
-    This documentation is last updated on **6th January 2023** and current RealHomes Theme version is {== **4.0.0** ==}
+    This documentation is last updated on **18th January 2023** and current RealHomes Theme version is {== **4.0.0** ==}
 
 Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope of this documentation should be searched on our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> OR asked on our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. You can visit <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this knowledge base article</a> to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
+## Whats new in v4.0.0?
 
+You can find out about what is new in the latest version of RealHomes in this <a target="_blank" href="https://inspirythemes.com/realhomes-v4-0-0-ultra-design/">blog post</a>, and you can also check out the full <a href="https://realhomes.io/changelog/" target="_blank"">change log here</a>
 
 ## Tips for Performance Improvement
 * It is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on. Also make sure your hosting is based on SSD drives.
