@@ -327,3 +327,9 @@ You can also track the Property Analytics at **Dashboard → Easy Real Estate �
 **Modern**
 
 ![Similar Properties on Property Page](images/single-property-page/similar-properties-frontend-mod.png)
+
+## Property Print Settings
+
+Property print settings are located in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Print** section. You can enable or disable any section of the single property page for print view. For example, if you disable the map for print view, then the map section will not be displayed while printing on paper.
+
+![Print Settings on Property Page](images/single-property-page/print-view-single-property.png)
