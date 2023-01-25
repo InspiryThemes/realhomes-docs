@@ -1,5 +1,7 @@
 # Saved Searches
 
+## Setup Saved Searches Feature
+
 Enabling this feature will display a **Save Search** button at the top of search results. It will also add a **Saved Searches** menu item to the user menu.
 
 Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → Saved Searches** section to enable/disable the save search feature and configure other related settings. 
@@ -28,3 +30,9 @@ Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → S
 - The saved searches can be accessed through the **Saved Searches** dashaboard page, where user can view or delete them.
 
 ![RealHomes Documentation](images/member-pages/save-search-dashboard.jpg)
+
+## How an Administrator can see All the Saved Searches by the Users
+
+The website administrators can see all the saved searches of the users in the **User Dashboard** in "**All Users Saved Searches**" page.
+
+![RealHomes - All Users Saved Searches](images/member-pages/all-users-saved-searches.png)
