@@ -4,7 +4,7 @@
 
 Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope of this documentation should be searched on our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> OR asked on our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. You can visit <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this knowledge base article</a> to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
-## What's new in v4.0.0?
+## What's new in v4.x?
 
 You can find out about all the new features in the latest version of RealHomes in this <a target="_blank" href="https://inspirythemes.com/realhomes-v4-0-0-ultra-design/">blog post</a>, and you can also check out the full <a href="https://realhomes.io/changelog/" target="_blank"">change log here</a>
 
