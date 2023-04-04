@@ -42,6 +42,7 @@ nav:
         - Help: help.md
     - Ultra Design <span class='label'>New</span>:
         - Setup: ultra-design-setup.md
+        - Setup Single Property: single-property-elementor-ultra.md
     - Purpose Oriented Demos:
         - Vacation Rentals:
             - Setup: vacation-rentals-setup.md
@@ -80,6 +81,7 @@ nav:
         - Settings (Classic): homepage-settings-classic.md
         - Settings (Modern): homepage-settings-modern.md
     - Advanced Search Setup:
+        - Location Radius Search: radius-search-setup.md
         - Ultra:
             - Setup Search Page: setup-search-page-ultra.md
             - Configure Search Form: advance-search-form-setup-ultra.md
