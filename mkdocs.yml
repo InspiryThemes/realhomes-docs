@@ -81,7 +81,7 @@ nav:
         - Settings (Classic): homepage-settings-classic.md
         - Settings (Modern): homepage-settings-modern.md
     - Advanced Search Setup:
-        - Location Radius Search: radius-search-setup.md
+        - Geo Location Setup: geo-location-setup.md
         - Ultra:
             - Setup Search Page: setup-search-page-ultra.md
             - Configure Search Form: advance-search-form-setup-ultra.md
