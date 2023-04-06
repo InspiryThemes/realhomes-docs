@@ -176,6 +176,7 @@ nav:
         - Individual Payments via Stripe: inspiry-stripe-payments.md 
         - Individual Payments via WooCommerce: realhomes-woocommerce-payment-setup.md
     - Widgets:
+        - Properties Filter Widget: properties-filter-widget.md
         - Advance Search Widget: advance-search-widget.md
         - Agents Widgets: agents-widget.md
         - Agent Featured Properties: agent-featured-properties-widget.md
