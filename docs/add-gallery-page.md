@@ -46,11 +46,11 @@ After publishing you need to add the newly created page in menu from **Dashboard
 
 **Classic**
 
-![Banner And Spacing](images/create-pages/banner-spacing-classic.png)
+![Banner And Spacing](images/create-pages/banner-spacing-classic.gif)
 
 **Modern**
 
-![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
+![Banner And Spacing](images/create-pages/modern-banner-spacing-full.gif)
 
 ### **Ultra**
 ![Banner And Spacing](images/create-pages/ultra-banner-spacing-full.png)

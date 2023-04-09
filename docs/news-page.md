@@ -22,10 +22,10 @@ To configure reading settings you need to visit **Dashboard → Settings → Rea
 ## Banner and Spacing 
 
 ### **Classic**
-![Banner And Spacing](images/create-pages/banner-spacing-classic.png)
+![Banner And Spacing](images/create-pages/banner-spacing-classic.gif)
 
 ### **Modern**
-![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
+![Banner And Spacing](images/create-pages/modern-banner-spacing-full.gif)
 
 ### **Ultra**
 ![Banner And Spacing](images/create-pages/ultra-banner-spacing-full.png)

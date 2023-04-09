@@ -19,13 +19,13 @@ You can add contents using the Gutenberg editor or you can use the Elementor (**
 
 ![Full Width Content](images/create-pages/full-width-content.jpg)
 
-**Classic Banner and Spacing Settings**
-![Banner And Spacing](images/create-pages/banner-spacing-classic.png)
+**RealHomes Misc Settings - Classic**
+![Banner And Spacing](images/create-pages/banner-spacing-classic.gif)
 
-**Modern Banner and Spacing Settings**
-![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
+**RealHomes Misc Settings - Modern**
+![Banner And Spacing](images/create-pages/modern-banner-spacing-full.gif)
 
-### **Ultra Banner and Spacing Settings**
+### **RealHomes Misc Settings - Ultra**
 ![Banner And Spacing](images/create-pages/ultra-banner-spacing-full.png)
 
 !!!info "More information about **Banner Settings** can be found here: "

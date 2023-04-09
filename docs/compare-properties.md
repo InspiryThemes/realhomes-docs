@@ -10,15 +10,15 @@ Select the **Compare Properties** template from page attributes.
 
 ![RealHomes Compare Page Attributes](images/other-features/compare-page-attributes.png)
 
-**Classic Banner and Spacing Settings**
+**RealHomes Misc Settings - Classic**
 
-![Banner And Spacing](images/create-pages/banner-spacing-classic.png)
+![Banner And Spacing](images/create-pages/banner-spacing-classic.gif)
 
-**Modern Banner and Spacing Settings**
+**RealHomes Misc Settings - Modern**
 
-![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
+![Banner And Spacing](images/create-pages/modern-banner-spacing-full.gif)
 
-### **Ultra Banner and Spacing Settings**
+### **RealHomes Misc Settings - Ultra**
 ![Banner And Spacing](images/create-pages/ultra-banner-spacing-full.png)
 
 !!!info "More information about **Banner Settings** can be found here: "

@@ -20,11 +20,11 @@ If you are using Classic Design and you want to change the Search Page Variation
 
 **Classic**
 
-![Banner And Spacing](images/create-pages/banner-spacing-classic.png)
+![Banner And Spacing](images/create-pages/banner-spacing-classic.gif)
 
 **Modern**
 
-![Banner And Spacing](images/create-pages/modern-banner-spacing-full.png)
+![Banner And Spacing](images/create-pages/modern-banner-spacing-full.gif)
 
 ### **Ultra**
 
