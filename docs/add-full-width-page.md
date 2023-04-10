@@ -1,7 +1,11 @@
-# Add Full Width Page
+# Full Width Page
+
+## **Add Full Width Page**
 
 !!! note
     If you have imported the demo contents XML then this page is already created.
+
+### **Page Title**
 
 Go to **Dashboard → Pages → Add New**
 
@@ -9,9 +13,13 @@ Go to **Dashboard → Pages → Add New**
 
 ![Add Full Width Page](images/create-pages/add-full-width-page.png)
 
+### **Select Page Template**
+
 - Select the **Full Width** from page attributes.
 
 ![Full Width Template](images/create-pages/full-width-template.png)
+
+### **Add Page Content**
 
 - Provide the page contents.
 
@@ -19,14 +27,16 @@ You can add contents using the Gutenberg editor or you can use the Elementor (**
 
 ![Full Width Content](images/create-pages/full-width-content.jpg)
 
-**RealHomes Misc Settings - Classic**
-![Banner And Spacing](images/create-pages/banner-spacing-classic.gif)
+### **RealHomes Misc Settings**
 
-**RealHomes Misc Settings - Modern**
-![Banner And Spacing](images/create-pages/modern-banner-spacing-full.gif)
+**Classic**
+![RealHomes Misc Settings - Classic](images/create-pages/banner-spacing-classic.gif)
 
-### **RealHomes Misc Settings - Ultra**
-![Banner And Spacing](images/create-pages/ultra-banner-spacing-full.png)
+**Modern**
+![RealHomes Misc Settings - Modern](images/create-pages/modern-banner-spacing-full.gif)
+
+**Ultra**
+![RealHomes Misc Settings - Ultra](images/create-pages/ultra-banner-spacing-full.gif)
 
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**

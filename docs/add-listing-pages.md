@@ -35,16 +35,16 @@ If you like to disable the map on Properties Listing pages then you can disable 
 
 ![Properties Listing Templates](images/create-pages/properties-listing-map-settings-modern.png)
 
-### **Banner And Spacing Settings**
+### **RealHomes Misc Settings**
 
 **Classic**
 
-![Banner And Spacing](images/create-pages/banner-spacing-classic.gif)
+![RealHomes Misc Settings - Classic](images/create-pages/banner-spacing-classic.gif)
 
 **Modern**
 
-![Banner And Spacing](images/create-pages/modern-banner-spacing-full.gif)
+![RealHomes Misc Settings - Modern](images/create-pages/modern-banner-spacing-full.gif)
 
 ### **Ultra**
 
-![Banner And Spacing](images/create-pages/ultra-banner-spacing-full.png)
+![RealHomes Misc Settings - Ultra](images/create-pages/ultra-banner-spacing-full.gif)

@@ -19,16 +19,16 @@ I am assuming that you have already created a Home page.
 To configure reading settings you need to visit **Dashboard → Settings → Reading** and choose that front page displays as static page. Then select **Home** as **FrontPage** and **News** as **Posts Page** (shown below)
 
 ![Configure Reading Settings](images/import-demo/home-and-blog-settings.png)
-## Banner and Spacing 
+## RealHomes Misc Settings 
 
 ### **Classic**
-![Banner And Spacing](images/create-pages/banner-spacing-classic.gif)
+![RealHomes Misc Settings - Classic](images/create-pages/banner-spacing-classic.gif)
 
 ### **Modern**
-![Banner And Spacing](images/create-pages/modern-banner-spacing-full.gif)
+![RealHomes Misc Settings - Modern](images/create-pages/modern-banner-spacing-full.gif)
 
 ### **Ultra**
-![Banner And Spacing](images/create-pages/ultra-banner-spacing-full.png)
+![RealHomes Misc Settings - Ultra](images/create-pages/ultra-banner-spacing-full.gif)
 
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
