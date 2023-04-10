@@ -22,19 +22,16 @@ Go to **Dashboard → Easy Real Estate → Agencies → Add New** to add a new a
 
 ![Agency Social Information](images/add-content/agency-information-2.png)
 
-### Top Banner Settings
+### **RealHomes Misc Settings**
 
-- Provide the top banner related information on agency detail page if you want for **Classic** Variation!
+**Classic**
+![RealHomes Misc Settings - Classic](images/create-pages/banner-spacing-classic.gif)
 
-![Add Agency Page](images/create-pages/banner-spacing-classic.png)
+**Modern**
+![RealHomes Misc Settings - Modern](images/create-pages/modern-banner-spacing-full.gif)
 
-- Provide the top banner related information on agency detail page if you want for **Modern** Variation!
-
-![Add Agency Page](images/create-pages/modern-banner-spacing-full.png)
-
-- Provide the top banner related information on agency detail page if you want for **Ultra** Variation!
-
-![Add Agency Page](images/create-pages/ultra-banner-spacing-full.png)
+**Ultra**
+![RealHomes Misc Settings - Ultra](images/create-pages/ultra-banner-spacing-full.gif)
 
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
