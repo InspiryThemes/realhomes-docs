@@ -41,8 +41,8 @@ nav:
         - Feedback: feedback.md
         - Help: help.md
     - Ultra Design <span class='label'>New</span>:
-        - Setup: ultra-design-setup.md
-        - Setup Single Property: single-property-elementor-ultra.md
+        - Ultra Setup: ultra-design-setup.md
+        - Single Property Setup: single-property-elementor-ultra.md
     - Purpose Oriented Demos:
         - Vacation Rentals:
             - Setup: vacation-rentals-setup.md
