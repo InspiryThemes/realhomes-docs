@@ -4,9 +4,15 @@
 
 Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope of this documentation should be searched on our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> OR asked on our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. You can visit <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this knowledge base article</a> to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
-## What's new in v4.x?
+## What's new in v4.1.0?
 
-You can find out about all the new features in the latest version of RealHomes in this <a target="_blank" href="https://inspirythemes.com/realhomes-v4-0-0-ultra-design/">blog post</a>, and you can also check out the full <a href="https://realhomes.io/changelog/" target="_blank"">change log here</a>
+We have added multiple new features in the latest version 4.1.0, which are listed below.
+
+- <strong><a href="/geo-location-setup/">Geo Location Radius Search</a></strong>
+- <strong><a href="/single-property-elementor-ultra/">Elementor based Single Property support for Ultra Design</a></strong>
+- <strong><a href="/properties-filter-widget/">Advanced Properties Filter Widget</a></strong>
+- <strong><a href="/submit-property/#submit-property-module">Seasonal Price support for User Dashboard</a></strong>
+- <strong><a href="https://realhomes.io/changelog/" target="_blank">Several Improvements & Fixes</a></strong>
 
 ## Tips for Performance Improvement
 * It is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on. Also make sure your hosting is based on SSD drives.
@@ -16,7 +22,6 @@ You can find out about all the new features in the latest version of RealHomes i
 * Consider using a image compression plugin like <strong><a href="https://wordpress.org/plugins/imagify/" target="_blank">Imagify</a></strong>.
 * CDN service also plays an important role to improve the performance of your website so you can use it to deliver the content of your website a little faster.
 
-``
 ## RealHomes Specific Cache Configurations
 
 * Do not unify (combine) JavaScript files for RealHomes theme while using a cache plugin ( or any optimisation plugin ) as it is not an average blog theme and certain scripts are only loaded when required. Also, dynamic data is generated before few scripts based on various settings. So, Combining JavaScript files can create errors.
