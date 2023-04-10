@@ -11,3 +11,9 @@ Version 4.1.0 of RealHomes introduced Elementor-based Single Property support in
 To learn more, check out this helpful video:
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/VUvC9TvynpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## **Design your own Single Property Layout**
+
+To design the single property layout in Ultra using Elementor, check out the following video:
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/T3NZlWMbNDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
