@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation is last updated on **11th April 2023** and current RealHomes Theme version is {== **4.1.0** ==}
+    This documentation is last updated on **12th April 2023** and current RealHomes Theme version is {== **4.1.0** ==}
 
 Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope of this documentation should be searched on our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> OR asked on our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. You can visit <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this knowledge base article</a> to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
@@ -8,10 +8,10 @@ Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope
 
 We have added multiple new features in the latest version 4.1.0, which are listed below.
 
-- <strong><a href="/geo-location-setup/">Geo Location Radius Search</a></strong>
-- <strong><a href="/single-property-elementor-ultra/">Elementor based Single Property support for Ultra Design</a></strong>
-- <strong><a href="/properties-filter-widget/">Advanced Properties Filter Widget</a></strong>
-- <strong><a href="/submit-property/#submit-property-module">Seasonal Price support for User Dashboard</a></strong>
+- <strong><a href="https://realhomes.io/documentation/geo-location-setup/">Geo Location Radius Search</a></strong>
+- <strong><a href="https://realhomes.io/documentation/single-property-elementor-ultra/">Elementor based Single Property support for Ultra Design</a></strong>
+- <strong><a href="https://realhomes.io/documentation/properties-filter-widget/">Advanced Properties Filter Widget</a></strong>
+- <strong><a href="https://realhomes.io/documentation/submit-property/#submit-property-module">Seasonal Price support for User Dashboard</a></strong>
 - <strong><a href="https://realhomes.io/changelog/" target="_blank">Several Improvements & Fixes</a></strong>
 
 ## Tips for Performance Improvement
