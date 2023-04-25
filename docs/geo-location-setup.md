@@ -1,5 +1,8 @@
 The Geo Location Radius Search has been added in v4.1.0 of RealHomes. With this feature, users can search for properties using a specific area on a map. Please note that this feature is currently only available in RealHomes Vacation Rental and it can only be used with Google Maps.
 
+!!! warning "Important"
+    You must **enable Google Places API** for your Google Maps API Project, otherwise Geo Location Radius Search won't work.
+
 To activate the **Geo Location** feature, follow these steps:
 
 1. Go to **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Locations**.

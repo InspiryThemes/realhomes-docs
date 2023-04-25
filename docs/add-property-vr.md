@@ -48,6 +48,11 @@ If you are using the **RealHomes Vacation Rentals** plugin and have [configured]
 
 ![Vacations Rentals](images/add-content/property-policies-and-rules.png)
 
+### **Availability Calendar**
+You can display Availability Calendar by configuring its settings in Customizer settings. To do that, navigate to **Dashboard → RealHomes → Customize Settings → Property Detail Page → Availability Calendar**.
+
+![Availability Calendar - Vacations Rentals](images/vacation-rentals/availability-calendar-vr.png)
+
 ### **iCalendar Synchronization**
 To stay up to date and avoid double bookings when you have listed your properties on third-party websites also, you can sync your booking calendar with third-party calendars.
 
