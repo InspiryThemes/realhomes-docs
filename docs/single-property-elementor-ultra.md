@@ -5,7 +5,7 @@ Version 4.1.0 of RealHomes introduced Elementor-based Single Property support in
 ## **Import & Setup Pre-Designed Single Property Layout**
 
 1. Go to **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**.
-2. Select **Elementor Single Property Template** and **Sample Property ID For Elementor Editor** in this Customizer section.
+2. Select **Elementor Single Property Template** and **Sample Property ID For Elementor Editor** in this Customizer section. In **Sample Property ID for Elementor Editor** you must type in the **Post ID** of the desired property you like to display while editing in Elementor.
 3. This will allow you to design or customize your own or existing single property layout in Elementor.
 
 To learn more, download the <a href="https://realhomes.io/documentation/ultra-assets.zip">Ultra Assets</a> zip package and check out this helpful video to import the pre-designed single property layout:
