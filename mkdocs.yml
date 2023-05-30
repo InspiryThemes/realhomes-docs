@@ -46,6 +46,7 @@ nav:
     - Purpose Oriented Demos:
         - Vacation Rentals:
             - Setup: vacation-rentals-setup.md
+            - Settings: vr-settings.md
             - Add Property: add-property-vr.md
             - Property Booking: booking.md
             - Booking Payments: realhomes-property-booking-payment-setup.md
