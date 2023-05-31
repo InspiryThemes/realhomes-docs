@@ -52,6 +52,7 @@ nav:
             - Booking Payments: realhomes-property-booking-payment-setup.md
             - Bookings Module: bookings.md
         - Single Agent:  single-agent-setup.md
+        - Condominium Demo:  condominium-demo-setup.md
     - Header & Footer:
         - Ultra:
             - Header: configure-header-settings-ultra.md
