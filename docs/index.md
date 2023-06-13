@@ -1,12 +1,12 @@
 !!! info "Important"
 
-    This documentation is last updated on **12th June 2023** and current RealHomes Theme version is {== **4.1.1** ==}
+    This documentation is last updated on **13th June 2023** and current RealHomes Theme version is {== **4.1.1** ==}
 
 Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope of this documentation should be searched on our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> OR asked on our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. You can visit <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this knowledge base article</a> to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
 ## What's new in v4.1.1?
 
-We have added multiple new features in the latest version 4.1.0, which are listed below.
+We have added multiple new features in the latest version, which are listed below.
 
 - <strong>Brand New Condominium Demo Launched - <a target="_blank" href="https://ultra.realhomes.io/condominium/">https://ultra.realhomes.io/condominium/</a></strong>
 - <strong>Split Day Booking is added in RealHomes Vacation Rentals</strong>
