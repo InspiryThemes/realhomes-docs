@@ -1,50 +1,85 @@
 # WPML Basic Setup
 
-> I am assuming that you have bought **WPML Multilingual CMS package** and you have a working version of WordPress with RealHomes Theme installed and configured based on the documenation and sample data provided with in the theme package.
+> Before proceeding, make sure you have purchased the **WPML Multilingual CMS package** and have a working version of WordPress with the RealHomes Theme installed and configured based on the provided documentation and sample data within the theme package.
 
-Please follow the steps below to configure the basic settings for WPML Plugin.
+Please follow the steps below to configure the basic settings for the WPML Plugin.
 
-1. Install and Activate **WPML Multilingual CMS Plugin**.
+## Installation & Activation
+
+Install and activate the **WPML Multilingual CMS Plugin**.
 ![RealHomes Documentation](images/wpml/wpml-cms.png)
 
-2. Upon activation it will display a notice at the top to configure WPML if you are activating it for the first time. Click on **Configure WPML**.
+## Initial Setup
+
+Upon activation, you will see a notice at the top to configure WPML if this is your first time activating it. Click on **Configure WPML**.
 ![RealHomes Documentation](images/wpml/configure-wpml.png)
 
-3. If you don't see the notice at the top then you can go to **Dashboard → WPML → Languages** to configure it.
+## Languages Setup
 
-4. Select **English** as **Current Language** and click **Next**.
+Next, add the languages of your choice that you want to use for your website's translation.
+![RealHomes Documentation](images/wpml/WPML-step-1.png)
 
-5. Select the other languages for your site and click **Next**.
+## Configure Site's URL
 
-6. Leave all the section on this page as it is and click **Next**.
+On the next step, select "**Different languages in directories**" to configure the **site's URL** for multilingual content.
+![RealHomes Documentation](images/wpml/WPML-step-2.png)
 
-7. Select **Send theme and plugins info, in order to get faster support and compatibility alerts** and click **Next**.
+## Verify WPML License
 
-8. Register WPML by adding in the **Site key** if you want to receive automatic updates OR press "**Remind Me Later**" button.
+In order to verify the license of WPML and receive regular plugin updates, please add the Site Key provided by WPML.
+![RealHomes Documentation](images/wpml/WPML-step-3.png)
 
-9. Click **Finish** Button, Now you will be taken to **Dashboard → WPML → Languages** page but with different interface. If not then manually go to **Dashboard → WPML → Languages Page**.
+## Translators Settings
 
-10. Look for **Language URL Format** section and choose **Different languages in directories**.
-![RealHomes Documentation](images/wpml/language-url-format.png)
+Configure the settings about who will be translating the content. Select "Only myself" if you plan to add all the translations manually.
+![RealHomes Documentation](images/wpml/WPML-step-4.png)
 
-11.  Now, search for **Make themes work multilingual** and disable this option.
+## Share Usage Data with WPML
+
+The next step allows you to choose whether you want to share data with WPML officials for future support and improvements.
+![RealHomes Documentation](images/wpml/WPML-step-5.png)
+
+## Install String Translation Plugin
+
+The 6th step in the onboarding process is crucial. Select "String Translation" to install the string translation plugin, as it enables the String Translation feature of WPML.
+![RealHomes Documentation](images/wpml/WPML-step-6.png)
+
+## Finish the Onboarding Process
+
+Click "Finish" to complete the onboarding process and the initial setup of the WPML Translation plugin.
+![RealHomes Documentation](images/wpml/WPML-step-7.png)
+
+## Make Themes Work Multilingual
+
+Search for **Make themes work multilingual** and disable this option.
 ![RealHomes Documentation](images/wpml/adjust-ids.gif)
 
-12. Leave all other sections as it is.
+## Theme & Plugin Localization
 
-13. Now, Install and activate **WPML String Translation plugin**. 
-![RealHomes Documentation](images/wpml/wpml-string-translation.png)
+Go to **Dashboard → WPML → Theme and Plugin Localization**. Under **Localization options**, choose **Automatically load the theme's .mo file using 'load_textdomain'**, and type **framework** in the **Enter textdomain** field below, then click **Save**.
+![RealHomes Documentation](images/wpml/load_translation_domain_framework.gif)
 
-14. After that Go to **Dashboard → WPML → Theme and Plugin Localization**.
+## Scan the Theme and Plugins
 
-15. From **Localization options** , Choose **Automatically load the theme's .mo file using 'load_textdomain'** and type **framework** in **Enter textdomain** field below and **Save**. ![RealHomes Documentation](images/wpml/load_translation_domain_framework.gif)
+Navigate to the **Strings in the Theme** section, press the **Scan the theme for Strings** button, and wait for the results.
+![RealHomes Documentation](images/wpml/string-in-theme.png)
 
-16. Next Options is “**Strings in the Theme**”, Press the **Scan the theme for Strings** Button and Wait for results. ![RealHomes Documentation](images/wpml/string-in-theme.png)
+## Track Strings Appearance
 
-17. Now, Go to **Dashboard → WPML → String Translation** section and configure the following settings. ![RealHomes Documentation](images/wpml/track-strings.png)
+Go to **Dashboard → WPML → String Translation** section and configure the following settings.
+![RealHomes Documentation](images/wpml/track-strings.png)
 
-18. After that, navigate to **Dashboard → WPML → Settings** and scroll down until you find "**How to translate posts and pages**" and set it to **Use WPML's Classic Translation Editor** as shown below. ![RealHomes Documentation](images/wpml/wpml-classic-editor.png)
+## Disable WPML Advance (side-by-side) Translation Editor
 
-19. Basic settings are complete and you can translate any string that does not exist in the post, pages and taxonomies via **Dashboard → WPML → String Translation** section. For more information consult: https://wpml.org/documentation/getting-started-guide/string-translation/
+In **Dashboard → WPML → Settings**, scroll down until you find "**How to translate posts and pages**" and set it to **Use WPML's Classic Translation Editor** as shown below.
+![RealHomes Documentation](images/wpml/wpml-classic-editor.png)
 
-Once the basic setup is complete you can move on to setup the **[WPML Language Switcher](https://realhomes.io/documentation/wpml-language-switcher/)**.
+## Start Translating the Strings
+
+With the basic settings complete, you can now translate any string that does not exist in the posts, pages, and taxonomies via the **Dashboard → WPML → String Translation** section. For more information, consult the [WPML String Translation Documentation](https://wpml.org/documentation/getting-started-guide/string-translation/).
+
+## WPML Language Switcher Settings
+
+Once the basic setup is complete, you can proceed to set up the **[WPML Language Switcher](https://realhomes.io/documentation/wpml-language-switcher/)**.
+
+By following these steps, you'll have the WPML Plugin configured and ready to manage multilingual content on your RealHomes WordPress theme website.
