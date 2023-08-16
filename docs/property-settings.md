@@ -266,6 +266,8 @@ The settings for **Schedule A Tour** are located in **Dashboard → RealHomes �
 
 ![Property Schedule A Tour Settings](images/single-property-page/single-property-schedule-a-tour.png)
 
+Please note that you can also manage the settings of **Schedule A Tour** while [adding/editing a property](https://realhomes.io/documentation/add-property/#schedule-a-tour).
+
 ## Energy Performance
 **Energy Performance Settings** are located in **Dashboard → RealHomes → Property Detail Page → Energy Performance**.You can show/Hide Energy Performance section for the properties.
 

@@ -121,6 +121,11 @@ If you have adequate rights, You can also modify the author from Author meta box
 You can add a property **Energy Performance Certificate** details in this section. This information will display with a visual energy class graphic representation.
 ![Property Author](images/add-content/energy-performance.png)
 
+### **Schedule a Tour**
+You can easily showcase the **Schedule A Tour** section on the property details page by activating this feature.
+
+![Schedule a Tour - Property Details Page](images/single-property-page/schedule-a-tour.png)
+
 ### **Mark Property as Sticky**
 
 If you want to make this property stick to top on home page and listing pages, then mark this property as **Sticky**.
