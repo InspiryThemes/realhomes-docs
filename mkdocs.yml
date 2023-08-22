@@ -122,6 +122,7 @@ nav:
         - Users Page: add-users-page.md
         - Fluid Width Page: add-fluid-width-page.md
         - Full Width Page: add-full-width-page.md
+    - Custom Sidebars: custom-sidebars.md
     - Elementor:
         - Intro & Installation: intro-and-installation-elementor.md
         - Custom Header & Footer: custom-header-footer-elementor.md
