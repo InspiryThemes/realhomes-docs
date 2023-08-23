@@ -1,6 +1,14 @@
 # Full Width Page
 
-## **Add Full Width Page**
+## Full Width Page in v4.2.0
+
+Since v4.2.0, we have introduced Page Layout settings that allows you to set different page layouts as per your requirements. These Page Layout settings are located in RealHomes Misc Settings panel (shown below).
+
+![Add Full Width Page in v4.2.0](images/create-pages/full-width-v4.2.0.png)
+
+You don't have to select any specific template to have the full width template.
+
+## **Add Full Width Page in Old Versions**
 
 !!! note
     If you have imported the demo contents XML then this page is already created.
