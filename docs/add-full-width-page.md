@@ -6,7 +6,7 @@ Since v4.2.0, we have introduced Page Layout settings that allows you to set dif
 
 ![Add Full Width Page in v4.2.0](images/create-pages/full-width-v4.2.0.png)
 
-You don't have to select any specific template to have the full width template.
+You don't have to select any specific template to have the Full Width layout.
 
 ## **Add Full Width Page in Old Versions**
 
