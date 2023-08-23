@@ -13,21 +13,13 @@ Go to **Dashboard → Pages → Add New**
 
 ### **Select Gallery Template**
 
-- Select the appropriate page template for gallery. 
-
-There are 3 templates for gallery page.
-
-1. **2 Columns Gallery**
-2. **3 Columns Gallery**
-3. **4 Columns Gallery**
+Since v4.2.0, there there is one gallery template called **Properties Gallery** as shown in below.
 
 ![Gallery Templates](images/create-pages/gallery-templates.png)
 
 ### **Properties Gallery Filter Settings**
 
-- Select the settings of your choice in **Properties Gallery Filter Settings**.
-
-In above displayed **Properties Gallery Filter Settings**, you can control the following:
+Select the settings of your choice in **Properties Gallery Filter Settings**. In the following displayed **Properties Gallery Filter Settings**, you can control the following:
 
 - Number of properties on each gallery page in the pagination.
 - Properties by specific status, type and feature.
