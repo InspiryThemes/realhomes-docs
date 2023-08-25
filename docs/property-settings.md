@@ -287,6 +287,10 @@ You can customize the **Classes of Energy Performance** section in **Dashboard â
 
 ![Energy Performance on Property Detail Page](images/single-property-page/property-energy-performance-modern.png)
 
+**Ultra**
+
+![Energy Performance on Property Detail Page](images/single-property-page/property-energy-performance-ultra.png)
+
 ## Property Views
 
 Enable **Property Analytics** by navigating to **Easy Real Estate â†’ Settings â†’ Property Analytics** settings tab as displayed in the following screenshot.
@@ -329,6 +333,10 @@ You can also track the Property Analytics at **Dashboard â†’ Easy Real Estate â†
 **Modern**
 
 ![Similar Properties on Property Page](images/single-property-page/similar-properties-frontend-mod.png)
+
+**Ultra**
+
+![Similar Properties on Property Page](images/single-property-page/similar-properties-frontend-ultra.png)
 
 ## Property Print Settings
 
