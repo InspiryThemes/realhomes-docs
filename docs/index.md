@@ -4,14 +4,15 @@
 
 Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope of this documentation should be searched on our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> OR asked on our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. You can visit <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this knowledge base article</a> to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
-## What's new in v4.1.1?
+## What's new in v4.2.0?
 
 We have added multiple new features in the latest version, which are listed below.
 
-- <strong>Brand New Condominium Demo Launched - <a target="_blank" href="https://ultra.realhomes.io/condominium/">https://ultra.realhomes.io/condominium/</a></strong>
-- <strong>Split Day Booking is added in RealHomes Vacation Rentals</strong>
-- <strong>Date Format option is added for RealHomes Vacation Rentals components</strong>
-- <strong>Improved Inspiry Membership Upgrade/Downgrade Functionality</strong>
+- <strong>Brand New Agency Demo Launched - <a target="_blank" href="https://ultra.realhomes.io/agency/">https://ultra.realhomes.io/agency/</a></strong>
+- <strong>Brand New Ultra Vacation Rentals Demo Launched - <a target="_blank" href="https://ultra.realhomes.io/vacation-rentals/">https://ultra.realhomes.io/vacation-rentals/</a></strong>
+- <strong>Page Layout is added in RealHomes Vacation Rentals</strong>
+- <strong>Custom Sidebars feature is added in RealHomes Vacation Rentals</strong>
+- <strong>Agency Verification feature is added in RealHomes Vacation Rentals</strong>
 - <strong><a href="https://realhomes.io/changelog/" target="_blank">Several Improvements & Fixes</a></strong>
 
 ## Tips for Performance Improvement
