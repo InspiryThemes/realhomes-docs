@@ -32,6 +32,12 @@ You can change the labels of each field of Submit Property form in **Dashboard â
 
 ![Submit Property Form](images/dashboard/submit-property-form-fields.png)
 
+### **Select Default Agent For Agent Area**
+
+You can choose an agent to be automatically pre-selected on the "Submit Property" page within the "Agent & Reviewer" section.
+
+![Submit Property - Select Default Agent For Agent Area](images/dashboard/default-agent-for-agent-area.png)
+
 ### **Terms & Conditions**
 
 You can add **Terms & Conditions** field to submit property module. You can also select a page for *Terms & Conditions*.
