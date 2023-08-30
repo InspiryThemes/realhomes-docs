@@ -186,6 +186,7 @@ nav:
         - Agent Related Properties: agent-related-properties-widget.md
         - Featured Properties: featured-properties.md
         - Properties: properties-widget.md
+        - Property Taxonomy Terms: property-taxonomy-terms.md
         - Property Types: property-types.md
         - Contact Information: contact-information-widget.md
         - Mortgage Calculator: mortgage-calculator.md
@@ -206,10 +207,12 @@ nav:
     - Email Template: email-template.md     
     - Customize Theme:
         - Customize Styles: customize-styles.md
+        - Round Corners: round-corners-style.md
         - Preset Color Schemes: preset-color-schemes.md
         - Additional or Custom CSS: additional-or-custom-css.md
         - Hire Customization Services: hire-customization-services.md
         - Available Filters: available-filters.md
+    - Misc Settings: misc-customizer-settings.md
     - Deprecated:
         - Visual Composer: visual-composer.md
     - Translation:
