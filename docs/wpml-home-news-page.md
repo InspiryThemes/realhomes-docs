@@ -14,7 +14,7 @@
 !!! note
     If you are not able to view language switcher then make sure to enable the setting in **Dashboard → Appearance → Customize Settings → Floating Features** panel and look for the **WPML Language Switcher** section (appears only when WPML plugin is activated) as displayed in the screenshots below.
 
-    <br>![RealHomes Documentation](images/wpml/wpml-language-switcher-section.png)
+    <br>
     ![RealHomes Documentation](images/wpml/wpml-language-switcher-settings.png)
 
 Do not worry about lots of un-translated things in header, footer and content area. You will learn to translate those one by one.
