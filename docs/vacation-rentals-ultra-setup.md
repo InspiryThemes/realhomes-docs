@@ -1,13 +1,13 @@
-!!! info "About Vacation Rentals"
+!!! info "About Vacation Rentals - Ultra"
 
-    Vacation Rentals functionality for Modern design is introduced in RealHomes version {== **3.12.0** ==}. Make sure you have followed the [Installation](installation-and-activation.md) guide before following the steps given below .
+    Vacation Rentals for Ultra design is added in RealHomes version {== **4.2.0** ==}. Make sure you have followed the [Installation](installation-and-activation.md) guide before following the steps given below .
 
 !!! warning "Important"
 
     Activating Vacations Rental will disable some standard Real Estate features to fully provide you a full property rental portal experience.
 
 ### **Step 1. Install and Activate Vacation Rentals Plugin**
-First you need to install **RealHomes Vacation Rentals** plugin. Navigate to the **Dashboard > RealHomes > Plugins** and Look for **RealHomes Vacation Rentals** plugin and click on *Install Now* button. After plugin installation click on the **Activate** button.
+First you need to install **RealHomes Vacation Rentals** plugin. Navigate to the **Dashboard → RealHomes → Plugins** and Look for **RealHomes Vacation Rentals** plugin and click on *Install Now* button. After plugin installation click on the **Activate** button.
 
 ![Vacation Rentals Plugin](images/vacation-rentals/installation.jpg)
 
@@ -38,7 +38,7 @@ Go to **Dashboard → Settings → Permalinks** and choose *Post name* from Comm
 
 ### **Step 5. Import Vacation Rentals Demo Data**
 
-Now you can import the **Vacation Rentals Demo Contents**. Go to **RealHomes → Demo Import** to import demo data.
+Now you can import the **Vacation Rentals Demo Contents**. Go to **RealHomes → Demo Import** and click on Vacation Rentals label from the top to find the **Vacation Rentals demos**.
 
 ![Screenshot](images/import-demo/import-demo-data.png)
 
@@ -48,7 +48,7 @@ If any plugin is missing then the Demo Import process will install it so click o
 
 Wait for few minutes as the demo images are being fetched (downloaded) from the remote server to your website, and this process can take a couple of minutes (depending on the speed of your hosting server).
 
-![Screenshot](images/vacation-rentals/demo-import.png)
+![Screenshot](images/vacation-rentals/vacation-rentals-demo-import.png)
 
 !!! warning "Important"
     Sometimes, the import process takes longer than expected and doesn't complete in the first attempt. So, simply import again until the process is complete.

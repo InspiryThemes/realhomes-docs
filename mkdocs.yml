@@ -45,7 +45,8 @@ nav:
         - Single Property Setup: single-property-elementor-ultra.md
     - Purpose Oriented Demos:
         - Vacation Rentals:
-            - Setup: vacation-rentals-setup.md
+            - Setup with Modern: vacation-rentals-setup.md
+            - Setup with Ultra: vacation-rentals-ultra-setup.md
             - Settings: vr-settings.md
             - Add Property: add-property-vr.md
             - Property Booking: booking.md
