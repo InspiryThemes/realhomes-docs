@@ -11,17 +11,25 @@ Go to **Dashboard → Pages** and click the **Add New** button.
 
 ![Properties Listing Page](images/create-pages/add-properties-listing-page-gutenberg.png)
 
-- Choose appropriate page template.
-
-There are **3 Templates** for properties listing pages.
-
-1. **Properties List**
-2. **Properties List Full Width**
-3. **Properties Grid**
-4. **Properties Grid Full Width**
-5. **Properties With Half Map**
-
 ![Properties Listing Templates](images/create-pages/properties-listing-templates.gif)
+
+### **Page Layout & Sidebar Management**
+
+You can configure the Listing layout and sidebar settings in the **Page Layout** section. The following options are available in Page Layout area.
+
+- **Page Layout**
+- **Page Sidebar**
+- **Property Card Design**
+
+There are multiple layout options available for properties listing pages.
+
+1. **Default**
+2. **Full Width**
+3. **Fluid Width**
+4. **Sidebar Right**
+5. **Sidebar Left**
+
+![Properties Listing Templates](images/create-pages/page-layout-property-listing.png)
 
 ### **Map Settings**
 
