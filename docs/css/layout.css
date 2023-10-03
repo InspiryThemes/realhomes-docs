@@ -173,10 +173,10 @@ body .md-ellipsis {
     }
     .md-nav__link span.label {
         position: relative;
-        left: -48px;
+        left: -3px;
         font-size: 8px;
         text-transform: uppercase;
         color: red;
-        margin-top: -14px;
+        top: -8px;
     }
 }
