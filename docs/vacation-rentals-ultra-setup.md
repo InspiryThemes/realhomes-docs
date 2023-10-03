@@ -1,3 +1,5 @@
+# Vacation Rentals Setup with Ultra Design
+
 !!! info "About Vacation Rentals - Ultra"
 
     Vacation Rentals for Ultra design is added in RealHomes version {== **4.2.0** ==}. Make sure you have followed the [Installation](installation-and-activation.md) guide before following the steps given below .

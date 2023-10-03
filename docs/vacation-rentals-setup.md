@@ -1,3 +1,5 @@
+# Vacation Rentals Setup with Modern Design
+
 !!! info "About Vacation Rentals"
 
     Vacation Rentals functionality for Modern design is introduced in RealHomes version {== **3.12.0** ==}. Make sure you have followed the [Installation](installation-and-activation.md) guide before following the steps given below .
