@@ -9,7 +9,7 @@ Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope
 We have added multiple new features in the latest version, which are listed below.
 
 - <strong>Brand New Agency Demo Launched - <a target="_blank" href="https://ultra.realhomes.io/agency/">https://ultra.realhomes.io/agency/</a></strong>
-- <strong>Brand New Ultra Vacation Rentals Demo Launched - <a target="_blank" href="https://ultra.realhomes.io/vacation-rentals-ultra-setup/">https://ultra.realhomes.io/vacation-rentals-ultra-setup/</a></strong>
+- <strong>Brand New Ultra Vacation Rentals Demo Launched - <a target="_blank" href="https://ultra.realhomes.io/vacation-rentals/">https://ultra.realhomes.io/vacation-rentals/</a></strong>
 - <strong>Page Layout is added in RealHomes Vacation Rentals</strong>
 - <strong>Custom Sidebars feature is added in RealHomes Vacation Rentals</strong>
 - <strong>Agency Verification feature is added in RealHomes Vacation Rentals</strong>
