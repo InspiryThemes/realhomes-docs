@@ -14,7 +14,7 @@ We have added multiple new features in the latest version, which are listed belo
 - <strong>Custom Sidebars feature is added in RealHomes Vacation Rentals</strong>
 - <strong>Agency Verification feature is added in RealHomes Vacation Rentals</strong>
 - <strong>Blog Page has new settings for <a href="https://realhomes.io/documentation/news-page/#blog-page-settings" target="_blank">Page Layout and Card Layout</a></strong>
-- <strong>Updated Latest PayPal Payments API functionality for Individual Properties Payment</strong>
+- <strong>Updated Latest PayPal Payments API functionality for Individual Properties Payments</strong>
 - <strong><a href="https://realhomes.io/changelog/" target="_blank">Several Improvements & Fixes</a></strong>
 
 ## Tips for Performance Improvement
