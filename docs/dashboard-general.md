@@ -1,5 +1,11 @@
 Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → Basic** section to configure the following settings.
 
+## Dashboard Logo
+
+You can add a logo for the dashboard in **Dashboard → RealHomes → Customize Settings → Site Identity**.
+
+![Dashboard Logo](images/dashboard/dashboard-logo.png)
+
 ## Summarised Info Module
 
 You can enable/disable **Summarised info Module on Dashboard** using following setting. 

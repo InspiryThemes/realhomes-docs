@@ -18,8 +18,8 @@ To enable PayPal payments for the individual properties you would need to instal
 1. Navigate to **Dashboard → Easy Real Estate → PayPal Settings** page. This page contains the following settings.
 	
 	- Enable/Disable PayPal Payments.
+	- Enable/Disable PayPal Sandbox Mode for testing.
 	- PayPal account API Keys.
-	- Payment Button Label.
 	- Currency Code (in which you want to charge your users).
 	- Payment Amount Per Property.
 	- Publish Submited Property after Payment.
@@ -27,9 +27,9 @@ To enable PayPal payments for the individual properties you would need to instal
 
 ![PayPal Settings](images/other-features/realhomes-paypal-payments-settings.png)
 	
-2. Configure all the settings as per your preferences. For help to get your PayPal account **Client ID** and **Client Secret** you can follow [Retrieving the Client ID & Client Secret](https://inspirythemes.com/realhomes-memberships-setup/#retrieving-paypal-client-secret-id) section.
+1. Configure all the settings as per your preferences. For help to get your PayPal account **Client ID** and **Client Secret** you can follow [Retrieving the Client ID & Client Secret](https://inspirythemes.com/realhomes-memberships-setup/#retrieving-paypal-client-secret-id) section.
 
-6. Once done, visit *My Properties* page on your website to view PayPal payment button for individual properties.
+2. Once done, visit *My Properties* page on your website to view PayPal payment button for individual properties.
 
 	![My Properties Payment Buttons](images/other-features/my-properties-payment-buttons.png)
 

@@ -1,10 +1,10 @@
 !!! info "Important"
 
-    This documentation is last updated on **12th October 2023** and current RealHomes Theme version is {== **4.2.0** ==}
+    This documentation is last updated on **26th October 2023** and current RealHomes Theme version is {== **4.2.1** ==}
 
 Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope of this documentation should be searched on our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> OR asked on our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. You can visit <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this knowledge base article</a> to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
-## What's new in v4.2.0?
+## What's new in v4.2.x?
 
 We have added multiple new features in the latest version, which are listed below.
 
@@ -14,6 +14,7 @@ We have added multiple new features in the latest version, which are listed belo
 - <strong>Custom Sidebars feature is added in RealHomes Vacation Rentals</strong>
 - <strong>Agency Verification feature is added in RealHomes Vacation Rentals</strong>
 - <strong>Blog Page has new settings for <a href="https://realhomes.io/documentation/news-page/#blog-page-settings" target="_blank">Page Layout and Card Layout</a></strong>
+- <strong>Updated Latest PayPal Payments API functionality for Individual Properties Payment</strong>
 - <strong><a href="https://realhomes.io/changelog/" target="_blank">Several Improvements & Fixes</a></strong>
 
 ## Tips for Performance Improvement

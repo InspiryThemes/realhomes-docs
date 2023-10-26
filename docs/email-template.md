@@ -4,6 +4,15 @@
  
  We have also provided related customization settings under **Dashboard → RealHomes → Customize Settings → Email Template**.
 
-![Email Template Settings](images/email-template/email-template-settings.png)
 
-![Email Template](images/email-template/email-template.png)
+### **Email Template Content**
+
+You can manage email template's content settings.
+
+![Email Template Settings](images/email-template/email-content-settings.png)
+
+### **Email Template Styles**
+
+The styles of the email template can be managed in this section.
+
+![Email Template](images/email-template/email-styles.png)

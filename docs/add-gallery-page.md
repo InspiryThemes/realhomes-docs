@@ -44,8 +44,14 @@ After publishing you need to add the newly created page in menu from **Dashboard
 
 ![RealHomes Misc Settings - Modern](images/create-pages/modern-banner-spacing-full.gif)
 
-### **Ultra**
+**Ultra**
 ![RealHomes Misc Settings - Ultra](images/create-pages/ultra-banner-spacing-full.gif)
 
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
+
+### **Gallery Page Settings**
+
+There are various Customizer settings available in **Dashboard → RealHomes → Customize Settings → Gallery Pages**.You can change the Header Variation, Banner Title here. You can also manage **Properties Sort Control** and **Properties Filter Control** in this section.
+
+![Gallery Page Settings](images/create-pages/gallery-page-settings.png)
