@@ -212,9 +212,9 @@ First of all, get a **WalkScore API Key** by [**signing up with them**](https://
 
 ![Attachments on Property Detail Page](images/single-property-page/attachments-on-property-page.png)
 
-## Child Porperties
+## Child Properties
 
-**Child Porperties Settings** can be found in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Child Porperties**.
+**Child Properties Settings** can be found in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Child Properties**.
 
 ![Property Detail Page Child Properties](images/single-property-page/child-properties.png)
 
