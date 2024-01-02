@@ -126,11 +126,37 @@ You can easily showcase the **Schedule A Tour** section on the property details 
 
 ![Schedule a Tour - Property Details Page](images/single-property-page/schedule-a-tour.png)
 
-### **Mark Property as Sticky**
+### **Misc Settings**
+
+#### **Mark Property as Sticky**
 
 If you want to make this property stick to top on home page and listing pages, then mark this property as **Sticky**.
 
-![Property Floor Plans](images/add-content/sticky-property.png)
+![Property Floor Plans](images/single-property-page/sticky-property.png)
+
+#### Property Label Text & Background Color
+
+You can apply a custom banner or label to each property card for the listing pages and other sections using **Property Label Text & Background Color**.
+
+![Property Label Text & Background Color](images/single-property-page/property-label-text-background-color.png)
+
+#### Attachments
+
+Using the Attachments feature, you can upload important property attachments, documents etc to each property.
+
+![Property Label Text & Background Color](images/single-property-page/upload-property-attachments.png)
+
+#### Owner Information & Private Note
+
+Property owner information and private note can only be used for internal information purposes only. It is not displayed anywhere throughout the website.
+
+![Property Label Text & Background Color](images/single-property-page/property-owner-information.png)
+
+#### Message to the Reviewer
+
+This area contains a message from the property submitter for the property reviewer or website administrator. It is not displayed anywhere for the public.
+
+![Property Label Text & Background Color](images/single-property-page/message-to-the-reviewer.png)
 
 ### **Add Property in Homepage Slider**
 
