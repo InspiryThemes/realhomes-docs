@@ -57,13 +57,18 @@ Provide property address and drag the Google map pointer to the correct location
 
 Provide some nice images for the property gallery.
 
+**Ultra**
+![Property Gallery - Ultra](images/add-content/property-gallery-ultra.png)
+
+>**Note**: Images should have minimum size of 1240px by 720px. Bigger size images will be cropped automatically. Minimum 2 images are required to display the gallery.
+
 **Modern**
-![Property Gallery](images/add-content/property-gallery3.png)
+![Property Gallery - Modern](images/add-content/property-gallery3.png)
 
 >**Note**: Images should have minimum size of 1240px by 720px. Bigger size images will be cropped automatically. Minimum 2 images are required to display the gallery.
 
 **Classic**
-![Property Gallery](images/add-content/property-gallery2.png)
+![Property Gallery - Classic](images/add-content/property-gallery2.png)
 
 >**Note**: Images should have minimum size of 1170px by 648px for thumbnails on right and 830px by 460px for thumbnails on bottom. Bigger size images will be cropped automatically. Minimum 2 images are required to display gallery.
 
