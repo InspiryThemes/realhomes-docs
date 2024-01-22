@@ -338,6 +338,22 @@ You can also track the Property Analytics at **Dashboard → Easy Real Estate �
 
 ![Similar Properties on Property Page](images/single-property-page/similar-properties-frontend-ultra.png)
 
+## Property Booking
+
+If you are using RealHomes Vacation Rentals feature, you can add the Property Booking Widget to Property Sidebar. To do this, please navigate to **Dashboard → Appearance → Widgets** and click on **RealHomes VR - Booking Widget** and select **Property Sidebar** and click **Add Widget** to add it to the Property Sidebar as demonstrated in the following screenshot.
+
+![Property Booking on Property Page](images/single-property-page/add-booking-widget-to-property-sidebar.png)
+
+## Availability Calendar
+
+For RealHomes Vacation Rentals feautre, you can display Availability Calendar by configuring its settings in Customizer settings. To do that, navigate to **Dashboard → RealHomes → Customize Settings → Property Detail Page → Availability Calendar**.
+
+![Availability Calendar - Vacations Rentals](images/vacation-rentals/availability-calendar-vr.png)
+
+## Vacation Rentals Features
+
+You can find out more about RealHomes Vacation Rentals specific features by <a href="https://realhomes.io/documentation/add-property-vr/">clicking here</a>.
+
 ## Property Print Settings
 
 Property print settings are located in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Print** section.
