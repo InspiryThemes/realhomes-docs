@@ -169,8 +169,7 @@ nav:
         - My Favorites Module: favorites-page.md
         - Saved Searches: saved-searches.md
         - My Profile Module: edit-profile.md
-        - User and Agent/Agency Synchronization: user-agent-agency-synchronization.md
-        - Setup User Roles & Capabilities: setup-user-roles-capabilities.md
+        - User Roles and Synchronization: user-roles-synchronization.md
         - Dashboard Labels: dashboard-labels.md
         - Styles: dashboard-styles.md
     - Setup CRM: real-estate-crm.md
