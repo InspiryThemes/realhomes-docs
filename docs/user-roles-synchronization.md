@@ -4,7 +4,7 @@
 
     You must setup and activate User Registration for this feature to work properly.
 
-### User, Agent, Agency Synchronization
+### **User, Agent, Agency Synchronization**
 
 The User Roles and Agent / Agency Synchronization provides the feature that synchronizes the information of a user with the Agent or Agency post type with various user roles to choose from.
 
