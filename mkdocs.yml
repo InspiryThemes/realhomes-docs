@@ -258,3 +258,5 @@ markdown_extensions:
   - pymdownx.tasklist
   - pymdownx.tilde
   - meta
+  - attr_list
+  - md_in_html
