@@ -99,11 +99,11 @@ nav:
         - Agents:
             - Add New Agent: add-agent.md
             - Create Agents Page: add-agents-page.md
-            - Agents Page Settings: agents-page-settings.md
+            - Agents Page Settings: agents-listing-settings.md
         - Agencies:
             - Add New Agency: add-agency.md
             - Create Agencies Page: add-agencies-page.md
-            - Agencies Page Settings: agencies-page-settings.md
+            - Agencies Page Settings: agencies-listing-settings.md
         - Price Format: price-format-settings.md
         - URL Slugs: url-slugs-settings.md
         - GDPR: gdpr.md
