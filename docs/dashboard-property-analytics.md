@@ -6,4 +6,5 @@ You can enable the **Property Analytics** dashboard module in **Dashboard → Re
 
 The Property Analytics in the dashboard will look like this.
 
-![Property Analytics in Action](images/dashboard/dashboard-analytics-in-action.png)
+![Dashboard Property Analytics](images/dashboard/dashboard-analytics-first.png)
+![Dashboard Property Analytics](images/dashboard/dashboard-analytics-second.png)

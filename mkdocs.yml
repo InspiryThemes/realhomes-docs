@@ -164,7 +164,7 @@ nav:
     - Dashboard:
         - Setup Dashboard: dashboard.md
         - Basic Settings: dashboard-general.md
-        - Analytics Module: property-analytics.md
+        - Analytics Module: dashboard-property-analytics.md
         - Submit Property Module: submit-property.md
         - Guest Property Submission: guest-property-submission.md
         - My Properties Module: my-properties.md
