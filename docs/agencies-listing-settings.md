@@ -1,16 +1,16 @@
 # Agencies Listing Settings
 
-### General Settings
+### **General Settings**
 
 To configure settings for the Agencies' Listing page, please navigate to **Dashboard → RealHomes → Customize Settings → Agencies Pages**.
 
 ![Agents Listing Settings](images/agency/agency-settings.png)
 
-### Agencies Search
+### **Agencies Search**
 
 ![Agents Listing Settings](images/agency/agency-search.png)
 
-### Agencies Sort Control
+### **Agencies Sort Control**
 
 ![Agents Listing Settings](images/agency/agency-sort-control.png)
 
@@ -20,11 +20,11 @@ The Agencies Statistics feature offers insights into the distribution of propert
 
 ![Agents Listing Settings](images/agency/agency-properties-stats.png)
 
-### Properties Count
+### **Properties Count**
 
 ![Agents Listing Settings](images/agency/agency-properties-count.png)
 
-### Verification Status
+### **Verification Status**
 
 ![Agents Listing Settings](images/agency/agency-verification-status.png)
 
@@ -34,6 +34,6 @@ You can also activate agency rating functionality, empowering users to evaluate 
 
 ![Agents Listing Settings](images/agency/agency-ratings.png)
 
-### Shortcode to Replace Default Contact Form
+### **Shortcode to Replace Default Contact Form**
 
 ![Agents Listing Settings](images/agency/replace-agency-shortcode.png)
