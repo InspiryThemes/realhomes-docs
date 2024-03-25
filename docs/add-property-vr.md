@@ -10,41 +10,59 @@ Go to **Dashboard → Easy Real Estate → New Property**
 
 If you are using the **RealHomes Vacation Rentals** plugin and have [configured](vacation-rentals-setup.md) it, you can see the **Vacation Rentals** tab at the top. There you can add pricing and other property rental information.
 
-![Vacations Rentals](images/add-content/vacation-rentals.png)
+![Vacations Rentals](images/add-content/add-property-vr.png)
 
-### Reserve Booking Dates
+### **Display Booking Form Widget**
+
+You can choose either you want to display the booking form or not.
+
+![Vacations Rentals](images/vacation-rentals/booking-widget-display.png)
+
+### **Bulk Prices**
+
+This feature helps you in providing discount on longer stays.
+
+![Vacations Rentals](images/vacation-rentals/bulk-prices.png)
+
+### **Reserve Booking Dates**
 
 ![Vacations Rentals](images/vacation-rentals/reserve-booking-dates.png)
 
-### Seasonal Prices
+### **Seasonal Prices**
 
 ![Vacations Rentals](images/add-content/seasional-prices.png)
 
-### Additional Fees
+### **Additional Fees**
 
 ![Vacations Rentals](images/add-content/additional-fees.png)
 
-### Other Fees
+### **Additional Amenities**
+
+These amenities will be optional to choose from while booking a property. The chosen amenities price will be added based on the condition you set.
+
+![Vacations Rentals](images/vacation-rentals/additional-amenities.png)
+
+### **Other Fees**
 
 ![Vacations Rentals](images/add-content/other-fees.png)
 
-### Guest Accomodations
+### **Guest Accomodations**
 
 ![Vacations Rentals](images/add-content/guests-accomodation.png)
 
-### Assign Owner
+### **Assign Owner**
 
 ![Vacations Rentals](images/vacation-rentals/assign-owner.png)
 
-### Outdoor Features and Property Surroundings
+### **Outdoor Features and Property Surroundings**
 
 ![Vacations Rentals](images/add-content/outdoor-features-and-property-surroundings.png)
 
-### Whats Included and Not Included
+### **Whats Included and Not Included**
 
 ![Vacations Rentals](images/add-content/included-or-not-included.png)
 
-### Property Policies or Rules
+### **Property Policies or Rules**
 
 ![Vacations Rentals](images/add-content/property-policies-and-rules.png)
 
