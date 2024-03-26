@@ -18,7 +18,7 @@ We have added multiple new features in the latest version, which are listed belo
 - <strong><a href="https://realhomes.io/changelog/" target="_blank">Several Improvements & Fixes</a></strong>
 
 ## Tips for Performance Improvement
-* It is recommended that you should use a VPS instead of shared hosting as it gives you better resources to work on. Also make sure your hosting is based on SSD drives.
+* It is recommended to opt for a VPS over shared hosting for better resources. Ensure your hosting is based on SSD drives for optimal performance.
 * Use **PHP 7.4 or greater** as it is faster than previous versions of PHP and a <strong><a href="https://wordpress.org/about/requirements/" target="_blank">base requirement of WordPress</a></strong> with **MySQL version 5.6** or greater. ( You can communicate with your hosting provider to get it updated. )
 * Use a good cache plugin like <strong><a href="https://wordpress.org/plugins/wp-fastest-cache/" target="_blank">WP Fastest Cache Plugin</a></strong> and test your site properly after installing and configuring it. 
 * You can also consider installing plugin like  <strong><a href="https://wordpress.org/plugins/flying-pages/" target="_blank">Flying Pages plugin</a></strong> for faster user experience.
@@ -33,7 +33,7 @@ We have added multiple new features in the latest version, which are listed belo
 
 ## About Child Theme
 
-It is highly recommended to use the child theme so that you can easily update parent theme whenever a new update is available. A pre-built ready to use child theme is included in the main theme pack which you have downloaded from <a target="_blank" href="https://themeforest.net/downloads">ThemeForest</a>. It is commonly called **rh-main-package.zip**.
+It is highly recommended to use the child theme to facilitate seamless updates of the parent theme whenever new versions are released. The main theme pack downloaded from <a target="_blank" href="https://themeforest.net/downloads">ThemeForest</a> includes a pre-built, ready-to-use child theme, often referred to as "**rh-main-package.zip**".
 
 ## How to Update Theme
 RealHomes provides auto-updates within WordPress dashboard. But if you are updating your theme from a very old version then you can consult <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/">this knowledge base article</a>.
