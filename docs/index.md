@@ -23,7 +23,7 @@ We have added multiple new features in the latest version, which are listed belo
 * Use a good cache plugin like <strong><a href="https://wordpress.org/plugins/wp-fastest-cache/" target="_blank">WP Fastest Cache Plugin</a></strong> and test your site properly after installing and configuring it. 
 * You can also consider installing plugin like  <strong><a href="https://wordpress.org/plugins/flying-pages/" target="_blank">Flying Pages plugin</a></strong> for faster user experience.
 * Consider using a image compression plugin like <strong><a href="https://wordpress.org/plugins/imagify/" target="_blank">Imagify</a></strong>.
-* CDN service also plays an important role to improve the performance of your website so you can use it to deliver the content of your website a little faster.
+* Leveraging a CDN service is crucial for enhancing your website's performance. Utilize it to deliver your website's content with increased speed and efficiency.
 
 ## RealHomes Specific Cache Configurations
 

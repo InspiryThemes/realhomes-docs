@@ -1,10 +1,10 @@
 # Installation
 
-Before installation, you must make sure that your hosting environment/server must meet the [requirements of WordPress](https://wordpress.org/about/requirements/). RealHomes doesn't require any specific setup, and it will work perfectly fine on a hosting account (shared, reseller, or dedicated) that meets WordPress requirements.
+Before installation, ensure that your hosting environment/server meets WordPress [requirements of WordPress](https://wordpress.org/about/requirements/). RealHomes doesn't demand any specific setup; it operates seamlessly on hosting accounts—be it shared, reseller, or dedicated—as long as they fulfill WordPress requirements.
 
-To start, you must have a working version of WordPress. Almost all primary web hosts provide one-click WordPress install, and you can consult your host's help site for more information in this regard. For manual installation, you can consult [WordPress Official Installation guide](https://wordpress.org/support/article/how-to-install-wordpress/).
+To begin, you'll need a functional version of WordPress. Most leading web hosts offer one-click WordPress installations. Refer to your host's help site for detailed instructions. For manual installation, consult the [WordPress Official Installation guide](https://wordpress.org/support/article/how-to-install-wordpress/).
 
-Once you have a working version of WordPress, You need to download "**All Files and Documentation**" from the ThemeForest download page (screenshot below) and extract the downloaded zip to get the required files, including **realhomes.zip**.
+Once WordPress is set up, download "**All Files and Documentation**" from the ThemeForest download page and extract the zip file. This will provide you with the necessary files, including **realhomes.zip**.
 
 ![Screenshot](images/installation/download-rh-full-package.png)
 
