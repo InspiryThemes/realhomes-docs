@@ -1,6 +1,6 @@
 # Selection Of Design (Classic or Modern or Ultra)
 
-We strongly suggest selecting and finalize a design at the start and use it to run the website smoothly in the long term. It is possible that a specific feature may not be available/supported in other design variations due to design limitations.
+It's highly suggested to choose and finalize a design from the outset to ensure smooth experience in the long-term. Certain features may not be available or supported in alternative design variations due to inherent design limitations.
 
 One of these designs (**Classic**, **Modern** OR **Ultra**) can be selected by navigating to **Dashboard → RealHomes → Design**.
 
