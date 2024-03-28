@@ -46,9 +46,9 @@ Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **
 
 if you face any problem during upload through dashboard, please upload the theme using FTP as guided below.
 
-## **Import Condominium Demo**
+## **Import Agency Demo**
 
-Navigate to **Dashboard → RealHomes → Import Demo**, click on **Ultra** label to see all the available demos based on Ultra design. After that click on the **Import Demo** button of **Agency - Elementor** demo.
+Navigate to **Dashboard → RealHomes → Import Demo**, click on **Ultra** label to see all the available demos based on Ultra design. After that click on the **Import Demo** button of **Agency - Elementor** demo. You will see the **Import Demo** button after hovering over the **Agency - Elementor** demo card.
 
 ![Screenshot](images/agency/agency-demo-import.png)
 

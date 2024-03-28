@@ -50,7 +50,8 @@ if you face any problem during upload through dashboard, please upload the theme
 
 ## **Import Condominium Demo**
 
-- Navigate to **Dashboard → RealHomes → Import Demo** and click in the **Import Demo** button of **Condominium - Elementor** demo.
+- Navigate to **Dashboard → RealHomes → Import Demo** and click in the **Import Demo** button of **Condominium - Elementor** demo. You will see the **Import Demo** button after hovering over the **Condominium - Elementor** demo card.
+- 
 ![Screenshot](images/condominium/condominium-demo-import.png)
 
 ## **Initial Elementor Settings**
