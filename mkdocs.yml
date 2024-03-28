@@ -43,6 +43,9 @@ nav:
     - Ultra Design <span class='label'>New</span>:
         - Ultra Setup: ultra-design-setup.md
         - Single Property Setup: single-property-elementor-ultra.md
+        - Condominium Demo:  condominium-demo-setup.md
+        - Agency Demo:  agency-demo-setup.md
+        - Hotel Demo <span class='label'>New</span>:  hotel-demo-setup.md
     - Purpose Oriented Demos:
         - Vacation Rentals:
             - Setup with Modern: vacation-rentals-setup.md
@@ -53,8 +56,6 @@ nav:
             - Booking Payments: realhomes-property-booking-payment-setup.md
             - Bookings Module: bookings.md
         - Single Agent:  single-agent-setup.md
-        - Condominium Demo:  condominium-demo-setup.md
-        - Agency Demo:  agency-demo-setup.md
     - Header & Footer:
         - Ultra:
             - Header: configure-header-settings-ultra.md
