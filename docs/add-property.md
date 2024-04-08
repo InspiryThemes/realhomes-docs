@@ -246,4 +246,10 @@ If you want to make the single property page full width, then you can change the
 
 ![Property Attributes](images/add-content/select-single-property-template.gif)
 
+## **RealHomes Misc Settings**
+
+There are miscelanious settings available for the single property page, which you can use to change the custom header, footer, sidebar or other single property attributes.
+
+![Property Misc Settings](images/add-content/misc-settings-add-property.gif)
+
 **Publish the property once it is ready**.
