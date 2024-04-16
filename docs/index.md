@@ -1,8 +1,9 @@
 !!! info "Important"
 
-    This documentation is last updated on **16th April, 2024** and current RealHomes Theme version is {== **4.3.0** ==}
+    This documentation was last updated on **April 16th, 2024**, and the current version of the RealHomes Theme is {== **4.3.0** ==}
 
-Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope of this documentation should be searched on our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> OR asked on our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. You can visit <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this knowledge base article</a> to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
+Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in this documentation, please search our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> or reach out through our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. If you need assistance with obtaining your item purchase code from themeforest.net to register on our support site, refer to <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this article</a>.
+
 
 ## What's new in v4.3.x?
 
@@ -34,28 +35,30 @@ We've introduced several new features in our latest release, including:
 
 ## RealHomes Specific Cache Configurations
 
-* Do not unify (combine) JavaScript files for RealHomes theme while using a cache plugin ( or any optimisation plugin ) as it is not an average blog theme and certain scripts are only loaded when required. Also, dynamic data is generated before few scripts based on various settings. So, Combining JavaScript files can create errors.
-* RealHomes uses following cookies (if related setting/plugin is enabled). So, You can configure your cache plugin to not cache pages that uses these cookies OR you can request the same from your host if your host is like WPEngine ( who do not allow cache plugin and handles the cache on server level ).
-    - realhomes_current_currency
+* Avoid combining JavaScript files for the RealHomes theme when using a cache plugin (or any optimization plugin). This theme isn't typical and certain scripts load only when needed. Additionally, dynamic data is generated before some scripts based on various settings. Combining JavaScript files can lead to errors.
+* RealHomes utilizes the following cookies (if related settings/plugins are enabled). Configure your cache plugin to exclude pages that use these cookies, or request the same from your host if it's like WPEngine (which doesn't permit cache plugins and manages caching at the server level):
+    - `realhomes_current_currency`
 
-## About Child Theme
+## Using a Child Theme
 
-It is highly recommended to use the child theme to facilitate seamless updates of the parent theme whenever new versions are released. The main theme pack downloaded from <a target="_blank" href="https://themeforest.net/downloads">ThemeForest</a> includes a pre-built, ready-to-use child theme, often referred to as "**rh-main-package.zip**".
+Utilizing a child theme is strongly recommended to ensure smooth updates of the parent theme whenever new versions are released. The main theme pack downloaded "**rh-main-package.zip**" from [ThemeForest](https://themeforest.net/downloads) includes a pre-built, ready-to-use child theme, often referred to as "**realhomes-child.zip**".
 
-## How to Update Theme
-RealHomes provides auto-updates within WordPress dashboard. But if you are updating your theme from a very old version then you can consult <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/">this knowledge base article</a>.
+## Updating the Theme
 
-For any further assistance, Kindly register/login at our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a> and <a target="_blank" href="https://support.inspirythemes.com/ask-question/">ask your question</a> over there. So that our support team can assist you properly.
+RealHomes offers auto-updates within the WordPress dashboard. However, if you're updating from a very old version, you can refer to [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/).
+
+For further assistance, please register/login at our [support platform](https://support.inspirythemes.com/login-register/) and [submit your question](https://support.inspirythemes.com/ask-question/). Our support team will assist you promptly.
 
 ## Support Policy
 
-### **Support Includes**
+### **Included in Support**
 
-- Answering technical questions about theme's features.
-- Assistance with reported bugs and issues.
-- Guidance with included 3rd party assets.
+- Providing technical assistance on the theme's features.
+- Addressing reported bugs and issues.
+- Offering guidance on included third-party assets.
 
-### **Support Does Not Include**
+### **Not Included in Support**
 
-- Code customization.
+- Custom code modifications.
 - Theme installation and setup.
+
