@@ -160,7 +160,7 @@ nav:
     - Login & Registration:
         - Setup Login: setup-login.md
         - Setup Registration: setup-registration.md
-        - Setup User Approvals: setup-user-approvals.md
+        - User Approvals Management: user-approvals-management.md
         - Setup Social Login: setup-social-login.md
     - Dashboard:
         - Setup Dashboard: dashboard.md
@@ -169,6 +169,8 @@ nav:
         - Submit Property Module: submit-property.md
         - Guest Property Submission: guest-property-submission.md
         - My Properties Module: my-properties.md
+        - Agents Module: dashboard-agents.md
+        - Agencies Module: dashboard-agencies.md
         - Bookings Module: bookings.md
         - Invoices Module: invoices.md
         - My Favorites Module: favorites-page.md

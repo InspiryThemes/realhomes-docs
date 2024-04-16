@@ -1,29 +1,36 @@
 !!! info "Important"
 
-    This documentation is last updated on **9th April, 2024** and current RealHomes Theme version is {== **4.3.0** ==}
+    This documentation is last updated on **16th April, 2024** and current RealHomes Theme version is {== **4.3.0** ==}
 
 Thanks for purchasing **RealHomes Theme**. Any question that is beyond the scope of this documentation should be searched on our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> OR asked on our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. You can visit <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this knowledge base article</a> to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
-## What's new in v4.2.x?
+## What's new in v4.3.x?
 
-We have added multiple new features in the latest version, which are listed below.
+We've introduced several new features in our latest release, including:
 
-- <strong>Brand New Agency Demo Launched - <a target="_blank" href="https://ultra.realhomes.io/agency/">https://ultra.realhomes.io/agency/</a></strong>
-- <strong>Brand New Ultra Vacation Rentals Demo Launched - <a target="_blank" href="https://ultra.realhomes.io/vacation-rentals/">https://ultra.realhomes.io/vacation-rentals/</a></strong>
-- <strong>Page Layout is added in RealHomes Vacation Rentals</strong>
-- <strong>Custom Sidebars feature is added in RealHomes Vacation Rentals</strong>
-- <strong>Agency Verification feature is added in RealHomes Vacation Rentals</strong>
-- <strong>Blog Page has new settings for <a href="https://realhomes.io/documentation/news-page/#blog-page-settings" target="_blank">Page Layout and Card Layout</a></strong>
-- <strong>Updated Latest PayPal Payments API functionality for Individual Properties Payments</strong>
-- <strong><a href="https://realhomes.io/changelog/" target="_blank">Several Improvements & Fixes</a></strong>
+- **Brand New Hotel Demo Launched** - [https://ultra.realhomes.io/hotel/](https://ultra.realhomes.io/hotel/)
+- **Added new [User Roles Management & Synchronization](https://realhomes.io/documentation/user-roles-synchronization/)** Feature
+- **Added new [User Approvals Management](https://realhomes.io/documentation/user-approvals-management/)** Feature
+- **Added [Custom Icon](https://realhomes.io/documentation/custom-meta-icons/)** Feature
+- **Added [Agents Statistics](https://realhomes.io/documentation/agents-listing-settings/#agents-statistics)** Feature
+- **Added [Agencies Statistics](https://realhomes.io/documentation/agencies-listing-settings/#agencies-statistics)** Feature
+- **Added Additional Ameneties Feature in RealHomes Vacation Rentals**
+- **Added [Property Analytics](https://realhomes.io/documentation/dashboard-property-analytics/)** User Dashboard Module
+- **Added [Agents](https://realhomes.io/documentation/dashboard-agents/)** User Dashboard Module
+- **Added [Agencies](https://realhomes.io/documentation/dashboard-agencies/)** User Dashboard Module
+- **Added [Invoices](https://realhomes.io/documentation/invoices/)** User Dashboard Module for RealHomes Vacation Rentals
+- **Added Report Property feature to Ultra Design**
+- **Improved UI Styles through RealHomes**
+- **[Several Improvements & Fixes](https://realhomes.io/changelog/)**
 
-## Tips for Performance Improvement
-* It is recommended to opt for a VPS over shared hosting for better resources. Ensure your hosting is based on SSD drives for optimal performance.
-* Use **PHP 7.4 or greater** as it is faster than previous versions of PHP and a <strong><a href="https://wordpress.org/about/requirements/" target="_blank">base requirement of WordPress</a></strong> with **MySQL version 5.6** or greater. ( You can communicate with your hosting provider to get it updated. )
-* Use a good cache plugin like <strong><a href="https://wordpress.org/plugins/wp-fastest-cache/" target="_blank">WP Fastest Cache Plugin</a></strong> and test your site properly after installing and configuring it. 
-* You can also consider installing plugin like  <strong><a href="https://wordpress.org/plugins/flying-pages/" target="_blank">Flying Pages plugin</a></strong> for faster user experience.
-* Consider using a image compression plugin like <strong><a href="https://wordpress.org/plugins/imagify/" target="_blank">Imagify</a></strong>.
-* Leveraging a CDN service is crucial for enhancing your website's performance. Utilize it to deliver your website's content with increased speed and efficiency.
+## Tips to Improve Website Performance
+
+* Opt for a VPS over shared hosting and ensure it's SSD-based for better resources.
+* Upgrade to **PHP 7.4 or newer**, a requirement for WordPress, and ensure MySQL version is **5.6 or higher** (Contact your hosting provider for updates).
+* Use a reliable cache plugin like **[WP Fastest Cache Plugin](https://wordpress.org/plugins/wp-fastest-cache/)** and thoroughly test your site after installation and configuration.
+* Enhance user experience with plugins like **[Flying Pages](https://wordpress.org/plugins/flying-pages/)** for faster loading.
+* Reduce image load times with an image compression plugin such as **[Imagify](https://wordpress.org/plugins/imagify/)**.
+* Boost performance by leveraging a CDN service to deliver content faster and more efficiently.
 
 ## RealHomes Specific Cache Configurations
 
