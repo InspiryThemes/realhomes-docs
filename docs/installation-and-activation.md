@@ -1,8 +1,8 @@
 # Installation
 
-Before installation, ensure that your hosting environment/server meets WordPress [requirements of WordPress](https://wordpress.org/about/requirements/). RealHomes doesn't demand any specific setup; it operates seamlessly on hosting accounts—be it shared, reseller, or dedicated—as long as they fulfill WordPress requirements.
+Before installation, ensure your hosting environment/server meets [requirements of WordPress](https://wordpress.org/about/requirements/). RealHomes doesn't demand any specific setup; it operates seamlessly on hosting accounts—be it shared, reseller, or dedicated—as long as they fulfill WordPress requirements.
 
-To begin, you'll need a functional version of WordPress. Most leading web hosts offer one-click WordPress installations. Refer to your host's help site for detailed instructions. For manual installation, consult the [WordPress Official Installation guide](https://wordpress.org/support/article/how-to-install-wordpress/).
+To begin, you'll need a functional version of a stand-alone WordPress. Most leading web hosts offer one-click WordPress installations. Refer to your host's help site for detailed instructions. For manual installation, consult the [WordPress Official Installation guide](https://wordpress.org/support/article/how-to-install-wordpress/).
 
 Once WordPress is set up, download "**All Files and Documentation**" from the ThemeForest download page and extract the zip file. This will provide you with the necessary files, including **realhomes.zip**.
 
@@ -94,4 +94,4 @@ All the following issues/errors are either user-created or server-side problems.
 !!! error "**Missing temporary directory**"
     You might also face this problem on some rare hosting servers if WordPress is not installed correctly, so we have a solution in this quick guide: https://support.inspirythemes.com/knowledgebase/destination-directory-for-file-streaming-does-not-exist-or-is-not-writable/
 
-If you face any other problem that is not listed above, then [create a ticket](https://support.inspirythemes.com/ask-question/) at our support platform by [signing up](https://support.inspirythemes.com/login-register/) and we will assist you as soon as possible.
+If you face any other problem that is not listed above, then [create a ticket](https://support.inspirythemes.com/ask-question/) at our support platform by [signing up](https://support.inspirythemes.com/login-register/) and we will assist you as soon as possible. 
