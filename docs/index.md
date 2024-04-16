@@ -9,7 +9,7 @@ Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in
 
 We've introduced several new features in our latest release, including:
 
-- **Brand New Hotel Demo Launched** - [https://ultra.realhomes.io/hotel/](https://ultra.realhomes.io/hotel/)
+- **Brand New Hotel Demo Launched** - **[https://ultra.realhomes.io/hotel/](https://ultra.realhomes.io/hotel/)**
 - **Added new [User Roles Management & Synchronization](https://realhomes.io/documentation/user-roles-synchronization/)** Feature
 - **Added new [User Approvals Management](https://realhomes.io/documentation/user-approvals-management/)** Feature
 - **Added [Custom Icon](https://realhomes.io/documentation/custom-meta-icons/)** Feature
