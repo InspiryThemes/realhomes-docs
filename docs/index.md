@@ -20,6 +20,7 @@ We've introduced several new features in our latest release, including:
 - **Added [Agents](https://realhomes.io/documentation/dashboard-agents/)** User Dashboard Module
 - **Added [Agencies](https://realhomes.io/documentation/dashboard-agencies/)** User Dashboard Module
 - **Added [Invoices](https://realhomes.io/documentation/invoices/)** User Dashboard Module for RealHomes Vacation Rentals
+- **Added [Owners List](https://realhomes.io/documentation/owners-widget/)** widget
 - **Added Report Property feature to Ultra Design**
 - **Improved UI Styles through RealHomes**
 - **[Several Improvements & Fixes](https://realhomes.io/changelog/)**
