@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **April 16th, 2024**, and the current version of the RealHomes Theme is {== **4.3.0** ==}
+    This documentation was last updated on **April 18th, 2024**, and the current version of the RealHomes Theme is {== **4.3.0** ==}
 
 Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in this documentation, please search our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> or reach out through our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. If you need assistance with obtaining your item purchase code from themeforest.net to register on our support site, refer to <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this article</a>.
 
@@ -22,7 +22,7 @@ We've introduced several new features in our latest release, including:
 - **Added [Invoices](https://realhomes.io/documentation/invoices/)** User Dashboard Module for RealHomes Vacation Rentals
 - **Added [Owners List](https://realhomes.io/documentation/owners-widget/)** widget
 - **Added Report Property feature to Ultra Design**
-- **Improved UI Styles through RealHomes**
+- **Improved UI Styles of RealHomes & its Component Plugins' Settings**
 - **[Several Improvements & Fixes](https://realhomes.io/changelog/)**
 
 ## Tips to Improve Website Performance
