@@ -15,6 +15,7 @@ We've introduced several new features in our latest release, including:
 - **Added [Custom Icon](https://realhomes.io/documentation/custom-meta-icons/)** Feature
 - **Added [Agents Statistics](https://realhomes.io/documentation/agents-listing-settings/#agents-statistics)** Feature
 - **Added [Agencies Statistics](https://realhomes.io/documentation/agencies-listing-settings/#agencies-statistics)** Feature
+- **Added Elementor support for Search Results, Archive and Other page templates**
 - **Added Additional Ameneties Feature in RealHomes Vacation Rentals**
 - **Added [Property Analytics](https://realhomes.io/documentation/dashboard-property-analytics/)** User Dashboard Module
 - **Added [Agents](https://realhomes.io/documentation/dashboard-agents/)** User Dashboard Module
