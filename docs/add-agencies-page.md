@@ -34,7 +34,7 @@ After publishing you need to add the newly created page in menu from **Dashboard
 
 ![Add Agencies Page to Menu](images/create-pages/add-agencies-page-menu.png)
 
-Now that you have agencies page published, kindly navigate to **Dashboard → RealHomes → Customize Settings → Various Pages → Agencies Pages** and configure the settings for agencies page accordingly. 
+Now that you have agencies page published, kindly navigate to **Dashboard → RealHomes → Customize Settings → Agencies Pages** and configure the settings for agencies page accordingly. 
 
 **Classic**
 

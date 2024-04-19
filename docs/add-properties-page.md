@@ -23,7 +23,7 @@ There are **3 Templates** for properties listing pages.
 
 ### **Map Settings**
 
-If you like to disable the map on Properties Listing pages then you can disable it and control several other options by navigating to **Dashboard → RealHomes → Customize Settings → Various Pages → List Templates & Taxonomy Archives** as shown below.
+If you like to disable the map on Properties Listing pages then you can disable it and control several other options by navigating to **Dashboard → RealHomes → Customize Settings → Properties Templates & Archive** as shown below.
 
 **Classic**
 
@@ -80,12 +80,12 @@ After publishing you need to add the newly created page to the menu via **Dashbo
 
 ### **Properties Archive / Taxonomy Pages**
 
-The settings for Properties Archive & Taxonomy pages are located in **Dashboard → RealHomes → Customize Settings → Various Pages → List Templates & Taxonomy Archives**.
+The settings for Properties Archive & Taxonomy pages are located in **Dashboard → RealHomes → Customize Settings → Properties Templates & Archive**.
 
 ![Adding Listing Page to the Menu](images/create-pages/properties-archive-page-settings.png)
 
 ### **Properties Card Settings**
 
-You can change the **Properties Card's** settings for **Grid Layout** in **Dashboard → RealHomes → Customize Settings → Various Pages → List Templates & Taxonomy Archives**.
+You can change the **Properties Card's** settings for **Grid Layout** in **Dashboard → RealHomes → Customize Settings → Properties Templates & Archive**.
 
 ![Adding Listing Page to the Menu](images/create-pages/properties-card-settings.png)
