@@ -48,6 +48,16 @@ if you face any problem during upload through dashboard, please upload the theme
 
 ## **Import Hotel Demo**
 
+### **Step 1**
+
+First, please go to **Dashboard → Easy Real Estate → New Field Builder** and paste the following code in **Backup JSON** field and click on "**Save Settings**" to save and import the required fields for Hotel Demo.
+
+```
+{"ere_field_icon_type":"image-icon","ere_allow_svg_upload":"true","inspiry_additional_fields_list":[{"field_name":"Design By","field_type":"text","field_image_icon":["5686"],"field_display":["listing","single"]},{"field_name":"Internet","field_type":"text","field_image_icon":["6156"],"field_display":["listing","single"]},{"field_name":"Self check-in","field_type":"text","field_image_icon":["6791"],"field_display":["listing","single"]},{"field_name":"Smart TV","field_type":"text","field_image_icon":["6158"],"field_display":["listing","single"]},{"field_name":"Breakfast","field_type":"text","field_image_icon":["6157"]},{"field_name":"Cancelation Policy","field_type":"text","field_image_icon":["5687"],"field_display":["listing","single"]},{"field_name":"Cleaning","field_type":"text","field_image_icon":["6183"],"field_display":["listing","single"]},{"field_name":"Mountain View","field_type":"text","field_image_icon":["6442"],"field_display":["listing","single"]}]}
+```
+
+### **Step 2**
+
 Navigate to **Dashboard → RealHomes → Import Demo**, click on **Ultra** label to see all the available demos based on Ultra design. After that click on the **Import Demo** button of **Hotel - Elementor** demo. You will see the **Import Demo** button after hovering over the **Hotel - Elementor** demo card.
 
 ![Screenshot](images/hotel/hotel-demo-import.png)
