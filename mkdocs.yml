@@ -133,23 +133,19 @@ nav:
     - Elementor:
         - Intro & Installation: intro-and-installation-elementor.md
         - Custom Header & Footer: custom-header-footer-elementor.md
-        - RealHomes Widgets: 
-            - RealHomes Elementor Widgets: realhomes-elementor-widgets.md
-            - Properties Widgets: properties-elementor-widgets.md
-            - Agents Widgets: agents-elementor-widget.md
-            # - Google & Open Street Maps Widgets: google-or-open-street-maps-widgets.md
-            # - Amazing Features Widget: amazing-features-elementor-widget.md
-            - News / Posts Widget: news-post-grid-elementor-widget.md
-            - Call to Action Widgets: call-to-action-elementor-widgets.md
-            - Partners Widget: partners-elementor-widget.md
-            # - Hero Widget: hero-elementor-widgets.md
-            # - How It Works Widget: how-it-works-widget.md
-            - Testimonials Widgets: testimonials-elementor-widgets.md
-            # - Schedule Tour Form Widget: schedule-tour-form-elementor-widget.md
-            # - Single Property Slider Widgets: single-property-slider-elementor-widget.md
         # - Home Page with Elementor: home-page-setup-with-elementor.md
         - Common Issues: common-issues-elementor.md
         - Elementor Pro: elementor-pro.md
+    - RealHomes Widgets: 
+        - RealHomes Elementor Widgets: realhomes-elementor-widgets.md
+        - Ultra Elementor Widgets: ultra-elementor-widgets.md
+        - Modern Properties Widgets: properties-elementor-widgets.md
+        - Agents Widgets: agents-elementor-widget.md
+        - Amazing Features Widget: amazing-features-elementor-widget.md
+        - News / Posts Widget: news-post-grid-elementor-widget.md
+        - Call to Action Widgets: call-to-action-elementor-widgets.md
+        - Partners Widget: partners-elementor-widget.md
+        - Testimonials Widgets: testimonials-elementor-widgets.md
     - Maps & reCAPTCHA:
         - Open Street Maps: open-street-maps.md
         - Google Maps:
