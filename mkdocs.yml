@@ -46,6 +46,7 @@ nav:
         - Condominium Demo:  condominium-demo-setup.md
         - Agency Demo:  agency-demo-setup.md
         - Hotel Demo <span class='label'>New</span>:  hotel-demo-setup.md
+        - Ultra Elementor Widgets: ultra-elementor-widgets.md
     - Purpose Oriented Demos:
         - Vacation Rentals:
             - Setup with Modern: vacation-rentals-setup.md
