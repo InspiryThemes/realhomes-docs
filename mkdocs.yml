@@ -137,9 +137,10 @@ nav:
         # - Home Page with Elementor: home-page-setup-with-elementor.md
         - Common Issues: common-issues-elementor.md
         - Elementor Pro: elementor-pro.md
-    - RealHomes Widgets: 
-        - RealHomes Elementor Widgets: realhomes-elementor-widgets.md
+    - RealHomes Elementor Widgets: 
+        - RealHomes Widgets: realhomes-elementor-widgets.md
         - Ultra Elementor Widgets: ultra-elementor-widgets.md
+        - Single Property Setup: single-property-elementor-ultra.md
         - Modern Properties Widgets: properties-elementor-widgets.md
         - Agents Widgets: agents-elementor-widget.md
         - Amazing Features Widget: amazing-features-elementor-widget.md
