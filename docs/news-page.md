@@ -32,9 +32,3 @@ To configure reading settings you need to visit **Dashboard → Settings → Rea
 
 !!!info "More information about **Banner Settings** can be found here: "
     **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
-
-## Blog Page Settings
-
-The header variation and blog meta settings are located in **Customizer** panel [ **Dashboard → RealHomes → Customize Settings → Blog Page** ].
-
-![Header Variation & Meta Settings](images/news-page/header-variation-and-meta-settings.png)
