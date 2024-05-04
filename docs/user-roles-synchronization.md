@@ -1,4 +1,4 @@
-# User Roles Management & Synchronization
+# User Roles Management
 
 !!! info "Important"
 
