@@ -1,4 +1,7 @@
-# Property Analytics
+# Property Analytics Module
+
+!!! Important
+    To have this module working properly, please activate **Property Analytics Feature** from Easy Real Estate Settings as <a href="https://realhomes.io/documentation/property-settings/#property-views">**guided here**</a>.
 
 You can enable the **Property Analytics** dashboard module in **Dashboard → RealHomes → Customize Settings → Dashboard → Analytics** section.
 
