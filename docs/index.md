@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **April 30th, 2024**, and the current version of the RealHomes Theme is {== **4.3.0** ==}
+    This documentation was last updated on **May 6th, 2024**, and the current version of the RealHomes Theme is {== **4.3.0** ==}
 
 Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in this documentation, please search our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> or reach out through our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. If you need assistance with obtaining your item purchase code from themeforest.net to register on our support site, refer to <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this article</a>.
 
