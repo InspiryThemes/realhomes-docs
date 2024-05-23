@@ -171,7 +171,7 @@ nav:
         - My Properties Module: my-properties.md
         - Agents Module: dashboard-agents.md
         - Agencies Module: dashboard-agencies.md
-        - Bookings Module: bookings.md
+        - Bookings, Reservations & Invoices: bookings-reservations-invoices.md
         - Invoices Module: invoices.md
         - My Favorites Module: favorites-page.md
         - Saved Searches: saved-searches.md
