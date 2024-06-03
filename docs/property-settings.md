@@ -26,10 +26,6 @@ The banner title settings can be modified in **Dashboard → RealHomes → Custo
 
 ## Report Property
 
-!!! info "Important"
-
-    This functionality is currently exclusive to the Modern design, but it's on our roadmap for implementation in the Ultra design as well.
-
 You can enable Report Property feature in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Report Property**.
 
 ![Report Property Settings](images/single-property-page/report-property-single-property-page.png)
