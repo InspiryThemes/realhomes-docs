@@ -84,8 +84,9 @@ nav:
         - Create Home Page: create-home-page.md
         - Configure Reading Settings: configure-reading-settings.md
         - Home Page with Elementor: home-page-setup-with-elementor.md
-        - Settings (Classic): homepage-settings-classic.md
-        - Settings (Modern): homepage-settings-modern.md
+        - Home Settings:
+            - Classic: homepage-settings-classic.md
+            - Modern: homepage-settings-modern.md
     - Advanced Search Setup:
         - Geo Location Setup: geo-location-setup.md
         - Ultra:

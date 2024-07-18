@@ -40,7 +40,7 @@ If you want to include a property in homepage slider, Then you need to edit that
 
 ![Home Page Slider](images/home-setup/slider-classic2.png)
 
-#### 2. **Search Form Over Image / Video on Homepage**
+#### 2. **Search Form Over Image / Video**
 
 Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontPage**. Scroll down to find the **Homepage Settings** section and click on **Slider Area** and choose related option as displayed in screenshot below.
 
@@ -51,7 +51,7 @@ For Search Form settings go to **Dashboard → RealHomes → Customize Settings 
 ![Search Form Over Image on Homepage](images/home-setup/search-form-over-image-2.jpg)
 
 
-#### 3. **Display Google Maps on Homepage**
+#### 3. **Display Map with Properties Markers**
 
 Adding google map on homepage is super simple as properties already have their locations stored in database.
 
@@ -62,7 +62,7 @@ So, Go to **Dashboard → Pages** and edit the page assigned as **Home or FrontP
 !!! note
     To enable Google Maps for your website, You need to configure **Google Maps API key** by navigating to **Easy Real Estate → Settings → Maps**.
 
-#### 4. **Display Image Banner on Homepage**
+#### 4. **Display Image Banner**
 
 You can also display a simple image based banner on home page with the image of your choice.
 
