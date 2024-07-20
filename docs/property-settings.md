@@ -244,12 +244,6 @@ You can also show/hide contact form in **Modern** Variation.
 
 ![Agent On Property Page](images/single-property-page/agent-on-property-page-mod.png)
 
-You can also show/hide contact form in **Modern** Variation.
-
-![Property Agents Settings](images/single-property-page/property-agent-mod.png)
-
-![Agent On Property Page](images/single-property-page/agent-on-property-page-mod.png)
-
 ## Mortgage Calculator
 
 The settings for **Mortgage Calculator** are located in **Dashboard → RealHomes → Property Detail Page → Mortgage Calculator**. 

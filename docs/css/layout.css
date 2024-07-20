@@ -23,10 +23,9 @@ body .md-header {
     height: auto;
 }
 
-.md-header__button.md-logo :where(img, svg) {
+.md-header__button.md-logo :-webkit-any(img,svg) {
     display: block;
-    height: auto;
-    width: 100px;
+    height: 2.2rem;
 }
 
 body .md-ellipsis {

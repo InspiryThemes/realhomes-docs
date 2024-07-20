@@ -9,10 +9,10 @@ Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in
 
 We've introduced several new features in our latest release, including:
 
-- **Added [Deferred Payments](https://realhomes.io/documentation/dashboard-property-analytics/)** feature for RealHomes Vacation Rentals
-- Expanded Geolocation Radius Search feature availability for all Search Forms
-- Added Area and Lot Size unit global settings
-- Added Price Prefix and Postfix global settings
+- **Added [Deferred Payments](https://realhomes.io/documentation/dashboard-property-analytics/) feature for RealHomes Vacation Rentals**
+- **Expanded Geolocation Radius Search feature availability for all Search Forms**
+- **Added Area and Lot Size unit global settings**
+- **Added Price Prefix and Postfix global settings**
 - **[Several Improvements & Fixes](https://realhomes.io/changelog/)**
 
 ## Tips to Improve Website Performance
