@@ -6,267 +6,285 @@
 
 site_name: RealHomes Documentation
 theme:
-    language: 'en' 
-    name: 'material' 
-    palette: 
-        primary: 'blue' 
-        accent: 'blue' 
-    favicon: 'images/base/realhomes-favicon.png' 
-    logo: 'images/base/realhomes-logo.svg'
+    language: "en"
+    name: "material"
+    palette:
+        primary: "blue"
+        accent: "blue"
+    favicon: "images/base/realhomes-favicon.png"
+    logo: "images/base/realhomes-logo.svg"
     custom_dir: overrides
 
 # Windows Directory
 # site_dir: 'E:\rh-live-doc'
 
 # Mac Folder
-site_dir: '/Users/usmanaliqureshi/Downloads/Others/rh-live-doc'
+site_dir: "/Users/usmanaliqureshi/Downloads/Others/rh-live-doc"
 
 extra_css:
     - css/layout.css
 
+plugins:
+    - glightbox:
+          touchNavigation: true
+          loop: false
+          effect: zoom
+          slide_effect: slide
+          width: 100%
+          height: auto
+          zoomable: true
+          draggable: true
+          skip_classes:
+              - custom-skip-class-name
+          auto_caption: false
+          caption_position: bottom
+          background: white
+          shadow: true
+          manual: false
+
 extra:
-  social:
-    - icon: 'fontawesome/brands/facebook-f'
-      link: 'https://www.facebook.com/InspiryThemes/'
-    - icon: 'fontawesome/brands/twitter'
-      link: 'https://twitter.com/InspiryThemes'
+    social:
+        - icon: "fontawesome/brands/facebook-f"
+          link: "https://www.facebook.com/InspiryThemes/"
+        - icon: "fontawesome/brands/twitter"
+          link: "https://twitter.com/InspiryThemes"
 
 nav:
     - Introduction: index.md
     - Installation & Demo Import:
-        - Installation: installation-and-activation.md
-        - Design Selection: design-selection.md
-        - Import Demo: import-demo.md
-        - Plugins: plugins.md
-        - Feedback: feedback.md
-        - Help: help.md
+          - Installation: installation-and-activation.md
+          - Design Selection: design-selection.md
+          - Import Demo: import-demo.md
+          - Plugins: plugins.md
+          - Feedback: feedback.md
+          - Help: help.md
     - Ultra Design <span class='label'>New</span>:
-        - Ultra Setup: ultra-design-setup.md
-        - Single Property Setup: single-property-elementor-ultra.md
-        - Condominium Demo:  condominium-demo-setup.md
-        - Agency Demo:  agency-demo-setup.md
-        - Hotel Demo <span class='label'>New</span>:  hotel-demo-setup.md
-        - Ultra Elementor Widgets: ultra-elementor-widgets.md
+          - Ultra Setup: ultra-design-setup.md
+          - Single Property Setup: single-property-elementor-ultra.md
+          - Condominium Demo: condominium-demo-setup.md
+          - Agency Demo: agency-demo-setup.md
+          - Hotel Demo <span class='label'>New</span>: hotel-demo-setup.md
+          - Ultra Elementor Widgets: ultra-elementor-widgets.md
     - Purpose Oriented Demos:
-        - Vacation Rentals:
-            - Setup with Modern: vacation-rentals-setup.md
-            - Setup with Ultra: vacation-rentals-ultra-setup.md
-            - Settings: vr-settings.md
-            - Add Property: add-property-vr.md
-            - Property Booking: booking.md
-            - Booking Payments: realhomes-property-booking-payment-setup.md
-        - Single Agent:  single-agent-setup.md
+          - Vacation Rentals:
+                - Setup with Modern: vacation-rentals-setup.md
+                - Setup with Ultra: vacation-rentals-ultra-setup.md
+                - Settings: vr-settings.md
+                - Add Property: add-property-vr.md
+                - Property Booking: booking.md
+                - Booking Payments: realhomes-property-booking-payment-setup.md
+          - Single Agent: single-agent-setup.md
     - Header & Footer:
-        - Ultra:
-            - Header: configure-header-settings-ultra.md
-            - Footer:
-                - Basics: footer-basics-ultra.md
-                - Logo and Tagline: footer-logo-tagline-ultra.md
-                - Widgets: footer-layout-ultra.md
-                - Copyright & Designed By Texts: text-settings-ultra.md
-                - Styles: style-settings-ultra.md
-        - Modern:
-            - Header: configure-header-settings.md
-            - Footer:
-                - Basics: footer-basics.md
-                - Logo and Tagline: footer-logo-tagline.md
-                - Widgets: footer-layout-modern.md
-                - Copyright & Designed By Texts: text-settings.md
-                - Styles: style-settings-modern.md
-        - Classic:
-            - Header: configure-header-settings-classic.md
-            - Footer:
-                - Partners: footer-settings.md
-                - Widgets: text-settings-classic.md
-                - Styles: style-settings.md
+          - Ultra:
+                - Header: configure-header-settings-ultra.md
+                - Footer:
+                      - Basics: footer-basics-ultra.md
+                      - Logo and Tagline: footer-logo-tagline-ultra.md
+                      - Widgets: footer-layout-ultra.md
+                      - Copyright & Designed By Texts: text-settings-ultra.md
+                      - Styles: style-settings-ultra.md
+          - Modern:
+                - Header: configure-header-settings.md
+                - Footer:
+                      - Basics: footer-basics.md
+                      - Logo and Tagline: footer-logo-tagline.md
+                      - Widgets: footer-layout-modern.md
+                      - Copyright & Designed By Texts: text-settings.md
+                      - Styles: style-settings-modern.md
+          - Classic:
+                - Header: configure-header-settings-classic.md
+                - Footer:
+                      - Partners: footer-settings.md
+                      - Widgets: text-settings-classic.md
+                      - Styles: style-settings.md
     - Home Page:
-        - Create Home Page: create-home-page.md
-        - Configure Reading Settings: configure-reading-settings.md
-        - Home Page with Elementor: home-page-setup-with-elementor.md
-        - Home Settings:
-            - Classic: homepage-settings-classic.md
-            - Modern: homepage-settings-modern.md
+          - Create Home Page: create-home-page.md
+          - Configure Reading Settings: configure-reading-settings.md
+          - Home Page with Elementor: home-page-setup-with-elementor.md
+          - Home Settings:
+                - Classic: homepage-settings-classic.md
+                - Modern: homepage-settings-modern.md
     - Advanced Search Setup:
-        - Geo Location Setup: geo-location-setup.md
-        - Ultra:
-            - Setup Search Page: setup-search-page-ultra.md
-            - Configure Search Form: advance-search-form-setup-ultra.md
-        - Modern & Classic:
-            - Create Search Page: create-search-page.md
-            - Configure Properties Search: advance-search-setup.md
+          - Geo Location Setup: geo-location-setup.md
+          - Ultra:
+                - Setup Search Page: setup-search-page-ultra.md
+                - Configure Search Form: advance-search-form-setup-ultra.md
+          - Modern & Classic:
+                - Create Search Page: create-search-page.md
+                - Configure Properties Search: advance-search-setup.md
     - Easy Real Estate:
-        - Adding Property:
-            - Add New Property: add-property.md
-            - Property Settings: property-settings.md
-        - Agents:
-            - Add New Agent: add-agent.md
-            - Create Agents Page: add-agents-page.md
-            - Agents Page Settings: agents-listing-settings.md
-        - Agencies:
-            - Add New Agency: add-agency.md
-            - Create Agencies Page: add-agencies-page.md
-            - Agencies Page Settings: agencies-listing-settings.md
-        - Price Format: price-format-settings.md
-        - URL Slugs: url-slugs-settings.md
-        - GDPR: gdpr.md
-        - Social Links: social-links.md
-        - Webhooks: webhooks-zohocrm-zapier.md
-        - New Fields Builder: new-fields-builder.md
-        - Custom Meta Icons: custom-meta-icons.md
+          - Adding Property:
+                - Add New Property: add-property.md
+                - Property Settings: property-settings.md
+          - Agents:
+                - Add New Agent: add-agent.md
+                - Create Agents Page: add-agents-page.md
+                - Agents Page Settings: agents-listing-settings.md
+          - Agencies:
+                - Add New Agency: add-agency.md
+                - Create Agencies Page: add-agencies-page.md
+                - Agencies Page Settings: agencies-listing-settings.md
+          - Price Format: price-format-settings.md
+          - URL Slugs: url-slugs-settings.md
+          - GDPR: gdpr.md
+          - Social Links: social-links.md
+          - Webhooks: webhooks-zohocrm-zapier.md
+          - New Fields Builder: new-fields-builder.md
+          - Custom Meta Icons: custom-meta-icons.md
     - Property Listing & Archive Pages:
-        - Listing Layouts: add-listing-pages.md
-        - Grid Variations & Card Settings: grid-variations-card-settings.md
-        - Listing & Archive Settings: archive-taxonomy-pages.md
-        - RealHomes Misc Settings: realhomes-misc-settings.md
-        - Properties Filter Settings: properties-filter-settings.md
-        - Archive & Taxonomy Pages: archive-taxonomy-pages.md
+          - Listing Layouts: add-listing-pages.md
+          - Grid Variations & Card Settings: grid-variations-card-settings.md
+          - Listing & Archive Settings: archive-taxonomy-pages.md
+          - RealHomes Misc Settings: realhomes-misc-settings.md
+          - Properties Filter Settings: properties-filter-settings.md
+          - Archive & Taxonomy Pages: archive-taxonomy-pages.md
     - Compare Properties:
-        - Setup Page: compare-properties.md
-        - Configure Settings: compare-properties-settings.md
+          - Setup Page: compare-properties.md
+          - Configure Settings: compare-properties-settings.md
     - News/Blog Page:
-        - Create News/Blog Page: news-page.md
-        - Blog Page Settings: blog-page-settings.md
-        - Add News/Blog Post: add-news-post.md
+          - Create News/Blog Page: news-page.md
+          - Blog Page Settings: blog-page-settings.md
+          - Add News/Blog Post: add-news-post.md
     - Contact Page: contact-page.md
     - Other Pages:
-        - Gallery Page: add-gallery-page.md
-        - Users Page: add-users-page.md
-        - Fluid Width Page: add-fluid-width-page.md
-        - Full Width Page: add-full-width-page.md
+          - Gallery Page: add-gallery-page.md
+          - Users Page: add-users-page.md
+          - Fluid Width Page: add-fluid-width-page.md
+          - Full Width Page: add-full-width-page.md
     - Custom Sidebars: custom-sidebars.md
     - Elementor:
-        - Intro & Installation: intro-and-installation-elementor.md
-        - Custom Header & Footer: custom-header-footer-elementor.md
-        # - Home Page with Elementor: home-page-setup-with-elementor.md
-        - Common Issues: common-issues-elementor.md
-        - Elementor Pro: elementor-pro.md
-    - RealHomes Elementor Widgets: 
-        - RealHomes Widgets: realhomes-elementor-widgets.md
-        - Ultra Elementor Widgets: ultra-elementor-widgets.md
-        - Single Property Setup: single-property-elementor-ultra.md
-        - Modern Properties Widgets: properties-elementor-widgets.md
-        - Agents Widgets: agents-elementor-widget.md
-        - Amazing Features Widget: amazing-features-elementor-widget.md
-        - News / Posts Widget: news-post-grid-elementor-widget.md
-        - Call to Action Widgets: call-to-action-elementor-widgets.md
-        - Partners Widget: partners-elementor-widget.md
-        - Testimonials Widgets: testimonials-elementor-widgets.md
+          - Intro & Installation: intro-and-installation-elementor.md
+          - Custom Header & Footer: custom-header-footer-elementor.md
+          # - Home Page with Elementor: home-page-setup-with-elementor.md
+          - Common Issues: common-issues-elementor.md
+          - Elementor Pro: elementor-pro.md
+    - RealHomes Elementor Widgets:
+          - RealHomes Widgets: realhomes-elementor-widgets.md
+          - Ultra Elementor Widgets: ultra-elementor-widgets.md
+          - Single Property Setup: single-property-elementor-ultra.md
+          - Modern Properties Widgets: properties-elementor-widgets.md
+          - Agents Widgets: agents-elementor-widget.md
+          - Amazing Features Widget: amazing-features-elementor-widget.md
+          - News / Posts Widget: news-post-grid-elementor-widget.md
+          - Call to Action Widgets: call-to-action-elementor-widgets.md
+          - Partners Widget: partners-elementor-widget.md
+          - Testimonials Widgets: testimonials-elementor-widgets.md
     - Maps & reCAPTCHA:
-        - Open Street Maps: open-street-maps.md
-        - Google Maps:
-            - Setup: google-maps-setup.md
-            - Troubleshooting: google-maps-troubleshooting.md
-            - Custom Markers for Property Type: property-type-custom-markers.md
-        - MapBox: mapbox-setup.md
-        - Google reCAPTCHA: google-recaptcha-setup.md
+          - Open Street Maps: open-street-maps.md
+          - Google Maps:
+                - Setup: google-maps-setup.md
+                - Troubleshooting: google-maps-troubleshooting.md
+                - Custom Markers for Property Type: property-type-custom-markers.md
+          - MapBox: mapbox-setup.md
+          - Google reCAPTCHA: google-recaptcha-setup.md
     - Login & Registration:
-        - Setup Login: setup-login.md
-        - Setup Registration: setup-registration.md
-        - User Approvals Management: user-approvals-management.md
-        - Setup Social Login: setup-social-login.md
+          - Setup Login: setup-login.md
+          - Setup Registration: setup-registration.md
+          - User Approvals Management: user-approvals-management.md
+          - Setup Social Login: setup-social-login.md
     - Dashboard:
-        - Setup Dashboard: dashboard.md
-        - Basic Settings: dashboard-general.md
-        - Analytics Module: dashboard-property-analytics.md
-        - Submit Property Module: submit-property.md
-        - Guest Property Submission: guest-property-submission.md
-        - My Properties Module: my-properties.md
-        - Agents Module: dashboard-agents.md
-        - Agencies Module: dashboard-agencies.md
-        - Bookings, Reservations & Invoices: bookings-reservations-invoices.md
-        - Invoices Module: invoices.md
-        - My Favorites Module: favorites-page.md
-        - Saved Searches: saved-searches.md
-        - My Profile Module: edit-profile.md
-        - User Roles and Synchronization: user-roles-synchronization.md
-        - Dashboard Labels: dashboard-labels.md
-        - Styles: dashboard-styles.md
+          - Setup Dashboard: dashboard.md
+          - Basic Settings: dashboard-general.md
+          - Analytics Module: dashboard-property-analytics.md
+          - Submit Property Module: submit-property.md
+          - Guest Property Submission: guest-property-submission.md
+          - My Properties Module: my-properties.md
+          - Agents Module: dashboard-agents.md
+          - Agencies Module: dashboard-agencies.md
+          - Bookings, Reservations & Invoices: bookings-reservations-invoices.md
+          - Invoices Module: invoices.md
+          - My Favorites Module: favorites-page.md
+          - Saved Searches: saved-searches.md
+          - My Profile Module: edit-profile.md
+          - User Roles and Synchronization: user-roles-synchronization.md
+          - Dashboard Labels: dashboard-labels.md
+          - Styles: dashboard-styles.md
     - Setup CRM: real-estate-crm.md
     - Floating Features:
-        - Compare Properties: compare-properties.md
-        - Currency Switcher: currency-switcher.md
-        - WPML Language Switcher: wpml-language-switcher.md
+          - Compare Properties: compare-properties.md
+          - Currency Switcher: currency-switcher.md
+          - WPML Language Switcher: wpml-language-switcher.md
     - Setup FAQs: faqs-setup.md
     - Memberships & Payments:
-        - Memberships Setup: realhomes-memberships-setup.md
-        - Individual Payments via PayPal: realhomes-paypal-payments.md 
-        - Individual Payments via Stripe: inspiry-stripe-payments.md 
-        - Individual Payments via WooCommerce: realhomes-woocommerce-payment-setup.md
+          - Memberships Setup: realhomes-memberships-setup.md
+          - Individual Payments via PayPal: realhomes-paypal-payments.md
+          - Individual Payments via Stripe: inspiry-stripe-payments.md
+          - Individual Payments via WooCommerce: realhomes-woocommerce-payment-setup.md
     - Widgets:
-        - Properties Filter Widget: properties-filter-widget.md
-        - Advance Search Widget: advance-search-widget.md
-        - Agents Widgets: agents-widget.md
-        - Owners Widget: owners-widget.md
-        - Agent Featured Properties: agent-featured-properties-widget.md
-        - Agent Related Properties: agent-related-properties-widget.md
-        - Featured Properties: featured-properties.md
-        - Properties: properties-widget.md
-        - Property Taxonomy Terms: property-taxonomy-terms.md
-        - Property Types: property-types.md
-        - Contact Information: contact-information-widget.md
-        - Mortgage Calculator: mortgage-calculator.md
-        - Twitter Widget: twitter-widget.md
-        - Newsletter Widget: newsletter-widget.md
+          - Properties Filter Widget: properties-filter-widget.md
+          - Advance Search Widget: advance-search-widget.md
+          - Agents Widgets: agents-widget.md
+          - Owners Widget: owners-widget.md
+          - Agent Featured Properties: agent-featured-properties-widget.md
+          - Agent Related Properties: agent-related-properties-widget.md
+          - Featured Properties: featured-properties.md
+          - Properties: properties-widget.md
+          - Property Taxonomy Terms: property-taxonomy-terms.md
+          - Property Types: property-types.md
+          - Contact Information: contact-information-widget.md
+          - Mortgage Calculator: mortgage-calculator.md
+          - Twitter Widget: twitter-widget.md
+          - Newsletter Widget: newsletter-widget.md
     - IDX Compatible Plugins:
-        - Optima Express Plugin:
-            - Installation & Setup: optima-express.md
-            - Content Setup: optima-express-content-setup.md
+          - Optima Express Plugin:
+                - Installation & Setup: optima-express.md
+                - Content Setup: optima-express-content-setup.md
     - Other Features:
-        - Properties Shortcode: properties-shortcode.md
-        - Other Shortcodes: other-shortcode.md
-        - Testimonials: testimonials-setup.md
-        - Currency Switcher: currency-switcher.md
-        - SSL Enhancements: ssl-enhancements.md
+          - Properties Shortcode: properties-shortcode.md
+          - Other Shortcodes: other-shortcode.md
+          - Testimonials: testimonials-setup.md
+          - Currency Switcher: currency-switcher.md
+          - SSL Enhancements: ssl-enhancements.md
     - Included Plugins:
-        - Slider Revolution: slider-revolution.md
-    - Email Template: email-template.md     
+          - Slider Revolution: slider-revolution.md
+    - Email Template: email-template.md
     - Customize Theme:
-        - Customize Styles: customize-styles.md
-        - Typography: typography.md
-        - Round Corners: round-corners-style.md
-        - Preset Color Schemes: preset-color-schemes.md
-        - Additional or Custom CSS: additional-or-custom-css.md
-        - Hire Customization Services: hire-customization-services.md
-        - Available Filters: available-filters.md
+          - Customize Styles: customize-styles.md
+          - Typography: typography.md
+          - Round Corners: round-corners-style.md
+          - Preset Color Schemes: preset-color-schemes.md
+          - Additional or Custom CSS: additional-or-custom-css.md
+          - Hire Customization Services: hire-customization-services.md
+          - Available Filters: available-filters.md
     - Misc Settings: misc-customizer-settings.md
     - Deprecated:
-        - Visual Composer: visual-composer.md
+          - Visual Composer: visual-composer.md
     - Translation:
-        - Single Language: translation-single.md
-        - Multilingual: translation-multilingual.md
-        - WPML Setup:
-            - WPML Basic Setup: wpml-basic-setup.md
-            - WPML Language Switcher: wpml-language-switcher.md
-            - Home & News Page: wpml-home-news-page.md
-            - WPML Menu Sync: wpml-menu-sync.md
-            - String Translation: wpml-string-translation.md
-            - Taxonomy Translation: wpml-taxonomy-translation.md
-            - Slugs Translation: wpml-slugs-translation.md
-            - Translate Property: wpml-translate-property.md
-            - Property Search Page: wpml-property-search-page.md
+          - Single Language: translation-single.md
+          - Multilingual: translation-multilingual.md
+          - WPML Setup:
+                - WPML Basic Setup: wpml-basic-setup.md
+                - WPML Language Switcher: wpml-language-switcher.md
+                - Home & News Page: wpml-home-news-page.md
+                - WPML Menu Sync: wpml-menu-sync.md
+                - String Translation: wpml-string-translation.md
+                - Taxonomy Translation: wpml-taxonomy-translation.md
+                - Slugs Translation: wpml-slugs-translation.md
+                - Translate Property: wpml-translate-property.md
+                - Property Search Page: wpml-property-search-page.md
 
 # Change it to true before building (mkdocs build) for putting online.
 # It should be false for themeforest package.
 use_directory_urls: true
 
 markdown_extensions:
-  - admonition
-  - codehilite
-  - toc
-  - footnotes
-  - pymdownx.arithmatex
-  - pymdownx.betterem
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.emoji:
-     emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tasklist
-  - pymdownx.tilde
-  - meta
-  - attr_list
-  - md_in_html
+    - admonition
+    - codehilite
+    - toc
+    - footnotes
+    - pymdownx.arithmatex
+    - pymdownx.betterem
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.emoji:
+          emoji_generator: !!python/name:pymdownx.emoji.to_svg
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist
+    - pymdownx.tilde
+    - meta
+    - attr_list
+    - md_in_html
