@@ -55,7 +55,6 @@ nav:
             - Add Property: add-property-vr.md
             - Property Booking: booking.md
             - Booking Payments: realhomes-property-booking-payment-setup.md
-            - Bookings Module: bookings.md
         - Single Agent:  single-agent-setup.md
     - Header & Footer:
         - Ultra:
@@ -114,9 +113,11 @@ nav:
         - Webhooks: webhooks-zohocrm-zapier.md
         - New Fields Builder: new-fields-builder.md
         - Custom Meta Icons: custom-meta-icons.md
-    - Property Listing Pages:
+    - Property Listing & Archive Pages:
         - Listing Layouts: add-listing-pages.md
         - Grid Variations & Card Settings: grid-variations-card-settings.md
+        - Listing & Archive Settings: archive-taxonomy-pages.md
+        - RealHomes Misc Settings: realhomes-misc-settings.md
         - Properties Filter Settings: properties-filter-settings.md
         - Archive & Taxonomy Pages: archive-taxonomy-pages.md
     - Compare Properties:

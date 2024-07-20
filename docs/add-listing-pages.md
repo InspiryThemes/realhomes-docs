@@ -30,33 +30,3 @@ There are multiple layout options available for properties listing pages.
 5. **Sidebar Left**
 
 ![Properties Listing Templates](images/create-pages/page-layout-property-listing.png)
-
-### **Map Settings**
-
-If you like to disable the map on Properties Listing pages then you can disable it and control several other options by navigating to **Dashboard → RealHomes → Customize Settings → Properties Templates & Archives** as shown below.
-
-**Ultra**
-
-![Properties Listing Templates - Ultra](images/create-pages/properties-listing-archives-ultra.png)
-
-**Modern**
-
-![Properties Listing Templates - Modern](images/create-pages/properties-listing-map-settings-modern.png)
-
-**Classic**
-
-![Properties Listing Templates - Classic](images/create-pages/properties-listing-map-settings.png)
-
-### **RealHomes Misc Settings**
-
-**Classic**
-
-![RealHomes Misc Settings - Classic](images/create-pages/banner-spacing-classic.gif)
-
-**Modern**
-
-![RealHomes Misc Settings - Modern](images/create-pages/modern-banner-spacing-full.gif)
-
-### **Ultra**
-
-![RealHomes Misc Settings - Ultra](images/create-pages/ultra-banner-spacing-full.gif)

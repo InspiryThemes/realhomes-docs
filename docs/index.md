@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **June 3rd, 2024**, and the current version of the RealHomes Theme is {== **4.3.1** ==}
+    This documentation was last updated on **July 20th, 2024**, and the current version of the RealHomes Theme is {== **4.3.2** ==}
 
 Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in this documentation, please search our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> or reach out through our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. If you need assistance with obtaining your item purchase code from themeforest.net to register on our support site, refer to <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this article</a>.
 
@@ -9,21 +9,10 @@ Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in
 
 We've introduced several new features in our latest release, including:
 
-- **Brand New Hotel Demo Launched** - **[https://ultra.realhomes.io/hotel/](https://ultra.realhomes.io/hotel/)**
-- **Added new [User Roles Management & Synchronization](https://realhomes.io/documentation/user-roles-synchronization/)** Feature
-- **Added new [User Approvals Management](https://realhomes.io/documentation/user-approvals-management/)** Feature
-- **Added [Custom Icon](https://realhomes.io/documentation/custom-meta-icons/)** Feature
-- **Added [Agents Statistics](https://realhomes.io/documentation/agents-listing-settings/#agents-statistics)** Feature
-- **Added [Agencies Statistics](https://realhomes.io/documentation/agencies-listing-settings/#agencies-statistics)** Feature
-- **Added Elementor support for Search Results, Archive and Other page templates**
-- **Added Additional Ameneties Feature in RealHomes Vacation Rentals**
-- **Added [Property Analytics](https://realhomes.io/documentation/dashboard-property-analytics/)** User Dashboard Module
-- **Added [Agents](https://realhomes.io/documentation/dashboard-agents/)** User Dashboard Module
-- **Added [Agencies](https://realhomes.io/documentation/dashboard-agencies/)** User Dashboard Module
-- **Added [Invoices](https://realhomes.io/documentation/invoices/)** User Dashboard Module for RealHomes Vacation Rentals
-- **Added [Owners List](https://realhomes.io/documentation/owners-widget/)** widget
-- **Added Report Property feature to Ultra Design**
-- **Improved UI Styles of RealHomes & its Component Plugins' Settings**
+- **Added [Deferred Payments](https://realhomes.io/documentation/dashboard-property-analytics/)** feature for RealHomes Vacation Rentals
+- Expanded Geolocation Radius Search feature availability for all Search Forms
+- Added Area and Lot Size unit global settings
+- Added Price Prefix and Postfix global settings
 - **[Several Improvements & Fixes](https://realhomes.io/changelog/)**
 
 ## Tips to Improve Website Performance
