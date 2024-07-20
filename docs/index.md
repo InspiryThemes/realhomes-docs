@@ -5,11 +5,12 @@
 Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in this documentation, please search our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> or reach out through our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. If you need assistance with obtaining your item purchase code from themeforest.net to register on our support site, refer to <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this article</a>.
 
 
-## What's new in v4.3.x?
+## What's new in v4.3.2?
 
 We've introduced several new features in our latest release, including:
 
 - **Added [Deferred Payments](https://realhomes.io/documentation/dashboard-property-analytics/) feature for RealHomes Vacation Rentals**
+- **Added [Minimum Stay option in Seasonal Prices](https://realhomes.io/documentation/add-property-vr/#seasonal-prices) for RealHomes Vacation Rentals**
 - **Expanded Geolocation Radius Search feature availability for all Search Forms**
 - **Added Area and Lot Size unit global settings**
 - **Added Price Prefix and Postfix global settings**
