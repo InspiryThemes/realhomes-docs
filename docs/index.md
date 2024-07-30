@@ -16,7 +16,7 @@ We've introduced several new features in our latest release, including:
 - **Added Price Prefix and Postfix global settings**
 - **Added Live search in dashboard parent property dropdown field**
 - **Added Location and Rating based filters for agency, agency in WordPress Dashboard Properties**
-- **Added Elementor based Membership Plans Page**
+- **Added Elementor based [Membership Plans Page](https://inspirythemes.com/realhomes-memberships-setup/#create-membership-page)**
 - **Several Improvements & Fixes can be seen in the full [Change Log](https://realhomes.io/changelog/)**
 
 ## Tips to Improve Website Performance
