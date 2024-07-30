@@ -12,10 +12,11 @@ We've introduced several new features in our latest release, including:
 - **Added [Deferred Payments](https://realhomes.io/documentation/dashboard-property-analytics/) feature for RealHomes Vacation Rentals**
 - **Added [Minimum Stay option in Seasonal Prices](https://realhomes.io/documentation/add-property-vr/#seasonal-prices) for RealHomes Vacation Rentals**
 - **Expanded [Geo Location Radius Search](https://realhomes.io/documentation/geo-location-setup/) feature availability for all Search Forms**
-- **Added Area and Lot Size unit global settings**
-- **Added Price Prefix and Postfix global settings**
+- **Added Area and Lot Size unit [global settings](https://realhomes.io/documentation/price-format-settings/)**
+- **Added Price Prefix and Postfix [global settings](https://realhomes.io/documentation/price-format-settings/)**
 - **Added Live search in dashboard parent property dropdown field**
 - **Added Location and Rating based filters for agency, agency in WordPress Dashboard Properties**
+- **Added Compare, Favorite, Media Counter, Property Status buttons/tags in [Ultra Properties 3,4,5 cards](https://ultra.realhomes.io/hotel)**
 - **Added Elementor based [Membership Plans Page](https://inspirythemes.com/realhomes-memberships-setup/#create-membership-page)**
 - **Several Improvements & Fixes can be seen in the full [Change Log](https://realhomes.io/changelog/)**
 
