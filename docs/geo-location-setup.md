@@ -1,4 +1,4 @@
-Introduced in version 4.1.0 of RealHomes, the Geo Location Radius Search allows users to find properties within a specified area on a map. As of version 4.3.2, this feature is available in all search forms. **This feature is compatible only with Google Maps.**
+Introduced in version 4.1.0 of RealHomes, the Geo Location Radius Search allows users to find properties within a specified area on a map. As of version 4.3.2, this feature is available in all search forms of Modern & Ultra design. **This feature is compatible only with Google Maps.**
 
 !!! warning "Important"
     You must **enable Google Places API** for your Google Maps API Project, otherwise Geo Location Radius Search won't work.
