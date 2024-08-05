@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **July 30th, 2024**, and the current version of the RealHomes Theme is {== **4.3.2** ==}
+    This documentation was last updated on **August 5th, 2024**, and the current version of the RealHomes Theme is {== **4.3.2** ==}
 
 Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in this documentation, please search our <a target="_blank" href="https://support.inspirythemes.com/">knowledge base</a> or reach out through our <a target="_blank" href="https://support.inspirythemes.com/login-register/">support platform</a>. If you need assistance with obtaining your item purchase code from themeforest.net to register on our support site, refer to <a target="_blank" href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/">this article</a>.
 
@@ -9,7 +9,7 @@ Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in
 
 We've introduced several new features in our latest release, including:
 
-- **Added [Deferred Payments](https://realhomes.io/documentation/dashboard-property-analytics/) feature for RealHomes Vacation Rentals**
+- **Added [Deferred Payments](https://inspirythemes.com/woocommerce-payments-setup-for-property-bookings/) feature for RealHomes Vacation Rentals**
 - **Added [Minimum Stay option in Seasonal Prices](https://realhomes.io/documentation/add-property-vr/#seasonal-prices) for RealHomes Vacation Rentals**
 - **Expanded [Geo Location Radius Search](https://realhomes.io/documentation/geo-location-setup/) feature availability for all Search Forms**
 - **Added Area and Lot Size unit [global settings](https://realhomes.io/documentation/price-format-settings/)**
