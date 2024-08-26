@@ -15,16 +15,34 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 We've introduced several exciting new features and enhancements in this release:
 
-- **Deferred Payments for RealHomes Vacation Rentals:** Learn more [here](https://inspirythemes.com/woocommerce-payments-setup-for-property-bookings/).
-- **Minimum Stay Option in Seasonal Prices:** Available for RealHomes Vacation Rentals, [read more](https://realhomes.io/documentation/add-property-vr/#seasonal-prices).
-- **Expanded Geo Location Radius Search:** Now available for all search forms, see the details [here](https://realhomes.io/documentation/geo-location-setup/).
-- **Global Settings for Area and Lot Size Units:** More information [here](https://realhomes.io/documentation/price-format-settings/).
-- **Global Settings for Price Prefix and Postfix:** Details available [here](https://realhomes.io/documentation/price-format-settings/).
-- **Live Search in Dashboard Parent Property Dropdown Field.**
-- **New Filters for Agency in WordPress Dashboard Properties:** Based on location and rating.
-- **Enhanced Property Cards:** Compare, Favorite, Media Counter, and Property Status buttons/tags in [Ultra Properties 3, 4, 5 cards](https://ultra.realhomes.io/hotel).
-- **New Elementor-Based Membership Plans Page:** Learn how to set it up [here](https://inspirythemes.com/realhomes-memberships-setup/#create-membership-page).
-- **Additional Improvements & Fixes:** See the full [Change Log](https://realhomes.io/changelog/).
+- **Deferred Payments for RealHomes Vacation Rentals**  
+  Streamline payment processes for vacation rentals with our new [Deferred Payments feature](https://inspirythemes.com/woocommerce-payments-setup-for-property-bookings/).
+
+- **Minimum Stay Option in Seasonal Prices**  
+  Set minimum stay requirements directly in seasonal pricing with the new [Minimum Stay option](https://realhomes.io/documentation/add-property-vr/#seasonal-prices).
+
+- **Expanded Geo Location Radius Search**  
+  Enhance user searches with our expanded [Geo Location Radius Search](https://realhomes.io/documentation/geo-location-setup/) feature, now available for all search forms.
+
+- **Global Settings for Area and Lot Size Units**  
+  Manage area and lot size units more efficiently with our new [global settings](https://realhomes.io/documentation/price-format-settings/).
+
+- **Global Settings for Price Prefix and Postfix**  
+  Customize price formats easily using the updated [global settings for Price Prefix and Postfix](https://realhomes.io/documentation/price-format-settings/).
+
+- **Live Search in Dashboard Parent Property Dropdown Field**  
+  Improve navigation with the addition of live search in the parent property dropdown field.
+
+- **New Filters for Agency in WordPress Dashboard Properties**  
+  Filter properties based on location and rating with our new [agency filters](#) in the WordPress Dashboard.
+
+- **Enhanced Property Cards**  
+  Enjoy more informative property cards with Compare, Favorite, Media Counter, and Property Status buttons/tags in [Ultra Properties 3, 4, 5 cards](https://ultra.realhomes.io/hotel).
+
+- **New Elementor-Based Membership Plans Page**  
+  Create and manage membership plans with ease using the new [Elementor-based Membership Plans Page](https://inspirythemes.com/realhomes-memberships-setup/#create-membership-page).
+
+For a complete list of updates and fixes, visit our [Change Log](https://realhomes.io/changelog/).
 
 ---
 
