@@ -1,19 +1,23 @@
 # Agents Widget
 
-- Go to **Dashboard → Appearance → Widgets** and look for **RealHomes - Agents** widget.
+To add the **Agents Widget** to your website:
 
-![RealHomes Agents Widget](images/widgets/agents-widget.png)
+1. Navigate to **Dashboard → Appearance → Widgets**.
+2. Locate the **RealHomes - Agents** widget in the list.
 
-- Use this widget in a sidebar and provide its title. 
+   ![RealHomes Agents Widget](images/widgets/agents-widget.png)
 
-![RealHomes Agents Widget Settings](images/widgets/agents-widget-settings.png)
+3. Drag and drop the widget into your desired sidebar area.
+4. Provide a title and configure any other settings as needed.
 
-Now check out the frontend of your site and you will have the **Agents** widget working for your site.
+   ![RealHomes Agents Widget Settings](images/widgets/agents-widget-settings.png)
+
+Once configured, the **Agents Widget** will be active on the front end of your site.
 
 **Classic**
 
-![RealHomes Agents Widget Classic](images/widgets/agents-widget-frontend.png)
+![Agents Widget - Classic](images/widgets/agents-widget-frontend.png)
 
 **Modern**
 
-![RealHomes Agents Widget Modern](images/widgets/agents-widget-frontend-mod.png)
+![Agents Widget - Modern](images/widgets/agents-widget-frontend-mod.png)

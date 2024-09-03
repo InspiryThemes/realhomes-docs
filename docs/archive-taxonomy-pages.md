@@ -1,27 +1,37 @@
 # Properties Archive / Taxonomy Pages
 
-### **Settings for Properties Archive / Taxonomy Pages**
+### **Settings for Archive/Taxonomy Pages**
 
-The settings for Properties Archive & Taxonomy pages are located in **Dashboard → RealHomes → Customize Settings → Properties Templates & Archive**.
+Configure the settings for Properties Archive & Taxonomy pages by navigating to:
+
+**Dashboard → RealHomes → Customize Settings → Properties Templates & Archive**
 
 ### **Ultra**
 
-![Ultra - Properties Archive / Taxonomy Pages](images/create-pages/properties-listing-archives-ultra.png)
+Settings for Ultra design:
+
+![Ultra Archive/Taxonomy Pages](images/create-pages/properties-listing-archives-ultra.png)
 
 ### **Modern**
 
-![Modern - Properties Archive / Taxonomy Pages](images/create-pages/properties-archive-page-settings.png)
+Settings for Modern design:
+
+![Modern Archive/Taxonomy Pages](images/create-pages/properties-archive-page-settings.png)
 
 ### **Classic**
 
-![Classic - Properties Archive / Taxonomy Pages](images/create-pages/properties-templates-archives-classic.png)
+Settings for Classic design:
+
+![Classic Archive/Taxonomy Pages](images/create-pages/properties-templates-archives-classic.png)
 
 ### **Properties Card Settings**
 
-You can change the **Properties Card's** settings for **Grid Layout** in **Dashboard → RealHomes → Customize Settings → Properties Templates & Archive**.
+Adjust the **Properties Card** settings for Grid Layouts here:
 
 ![Properties Card Settings](images/create-pages/properties-card-settings.png)
 
 ### **Grid Templates**
+
+You can also manage Grid Templates under the same settings.
 
 ![Grid Templates](images/create-pages/grid-templates.png)

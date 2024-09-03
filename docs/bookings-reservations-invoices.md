@@ -1,19 +1,22 @@
 # Bookings, Reservations & Invoices
 
 !!! info "Important"
+    This module is available only if you are using the **Vacation Rentals plugin**.
 
-    This module will only be available if you are using **Vacation Rentals plugin**.
+To enable or disable these modules:
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → Bookings & Reservations** section to enable/disable the **Bookings, Reservations & Invoices** modules. 
+1. Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → Bookings & Reservations**.
 
-![RealHomes Documentation](images/dashboard/bookings-reservations-invoices-modules.png)
+   ![Bookings & Reservations Settings](images/dashboard/bookings-reservations-invoices-modules.png)
 
-Here's a sneak peek of what the modules will look like.
+### **Bookings**
 
-### Bookings
+Here's what the **Bookings** module looks like:
 
-![RealHomes Documentation](images/dashboard/bookings-module-in-action.png)
+![Bookings Module](images/dashboard/bookings-module-in-action.png)
 
-### Invoices
+### **Invoices**
 
-![RealHomes Documentation](images/dashboard/invoices-module-frontend.png)
+Here’s an overview of the **Invoices** module:
+
+![Invoices Module](images/dashboard/invoices-module-frontend.png)

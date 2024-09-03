@@ -2,38 +2,50 @@
 
 ### **General Settings**
 
-To configure settings for the Agents' Listing page, please navigate to **Dashboard → RealHomes → Customize Settings → Agents Pages**.
+To configure the Agents' Listing page settings:
 
-![Agents Listing Settings](images/agents/agents-settings.png)
+1. Go to **Dashboard → RealHomes → Customize Settings → Agents Pages**.
+
+   ![Agents Listing Settings](images/agents/agents-settings.png)
 
 ### **Agents Search**
 
-![Agents Listing Settings](images/agents/agents-search.png)
+You can enable or disable the search feature on the Agents' Listing page.
+
+![Agents Search](images/agents/agents-search.png)
 
 ### **Agents Sort Control**
 
-![Agents Listing Settings](images/agents/agents-sort-control.png)
+Allow users to sort agents by different criteria.
+
+![Agents Sort Control](images/agents/agents-sort-control.png)
 
 ### **Agents Statistics**
 
-The Agents Statistics feature offers insights into the distribution of properties across various property taxonomies, providing detailed information on each category's prevalence.
+The **Agents Statistics** feature provides insights into property distribution across various categories.
 
-![Agents Listing Settings](images/agents/agents-properties-stats.png)
+![Agents Statistics](images/agents/agents-properties-stats.png)
 
-### **Properties on Single Agent page**
+### **Properties on Single Agent Page**
 
-![Agents Listing Settings](images/agents/properties-on-agents-page.png)
+This setting controls the display of properties associated with an agent on their single-agent page.
+
+![Properties on Single Agent Page](images/agents/properties-on-agents-page.png)
 
 ### **Verification Status**
 
-![Agents Listing Settings](images/agents/agents-verification-status.png)
+Enable or disable the verification status feature for agents.
+
+![Agents Verification Status](images/agents/agents-verification-status.png)
 
 ### **Agents Rating**
 
-You can also activate agent rating functionality, empowering users to evaluate agents based on their conduct.
+Activate agent rating functionality to allow users to rate agents based on their service.
 
-![Agents Listing Settings](images/agents/agents-ratings.png)
+![Agents Rating](images/agents/agents-ratings.png)
 
 ### **Shortcode to Replace Default Contact Form**
 
-![Agents Listing Settings](images/agents/agents-verification-status.png)
+You can replace the default contact form with a custom one using a shortcode.
+
+![Custom Contact Form](images/agents/agents-verification-status.png)

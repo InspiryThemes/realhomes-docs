@@ -1,19 +1,24 @@
+# Managing Bookings
+
 ### **How to Find the Bookings**
 
-All the bookings (confirmed, pending or cancelled) can be managed at **Dashboard &rarr; Vacation Rentals &rarr; All Bookings**.
+You can manage all bookings (confirmed, pending, or canceled) from **Dashboard → Vacation Rentals → All Bookings**.
 
-### **Confirm, Cancel or Reject a Booking**
+### **Confirm, Cancel, or Reject a Booking**
 
-You can confirm, cancel or reject any booking by changing its **Booking Status** (demonstration below).
+To change the status of a booking:
 
-![Vacation Rentals Booking](images/vacation-rentals/booking-confirmed-cancelled.gif)
+1. Select the booking from the list.
+2. Change its **Booking Status** to either confirm, cancel, or reject.
 
-Once a booking is confirmed then the **Booking Dates** will be highlighted as booked on the related **Property Detail Page** in **Property Availability Calender**.
+   ![Booking Status Management](images/vacation-rentals/booking-confirmed-cancelled.gif)
 
-![Vacation Rentals Booking](images/vacation-rentals/property-availability-modern.png)
+Once confirmed, the **Booking Dates** will be marked as booked on the **Property Detail Page** under the **Property Availability Calendar**.
+
+![Property Availability Calendar](images/vacation-rentals/property-availability-modern.png)
 
 ### **Extend a Booking**
 
-Any booking can be extended by modifying its **Check In** and **Check Out Dates**.
+You can extend a booking by adjusting the **Check-In** and **Check-Out Dates**.
 
-![Vacation Rentals Booking](images/vacation-rentals/extend-booking.png)
+![Extend Booking](images/vacation-rentals/extend-booking.png)

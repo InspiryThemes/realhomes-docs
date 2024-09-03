@@ -1,17 +1,17 @@
 # Agent Featured Properties
 
-- Go to **Dashboard → Appearance → Widgets** and look for **RealHomes - Agent Featured Properties** widget.
+1. Go to **Dashboard → Appearance → Widgets** and look for the **RealHomes - Agent Featured Properties** widget.
 
-![RealHomes Agent Featured Properties Widget](images/widgets/agent-featured-properties-widget.png)
+   ![RealHomes Agent Featured Properties Widget](images/widgets/agent-featured-properties-widget.png)
 
-- Use this widget in the "Agent" sidebar and provide its title.
+2. Use this widget in the "Agent" sidebar and provide its title.
 
-![RealHomes Agent Featured Properties Widget Settings](images/widgets/agent-featured-properties-widget-settings.png)
+   ![RealHomes Agent Featured Properties Widget Settings](images/widgets/agent-featured-properties-widget-settings.png)
 
 !!! info "Important"
     This widget is only for the Agent Sidebar.
 
-Now check out the frontend of your site and you will have the **Agent Featured Properties** widget working for your site.
+3. Now check the front end of your site, and you will have the **Agent Featured Properties** widget working.
 
 **Classic**
 
