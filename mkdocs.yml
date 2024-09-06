@@ -221,7 +221,8 @@ nav:
           - Properties Filter Widget: properties-filter-widget.md
           - Advance Search Widget: advance-search-widget.md
           - Agents Widgets: agents-widget.md
-          - Owners Widget: owners-widget.md
+          - Owner Widget: owner-widget.md
+          - Owners Info Widget: owners-info-widget.md
           - Agent Featured Properties: agent-featured-properties-widget.md
           - Agent Related Properties: agent-related-properties-widget.md
           - Featured Properties: featured-properties.md
@@ -251,6 +252,7 @@ nav:
           - Round Corners: round-corners-style.md
           - Preset Color Schemes: preset-color-schemes.md
           - Additional or Custom CSS: additional-or-custom-css.md
+          - WordPress Login Page Styles: wp-login-styles.md
           - Hire Customization Services: hire-customization-services.md
           - Available Filters: available-filters.md
     - Misc Settings: misc-customizer-settings.md
