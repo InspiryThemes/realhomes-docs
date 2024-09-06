@@ -28,6 +28,10 @@ You can change **Header Settings** in **Dashboard → RealHomes → Customize Se
 
 ![Header Variation](images/header/header-settings-basics-ultra.png)
 
+!!! info "Important"
+
+    If you have created your header with Elementor, follow the instructions provided in <a href="https://realhomes.io/documentation/custom-header-footer-elementor/#how-to-make-elementor-header-sticky">this guide</a> to make it sticky.
+
 ### **Contact Information**
 
 You can add/modify the **Contact Information** for the header in **Dashboard → RealHomes → Customize Settings → Header → Contact Information**.
