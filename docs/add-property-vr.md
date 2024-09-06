@@ -18,53 +18,35 @@ You can choose either you want to display the booking form or not.
 
 ![Vacations Rentals](images/vacation-rentals/booking-widget-display.png)
 
-### **Bulk Prices**
+### **Bulk & Seasonal Prices**
 
 This feature helps you in providing discount on longer stays.
 
-![Vacations Rentals](images/vacation-rentals/bulk-prices.png)
+![Vacations Rentals](images/vacation-rentals/bulk-and-seasonal-prices.png)
 
 ### **Reserve Booking Dates**
 
 ![Vacations Rentals](images/vacation-rentals/reserve-booking-dates.png)
 
-### **Seasonal Prices**
+### **Fees & Amenities**
 
-![Vacations Rentals](images/add-content/seasional-prices.png)
-
-### **Additional Fees**
-
-![Vacations Rentals](images/add-content/additional-fees.png)
-
-### **Additional Amenities**
-
-These amenities will be optional to choose from while booking a property. The chosen amenities price will be added based on the condition you set.
-
-![Vacations Rentals](images/vacation-rentals/additional-amenities.png)
-
-### **Other Fees**
-
-![Vacations Rentals](images/add-content/other-fees.png)
+![Vacations Rentals](images/vacation-rentals/fees-and-amenities.png)
 
 ### **Guest Accomodations**
 
-![Vacations Rentals](images/add-content/guests-accomodation.png)
+![Vacations Rentals](images/vacation-rentals/guests-accomodation.png)
 
-### **Assign Owner**
+### **Outdoor & Surroundings**
 
-![Vacations Rentals](images/vacation-rentals/assign-owner.png)
+![Vacations Rentals](images/vacation-rentals/outdoor-features-and-property-surroundings.png)
 
-### **Outdoor Features and Property Surroundings**
+### **Included and Not Included**
 
-![Vacations Rentals](images/add-content/outdoor-features-and-property-surroundings.png)
+![Vacations Rentals](images/vacation-rentals/included-or-not-included.png)
 
-### **Whats Included and Not Included**
+### **Policies or Rules**
 
-![Vacations Rentals](images/add-content/included-or-not-included.png)
-
-### **Property Policies or Rules**
-
-![Vacations Rentals](images/add-content/property-policies-and-rules.png)
+![Vacations Rentals](images/vacation-rentals/property-policies-and-rules.png)
 
 ### **Availability Calendar**
 You can display Availability Calendar by configuring its settings in Customizer settings. To do that, navigate to **Dashboard → RealHomes → Customize Settings → Property Detail Page → Availability Calendar**.
@@ -93,39 +75,34 @@ To sync third-party booking calendars with your booking calendar, copy the iCale
 
 Add basic information related to property, Like price, area, beds, baths, garages, etc.
 
-![Basic Information Vacations Rental](images/add-content/basic-information-vr.png)
+![Basic Information Vacations Rental](images/vacation-rentals/basic-information-vr.png)
 
 ### **Mark Property as Featured**
 
 If you want to add this property to featured properties, then mark this property as featured.
 
-![Mark Property as Featured](images/add-content/mark-featured.png)
+![Mark Property as Featured](images/vacation-rentals/mark-featured.png)
 
 ### **Provide Location on Google Map**
 
 Provide property address and drag the google map pointer to the correct location. 
 
-![Property Map](images/add-content/property-map.png)
+![Property Map](images/vacation-rentals/property-map.png)
 
 ### **Add Gallery Images**
 
 Provide property gallery images.
 
 Gallery Images options for **Modern** Variation.
-![Property Gallery](images/add-content/property-gallery3.png)
+![Property Gallery](images/vacation-rentals/property-gallery.png)
 
 >**Note**: Images should have minimum size of 1240px by 720px. Bigger size images will be cropped automatically. Minimum 2 images are required to display the gallery.
-
-Gallery Images options for **Classic** Variation.
-![Property Gallery](images/add-content/property-gallery2.png)
-
->**Note**: Images should have minimum size of 1170px by 648px for thumbnails on right and 830px by 460px for thumbnails on bottom. Bigger size images will be cropped automatically. Minimum 2 images are required to display gallery.
 
 ### **Add Floor Plans**
 
 Provide floor plan details, the **Floor Plan Image** and the **Floor Name** are the two important details you must add otherwise the floor section will not show.
 
-![Property Floor Plans](images/add-content/floor-plans.png)
+![Property Floor Plans](images/vacation-rentals/floor-plans.png)
 
 ### **Add Featured Image**
 
@@ -149,13 +126,13 @@ If your property has any virtual tour video then it is recommended that you uplo
 
 You can also use the [iPanorama 360 WordPress Virtual Tour Builder](https://wordpress.org/plugins/ipanorama-360-virtual-tour-builder-lite/) plugin to build custom virtual tours and then put current property related `iPanorama` short-code in the **360 Virtual Tour** box.
 
-![Property Video](images/add-content/property-video.png)
+![Property Video](images/vacation-rentals/property-video.png)
 
 ### **Assign Agent Information**
 
 Choose the kind of information you want to display in agent's information box. 
 
-![Property Agent](images/add-content/property-agent-info.png)
+![Property Agent](images/vacation-rentals/property-agent-info.png)
 
 > Difference Between Author Profile Information and Agent's Information 
 
@@ -171,19 +148,19 @@ If you have adequate rights, You can also modify the author from Author meta box
 
 ### **Energy Performance**
 You can add a property **Energy Performance Certificate** details in this section. This is information will be displayed with a visual energy class graph.
-![Property Author](images/add-content/energy-performance.png)
+![Property Author](images/vacation-rentals/energy-performance.png)
 
 ### **Mark Property as Sticky**
 
 If you want to make this property stick to top on home page and listing pages, then mark this property as sticky.
 
-![Property Floor Plans](images/add-content/sticky-property.png)
+![Property Floor Plans](images/vacation-rentals/sticky-property.png)
 
 ### **Add Property in Homepage Slider**
 
 If you want to add this property in homepage slider then check the related option and provide slide image.
 
-![Property Floor Plans](images/add-content/add-property-to-home-page-slider.png)
+![Property Floor Plans](images/vacation-rentals/add-property-to-home-page-slider.png)
 
 ### **Add Top Banner**
 

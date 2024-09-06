@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **August 26th, 2024**. The current version of the RealHomes Theme is {== **v4.3.2** ==}. Please ensure your theme is up-to-date to take advantage of the latest features and improvements. For guidance on how to update the RealHomes Theme, refer to [**this article**](https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/).
+    This documentation was last updated on **September 6th, 2024**. The current version of the RealHomes Theme is {== **v4.3.3** ==}. Please ensure your theme is up-to-date to take advantage of the latest features and improvements. For guidance on how to update the RealHomes Theme, refer to [**this article**](https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/).
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -11,9 +11,28 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ---
 
-## What's New in Version 4.3.2?
+## What's New in v4.3.2 & v4.3.3?
 
-We've introduced several exciting new features and enhancements in this release:
+We've introduced several exciting new features and enhancements:
+
+### **v4.3.3**
+
+- **Multi-Select Field in New Field Builder**  
+  Add multiple values with ease using the new [Multi-Select Field](https://realhomes.io/documentation/new-fields-builder/) feature in the Field Builder.
+
+- **Option to Enable/Disable WordPress Login Page Styles**  
+  Gain control over the styling of your WordPress login page with the new [enable/disable option](https://realhomes.io/documentation/wp-login-styles/).
+
+- **Sticky Header Support for Custom Elementor Header**  
+  Make your custom Elementor header sticky by following the instructions provided in this [Sticky Header Guide](https://realhomes.io/documentation/custom-header-footer-elementor/#how-to-make-elementor-header-sticky).
+
+- **Divided Vacation Rentals Features on Add/Edit Property Page (backend)**  
+  We've enhanced the backend experience by dividing the [Vacation Rentals Features](https://realhomes.io/documentation/add-property-vr/) on the Add/Edit Property page for easier management.
+
+- **Improved Owner Information Widget**  
+  The [Owner Information Widget](https://realhomes.io/documentation/owner-info-widget/) now comes with improved functionality and customization options.
+
+### **v4.3.2**
 
 - **Deferred Payments for RealHomes Vacation Rentals**  
   Streamline payment processes for vacation rentals with our new [Deferred Payments feature](https://inspirythemes.com/woocommerce-payments-setup-for-property-bookings/).
