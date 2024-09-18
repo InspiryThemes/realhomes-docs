@@ -19,7 +19,7 @@ There are **3 Templates** for properties listing pages.
 4. **Properties Grid Full Width**
 5. **Properties With Half Map**
 
-![Properties Listing Templates](images/create-pages/properties-listing-templates.gif)
+![Properties Listing Templates](images/create-pages/properties-listing-template.png)
 
 ### **Map Settings**
 

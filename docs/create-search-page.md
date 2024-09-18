@@ -8,7 +8,7 @@ Other search templates with sidebar support are also available for use, for the 
 
 ![Create Property Search Page](images/home-setup/create-search-page-gutenberg.png)
 
-![Property Search Template Selection](images/home-setup/search-template-selection.png)
+![Property Search Template Selection](images/create-pages/properties-search-template.png)
 
 ### **Search Page Variation for Classic Design**
 

@@ -11,7 +11,7 @@ Go to **Dashboard → Pages** and click the **Add New** button.
 
 ![Properties Listing Page](images/create-pages/add-properties-listing-page-gutenberg.png)
 
-![Properties Listing Templates](images/create-pages/properties-listing-templates.gif)
+![Properties Listing Templates](images/create-pages/properties-listing-template.png)
 
 ### **Page Layout & Sidebar Management**
 
