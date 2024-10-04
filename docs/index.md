@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **September 18th, 2024**. The current version of the RealHomes Theme is {== **v4.3.3** ==}. Please ensure your theme is up-to-date to take advantage of the latest features and improvements. For guidance on how to update the RealHomes Theme, refer to [**this article**](https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/).
+    This documentation was last updated on **October 4th, 2024**. The current version of the RealHomes Theme is {== **v4.3.4** ==}. Please ensure your theme is up-to-date to take advantage of the latest features and improvements. For guidance on how to update the RealHomes Theme, refer to [**this article**](https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/).
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -11,9 +11,41 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ---
 
-## What's New in v4.3.2 & v4.3.3?
+## What's New in v4.3.x?
 
 We've introduced several exciting new features and enhancements:
+
+### **v4.3.4**
+
+- **TikTok Social Icon for Agents**<br>
+  Now agents can showcase their TikTok profiles, boosting their social media presence.
+
+- **Guest Property Map Address Section**<br>
+  Resolved issues with map addresses not appearing correctly in guest property listings.
+
+- **Info Window Position for Ultra Property Listings Maps**
+  Adjusted the positioning of info windows in ultra property listings maps.
+
+- **Author Page 'About' Label Display**<br>
+  Fixed display issue when the author description is empty.
+
+- **Blog Author Page Header Spacing**<br>
+  Addressed spacing issues under the search form on the blog author page.
+
+- **Media Preview on Front-End Dashboard**<br>
+  Resolved media preview issues in the submit property page on the front-end dashboard.
+
+- **Agent/Agency Card Elementor Widget JS**<br>
+  Fixed a JavaScript issue with the ultra variation of the agent/agency card widget.
+
+- **Property Remove Button in Compare Tray**<br>
+  Corrected the property remove button issue in the floating compare tray.
+
+- **Translation Files**<br>
+  Enhanced & Improved translation files of Spanish & Arabic for both the theme and all plugins.
+
+- **Language Demo Import Files**<br>
+  Updated demo import files for smoother setup in Spanish & Arabic.
 
 ### **v4.3.3**
 
@@ -31,35 +63,6 @@ We've introduced several exciting new features and enhancements:
 
 - **Improved Owner Information Widget**  
   The [Owner Information Widget](https://realhomes.io/documentation/owner-info-widget/) now comes with improved functionality and customization options.
-
-### **v4.3.2**
-
-- **Deferred Payments for RealHomes Vacation Rentals**  
-  Streamline payment processes for vacation rentals with our new [Deferred Payments feature](https://inspirythemes.com/woocommerce-payments-setup-for-property-bookings/).
-
-- **Minimum Stay Option in Seasonal Prices**  
-  Set minimum stay requirements directly in seasonal pricing with the new [Minimum Stay option](https://realhomes.io/documentation/add-property-vr/#seasonal-prices).
-
-- **Expanded Geo Location Radius Search**  
-  Enhance user searches with our expanded [Geo Location Radius Search](https://realhomes.io/documentation/geo-location-setup/) feature, now available for all search forms.
-
-- **Global Settings for Area and Lot Size Units**  
-  Manage area and lot size units more efficiently with our new [global settings](https://realhomes.io/documentation/price-format-settings/).
-
-- **Global Settings for Price Prefix and Postfix**  
-  Customize price formats easily using the updated [global settings for Price Prefix and Postfix](https://realhomes.io/documentation/price-format-settings/).
-
-- **Live Search in Dashboard Parent Property Dropdown Field**  
-  Improve navigation with the addition of live search in the parent property dropdown field.
-
-- **New Filters for Agency in WordPress Dashboard Properties**  
-  Filter properties based on location and rating with our new [agency filters](#) in the WordPress Dashboard.
-
-- **Enhanced Property Cards**  
-  Enjoy more informative property cards with Compare, Favorite, Media Counter, and Property Status buttons/tags in [Ultra Properties 3, 4, 5 cards](https://ultra.realhomes.io/hotel).
-
-- **New Elementor-Based Membership Plans Page**  
-  Create and manage membership plans with ease using the new [Elementor-based Membership Plans Page](https://inspirythemes.com/realhomes-memberships-setup/#create-membership-page).
 
 For a complete list of updates and fixes, visit our [Change Log](https://realhomes.io/changelog/).
 
