@@ -112,6 +112,7 @@ nav:
           - Geo Location Setup: geo-location-setup.md
           - Ultra:
                 - Setup Search Page: setup-search-page-ultra.md
+                - Elementor Search Page: elementor-search-page-ultra.md
                 - Configure Search Form: advance-search-form-setup-ultra.md
           - Modern & Classic:
                 - Create Search Page: create-search-page.md

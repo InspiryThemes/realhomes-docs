@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **October 4th, 2024**. The current version of the RealHomes Theme is {== **v4.3.4** ==}. Please ensure your theme is up-to-date to take advantage of the latest features and improvements. For guidance on how to update the RealHomes Theme, refer to [**this article**](https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/).
+    This documentation was last updated on **October 9th, 2024**. The current version of the RealHomes Theme is {== **v4.3.4** ==}. Please ensure your theme is up-to-date to take advantage of the latest features and improvements. For guidance on how to update the RealHomes Theme, refer to [**this article**](https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/).
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
