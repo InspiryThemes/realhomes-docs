@@ -2,15 +2,48 @@
 
 !!! info "Important"
 
-    For this feature to function correctly, it is essential to set up and activate User Registration.
+    Ensure **User Registration** is set up and activated for this feature to function properly.
 
 ### **User, Agent, Agency Synchronization**
 
-The User Roles and Agent/Agency Synchronization feature synchronizes user information with the Agent or Agency post type, offering a range of user roles to select from.
+The **User Roles** feature allows seamless synchronization between user profiles and their respective Agent or Agency profiles, providing a range of roles including Agent, Agency, Owner, Developer, Buyer, and Seller.
 
-To enable this feature, navigate to the **Easy Real Estate** settings [ **Dashboard → Easy Real Estate → Settings → Users → User Role Management** ] section.
+To enable this feature, go to **Dashboard → Easy Real Estate → Settings → Users → User Role Management**.
 
-Once activated, the system will automatically generate a new Agent/Agency profile for newly registered users. Any updates made to the user's profile information will be reflected in the associated Agent/Agency details.
+Once enabled, the system will automatically create a new Agent or Agency profile for each newly registered user, depending on their selected role. Any profile updates by the user will be synchronized with the associated Agent or Agency details.
 
-![RealHomes Documentation](images/dashboard/user-roles-agent-agency-sync.png)
+**Available options:**
+- Control auto-assignment of users to Agent roles if synchronization is disabled.
+- Set user avatars to fallback to Agent/Agency profiles if needed.
 
+This ensures that profile information remains consistent across all roles, making property and agency management more efficient.
+
+![User Role Synchronization](images/dashboard/user-roles-agent-agency-sync.png)
+
+---
+
+### **User Role Access Management**
+
+This feature gives you granular control over access permissions for various user roles within WordPress and RealHomes, such as Agent, Agency, Owner, Buyer, Seller, Developer, and more.
+
+You can allow or deny access to specific functionalities for each user role by navigating to **Dashboard → Easy Real Estate → Settings → Users → User Role Management**.
+
+Key access options include:
+
+- **Manage Profile:** Enable/disable the ability to manage user profiles.
+
+- **Select/Change Agency:** Control whether users can select or change their agency.
+
+- **Manage Listings:** Allow/deny access to create, edit, or delete property listings.
+
+- **Save/Manage Favorites:** Control the ability to save favorite properties.
+
+- **Submit Listings:** Decide whether users can submit, edit and delete property listings.
+
+- **Manage Agents:** Allow management of agents
+
+- **Property Analytics:** Control access to property performance analytics.
+
+This flexible access management system helps streamline roles and responsibilities, allowing you to tailor permissions according to each user's role.
+
+![User Role Access Management](images/easy-real-estate/user-role-access-management.png)
