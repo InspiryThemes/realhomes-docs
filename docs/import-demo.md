@@ -42,7 +42,13 @@ Once the import process is complete, You will see a notice that the import is co
 
 ![Screenshot](images/import-demo/all-done.png)
 
- You can click on **Visit Site** to see your website after importing the demo content. In case of any problem, Get in touch with our support team using our support site.
+You can click on **Visit Site** to see your website after importing the demo content. In case of any problem, Get in touch with our support team using our support site.
+
+### **Step 4 (Optional)**
+
+Sometimes, the styles and scripts of the theme through Elementor needs to be regenerated. So, please navigate to Dashboard - Elementor - Tools and click on Regenerate Files & Data and click on "Save Changes" to save the updated files and data.
+
+![Screenshot](images/import-demo/regenerate-files-and-data.jpeg)
 
 ## Import XML Contents and Configure Settings Manually
 

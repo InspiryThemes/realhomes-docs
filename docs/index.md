@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **October 11th, 2024**. The current version of the RealHomes Theme is {== **v4.3.4** ==}. Please ensure your theme is up-to-date to take advantage of the latest features and improvements. For guidance on how to update the RealHomes Theme, refer to [**this article**](https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/).
+    This documentation was last updated on **October 11th, 2024**. The current version of the RealHomes is {== **v4.3.4** ==}, so please ensure to use latest version of RealHomes to take advantage of the latest features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -8,14 +8,13 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 - Reach out through our [**Support Platform**](https://support.inspirythemes.com/login-register/)
 - Need help obtaining your item purchase code from ThemeForest? Refer to [**this guide**](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/).
 - If your support period has expired, please check out [**this article**](https://support.inspirythemes.com/knowledgebase/extend-renew-support/) to extend or renew your item support.
+- Consult to [**this article**](https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/) for guidance on how to update the RealHomes Theme.
 
 ---
 
-## What's New in v4.3.x?
+## What's New in v4.3.4?
 
 We've introduced several exciting new features and enhancements:
-
-### **v4.3.4**
 
 - **TikTok Social Icon for Agents**<br>
   Now agents can showcase their TikTok profiles, boosting their social media presence.
@@ -46,23 +45,6 @@ We've introduced several exciting new features and enhancements:
 
 - **Language Demo Import Files**<br>
   Updated demo import files for smoother setup in Spanish & Arabic.
-
-### **v4.3.3**
-
-- **Multi-Select Field in New Field Builder**  
-  Add multiple values with ease using the new [Multi-Select Field](https://realhomes.io/documentation/new-fields-builder/) feature in the Field Builder.
-
-- **Option to Enable/Disable WordPress Login Page Styles**  
-  Gain control over the styling of your WordPress login page with the new [enable/disable option](https://realhomes.io/documentation/wp-login-styles/).
-
-- **Sticky Header Support for Custom Elementor Header**  
-  Make your custom Elementor header sticky by following the instructions provided in this [Sticky Header Guide](https://realhomes.io/documentation/custom-header-footer-elementor/#how-to-make-elementor-header-sticky).
-
-- **Divided Vacation Rentals Features on Add/Edit Property Page (backend)**  
-  We've enhanced the backend experience by dividing the [Vacation Rentals Features](https://realhomes.io/documentation/add-property-vr/) on the Add/Edit Property page for easier management.
-
-- **Improved Owner Information Widget**  
-  The [Owner Information Widget](https://realhomes.io/documentation/owner-info-widget/) now comes with improved functionality and customization options.
 
 For a complete list of updates and fixes, visit our [Change Log](https://realhomes.io/changelog/).
 
