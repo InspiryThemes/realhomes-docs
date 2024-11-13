@@ -6,7 +6,7 @@ Enabling this feature will display a **Save Search** button at the top of search
 
 Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → Saved Searches** section to enable/disable the save search feature and configure other related settings. 
 
-![RealHomes Documentation](images/member-pages/saved-searches-setting-1.jpg)
+![RealHomes Documentation](images/member-pages/saved-searches-setting-1.png)
 
 ![RealHomes Documentation](images/member-pages/saved-searches-setting-2.jpg)
 
