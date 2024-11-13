@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **November 13th, 2024**. The current version of the RealHomes is {== **v4.3.5** ==}, so please ensure to use latest version of RealHomes to take advantage of the latest features and improvements.
+    This documentation was last updated on **November 15th, 2024**. The current version of the RealHomes is {== **v4.3.5** ==}, so please ensure to use latest version of RealHomes to take advantage of the latest features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -12,39 +12,48 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ---
 
-## What's New in v4.3.4?
+## What's New in v4.3.5?
 
-We've introduced several exciting new features and enhancements:
+RealHomes v4.3.5 brings several new features, bug fixes, and improvements:
 
-- **TikTok Social Icon for Agents**<br>
-  Now agents can showcase their TikTok profiles, boosting their social media presence.
+- **Saved Search Functionality for Non-Logged In Users**  
+  Now, visitors can save property searches without needing to log in.
 
-- **Guest Property Map Address Section**<br>
-  Resolved issues with map addresses not appearing correctly in guest property listings.
+- **Space Before/After Currency Sign Option**  
+  Added an option to insert a space before or after the currency sign for better formatting.
 
-- **Info Window Position for Ultra Property Listings Maps**
-  Adjusted the positioning of info windows in ultra property listings maps.
+- **Pagination Layout for Modern Grid Property Listings**  
+  Resolved issues with the pagination layout on the modern grid properties page.
 
-- **Author Page 'About' Label Display**<br>
-  Fixed display issue when the author description is empty.
+- **Mapbox Zoom on Property Detail Page**  
+  Fixed the issue where Mapbox zoom level option is not honoring the customizer settings on property detail pages.
 
-- **Blog Author Page Header Spacing**<br>
-  Addressed spacing issues under the search form on the blog author page.
+- **WhatsApp Number URL 404 in Header**  
+  Corrected the issue causing a 404 error for WhatsApp numbers in the header.
 
-- **Media Preview on Front-End Dashboard**<br>
-  Resolved media preview issues in the submit property page on the front-end dashboard.
+- **Mapbox Single Property Pin Location**  
+  Addressed the issue with incorrect pin locations for individual properties on Mapbox.
 
-- **Agent/Agency Card Elementor Widget JS**<br>
-  Fixed a JavaScript issue with the ultra variation of the agent/agency card widget.
+- **Report Property Dialog Styles**  
+  Enhanced the visual styles of the report property dialog for a better user experience.
 
-- **Property Remove Button in Compare Tray**<br>
-  Corrected the property remove button issue in the floating compare tray.
+- **Nonce Security Statements**  
+  Improved nonce security statement.
 
-- **Translation Files**<br>
-  Enhanced & Improved translation files of Spanish & Arabic for both the theme and all plugins.
+- **Theme Dependency Notices for Plugins**  
+  Improved notices related to theme dependencies for several recommended plugins.
 
-- **Language Demo Import Files**<br>
-  Updated demo import files for smoother setup in Spanish & Arabic.
+- **User Roles for Property Management in Dashboard**  
+  Enhanced user roles, allowing better control over editing and deleting properties in the user dashboard.
+
+- **Property Detail Meta Information in Ultra for Smaller Resolutions**  
+  Optimized the display of meta information on property detail pages in Ultra for better visibility on smaller screens.
+
+- **Arabic Translation**  
+  Enhanced and improved the Arabic translation.
+
+- **Spanish Translation**  
+  Enhanced and improved the Spanish translation.
 
 For a complete list of updates and fixes, visit our [Change Log](https://realhomes.io/changelog/).
 
