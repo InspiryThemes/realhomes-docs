@@ -1,8 +1,12 @@
 # Import Demo Contents
 
-You can follow one of these approaches.
+Before getting started, importing demo content is a great way to quickly set up your RealHomes site to look just like the theme demo. The video below will guide you through the process of importing demo contents with ease using One-Click Demo Import.
 
-- One-Click Demo Import **( Automatic & Recommended )**
+<iframe width="100%" height="430" src="https://www.youtube.com/embed/xBB4TxsyU4E?si=9IqwUhmlHjmZmP-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+You can follow one of these approaches:
+
+- One-Click Demo Import **(Automatic & Recommended)**
 - Import XML Contents, Customizer Settings, and Widgets Manually
 
 ## One Click Demo Import ( Automatic & Recommended )
