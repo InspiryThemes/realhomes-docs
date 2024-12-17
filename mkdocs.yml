@@ -146,9 +146,7 @@ nav:
           - RealHomes Misc Settings: realhomes-misc-settings.md
           - Properties Filter Settings: properties-filter-settings.md
           - Archive & Taxonomy Pages: archive-taxonomy-pages.md
-    - Compare Properties:
-          - Setup Page: compare-properties.md
-          - Configure Settings: compare-properties-settings.md
+    - Compare Properties: compare-properties.md
     - News/Blog Page:
           - Create News/Blog Page: news-page.md
           - Blog Page Settings: blog-page-settings.md
