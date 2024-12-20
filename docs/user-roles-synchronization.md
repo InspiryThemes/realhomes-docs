@@ -12,9 +12,15 @@ To enable this feature, go to **Dashboard → Easy Real Estate → Settings → 
 
 Once enabled, the system will automatically create a new Agent or Agency profile for each newly registered user, depending on their selected role. Any profile updates by the user will be synchronized with the associated Agent or Agency details.
 
-**Available options:**
-- Control auto-assignment of users to Agent roles if synchronization is disabled.
-- Set user avatars to fallback to Agent/Agency profiles if needed.
+**Available options:**<br>
+
+**Enable User Synchronization:** Easily toggle user synchronization with Agent/Agency profiles to streamline profile updates.
+
+**Avatar Fallback:** If user profile images are not available, avatars can automatically fall back to Agent/Agency profile images for a unified visual experience.
+
+**Control Auto-Assignment:** Allows admins to prevent auto-assignment of users to Agent roles if the synchronization feature is disabled.
+
+**Enable/Disable Specific Roles:** Choose which roles (e.g., Agent, Agency, Owner, Buyer, Developer, Seller) to enable or disable within your system.
 
 This ensures that profile information remains consistent across all roles, making property and agency management more efficient.
 
@@ -38,9 +44,15 @@ Key access options include:
 
 - **Save/Manage Favorites:** Control the ability to save favorite properties.
 
-- **Submit Listings:** Decide whether users can submit, edit and delete property listings.
+- **Submit Listings:** Decide whether users can submit, edit, and delete property listings.
 
-- **Manage Agents:** Allow management of agents
+- **Manage Agents:** Allow management of agents.
+
+- **Manage Agencies:** Allow users with this role to manage agencies.
+
+- **Check Invoices:** Enable/disable access to check current invoices for users with specific roles.
+
+- **Manage Reservations:** Control access to manage reservations.
 
 - **Property Analytics:** Control access to property performance analytics.
 
