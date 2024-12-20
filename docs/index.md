@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **December 20th, 2024**. The current version of the RealHomes is {== **v4.3.5** ==}, so please ensure to use latest version of RealHomes to take advantage of the latest features and improvements.
+    This documentation was last updated on **December 20th, 2024**. The current version of the RealHomes is {== **v4.3.6** ==}, so please ensure to use latest version of RealHomes to take advantage of the latest features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -12,48 +12,48 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ---
 
-## What's New in v4.3.5?
+## What's New in RealHomes v4.3.6?
 
-RealHomes v4.3.5 brings several new features, bug fixes, and improvements:
+Explore the latest updates in RealHomes v4.3.6, bringing exciting new features, fixes, and enhancements:
 
-- **Saved Search Functionality for Non-Logged In Users**  
-  Now, visitors can save property searches without needing to log in.
+- **Boost SEO with Schema.org Support**  
+  Added Schema.org markup support to enhance property pages' SEO performance.
 
-- **Space Before/After Currency Sign Option**  
-  Added an option to insert a space before or after the currency sign for better formatting.
+- **Advanced Analytics in User Dashboard**  
+  Improved analytics functionality in the user dashboard with better insights and visualizations.
 
-- **Pagination Layout for Modern Grid Property Listings**  
-  Resolved issues with the pagination layout on the modern grid properties page.
+- **Enhanced Agent and Agency Statistics**  
+  Introduced detailed performance metrics for agents and agencies.
 
-- **Mapbox Zoom on Property Detail Page**  
-  Fixed the issue where Mapbox zoom level option is not honoring the customizer settings on property detail pages.
+- **Streamlined Booking, Reservations, and Invoices Management**  
+  Added separate control options for managing bookings, reservations, and invoices in User Role settings.
 
-- **WhatsApp Number URL 404 in Header**  
-  Corrected the issue causing a 404 error for WhatsApp numbers in the header.
+- **Improved Quick Details User Experience**  
+  Enhanced the usability and styling of the Quick Details close button.
 
-- **Mapbox Single Property Pin Location**  
-  Addressed the issue with incorrect pin locations for individual properties on Mapbox.
+- **Property Status Publishing Issue Fixed**  
+  Resolved an issue where properties were being published even when their status was set to Pending.
 
-- **Report Property Dialog Styles**  
-  Enhanced the visual styles of the report property dialog for a better user experience.
+- **Added WordPress Password Protection Feature in Ultra Design**  
+  Addressed the issue where password protection wasn't working correctly on single property pages in the Ultra layout.
 
-- **Nonce Security Statements**  
-  Improved nonce security statement.
+- **Search Form and Results Page Optimized**  
+  Fixed functionality issues affecting the search form and search results page.
 
-- **Theme Dependency Notices for Plugins**  
-  Improved notices related to theme dependencies for several recommended plugins.
+- **Seamless Translations After WordPress 6.7 Update**  
+  Resolved translation-related issues caused by updates in WordPress 6.7.
 
-- **User Roles for Property Management in Dashboard**  
-  Enhanced user roles, allowing better control over editing and deleting properties in the user dashboard.
+- **Mapbox Widget Property Loading Issue Fixed**  
+  Corrected property marker loading issues in the Mapbox RealHomes Widget.
 
-- **Property Detail Meta Information in Ultra for Smaller Resolutions**  
-  Optimized the display of meta information on property detail pages in Ultra for better visibility on smaller screens.
+- **Accurate Agent WhatsApp Contact URLs**  
+  Fixed an issue with Agent WhatsApp URLs when spaces or symbols were added to the contact number.
 
-- **Arabic Translation**  
-  Enhanced and improved the Arabic translation.
+- **Corrected Indonesian Rupiah Symbol**  
+  Fixed the incorrect Indonesian Rupiah symbol in the RealHomes Currency plugin.
 
-- **Spanish Translation**  
-  Enhanced and improved the Spanish translation.
+- **Elementor Pro Compatibility Resolved**  
+  Fixed compatibility issues between Elementor Pro and the RealHomes Elementor Addon plugin.
 
 For a complete list of updates and fixes, visit our [Change Log](https://realhomes.io/changelog/).
 
