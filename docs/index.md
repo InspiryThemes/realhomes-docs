@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **December 23rd, 2024**. The current version of the RealHomes is {== **v4.3.6** ==}, so please ensure to use latest version of RealHomes to take advantage of the latest features and improvements.
+    This documentation was last updated on **February 14th, 2025**. The current version of the RealHomes is {== **v4.3.8** ==}, so please ensure to use latest version of RealHomes to take advantage of the latest features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -12,48 +12,47 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ---
 
-## What's New in RealHomes v4.3.6?
+## What's New in RealHomes v4.3.7 and v4.3.8?
 
-Explore the latest updates in RealHomes v4.3.6, bringing exciting new features, fixes, and enhancements:
+Discover the latest updates in RealHomes v4.3.8, featuring enhancements, fixes, and new functionalities:
 
-- **Boost SEO with Schema.org Support**  
-  Added Schema.org markup support to enhance property pages' SEO performance.
+- **Enhanced Security with reCAPTCHA Option**  
+  Added a solution to replace or hide the default Google Sitewide CAPTCHA with an alternative option.
 
-- **Advanced Analytics in User Dashboard**  
-  Improved analytics functionality in the user dashboard with better insights and visualizations.
+- **Improved Logo Customization in Modern & Ultra Designs**  
+  Introduced Customizer controls to modify the logo size in Modern and Ultra designs.
 
-- **Enhanced Agent and Agency Statistics**  
-  Introduced detailed performance metrics for agents and agencies.
+- **Refined Search Experience**  
+  - Additional **Sort By** options for a better search experience.
+  
+- **Bug Fix: Similar Properties Layout**
+  - Fixed a **layout bug** in the Similar Properties section.
 
-- **Streamlined Booking, Reservations, and Invoices Management**  
-  Added separate control options for managing bookings, reservations, and invoices in User Role settings.
+- **Optimized Placeholder Image Handling**  
+  Resolved **404 errors** for placeholder images.
 
-- **Improved Quick Details User Experience**  
-  Enhanced the usability and styling of the Quick Details close button.
+- **Enhanced RHEA Properties Widgets**  
+  Fixed an issue where the **Property Status and Type background color options** weren’t working.
 
-- **Property Status Publishing Issue Fixed**  
-  Resolved an issue where properties were being published even when their status was set to Pending.
+- **Improved Booking Localization**  
+  Addressed **pending localization** issues to ensure proper translations.
 
-- **Added WordPress Password Protection Feature in Ultra Design**  
-  Addressed the issue where password protection wasn't working correctly on single property pages in the Ultra layout.
+- **Bug Fix: Password-Protected Pages**  
+  Resolved an issue where the **password protection feature** wasn’t functioning correctly for pages.
 
-- **Search Form and Results Page Optimized**  
-  Fixed functionality issues affecting the search form and search results page.
+- **UI Enhancement for Empty Search Results**  
+  Improved the **"No Properties Found" UI** in the Standard Top Map Search Variation.
 
-- **Seamless Translations After WordPress 6.7 Update**  
-  Resolved translation-related issues caused by updates in WordPress 6.7.
+- **Better Functionality in Elementor Widgets**  
+  - Fixed **gaps in Single Property Page Widgets** for Elementor.  
+  - Ensured **Properties Map Elementor Widgets** display all found properties correctly.
 
-- **Mapbox Widget Property Loading Issue Fixed**  
-  Corrected property marker loading issues in the Mapbox RealHomes Widget.
+- **Added OTP Verification Method for Social Login**
+  - Applied another extra layer of security for Social Login feature through One-Time Password
 
-- **Accurate Agent WhatsApp Contact URLs**  
-  Fixed an issue with Agent WhatsApp URLs when spaces or symbols were added to the contact number.
-
-- **Corrected Indonesian Rupiah Symbol**  
-  Fixed the incorrect Indonesian Rupiah symbol in the RealHomes Currency plugin.
-
-- **Elementor Pro Compatibility Resolved**  
-  Fixed compatibility issues between Elementor Pro and the RealHomes Elementor Addon plugin.
+- **Improved Email & OTP Handling**  
+  - Applied **RealHomes email template to OTP emails** for consistency.  
+  - Fixed JavaScript issues related to OTP email handling.
 
 For a complete list of updates and fixes, visit our [Change Log](https://realhomes.io/changelog/).
 
