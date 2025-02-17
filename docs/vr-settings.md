@@ -17,6 +17,9 @@ In this section, You can manage the following features in this section.
 - **Booking Email**
 - **Enable/Disable Booking Request Notification**
 
+!!! info "Important Information"
+    If you have enabled **Booking Request Notification for Owner** feature, then ensure that all the owners in the system must have a valid email added for them.
+
 ![Vacation Rentals Booking](images/vacation-rentals/contact-and-notification-vr.png)
 
 ### **Terms and Conditions**
