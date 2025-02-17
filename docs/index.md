@@ -16,6 +16,17 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 Discover the latest updates in RealHomes v4.3.8, featuring enhancements, fixes, and new functionalities:
 
+- **Added OTP Verification Method for Social Login**  
+  Applied another extra layer of security for Social Login feature through One-Time Password
+
+- **Better Functionality in Elementor Widgets**  
+  Improved **Single Property Page Widgets** for Elementor.  
+  Ensured **Properties Map Elementor Widgets** must have an option to display all found properties.
+
+- **Improved Email & OTP Handling**  
+  Applied **RealHomes email template to OTP emails** for consistency.  
+  Fixed JavaScript issues related to OTP email handling.
+
 - **Enhanced Security with reCAPTCHA Option**  
   Added a solution to replace or hide the default Google Sitewide CAPTCHA with an alternative option.
 
@@ -23,10 +34,7 @@ Discover the latest updates in RealHomes v4.3.8, featuring enhancements, fixes, 
   Introduced Customizer controls to modify the logo size in Modern and Ultra designs.
 
 - **Refined Search Experience**  
-  - Additional **Sort By** options for a better search experience.
-  
-- **Bug Fix: Similar Properties Layout**
-  - Fixed a **layout bug** in the Similar Properties section.
+  Additional **Sort By** options for a better search experience for properties listing pages.
 
 - **Optimized Placeholder Image Handling**  
   Resolved **404 errors** for placeholder images.
@@ -37,22 +45,14 @@ Discover the latest updates in RealHomes v4.3.8, featuring enhancements, fixes, 
 - **Improved Booking Localization**  
   Addressed **pending localization** issues to ensure proper translations.
 
-- **Bug Fix: Password-Protected Pages**  
-  Resolved an issue where the **password protection feature** wasn’t functioning correctly for pages.
-
 - **UI Enhancement for Empty Search Results**  
   Improved the **"No Properties Found" UI** in the Standard Top Map Search Variation.
 
-- **Better Functionality in Elementor Widgets**  
-  - Fixed **gaps in Single Property Page Widgets** for Elementor.  
-  - Ensured **Properties Map Elementor Widgets** display all found properties correctly.
+- **Bug Fix: Similar Properties Layout**  
+  Fixed a **layout bug** in the Similar Properties section on propert details page.
 
-- **Added OTP Verification Method for Social Login**
-  - Applied another extra layer of security for Social Login feature through One-Time Password
-
-- **Improved Email & OTP Handling**  
-  - Applied **RealHomes email template to OTP emails** for consistency.  
-  - Fixed JavaScript issues related to OTP email handling.
+- **Bug Fix: Password-Protected Pages**  
+  Resolved an issue where the **password protection feature** wasn’t functioning correctly for pages.
 
 For a complete list of updates and fixes, visit our [Change Log](https://realhomes.io/changelog/).
 
