@@ -18,16 +18,76 @@ Select the **Contact** as template from page attributes.
 ## Contact Page Settings
 Since theme version `3.9.2` you can create as many contact pages as you want and configure each contact page information from its add/edit page.
 
-### Contact Map
+### **Contact Map**
 ![Contact Map Tab](images/contact-page/contact-map-tab.png)
 
 !!! note
     **Map Type** option works only with Google Maps. To enable Google Maps for your website, You need to configure **Google Maps API key** by navigating to **Easy Real Estate → Settings → Maps**.
 
-### Contact Details
-![Contact Details Tab](images/contact-page/contact-details-tab.png)
-### Contact Form
-![Contact Form Tab](images/contact-page/contact-form-tab.png)
+### **Contact Details**  
+
+The **Contact Details** settings allow you to display key business contact information on the contact page, such as phone numbers, email, and address.  
+
+![Contact Details Tab](images/contact-page/contact-details-tab.png)  
+
+#### **Contact Detail**  
+- Choose whether to **Show** or **Hide** the contact details section on the contact page.  
+
+#### **Contact Details Title**  
+- Set a title for the contact details section (e.g., "Get in Touch" or "Our Contact Information").  
+
+#### **Phone Number**  
+- Enter the primary phone number to display on the contact page.  
+
+#### **Cell Number**  
+- Provide an additional **cell phone number** if applicable.  
+
+#### **Fax Number**  
+- If your business uses a fax number, enter it here.  
+
+#### **Display Email**  
+- Specify the email address that should be publicly displayed on the contact page.  
+
+#### **Contact Address**  
+- Enter the full address of your business location to be displayed on the contact page.  
+
+These settings allow you to present essential contact details for visitors, ensuring they can easily reach out to you.  
+
+### **Contact Form**  
+
+The **Contact Form** settings allow you to configure the contact form fields, recipient email addresses, and redirection behavior after form submission.  
+
+![Contact Form Tab](images/contact-page/contact-form-tab.png)  
+
+#### **Contact Form Display**  
+Choose whether to **Show** or **Hide** the contact form on the property detail page.  
+
+#### **Name Field Label**  
+Define a custom label for the **Name** field in the contact form.  
+
+#### **Phone Number Field Label**  
+Set a custom label for the **Phone Number** field.  
+
+#### **Email Field Label**  
+Customize the label for the **Email** field in the contact form.  
+
+#### **Message Field Label**  
+Specify the label for the **Message** field in the contact form.  
+
+#### **Contact Form Email**  
+Enter the email address where all messages submitted through the contact form will be sent.  
+
+#### **Contact Form CC Email**  
+Add one or more comma-separated email addresses to receive a **carbon copy (CC)** of all messages submitted via the contact form.  
+
+#### **Contact Form BCC Email**  
+Enter one or more comma-separated email addresses to receive a **blind carbon copy (BCC)** of all messages submitted via the contact form.  
+
+#### **Contact Form Shortcode (To Replace Default Form)**  
+If you want to replace the default contact form with a plugin-based form, enter the shortcode here.  
+
+#### **Select Page for Redirection**  
+Choose the page where users will be redirected after successfully submitting the contact form.  
 
 !!! note
     The **Contact Details Title** and **Contact Form Heading** fields are only for the **Classic** design variation.
