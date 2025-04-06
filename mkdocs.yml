@@ -130,6 +130,7 @@ nav:
                 - Create Agencies Page: add-agencies-page.md
                 - Agencies Page Settings: agencies-listing-settings.md
           - Price Format: price-format-settings.md
+          - Post Types: post-types-settings.md
           - URL Slugs: url-slugs-settings.md
           - GDPR: gdpr.md
           - Property: property.md
