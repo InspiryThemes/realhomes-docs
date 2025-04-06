@@ -1,6 +1,6 @@
 # URL Slugs Settings
 
-You can change the **URL Slugs** for property, agent or various taxonomies in **Easy Real Estate → Settings → URL Slugs**.
+You can change the **URL Slugs** for property, agent or various taxonomies in **Easy Real Estate → Settings → Post Types** and click on **URL Slugs**.
 
 ![RealHomes Documentation](images/ere-tabs/url-slugs.png)
 
