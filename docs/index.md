@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **April 7th, 2025**. The current version of the RealHomes is {== **v4.3.9** ==}, so please ensure to use latest version of RealHomes to take advantage of the latest features and improvements.
+    This documentation was last updated on **April 8th, 2025**. The current version of the RealHomes is {== **v4.3.9** ==}, so please ensure to use latest version of RealHomes to take advantage of the latest features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -12,47 +12,30 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ---
 
-## What's New in RealHomes v4.3.7 and v4.3.9?
+## What's New in RealHomes v4.3.9?
 
-Discover the latest updates in RealHomes v4.3.8, featuring enhancements, fixes, and new functionalities:
+Explore the latest improvements and features introduced in RealHomes v4.3.9:
 
-- **Added OTP Verification Method for Social Login**  
-  Applied another extra layer of security for Social Login feature through One-Time Password
+- **Post Types Management**  
+  Added dedicated controls to manage post types from the **Easy Real Estate → Settings → Post Types** section for better flexibility.
 
-- **Better Functionality in Elementor Widgets**  
-  Improved **Single Property Page Widgets** for Elementor.  
-  Ensured **Properties Map Elementor Widgets** must have an option to display all found properties.
+- **Customize WP Login Page Styles**  
+  Introduced the ability to customize the **WordPress login page appearance**, including background, colors, logo, and form elements.
 
-- **Improved Email & OTP Handling**  
-  Applied **RealHomes email template to OTP emails** for consistency.  
-  Fixed JavaScript issues related to OTP email handling.
+- **New Field Builder Option – Link Field Type**  
+  Added a new **Link field type** option in the **New Field Builder**, allowing for richer data input options.
 
-- **Enhanced Security with reCAPTCHA Option**  
-  Added a solution to replace or hide the default Google Sitewide CAPTCHA with an alternative option.
+- **Improved Saved Search for Vacation Rentals**  
+  Corrected an issue where **saved searches related to vacation rentals (RVR)** were not saving specific data properly.
 
-- **Improved Logo Customization in Modern & Ultra Designs**  
-  Introduced Customizer controls to modify the logo size in Modern and Ultra designs.
+- **Performance Optimization with Google Fonts**  
+  Improved **Google Fonts loading** by refining autoload logic for enhanced page performance.
 
-- **Refined Search Experience**  
-  Additional **Sort By** options for a better search experience for properties listing pages.
+- **User Menu Icon & Sorting Improvements**  
+  Refined **user menu icons**, their styles, and sorting in the header for a more intuitive navigation experience.
 
-- **Optimized Placeholder Image Handling**  
-  Resolved **404 errors** for placeholder images.
-
-- **Enhanced RHEA Properties Widgets**  
-  Fixed an issue where the **Property Status and Type background color options** weren’t working.
-
-- **Improved Booking Localization**  
-  Addressed **pending localization** issues to ensure proper translations.
-
-- **UI Enhancement for Empty Search Results**  
-  Improved the **"No Properties Found" UI** in the Standard Top Map Search Variation.
-
-- **Bug Fix: Similar Properties Layout**  
-  Fixed a **layout bug** in the Similar Properties section on propert details page.
-
-- **Bug Fix: Password-Protected Pages**  
-  Resolved an issue where the **password protection feature** wasn’t functioning correctly for pages.
+- **Better Post Type Slug Controls**  
+  Upgraded the **Easy Real Estate → Post Types → URL Slugs** interface for smoother slug management.
 
 For a complete list of updates and fixes, visit our [Change Log](https://realhomes.io/changelog/).
 
