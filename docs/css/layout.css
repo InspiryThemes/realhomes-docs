@@ -179,3 +179,11 @@ body .md-ellipsis {
         top: -8px;
     }
 }
+
+@-moz-document url-prefix() {
+    .md-header__button.md-logo img,
+    .md-header__button.md-logo svg {
+        height: auto;
+        width: 92px;
+    }
+}
