@@ -1,6 +1,6 @@
 # How to set up Currency Switcher
 
-To enable **Currency Switching** feature in RealHomes theme you would need to install and configure the <a href="https://wordpress.org/plugins/realhomes-currency-switcher/" target="_blank">**RealHomes Currency Switcher**</a> plugin. Plesae follow the steps given blow.k
+To enable **Currency Switching** feature in RealHomes theme you would need to install and configure the <a href="https://wordpress.org/plugins/realhomes-currency-switcher/" target="_blank">**RealHomes Currency Switcher**</a> plugin. Plesae follow the steps given below.
 
 ## Install & Activate 'RealHomes Currency Switcher' Plugin
 
@@ -21,6 +21,9 @@ Navigate to **Dashboard → Easy Real Estate → Currencies Settings** page. Thi
 - Allowed Currencies
 - Expiry Period of Switched Currency
 - Update Currencies Rates
+
+!!!note
+	You can check out the documentation of openexchangerate.org to see the [supported currencies here](https://docs.openexchangerates.org/reference/supported-currencies).
 
 ![Currencies Settings](images/other-features/realhomes-currency-switcher-settings.png)
 
