@@ -91,6 +91,13 @@ body .md-ellipsis {
     margin-top: -14px;
 }
 
+.md-nav__toggle~.md-nav>.md-nav__list {
+    overflow: hidden;
+    border-left: 1px solid #e1f1ff;
+    padding-bottom: 0;
+    margin-bottom: 0.6rem;
+}
+
 .md-footer-nav__inner {
     display: flex;
     justify-content: space-between;
