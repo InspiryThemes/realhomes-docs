@@ -56,6 +56,12 @@ You can change the default status of updated property using this setting.
 
 ![Submit Property](images/dashboard/updated-property-status.png)
 
+### **Enable Email Notifications for Property Edits**
+
+If you want to get notified when a property is edited, then you can enable this option.
+
+![Submit Property](images/dashboard/property-edit-notifications.png)
+
 ### **Auto-Generated Property ID**
 
 You can enable/disable **Auto-Generated Property ID** for your properties, if you will activate the **Auto-Generated Property ID** then you will not be able to edit the **Property ID** anymore.
