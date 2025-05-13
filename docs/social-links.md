@@ -5,7 +5,7 @@ Navigate to **Easy Real Estate → Settings → Social** to change social links 
 !!! info "Important Information"
     If you are running the RealHomes Theme older than {==3.9.0==} version then related settings can be found by navigating to **Dashboard → RealHomes → Customize Settings → Social Links**
 
-![Social Icon Settings](images/ere-tabs/social.png)
+![Social Icon Settings](images/ere-tabs/social-links.png)
 
 ##Add New Social Icons##
 
