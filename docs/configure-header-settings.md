@@ -30,11 +30,13 @@ You can change **Header Settings** in **Dashboard → RealHomes → Customize Se
 
 ### **Sticky Header**
 
-The **Sticky Header** option is found in **Dashboard → RealHomes → Customize Settings → Header → Basics**.
+The **Sticky Header** option is found in **Dashboard → RealHomes → Customize Settings → Header → Basics**. Using these settings, you can either set the standard theme headers as **Sticky Header** or you can design a header using Elementor and set it as **Sticky Header**.
 
 !!! info "Important"
 
     If you have created your header with Elementor, follow the instructions provided in <a href="https://realhomes.io/documentation/custom-header-footer-elementor/#how-to-make-elementor-header-sticky">this guide</a> to make it sticky.
+
+![Sticky Header Settings](images/header/sticky-header.png)
 
 ### **Contact Information**
 
