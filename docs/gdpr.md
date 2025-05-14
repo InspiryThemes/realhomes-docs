@@ -5,4 +5,4 @@
 !!! info "Important Information"
     If you are running the RealHomes Theme older than {==3.9.0==} version then related settings can be found by navigating to **Dashboard → RealHomes → Customize Settings → GDPR**
 
-![RealHomes Documentation - GDPR Settings](images/ere-tabs/gdpr.png)
+![RealHomes Documentation - GDPR Settings](images/ere-tabs/gdpr-settings.png)
