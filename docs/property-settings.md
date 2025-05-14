@@ -94,12 +94,6 @@ You can modify the labels of all the sections in **Dashboard → RealHomes → C
 
 ![Basic Settings of Property Detail Page](images/single-property-page/child-properties-title.png)
 
-### **Property Share Icons**
-
-You can activate or deactivate the property share icons in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**.
-
-![Basic Settings of Property Detail Page](images/single-property-page/property-share-icons.png)
-
 ### **Open Graph Meta Tags**
 
 You can enable or disable the Open Graph Meta Tags in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**. These Open Graph Meta Tags will help you display the property information while sharing a property on social media websites like facebook, twitter, etc.
@@ -134,6 +128,12 @@ Global option to change **Gallery Type** for all properties. This option is loca
 Modern design has more **Gallery Types** than classic design. You can switch the **Gallery Types** in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Gallery**.
 
 ![Gallery Settings of Property Detail Page](images/single-property-page/gallery_variations.gif)
+
+## **Social Share**
+
+You can activate or deactivate the property share icons in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Social Share**.
+
+![Basic Settings of Property Detail Page](images/single-property-page/property-share-icons.png)
 
 ## Common Note
 
