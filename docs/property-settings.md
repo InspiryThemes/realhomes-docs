@@ -110,7 +110,13 @@ You can enable or disable the next or previous property buttons in **Dashboard �
 
 Property Ratings settings are available in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**.
 
-![Basic Settings of Property Detail Page](images/single-property-page/property-ratings.png)
+![Property Rating Styles](images/single-property-page/property-ratings.png)
+
+#### **Property Rating Styles**
+
+You can modify the styles of property ratings in **Dashboard → RealHomes → Customize Settings → Styles → Miscellaneous**
+
+![Basic Settings of Property Detail Page](images/single-property-page/property-rating-styles.png)
 
 ## Gallery
 
