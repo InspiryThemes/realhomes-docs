@@ -42,6 +42,12 @@ You can enable Report Property feature in **Dashboard → RealHomes → Customiz
 
 ![Breadcrumbs on Property Detail Page](images/single-property-page/property-breadcrumbs.png) ![Breadcrumbs on Property Detail Page](images/single-property-page/breadcrumbs-on-property-details-page-modern.png)
 
+## Custom Header Template
+
+You can also assign a Custom Header Template, which you can design with Elementor for Property Details page. This feature can be found in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics → Custom Header Template**.
+
+![Breadcrumbs on Property Detail Page](images/single-property-page/custom-header-template-pdp.png)
+
 ## Header Variation
 
 **Header Variation** option is available in **Modern** Variation only.
