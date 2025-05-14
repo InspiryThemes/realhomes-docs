@@ -1,4 +1,4 @@
-# Price Format Settings
+# Property Settings
 
 There are some global settings available related to property post type. You can control the following settings in **Easy Real Estate → Settings → Property**.
 
