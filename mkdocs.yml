@@ -69,6 +69,8 @@ nav:
           - Agency Demo: agency-demo-setup.md
           - Hotel Demo <span class='label'>New</span>: hotel-demo-setup.md
           - Ultra Elementor Widgets: ultra-elementor-widgets.md
+    - Fusion Demo <span class='label'>New</span>:
+          - How to Import: fusion-demo-setup.md
     - Purpose Oriented Demos:
           - Vacation Rentals:
                 - Setup with Modern: vacation-rentals-setup.md
