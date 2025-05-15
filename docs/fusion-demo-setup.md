@@ -1,28 +1,44 @@
+# Fusion Demo Setup Guide
+
 !!! info "About Fusion Demo"
+    The **Fusion Demo** was introduced in **RealHomes v4.4.0** and you can check it out live [here](https://ultra.realhomes.io/fusion).  
+    Please ensure you have completed the [Installation and Activation](installation-and-activation.md) steps before proceeding with the demo import.
 
-    Fusion Demo is added in RealHomes version {== **4.4.0** ==}. Make sure you have followed the [Installation](installation-and-activation.md) guide before following the steps given below .
+---
 
-### **Import Fusion Demo**
+### 🛠️ **Importing the Fusion Demo**
 
-Now you can import the **Fusion Demo Contents**. Go to **RealHomes → Demo Import** to import demo data.
+To import the **Fusion Demo content**, follow these steps:
 
-![Screenshot](images/import-demo/import-demo-data.png)
+1. Navigate to **RealHomes → Demo Import** in your WordPress dashboard.
 
-Click on blue **Import Demo** button of **Fusion - Elementor** and you will see the next page where it will confirm the required plugins are installed.
+   ![Import Demo Screen](images/import-demo/import-demo-data.png)
 
-If any plugin is missing then the Demo Import process will install it so click on **Continue & Import** button again to confirm the import.
+2. Click the blue **Import Demo** button under the **Fusion - Elementor** option.
 
-Wait for few minutes as the demo images are being fetched (downloaded) from the remote server to your website, and this process can take a couple of minutes (depending on the speed of your hosting server).
+3. The system will check for required plugins.  
+   - If any plugin is missing, it will be automatically installed.  
+   - Click **Continue & Import** to proceed with the demo content import.
 
-![Screenshot](images/ultra/fusion-demo-import.png)
+4. The import process will begin. It may take a few minutes to complete as images and data are fetched from the server.
 
-!!! warning "Important"
-    Sometimes, the import process takes longer than expected and doesn't complete in the first attempt. So, simply import again until the process is complete.
+   ![Fusion Demo Import Process](images/ultra/fusion-demo-import.png)
 
-**Once the import process is complete**, You will receive a notice as the one displayed in the screenshot below.
+!!! warning "Having trouble importing?"
+    If the import process doesn’t complete on the first try, simply run it again.  
+    This is usually due to server response delays or timeout issues during image downloads.
 
-![Screenshot](images/import-demo/all-done.png)
+---
 
-Visit your site and you will find your site working like the theme demo.
+### ✅ **Demo Import Completed**
 
-For any assistance, Kindly register/login at our [support website](https://support.inspirythemes.com/login-register/) and [ask your question](https://support.inspirythemes.com/ask-question/) over there. So that our support team can assist you properly.
+Once the import is complete, you'll see a confirmation screen like the one below:
+
+![Import Complete](images/import-demo/all-done.png)
+
+Now visit your website — it should look exactly like the **[Fusion Demo](https://ultra.realhomes.io/fusion)**.
+
+---
+
+For further assistance, please [register or log in](https://support.inspirythemes.com/login-register/) to our support portal and [submit your question](https://support.inspirythemes.com/ask-question/).  
+Our support team will be happy to help you.
