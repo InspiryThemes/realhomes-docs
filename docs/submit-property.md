@@ -1,109 +1,182 @@
-# Submit Property
+# 🏠 Submit Property – Customizer Settings
 
-### **Submit Property Module**
- 
-You can Enable/Disable **Submit Property** module on dashboard by navigating to **Dashboard → RealHomes → Customize Settings → Dashboard → Submit Property** section.
+This section allows you to control the visibility, layout, fields, and behavior of the "Submit Property" functionality in the frontend dashboard. The settings can be found at **Dashboard → RealHomes → Customize Settings → Dashboard → Submit Property**.
 
 ![Submit Property Settings](images/member-pages/submit-property-customizer-settings.png)
 
-**Modern**
+---
 
-![Submit Property](images/member-pages/submit-property-front-end-mod.png)
+## ✅ Submit Property Module
 
-**Classic**
+- **Enable / Disable**
+  - Toggle the entire "Submit Property" module on or off for frontend users.
 
-![Submit Property](images/member-pages/submit-property-front-end.png)
+---
 
-Frontend view of submit/add property module.
+## 🧾 Page Layout
 
-![Submit Property Settings](images/dashboard/frontend-submit-property.png)
+- **Single Step / Multi Step**
+  - Choose whether the property submission form appears on a single page or is split into multiple steps.
 
-### **Submit Property Labels**
+---
 
-You can change the labels of each field of Submit Property form in **Dashboard → RealHomes → Customize Settings → Dashboard → Submit Property Labels**.
+## 🔳 Submit Button in Header
 
-![Submit Property Form](images/dashboard/submit-property-labels.gif)
+- **Show to Logged-in Users Only**
+- **Show to All Users**
+- **Hide**
 
-### **Submit Property Form Layout**
+Control the visibility of the "Submit Property" button in the site’s header.
 
-![Submit Property Form](images/dashboard/submit-property-form-layout.png)
+---
 
-### **Submit Property Form Fields**
+## 📝 Submit Button Text
 
-![Submit Property Form](images/dashboard/submit-property-form-fields.png)
+- Customize the text label on the submit button. (Default: `Submit`)
 
-### **Select Default Agent For Agent Area**
+---
 
-You can choose an agent to be automatically pre-selected on the "Submit Property" page within the "Agent & Reviewer" section.
+## 👤 Guest Property Submission
 
-![Submit Property - Select Default Agent For Agent Area](images/dashboard/default-agent-for-agent-area.png)
+- **Enable / Disable**
+  - Allow or restrict non-logged-in users from submitting properties.
 
-### **Terms & Conditions**
+---
 
-You can add **Terms & Conditions** field to submit property module. You can also select a page for *Terms & Conditions*.
+## 🧩 Enable/Disable Submit Property Form Fields
 
-![Submit Property](images/member-pages/terms-and-conditions.png)
+Toggle the display of specific fields in the property submission form:
 
-### **Choose Submit Property Status (Pending or Publish)**
+- Property Title
+- Property Address and Map
+- Property Description
+- Price
+- Old Price
+- Price Prefix
+- Price Postfix
+- Type
+- Status
+- Bedrooms
+- Bathrooms
+- Garages
+- Area
+- Area Postfix
+- Lot Size
+- Lot Size Postfix
+- Video
+- 360 Virtual Tour
+- Mortgage Calculator Fields
+- Mark as Featured
+- Gallery Images
+- Property Attachments
+- Property Slider Image
+- Floor Plans
+- Additional Details
+- Labels and Color
+- Energy Performance
+- Owner Information
+- Message to Reviewer
+- Terms & Conditions
 
-You can change the status of the newly submitted property. You can either select **Pending** or **Publish**. If you will select Pending the property will not directly available for public view but if you select Publish then it will be published for everyone to see.
+---
 
-![Submit Property](images/member-pages/submitted-property-status.png)
+## 👥 Agents Assignment Option
 
-### **Choose Updated Property Status (Pending or Publish)**
+Choose how agent(s) are assigned when submitting a property:
 
-You can change the default status of updated property using this setting.
+- **Display All Agents (Default)**
+- **Assign Current (Logged-in) Agent/User**
+- **Display Agency's Agents Only**
 
-![Submit Property](images/dashboard/updated-property-status.png)
+---
 
-### **Enable Email Notifications for Property Edits**
+## 🧑‍💼 Select Default Agent for Agent Area
 
-If you want to get notified when a property is edited, then you can enable this option.
+- Pre-select an agent for the "Agent & Reviewer" section on the submit form.
 
-![Submit Property](images/dashboard/property-edit-notifications.png)
+---
 
-### **Auto-Generated Property ID**
+## 🧑‍💼 Select Default Agent for Backend New Property
 
-You can enable/disable **Auto-Generated Property ID** for your properties, if you will activate the **Auto-Generated Property ID** then you will not be able to edit the **Property ID** anymore.
+- Assign a default agent when adding properties from the WordPress backend if no agent is selected.
 
-You can also provide a pattern of your choice for the **Property ID** field.
+---
 
-![Submit Property](images/member-pages/property-id.png)
+## 📃 Terms & Conditions Note
 
-### **Default Additional Details**
+- Add a note to explain the Terms & Conditions field.
+- Example: *Please agree to the privacy policy and terms before submitting your property.*
 
-You can add default titles and values for additional property details using **Default Additional Details**.
+---
 
-![Submit Property](images/member-pages/default-additional-details.png)
+## 📄 Accept Terms & Conditions Before Property Submission
 
-### **Notice on Successful Property Submission**
+- Select a page to be linked as the Terms & Conditions document.
+- Enforces user agreement before submitting.
 
-The message which is shown after successful submission of the property can also be changed in this section.
+---
 
-![Submit Property](images/member-pages/message-submit-notice.png)
+## 📌 Default Status for Submitted Property
 
-### **Email For Notification of New Property Submissions**
+- **Pending (Recommended)**
+- **Publish**
 
-The email address where you want to get the notification of new property listing submissions are also changed here.
+Choose whether newly submitted properties are published immediately or held for review.
 
-![Submit Property](images/member-pages/submit-notice-email.png)
+---
 
-### **Redirect Users After Successful Property Submission**
+## 🔁 Default Status for Updated Property
 
-We have also added an option that can help you setup a page for redirection after successful property submission.
+- **Pending**
+- **Publish**
 
-![Redirect Users After Successful Property Submission](images/member-pages/redirect-user-after-successful-submission.png)
+Determine the default status of a property after it has been edited by a user.
 
-### **Default Address & Map Location in Submit Form**
+---
 
-You can change the **Default Address** which is shown in **Submit Property** module from **Maps** Settings (**Easy Real Estate → Settings → Maps**). 
+## 📧 Enable Email Notifications for Property Edits
 
-You can also modify the longitude and latitude of the default map location. Please make sure that you add the coordinates properly, adding bad coordinates will result in the issues accessing the Submit Property or Add New Property module.
+- **Yes / No**
 
-![RealHomes Documentation](images/google-maps/google-maps-ere.png)
+Notify admin when a submitted property is edited by its owner.
 
-### **Individual Property Payments Settings**
+---
 
-If you like to charge the user/member of your website to list their properties for a cost then you can activate Individual Property Payments feature using either [**PayPal**](https://realhomes.io/documentation/realhomes-paypal-payments/), [**Stripe**](https://realhomes.io/documentation/inspiry-stripe-payments/) and [**WooCommerce**](https://realhomes.io/documentation/realhomes-woocommerce-payment-setup/).
+## 🖼️ Max Number of Images to Upload
 
-Please visit the **Individual Property Payments** section to learn how.
+- Limit the number of gallery images a user can upload.
+- Example: `48`
+
+---
+
+## 📎 Max Number of Attachments to Upload
+
+- Limit the number of document attachments.
+- Example: `15`
+
+---
+
+## ➕ Default Additional Details
+
+- Add predefined additional fields shown in the form.
+- Example: `Plot Size:30,Built Year:2017`
+
+---
+
+## ✅ Message After Successful Submit
+
+- Customize the success message shown to the user after submitting a property.
+- Example: `Thanks for Submitting Property!`
+
+---
+
+## 🔄 Redirect to Selected Page After Submission
+
+- Choose a page to redirect users after a successful property submission.
+
+---
+
+## 📥 Email Address to Receive Submission Notices
+
+- Provide email(s) that should receive new submission notifications.
+- Example: `robots@inspirythemes.com`
