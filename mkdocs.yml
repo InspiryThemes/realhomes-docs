@@ -63,14 +63,14 @@ nav:
           - Feedback: feedback.md
           - Help: help.md
     - Ultra Design <span class='label'>New</span>:
-          - Ultra Setup: ultra-design-setup.md
+          - Setup Guide: ultra-design-setup.md
           - Single Property Setup: single-property-elementor-ultra.md
           - Condominium Demo: condominium-demo-setup.md
           - Agency Demo: agency-demo-setup.md
           - Hotel Demo <span class='label'>New</span>: hotel-demo-setup.md
           - Ultra Elementor Widgets: ultra-elementor-widgets.md
     - Fusion Demo <span class='label'>New</span>:
-          - How to Import: fusion-demo-setup.md
+          - Import & Setup Guide: fusion-demo-setup.md
     - Purpose Oriented Demos:
           - Vacation Rentals:
                 - Setup with Modern: vacation-rentals-setup.md
