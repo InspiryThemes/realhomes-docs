@@ -12,32 +12,85 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ---
 
-## What's New in RealHomes v4.3.9?
+## What's New in RealHomes v4.4.0?
 
-Explore the latest improvements and features introduced in RealHomes v4.3.9:
+Explore the latest features and enhancements introduced in RealHomes v4.4.0:
 
-- **Post Types Management**  
-  Added dedicated controls to manage post types from the **Easy Real Estate → Settings → Post Types** section for better flexibility.
+- **Fusion – A Brand New Demo**  
+  Experience the brand new **<a href="https://ultra.realhomes.io/fusion">Fusion Demo</a>** with a modern and trending real estate design.
 
-- **Customize WP Login Page Styles**  
-  Introduced the ability to customize the **WordPress login page appearance**, including background, colors, logo, and form elements.
+- **Admin Notifications for Property Edits**  
+  Get notified via email whenever a user edits their submitted property.
 
-- **New Field Builder Option – Link Field Type**  
-  Added a new **Link field type** option in the **New Field Builder**, allowing for richer data input options.
+- **Save Draft & Preview Options**  
+  Submit Property form now includes **Save Draft** and **Preview** buttons for improved publishing control.
 
-- **Improved Saved Search for Vacation Rentals**  
-  Corrected an issue where **saved searches related to vacation rentals (RVR)** were not saving specific data properly.
+- **Trigger Login via URL**  
+  Easily open the login popup using a URL parameter – ideal for promotional or gated content.
 
-- **Performance Optimization with Google Fonts**  
-  Improved **Google Fonts loading** by refining autoload logic for enhanced page performance.
+- **Post Template Enhancements**  
+  Added **social share section** to the default post template and **tags + social share** to the full-width post template.
 
-- **User Menu Icon & Sorting Improvements**  
-  Refined **user menu icons**, their styles, and sorting in the header for a more intuitive navigation experience.
+- **Sticky Header Contact Info (Modern Design)**  
+  Contact details are now visible in the sticky header for better accessibility.
 
-- **Better Post Type Slug Controls**  
-  Upgraded the **Easy Real Estate → Post Types → URL Slugs** interface for smoother slug management.
+- **Unique Styles for Elementor Widgets**  
+  All RealHomes Elementor widgets now feature **distinctive tile styles** and **clear naming conventions**.
 
-For a complete list of updates and fixes, visit our [Change Log](https://realhomes.io/changelog/).
+- **Mobile Sticky Header Support**  
+  Sticky headers now fully supported on mobile across all header variations, including custom Elementor headers.
+
+- **Pagination in Agent Widget (Elementor)**  
+  The **Agent widget** now supports pagination, allowing better content organization.
+
+- **New Front-End Property Actions**  
+  More flexibility in the **front-end dashboard** with new property action options and controls.
+
+- **Elementor Properties Filter for Listing v14**  
+  A new **custom properties filter widget** is now available for Listing v14 layout.
+
+- **Form Styling Options**  
+  Customize the appearance of all frontend forms displayed within content areas.
+
+- **Activate/Deactivate Properties (Front-End Dashboard)**  
+  Users can now **enable or disable their properties** directly from their dashboard.
+
+- **Rating Star Styling Controls**  
+  Customize the appearance of rating stars with dedicated styling options.
+
+- **Generate Booking Invoice (Admin)**  
+  Easily generate an invoice from the backend on the booking edit page.
+
+- **Elementor Google Maps – ERE Styles Support**  
+  Add ERE map styles directly to the Elementor Google Maps widget.
+
+- **Smart Admin Notices**  
+  - Missing Stripe, PayPal, or Currency Switcher API key notices
+  - Google Maps API key missing notification
+
+- **New Range Sliders for Filters**  
+  Price and area filters now support a **slider UI** for better user experience.
+
+- **WordPress Login/Register Page Styling**  
+  More controls to customize **default WP login/register pages**.
+
+- **Accordion Widget Icons Customization**  
+  Customize the icons used in **custom Elementor accordion widgets**.
+
+- **Agent/Agency Placeholder Thumbnails**  
+  Display fallback placeholders for agents/agencies in the properties filter widget.
+
+- **Fixes & Improvements**  
+  Numerous bug fixes and UI/UX enhancements, including:
+  - Ajax pagination issues
+  - Plugin activation return link
+  - Agent post type toggle issue
+  - RTL layout fixes
+  - PHP 8.x compatibility
+  - Dynamic CSS generation for better performance
+  - Optimized auto-update handling for theme & plugins
+
+For a complete list of updates, fixes and more details, visit our [Change Log](https://realhomes.io/changelog/).
 
 ---
 
