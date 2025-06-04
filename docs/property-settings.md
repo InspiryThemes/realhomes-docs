@@ -82,6 +82,28 @@ You can hide the property address in **Dashboard → RealHomes → Customize Set
 
 ![Basic Settings of Property Detail Page](images/single-property-page/property-address.png)
 
+### **Guest Property View Limit**
+
+This feature allows you to restrict how many property detail pages a guest (non-logged-in) user can view before being prompted to log in.
+
+You can configure this under **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**.
+
+**Maximum Property Views for Guests**  
+  Set the number of property detail pages a guest can view.
+
+**Guest View Reset Interval**  
+  Choose how often the guest view counter should reset:
+  - Daily
+  - Weekly
+  - Every Two Weeks
+  - Monthly
+  - Forever
+
+**Guest View Limit Alert – Page Title & Message**  
+  Customize the title and message shown to guests when they exceed the viewing limit.
+
+![Guest View Limit Settings](images/single-property-page/guest-property-view-limit.png)
+
 ### **Section Labels**
 
 You can modify the labels of all the sections in **Dashboard → RealHomes → Customize Settings → Property Detail Page → Basics**.
