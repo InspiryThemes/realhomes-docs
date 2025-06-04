@@ -14,7 +14,7 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ## What's New in RealHomes v4.4.x?
 
-Explore the latest features and enhancements introduced in RealHomes v4.4.0:
+Explore the latest features and enhancements introduced in RealHomes v4.4.x:
 
 - **Fusion – A Brand New Demo**  
   Experience the brand new **<a href="https://ultra.realhomes.io/fusion">Fusion Demo</a>** with a modern and trending real estate design.
