@@ -80,6 +80,33 @@ Toggle the display of specific fields in the property submission form:
 
 ---
 
+## 🧩 Mark Submit Property Form Fields as Required
+
+Choose which fields appear in the property submission form and mark them as **required** as needed:
+
+- Property Title
+- Price
+- Price Prefix
+- Price Postfix
+- Old Price
+- Property ID
+- Bedrooms
+- Bathrooms
+- Garages
+- Area
+- Area Postfix
+- Lot Size
+- Lot Size Postfix
+- Year Built
+- 360 Virtual Tour
+- Mark as Featured
+- Energy Performance
+- Owner Information
+- Message to Reviewer
+- Terms & Conditions
+
+---
+
 ## 👥 Agents Assignment Option
 
 Choose how agent(s) are assigned when submitting a property:
