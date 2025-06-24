@@ -1,5 +1,7 @@
 # Add Property
 
+This section explains how to add a new property in the RealHomes theme using the backend dashboard interface. You’ll be guided through each field group, from basic info to advanced settings like tours, gallery, and more.
+
 To add a new property, go to **Dashboard → Easy Real Estate → New Property**
 
 ### **Add _Property Title_ and _Property Description_**
@@ -58,7 +60,7 @@ Enter the property address and drag the Google map pointer to the correct locati
 
 ![Property Map](images/add-content/property-map.png)
 
-### **Add Gallery Images**
+### **Upload Property Gallery Images**
 
 Provide images for the property gallery.
 
@@ -86,15 +88,13 @@ Provide floor plan details. The **Floor Plan Image** and the **Floor Name** are 
 
 ![Property Floor Plans](images/add-content/floor-plans.png)
 
-### **Add Featured Image**
+### **Set a Featured Image**
 
-You must set a featured image for the property. This featured image will be displayed in property cards on listing pages throughout the website.
+You must set a featured image for the property. This image will be shown in property cards and throughout your listings.
 
-**Classic:**  
-The featured image in **Classic Design** should have a minimum width of **770 pixels** and a minimum height of **386 pixels**.
-
-**Modern:**  
-The featured image in **Modern Design** should have a minimum width of **680 pixels** and a minimum height of **510 pixels**.
+**Recommended Dimensions:**
+- **Classic:** Minimum **770x386 px**
+- **Modern:** Minimum **680x510 px**
 
 ![Property Featured Image](images/add-content/featured-image-updated.png)
 
@@ -261,4 +261,4 @@ Miscellaneous settings are available for the single property page, which you can
 
 ![Property Misc Settings](images/add-content/misc-settings-add-property.gif)
 
-**Publish the property once it is ready**.
+Once all details are added, don’t forget to click the **Publish** button to make the property live on your website.
