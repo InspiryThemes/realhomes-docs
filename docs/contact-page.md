@@ -19,10 +19,36 @@ Select the **Contact** as template from page attributes.
 Since theme version `3.9.2` you can create as many contact pages as you want and configure each contact page information from its add/edit page.
 
 ### **Contact Map**
+
+Navigate to **Dashboard → RealHomes → Customize Settings → Misc → Contact Map** to configure the map displayed on your contact page.
+
 ![Contact Map Tab](images/contact-page/contact-map-tab.png)
 
+#### **Map Visibility**
+- Toggle the map **Show/Hide** for the contact page.
+
+#### **Map Coordinates**
+- **Map Latitude** and **Longitude** define the default center of the map.
+- You can use tools like [latlong.net](https://www.latlong.net) or [itouchmap.com](https://www.itouchmap.com) to find the coordinates of your desired location.
+
+#### **Map Zoom Level**
+- Specify the zoom level (e.g., `14` is commonly used for city-level zoom).
+
+#### **Map Type**
+- Choose the map type from:
+  - **Roadmap**
+  - **Satellite**
+  - **Hybrid**
+  - **Terrain**
+
 !!! note
-    **Map Type** option works only with Google Maps. To enable Google Maps for your website, You need to configure **Google Maps API key** by navigating to **Easy Real Estate → Settings → Maps**.
+    The **Map Type** setting only applies if you are using **Google Maps**. To enable Google Maps on your website, navigate to **Dashboard → Easy Real Estate → Settings → Maps** and add your **Google Maps API key**.
+
+#### **Custom Map Marker**
+- **Maps Marker:** Upload a custom marker icon (recommended size: **50px by 50px**).
+- **Retina Maps Marker:** Upload a 2× version of your marker icon for high-resolution displays.
+
+This customization helps align the map style with your site's branding.
 
 ### **Contact Details**  
 
