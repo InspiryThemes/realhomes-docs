@@ -2,23 +2,29 @@
 
 ### ⚙️ **My Properties Settings**
 
-To configure the **My Properties** section in the user dashboard, navigate to:
+To configure the **My Properties** section available in the user dashboard, go to:
 
 **Dashboard → RealHomes → Customize Settings → Dashboard → My Properties**
 
-Within this Customizer panel, you can manage the following options:
+From this Customizer panel, you can manage:
 
 - ✅ **Enable/Disable My Properties Module**  
-  Toggle the visibility of the My Properties section for frontend users.
+  Toggle the visibility of the My Properties tab for frontend users.
 
-- 🔄 **Properties Activation/Deactivation**  
-  Allow users to activate or deactivate their listed properties directly from the dashboard.
+- 🔄 **Allow Users to Activate/Deactivate Properties**  
+  Enable this option to let users manage the activation status of their submitted properties.
 
-![RealHomes Documentation](images/dashboard/my-properties-settings.png)
+!!! info "Important"
 
-### 🏡 **My Properties in User Menu**
+    The **Activate/Deactivate Property** option will be disabled automatically if the **RealHomes Memberships** plugin is active on your website.
 
-The **My Properties** section allows users to manage their submitted properties directly from the frontend dashboard. This interface is available across all design variations of the RealHomes theme:
+![My Properties Settings – Customizer](images/dashboard/my-properties-settings.png)
+
+---
+
+### 🏡 **My Properties – Frontend View**
+
+The **My Properties** section in the user dashboard allows logged-in users to view, manage, and edit their submitted properties. This feature is consistent across all design variations of the RealHomes theme:
 
 - **Ultra Design**
 
@@ -32,8 +38,10 @@ The **My Properties** section allows users to manage their submitted properties 
 
   ![My Properties – Classic](images/member-pages/my-properties-front-end.png)
 
-### 🏘️ **My Properties in Dashboard**
+---
 
-Additionally, here's a view of the My Properties interface in the Dashboard:
+### 🖥️ **My Properties – Admin View**
 
-![My Properties Settings – Customizer](images/dashboard/my-properties.png)
+Here is how the **My Properties** section appears in the admin-side Customizer:
+
+![My Properties – Admin Customizer View](images/dashboard/my-properties.png)
