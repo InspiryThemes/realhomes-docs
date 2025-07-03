@@ -148,11 +148,13 @@ nav:
           - Listing & Archive Settings: archive-taxonomy-pages.md
           - RealHomes Misc Settings: realhomes-misc-settings.md
           - Properties Filter Settings: properties-filter-settings.md
-          - Archive & Taxonomy Pages: archive-taxonomy-pages.md
     - Compare Properties: compare-properties.md
     - News/Blog Page:
           - Create News/Blog Page: news-page.md
-          - Blog Page Settings: blog-page-settings.md
+          - Blog Page Settings:
+            - Ultra: blog-page-settings.md
+            - Modern: blog-page-settings-modern.md
+            - Classic: blog-page-settings-classic.md
           - Add News/Blog Post: add-news-post.md
     - Contact Page: contact-page.md
     - Other Pages:
