@@ -8,6 +8,7 @@
     margin: 0 0 1rem;
     padding: 0 0 1rem 0;
     border-bottom: 1px solid #eff0ef;
+    color: #000;
 }
 
 .md-typeset h1, .md-typeset h2 {
@@ -17,6 +18,11 @@
 
 .md-typeset h3 {
     font-size: 1.5em;
+    font-weight: bold;
+}
+
+.md-typeset h4, .md-typeset h5, .md-typeset h6 {
+    font-weight: bold;
 }
 
 body .md-header {
