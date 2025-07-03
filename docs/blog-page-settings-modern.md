@@ -1,22 +1,23 @@
 # Blog Page Settings
 
-You can customize the **Blog Page** related settings easily within the **Customizer** panel. Simply navigate to [ **Dashboard → RealHomes → Customize Settings → Blog Page** ] to access these options.
+You can customize the **Blog Page** display and behavior through the Customizer.  
+Navigate to **Dashboard → RealHomes → Customize Settings → Blog Page**.
 
-### **Ultra**
-
-![Header Variation & Meta Settings](images/news-page/blog-page-settings-ultra.png)
+![Blog Page Settings](images/news-page/blog-page-settings.png)
 
 ---
 
-### **Title**
-Set a custom title to be shown on the Blog page.  
+### **Header Variation**
+Choose how the header should appear on the blog (news) page.
+
+- **Banner** – Displays the standard page banner (recommended).
+- **None** – Hides the header banner entirely.
+
+---
+
+### **Banner Title**
+Set a custom title to be displayed in the banner area of the Blog page.  
 *Example:* Use “News”, “Updates”, “From Our Blog”, etc.
-
----
-
-### **Description**
-Set a custom description to be displayed on the Blog page.  
-*Example:* Use Check out market updates, “Explore the Real Estate market”, etc.
 
 ---
 
