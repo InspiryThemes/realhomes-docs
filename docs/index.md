@@ -14,10 +14,10 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ## What's New in RealHomes v4.4.x?
 
-Explore the latest features and enhancements introduced in RealHomes v4.4.x:
+Explore the latest high-level features and major fixes introduced in RealHomes v4.4.x:
 
 - **Fusion – A Brand New Demo**  
-  Experience the brand new **<a href="https://ultra.realhomes.io/fusion">Fusion Demo</a>** with a modern and trending real estate design.
+  Experience the brand new [Fusion Demo](https://ultra.realhomes.io/fusion) with a modern and trending real estate design.
 
 - **Admin Notifications for Property Edits**  
   Get notified via email whenever a user edits their submitted property.
@@ -29,29 +29,54 @@ Explore the latest features and enhancements introduced in RealHomes v4.4.x:
   Easily open the login popup using a URL parameter – ideal for promotional or gated content.
 
 - **Mobile Sticky Header Support**  
-  Sticky headers now fully supported on mobile across all header variations, including custom Elementor headers.
+  Sticky headers are now fully supported on mobile across all header variations, including custom Elementor headers.
 
 - **New Front-End Property Actions**  
-  More flexibility in the **front-end dashboard** with new property action options and controls.
+  Enjoy enhanced flexibility in the front-end dashboard with new property action options and controls.
 
 - **Activate/Deactivate Properties (Front-End Dashboard)**  
-  Users can now **enable or disable their properties** directly from their dashboard.
+  Users can now enable or disable their properties directly from their dashboard.
 
 - **Generate Booking Invoice (Admin)**  
   Easily generate an invoice from the backend on the booking edit page.
 
-- **Smart Admin Notices**  
-  - Missing Stripe, PayPal, or Currency Switcher API key notices
-  - Google Maps API key missing notification
+- **Additional Meta Information in Property Listing Elementor Widgets**  
+  Display extra meta details on property listing widgets built with Elementor.
 
-- **WordPress Login/Register Page Styling**  
-  More controls to customize **default WP login/register pages**.
+- **Property ID Display Option in Elementor Single Property Meta V2 Widget**  
+  Control whether the property ID appears within the Elementor single property meta widget.
 
-- **Fixes & Improvements**  
-  Numerous bug fixes and UI/UX enhancements, including:
-  - PHP 8.x compatibility
+- **Similar Posts Section in Single Blog (Modern & Ultra Variations)**  
+  Add a similar posts section on single blog pages for modern and ultra layouts.
 
-For a complete list of updates, fixes and more details, visit our [Change Log](https://realhomes.io/changelog/).
+- **Retina Map Marker Support**  
+  Improved marker icons for high-resolution displays on contact page maps.
+
+- **Enhanced Elementor Search Form Widget**  
+  Option to display a rooms counter in the guests dropdown field.
+
+- **Property Views Counter & Options**  
+  Customizer controls now offer a property views counter and additional sort-by options in listing templates.
+
+- **Fixed Mortgage Calculator Title Display Issue**  
+  Resolved title display inconsistencies in the mortgage calculator based on customizer settings.
+
+- **Fixed Filter Sidebar Widget Pagination Labels**  
+  Corrected pagination label issues in filter sidebar widgets.
+
+- **Fixed Guests Dropdown Search in Elementor Search Form Widget**  
+  Corrected search query issues within the guests dropdown.
+
+- **Improved Display of RVR Sections in Property Detail Pages**  
+  Better presentation of RVR sections for modern and ultra design variations.
+
+- **Improved Post Type Options Refresh Issue**  
+  Resolved the need for manual refresh when updating post type options.
+
+- **Major Bug Fixes & UI/UX Enhancements**  
+  Numerous fixes, including improved PHP 8.x compatibility and various UI/UX refinements.
+
+For a complete list of updates and detailed fixes, please visit our [Change Log](https://realhomes.io/changelog/).
 
 ---
 
