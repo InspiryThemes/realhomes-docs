@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **July 4th, 2025**. The current version of the RealHomes is {== **v4.4.2** ==}, so please ensure to use latest version of RealHomes to take advantage of the latest features and improvements.
+    This documentation was last updated on **July 10th, 2025**. The current version of the RealHomes is {== **v4.4.2** ==}, so please ensure to use latest version of RealHomes to take advantage of the latest features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -85,7 +85,7 @@ For a complete list of updates and detailed fixes, please visit our [Change Log]
 Here are some recommended practices to optimize your website's performance:
 
 - **Hosting:** Opt for an SSD-based VPS over shared hosting for better resources.
-- **PHP & MySQL:** Ensure you're running **PHP 7.4 or newer** and **MySQL 5.6 or higher**. Contact your hosting provider for updates.
+- **PHP & MySQL:** Ensure you're running **PHP 8.3 or newer** and **MySQL 8.0 or higher**. Contact your hosting provider for updates because these are [required by WordPress](https://wordpress.org/about/requirements/).
 - **Caching:** Use a reliable cache plugin like [WP Fastest Cache](https://wordpress.org/plugins/wp-fastest-cache/). Test your site thoroughly after configuration.
 - **Speed Optimization:** Enhance loading times with plugins like [Flying Pages](https://wordpress.org/plugins/flying-pages/).
 - **Image Optimization:** Compress images with a plugin like [Imagify](https://wordpress.org/plugins/imagify/).
