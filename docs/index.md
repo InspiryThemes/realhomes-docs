@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **July 10th, 2025**. The current version of the RealHomes is {== **v4.4.2** ==}, so please ensure to use latest version of RealHomes to take advantage of the latest features and improvements.
+    This documentation was last updated on **September 2nd, 2025**. The current version of the RealHomes is {== **v4.4.3** ==}, so please ensure to use latest version of RealHomes to take advantage of the latest features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -12,71 +12,63 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ---
 
-## What's New in RealHomes v4.4.x?
+## What's New in RealHomes v4.4.3?
 
-Explore the latest high-level features and major fixes introduced in RealHomes v4.4.x:
+Released on **2nd September 2025**, this version introduces exciting new demos, powerful enhancements, and important fixes to make RealHomes even better.
 
-- **Fusion – A Brand New Demo**  
-  Experience the brand new [Fusion Demo](https://ultra.realhomes.io/fusion) with a modern and trending real estate design.
+---
 
-- **Admin Notifications for Property Edits**  
-  Get notified via email whenever a user edits their submitted property.
+### ✨ New Demos
+- **MLS Demo (New!)**  
+  Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow.
 
-- **Save Draft & Preview Options**  
-  Submit Property form now includes **Save Draft** and **Preview** buttons for improved publishing control.
+- **Hebrew Demo (New!)**  
+  Explore the RealHomes theme in **Hebrew** with full **RTL compatibility** for a localized real estate experience.  
+  👉 Visit: *Demo link will be updated soon.*
 
-- **Trigger Login via URL**  
-  Easily open the login popup using a URL parameter – ideal for promotional or gated content.
+### 🆕 New Features
+- Local placeholder images support for properties (no dependency on external services).
+- Enable/disable additional property meta fields in the **print view**.
+- **Multi-select support** for Property Type and Status fields on the front-end Dashboard.
+- **Load more + infinite scroll** options for the Properties V14 widget.
+- **Verification options** for custom user roles to display on their listings.
+- **Owner post type verification** settings in Easy Real Estate (front-end support included).
+- Global **unit support for area and lot size** in Single Property Meta widgets v1 & v2.
 
-- **Mobile Sticky Header Support**  
-  Sticky headers are now fully supported on mobile across all header variations, including custom Elementor headers.
+### 🛠️ Fixes
+- Fixed header search form overlapping the user menu in Ultra design variation.
+- Fixed PHP 8.3+ notices in Sidebar Filter widget.
+- Fixed fatal error on dashboard when RHWPA was activated without WooCommerce.
+- Fixed deprecated notices for PHP 8.4 in the RealHomes Elementor Addon plugin.
 
-- **New Front-End Property Actions**  
-  Enjoy enhanced flexibility in the front-end dashboard with new property action options and controls.
+### 🚀 Improvements
+- Floor plan price display function refined for flexible input handling.
+- Updated Twitter branding to **X** across the theme.
+- Meta-box styles improved for Modern homepage template slider.
+- Sticky header logo settings enhanced with retina logo support.
+- Booking form defaults to **Split booking** for better clarity.
+- Multi-select support added for **Agent field** in the front-end Dashboard.
+- Partners section styles polished for Classic variation.
+- Properties Grid v3 Elementor widget styles improved.
+- Purchase API validation improved to match ThemeForest username with Envato buyer info.
+- Update handling between theme and bundled plugins optimized for stability.
+- Update API improved for more reliable theme/plugin updates.
+- Chart.js script loads only where needed.
+- Demo imports improved:
+  - Media handling in Customizer settings.
+  - Automatically sets permalinks to **Post name**.
+- Front-end Dashboard header improved with a **search field** for all post types.
+- RTL styles refined for Ultra variation.
+- Print styles and logic improved.
+- Ultra variation homepage performance optimized.
 
-- **Activate/Deactivate Properties (Front-End Dashboard)**  
-  Users can now enable or disable their properties directly from their dashboard.
+### 🔄 Updates
+- **Slider Revolution** updated to the latest version.
+- Theme bundled plugins updated.
+- Translation files refreshed.
+- Theme documentation updated.
 
-- **Generate Booking Invoice (Admin)**  
-  Easily generate an invoice from the backend on the booking edit page.
-
-- **Additional Meta Information in Property Listing Elementor Widgets**  
-  Display extra meta details on property listing widgets built with Elementor.
-
-- **Property ID Display Option in Elementor Single Property Meta V2 Widget**  
-  Control whether the property ID appears within the Elementor single property meta widget.
-
-- **Similar Posts Section in Single Blog (Modern & Ultra Variations)**  
-  Add a similar posts section on single blog pages for modern and ultra layouts.
-
-- **Retina Map Marker Support**  
-  Improved marker icons for high-resolution displays on contact page maps.
-
-- **Enhanced Elementor Search Form Widget**  
-  Option to display a rooms counter in the guests dropdown field.
-
-- **Property Views Counter & Options**  
-  Customizer controls now offer a property views counter and additional sort-by options in listing templates.
-
-- **Fixed Mortgage Calculator Title Display Issue**  
-  Resolved title display inconsistencies in the mortgage calculator based on customizer settings.
-
-- **Fixed Filter Sidebar Widget Pagination Labels**  
-  Corrected pagination label issues in filter sidebar widgets.
-
-- **Fixed Guests Dropdown Search in Elementor Search Form Widget**  
-  Corrected search query issues within the guests dropdown.
-
-- **Improved Display of RVR Sections in Property Detail Pages**  
-  Better presentation of RVR sections for modern and ultra design variations.
-
-- **Improved Post Type Options Refresh Issue**  
-  Resolved the need for manual refresh when updating post type options.
-
-- **Major Bug Fixes & UI/UX Enhancements**  
-  Numerous fixes, including improved PHP 8.x compatibility and various UI/UX refinements.
-
-For a complete list of updates and detailed fixes, please visit our [Change Log](https://realhomes.io/changelog/).
+👉 For a complete and detailed list of updates, please visit our [Change Log](https://realhomes.io/changelog/).
 
 ---
 

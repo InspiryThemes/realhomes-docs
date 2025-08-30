@@ -134,6 +134,7 @@ nav:
           - Price Format: price-format-settings.md
           - Post Types: post-types-settings.md
           - URL Slugs: url-slugs-settings.md
+          - Post Types Verification: post-types-verification.md
           - GDPR: gdpr.md
           - Property: property.md
           - User Roles and Synchronization: user-roles-synchronization.md
