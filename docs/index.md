@@ -19,10 +19,10 @@ Released on **2nd September 2025**, this version introduces exciting new demos, 
 ---
 
 ### ✨ New Demos
-- **MLS Demo (New!)**  
-  Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow.
+- **MLS Demo (New!)** - [ <a href="https://demo.realhomes.io/mls" target="_blank">https://demo.realhomes.io/mls</a> ]  
+  Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow. You can <a href="/mls-on-the-fly-setup/">**click here to learn how to set it up**</a>.
 
-- **Hebrew Demo (New!)**  
+- **Hebrew Demo (New!)** - [ <a href="https://demo.realhomes.io/hebrew" target="_blank">https://demo.realhomes.io/hebrew</a> ]    
   Explore the RealHomes theme in **Hebrew** with full **RTL compatibility** for a localized real estate experience.  
   👉 Visit: *Demo link will be updated soon.*
 
