@@ -240,7 +240,7 @@ nav:
           - Twitter Widget: twitter-widget.md
           - Newsletter Widget: newsletter-widget.md
     - IDX Compatible Plugins:
-      #     - MLS On the Fly: mls-on-the-fly-setup.md
+          - MLS On the Fly: mls-on-the-fly-setup.md
           - Optima Express Plugin:
                 - Installation & Setup: optima-express.md
                 - Content Setup: optima-express-content-setup.md

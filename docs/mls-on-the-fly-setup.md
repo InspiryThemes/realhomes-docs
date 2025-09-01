@@ -2,7 +2,7 @@
 
 The **MLS On The Fly™** compatibility is added to RealHomes in v4.4.3. The **MLS On The Fly™** integration allows you to bring MLS listings directly into your **RealHomes-powered website**. This makes it possible to display real-time MLS data seamlessly alongside your manually added listings.  
 
-It is powered by **Realtyna’s MLS Router™ API** and supports both **WordPress** and **React/Next.js** platforms. RealHomes fully supports this integration out of the box, and we provide a dedicated demo so you can preview how MLS listings look with RealHomes.
+It is powered by **Realtyna’s MLS Router™ API** and supports **WordPress** platforms. RealHomes fully supports this integration out of the box, and we provide a dedicated demo so you can preview how MLS listings look with RealHomes.
 
 👉 **Explore it here**: [**RealHomes MLS Demo**](https://demo.realhomes.io/mls)
 
