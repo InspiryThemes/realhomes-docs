@@ -24,7 +24,6 @@ This section highlights the combined updates from the two most recent releases (
 
 - **Hebrew Demo (New!)** - [ <a href="https://demo.realhomes.io/hebrew" target="_blank">https://demo.realhomes.io/hebrew</a> ]    
   Explore the RealHomes theme in **Hebrew** with full **RTL compatibility** for a localized real estate experience.  
-  👉 Visit: *Demo link will be updated soon.*
 
 ### 🆕 New Features
 - **Elementor-based Contact Page Template**.
