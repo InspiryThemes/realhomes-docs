@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **October 9th, 2025**. The current version of RealHomes is {== **v4.4.4** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
+    This documentation was last updated on **October 14th, 2025**. The current version of RealHomes is {== **v4.4.4** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -85,6 +85,7 @@ This section highlights the combined updates from the two most recent releases (
 
 Here are some recommended practices to optimize your website's performance:
 
+- **WordPress:** RealHomes requires minimum **WordPress 6.0 or latest**.
 - **Hosting:** Opt for an SSD-based VPS over shared hosting for better resources.
 - **PHP & MySQL:** Ensure you're running **PHP 8.3 or newer** and **MySQL 8.0 or higher**. Contact your hosting provider for updates because these are [required by WordPress](https://wordpress.org/about/requirements/).
 - **Caching:** Use a reliable cache plugin like [WP Fastest Cache](https://wordpress.org/plugins/wp-fastest-cache/). Test your site thoroughly after configuration.
