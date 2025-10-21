@@ -131,6 +131,8 @@ nav:
                 - Add New Agency: add-agency.md
                 - Create Agencies Page: add-agencies-page.md
                 - Agencies Page Settings: agencies-listing-settings.md
+          - Partners:
+                - Add New Partner: add-partners.md
           - Price Format: price-format-settings.md
           - Post Types: post-types-settings.md
           - URL Slugs: url-slugs-settings.md
