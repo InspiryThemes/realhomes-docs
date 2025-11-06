@@ -8,9 +8,26 @@ Go to **Dashboard → Easy Real Estate → New Property**
 
 ### **Add Vacation Rentals Information**
 
-If you are using the **RealHomes Vacation Rentals** plugin and have [configured](vacation-rentals-setup.md) it, you can see the **Vacation Rentals** tab at the top. There you can add pricing and other property rental information.
+If you are using the **RealHomes Vacation Rentals** plugin and have it configured, a **Vacation Rentals** tab will appear at the top of the property editing screen.
 
-![Vacations Rentals](images/add-content/add-property-vr.png)
+From this section, you can add **rental pricing**, **availability**, **seasonal rates**, **booking details**, and other relevant rental information.
+
+---
+
+### **Dual Pricing (Sale and Rent)**
+
+Starting from **RealHomes v4.4.5**, the theme supports **Dual Pricing**, allowing you to add both a **Sale Price** and a **Rent Price** for a single property.
+
+To enable this feature:
+
+1. Go to **Dashboard → Easy Real Estate → Settings → Price Format**  
+2. Enable the **Dual Property Price** option.
+
+![Enable Dual Pricing](images/add-content/enable-dual-property-price.png)
+
+Once enabled, you can add both **sale** and **rent prices** on the property edit screen.
+
+![Vacation Rentals](images/add-content/add-property-vr.png)
 
 ### **Display Booking Form Widget**
 

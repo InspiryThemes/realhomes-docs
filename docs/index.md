@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **October 14th, 2025**. The current version of RealHomes is {== **v4.4.4** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
+    This documentation was last updated on **November 8th, 2025**. The current version of RealHomes is {== **v4.4.5** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -14,23 +14,34 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ## Summary of Recent Updates
 
-This section highlights the combined updates from the two most recent releases (**v4.4.3** and **v4.4.4**). These versions introduce exciting new demos, powerful enhancements, and important fixes to make RealHomes even better.
+This section highlights the combined updates from the three most recent releases (**v4.4.3** to **v4.4.5**). These versions introduce exciting new features, major enhancements, and important fixes to make RealHomes even more powerful and flexible.
 
 ---
 
 ### ✨ New Demos
-- **MLS Demo (New!)** - [ <a href="https://demo.realhomes.io/mls" target="_blank">https://demo.realhomes.io/mls</a> ]  
+- **RealHomes CRM** - We're thrilled to introduce the RealHomes CRM in this release, a powerful all-in-one solution for managing leads, inquiries, deals, and tasks across your real estate business. <br>[**Read the CRM Setup Guide**](/realhomes-crm/)
+
+- **MLS Demo** - [ <a href="https://demo.realhomes.io/mls" target="_blank">https://demo.realhomes.io/mls</a> ]  
   Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow. You can <a href="mls-on-the-fly-setup/">**click here to learn how to set it up**</a>.
 
-- **Hebrew Demo (New!)** - [ <a href="https://demo.realhomes.io/hebrew" target="_blank">https://demo.realhomes.io/hebrew</a> ]    
+- **Hebrew Demo** - [ <a href="https://demo.realhomes.io/hebrew" target="_blank">https://demo.realhomes.io/hebrew</a> ]    
   Explore the RealHomes theme in **Hebrew** with full **RTL compatibility** for a localized real estate experience.  
 
+---
+
 ### 🆕 New Features
-- **Elementor-based Contact Page Template**.
+- **RealHomes CRM functionality** – Introducing an integrated CRM system within RealHomes for managing leads, inquiries, and communications.
+- **Dual Price feature for Vacation Rental** – Display both standard and seasonal rates seamlessly.
+- **Show verified agents only** option added to Agents Elementor widgets.
+- **Control the number of currencies** displayed on the frontend.
+- **Child Properties Elementor widget** added for Ultra variation.
+- **Mega Menu support** for Modern and Ultra variations based on Elementor templates.
+- **Agent Elementor widget** styles optimized for small devices.
+- **Elementor-based Contact Page Template** for flexible, drag-and-drop customization.
 - Option to **reorder Property Meta Fields** in default templates (Ultra & Modern).
-- **Phone Number field** added to the "Schedule a Tour" form widget.
-- **Custom label control** for the Agent Contact Form title in the Single Property Agent V2 Elementor widget.
-- Local placeholder images support for properties (no dependency on external services).
+- **Phone Number field** added to the “Schedule a Tour” form widget.
+- **Custom label control** for the Agent Contact Form title in Single Property Agent V2 Elementor widget.
+- Local placeholder image support for properties (no dependency on external services).
 - Enable/disable additional property meta fields in the **print view**.
 - **Multi-select support** for Property Type and Status fields on the front-end Dashboard.
 - **Load more + infinite scroll** options for the Properties V14 widget.
@@ -38,46 +49,64 @@ This section highlights the combined updates from the two most recent releases (
 - **Owner post type verification** settings in Easy Real Estate (front-end support included).
 - Global **unit support for area and lot size** in Single Property Meta widgets v1 & v2.
 
+---
+
 ### 🛠️ Fixes
-- Fixed GDPR dual border issue in the Sidebar Agent widget on Single Property pages.
-- Fixed Vacation Rental "Guests" field adding unnecessary parameters to the query string.
-- Fixed deprecated notices and Elementor condition compatibility issues.
-- Fixed header search form overlapping the user menu in Ultra design variation.
-- Fixed PHP 8.3+ notices in Sidebar Filter widget.
-- Fixed fatal error on dashboard when RHWPA was activated without WooCommerce.
-- Fixed deprecated notices for PHP 8.4 in the RealHomes Elementor Addon plugin.
+- Fixed **availability calendar visibility issue** on the Property Detail Page.
+- Fixed **layout breaking issue** when Save Search functionality is enabled.
+- Fixed **OpenStreetMap and Google Map Elementor widgets markers** issue when no property is found.
+- Fixed **search fields selection issue** when browser-based back-forward cache is enabled.
+- Fixed **Fusion Demo SVG icon size** issue.
+- Fixed **Property Taxonomy Elementor widget** styles on small devices.
+- Fixed **GDPR dual border issue** in Sidebar Agent widget.
+- Fixed **Vacation Rental “Guests” field** adding unnecessary parameters to the query string.
+- Fixed **deprecated notices** and Elementor condition compatibility warnings.
+- Fixed **header search form overlapping** the user menu in Ultra variation.
+- Fixed **PHP 8.3+ notices** in Sidebar Filter widget.
+- Fixed **fatal error** on dashboard when RHWPA was activated without WooCommerce.
+- Fixed **deprecated notices for PHP 8.4** in RealHomes Elementor Addon plugin.
+
+---
 
 ### 🚀 Improvements
-- WhatsApp link handling improved for different phone number formats.
-- Display of Phone, Fax, and Mobile numbers enhanced for various formats.
-- Agent Contact Details icons alignment improved on smaller containers.
-- Response message styling polished in the Login modal.
-- Responsive layout of the Front-end Dashboard header improved.
-- Floor plan price display function refined for flexible input handling.
-- Updated Twitter branding to **X** across the theme.
-- Meta-box styles improved for Modern homepage template slider.
-- Sticky header logo settings enhanced with retina logo support.
-- Booking form defaults to **Split booking** for better clarity.
-- Multi-select support added for **Agent field** in the front-end Dashboard.
-- Partners section styles polished for Classic variation.
-- Properties Grid v3 Elementor widget styles improved.
-- Purchase API validation improved to match ThemeForest username with Envato buyer info.
-- Update handling between theme and bundled plugins optimized for stability.
-- Update API improved for more reliable theme/plugin updates.
-- Chart.js script loads only where needed.
-- Demo imports improved, including media handling and automatic permalink setting.
-- Front-end Dashboard header improved with a **search field** for all post types.
-- RTL styles refined for Ultra variation.
-- Print styles and logic improved.
-- Ultra variation homepage performance optimized.
+- **WPML compatibility** improved across widgets and theme options.
+- **Ultra RVR demo** content refined to remove legacy Google Chart API code.
+- **Agent and Agency card layouts** improved for better title and social icon alignment in Modern variation.
+- **RealHomes Elementor Addon WPML config** updated for missing fields.
+- **Inquiry Form** enhanced with **CC and BCC email support**.
+- **Agency demo** structure optimized for faster performance.
+- **WhatsApp link handling** improved for various phone number formats.
+- **Phone, Fax, and Mobile number display** refined for consistent output.
+- **Agent contact icons alignment** enhanced on smaller containers.
+- **Response message styling** refined in Login modal.
+- **Front-end Dashboard header layout** improved for responsive behavior.
+- **Floor plan price handling** made more flexible.
+- **Twitter branding updated to X** across theme and widgets.
+- **Meta-box styles improved** for Modern homepage template slider.
+- **Sticky header logo** supports retina images.
+- **Booking form** defaults to split mode for better clarity.
+- **Multi-select support** added for the Agent field in Dashboard.
+- **Partners section styles** refined for Classic variation.
+- **Properties Grid v3 widget** visuals improved.
+- **Purchase API validation** now matches ThemeForest username with Envato buyer info.
+- **Update handling optimized** for stability between theme and bundled plugins.
+- **Update API refined** for more reliable updates.
+- **Chart.js script** loads only when required.
+- **Demo imports improved**, including media handling and permalink auto-setup.
+- **Front-end Dashboard header** now includes a unified search field.
+- **RTL styles refined** for Ultra variation.
+- **Print logic and styles improved.**
+- **Ultra variation homepage performance** further optimized.
+
+---
 
 ### 🔄 Updates
-- The **condominium demo**'s Elementor sections updated to containers.
-- **Slider Revolution** and other theme-bundled plugins updated to their latest versions.
-- Translation files for the theme and plugins have been refreshed.
-- Theme documentation updated.
+- **Condominium Demo** updated with Elementor Containers.
+- **Slider Revolution** and other bundled plugins updated to the latest versions.
+- **Translation files** refreshed for all theme and plugin components.
+- **Theme documentation** updated for RealHomes v4.4.5.
 
-👉 For a complete and detailed list of updates, please visit our [Change Log](https://realhomes.io/changelog/).
+👉 For the full version history, please visit our [Change Log](https://realhomes.io/changelog/).
 
 ---
 

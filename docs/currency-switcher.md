@@ -27,8 +27,10 @@ Here, you'll find the following configuration options:
 - 🔄 **Update Interval** – Define how often exchange rates update
 - 💲 **Base Currency** – Set your website's main currency
 - 🌐 **Allowed Currencies** – Choose which currencies users can switch between
+- 💹 **Number of Currencies to Display** – Select how many currencies you would like to display
 - ⏱️ **Expiry Period** – Define how long the selected currency remains active in the user's session
 - 📥 **Update Currencies Rates** – Manually fetch latest exchange rates
+
 
 > 📘 You can also view the [complete list of supported currencies](https://docs.openexchangerates.org/reference/supported-currencies?ref=realhomes) by Open Exchange Rates for reference.
 

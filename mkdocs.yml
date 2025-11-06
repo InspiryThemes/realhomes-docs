@@ -81,6 +81,7 @@ nav:
                 - Booking Payments: realhomes-property-booking-payment-setup.md
           - Single Agent: single-agent-setup.md
     - Header & Footer:
+          - Mega Menu: mega-menu-setup.md
           - Ultra:
                 - Header: configure-header-settings-ultra.md
                 - Footer:
@@ -201,6 +202,7 @@ nav:
           - Setup Dashboard: dashboard.md
           - Basic Settings: dashboard-general.md
           - Analytics Module: dashboard-property-analytics.md
+          - RealHomes CRM: realhomes-crm.md
           - Submit Property Module: submit-property.md
           - Submit Property Labels: submit-property-labels.md
           - Guest Property Submission: guest-property-submission.md
@@ -215,7 +217,7 @@ nav:
           - User Roles and Synchronization: user-roles-synchronization.md
           - Dashboard Labels: dashboard-labels.md
           - Styles: dashboard-styles.md
-    - Setup CRM: real-estate-crm.md
+    - RealHomes CRM: realhomes-crm.md
     - Floating Features:
           - Compare Properties: compare-properties.md
           - Currency Switcher: currency-switcher.md
