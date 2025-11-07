@@ -19,7 +19,7 @@ This section highlights the combined updates from the three most recent releases
 ---
 
 ### ✨ New Demos
-- **RealHomes CRM** - We're thrilled to introduce the RealHomes CRM in this release, a powerful all-in-one solution for managing leads, inquiries, deals, and tasks across your real estate business. <br>[**Read the CRM Setup Guide**](/realhomes-crm/)
+- **RealHomes CRM** - We're thrilled to introduce the RealHomes CRM in this release, a powerful all-in-one solution for managing leads, inquiries, deals, and tasks across your real estate business. <br>[**Read the CRM Setup Guide**](https://realhomes.io/documentation/realhomes-crm/)
 
 - **MLS Demo** - [ <a href="https://demo.realhomes.io/mls" target="_blank">https://demo.realhomes.io/mls</a> ]  
   Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow. You can <a href="mls-on-the-fly-setup/">**click here to learn how to set it up**</a>.
