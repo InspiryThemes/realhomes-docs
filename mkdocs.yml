@@ -5,6 +5,8 @@
 ####################################################
 
 site_name: RealHomes Documentation
+site_url: https://realhomes.io/documentation/
+
 theme:
     language: "en"
     name: "material"
