@@ -1,29 +1,87 @@
-# iHomefinder Optima Express Plugin 
+# iHomefinder Optima Express Plugin  
 
-### **Installation**
+### ⚠️ Important Note Before You Proceed
 
-You can now use [iHomefinder Optima Express Plugin](https://wordpress.org/plugins/optima-express/) on your website.
+!!! warning "A Better, Modern, and More Scalable Option Is Available"
+    While Optima Express works, we **strongly recommend using MLS On The Fly™** instead.  
+    It is the **officially supported** MLS integration for RealHomes, offering:
 
-1. Navigate to WordPress **Dashboard → Plugins → Add New**
+    - Support for **200+ MLS providers**
+    - **Native RealHomes compatibility**
+    - Faster & more reliable syncing  
+    - No outdated shortcodes or legacy widgets  
+    - A modern API-based workflow  
+    
+    👉 Learn more: [**MLS On The Fly™ Setup Guide**](https://realhomes.io/documentation/mls-on-the-fly-setup/)
 
-2. Type **Optima Express** in the search field, and search
-![RealHomes Documentation](images/other-features/search-for-optima-express.jpg)
+Optima Express remains available for those who *already use iHomefinder* or prefer their IDX ecosystem, but MLS On The Fly™ is the **recommended solution for new RealHomes users**.
 
-3. Click Install Now under the Optima Express plugin. Kindly make sure to verify before installing that the author of this plugin must be iHomefinder as shown in the screenshot above.
+---
 
-4. After the plugin is installed, click **Activate Plugin**.
+# Installing Optima Express
 
-### **Register the Optima Express Plugin**
+The **iHomefinder Optima Express** plugin provides IDX features such as property search, listing display, and lead capture — but please note that the integration is handled entirely by the plugin itself, not by RealHomes.
 
-After activating the plugin, select "**Register Optima Express**" at the top of your dashboard.
+You can install the plugin directly from the WordPress plugin repository.
 
-![RealHomes Documentation](images/other-features/activate-optima-express-account.png)
+---
 
-On the **Register** page, you can:
+## 🔌 Step 1: Install the Plugin
 
-1. Sign up for a free trial.
+1. Navigate to **Dashboard → Plugins → Add New**  
+2. Type **Optima Express** into the search field  
+3. Look for the plugin authored by **iHomefinder**
 
-2. Sign up for an **IDX account** in your **MLS** (this provides you with a paid account with access to to listings in your MLS. 
-![RealHomes Documentation](images/other-features/sign-up-options.png)
+![Search for Optima Express](images/other-features/search-for-optima-express.jpg)
 
-3. You can either try this plugin for 30 days by Signing up for a free trial or you can go with a paid option by clicking on Sign Up for a **Paid Account**.
+4. Click **Install Now**  
+5. After installation, click **Activate Plugin**
+
+---
+
+## 📝 Step 2: Register Optima Express
+
+Once activated, you'll see a banner at the top of your dashboard:
+
+**Register Optima Express**
+
+Click it to begin setup.
+
+![Register Optima Express](images/other-features/activate-optima-express-account.png)
+
+---
+
+## 🧾 Registration Options
+
+On the registration page, you can choose between:
+
+### **1. Free Trial (30 Days)**  
+A temporary trial that provides full IDX features for testing.
+
+### **2. Paid IDX Account**  
+A full IDX subscription that connects your website to your MLS.  
+This gives you access to listing data in compliance with MLS rules.
+
+![Sign-up Options](images/other-features/sign-up-options.png)
+
+After registration, your IDX tools will become available inside your WordPress site.
+
+---
+
+## 👍 Final Recommendation
+
+If you are setting up IDX/MLS for the first time on RealHomes, Optima Express is functional — but **MLS On The Fly™ delivers a far superior experience**:
+
+### MLS On The Fly™ Advantages:
+- Direct integration with **RealHomes templates & widgets**
+- Works with **Elementor**, front-end dashboard, and theme features
+- Supports **200+ MLS organizations**
+- Uses a modern API instead of outdated iframe embeds
+- Faster listing updates and more consistent styling
+
+👉 For a better long-term setup, follow the **MLS On The Fly™ Guide**:  
+**[How to Set Up MLS On The Fly™](../mls-on-the-fly-setup.md)**
+
+---
+
+If you need help choosing the right MLS integration, feel free to ask our support team.
