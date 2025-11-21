@@ -14,7 +14,7 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ## Summary of Recent Updates
 
-This section highlights the combined updates from the three most recent releases (**v4.4.3** to **v4.4.5**). These versions introduce exciting new features, major enhancements, and important fixes to make RealHomes even more powerful and flexible.
+This section highlights the combined updates from the three most recent releases (**v4.4.3** to **v4.4.6**). These versions introduce exciting new features, major enhancements, and important fixes to make RealHomes even more powerful and flexible.
 
 ---
 
