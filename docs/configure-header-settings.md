@@ -64,7 +64,7 @@ To change **Header Styles**, please navigate to **Dashboard → RealHomes → Cu
 
 You can modify the styles of **Sticky Header** in **Dashboard → RealHomes → Customize Settings → Styles** and scroll down to find **Sticky Header** styles.
 
-![Header Variation](images/home-setup/header_sticky_styles_modern.gif)
+![Header Variation](images/header/header_sticky_styles_modern.png)
 
 ### **Responsive Header Styles**
 
