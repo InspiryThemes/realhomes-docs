@@ -1,151 +1,170 @@
 # Installation Guide
 
-Welcome aboard! 🎉 Let's get your RealHomes theme up and running.
+Welcome aboard! 🎉 We're really happy to have you with us. Let's get your new RealHomes site up and running.
 
-Before you dive in, make sure your hosting environment meets the official [WordPress requirements](https://wordpress.org/about/requirements/). RealHomes works seamlessly on most hosting types—shared, reseller, or dedicated—as long as WordPress runs properly.
+Before we jump in, double-check that your hosting setup handles [WordPress requirements](https://wordpress.org/about/requirements/). RealHomes runs smoothly on pretty much any host, whether it's shared, dedicated, or something in between, as long as WordPress itself works fine.
 
 ---
 
-## ✅ Before You Begin
+## ✅ First Things First
 
-You'll need a working WordPress installation first. Most web hosts offer **one-click WordPress installs**. If you’re installing manually, follow this [WordPress Installation Guide](https://wordpress.org/support/article/how-to-install-wordpress/).
+You’ll need a fresh WordPress installation. Most hosting companies have a **one-click installer** in their control panel that makes this super easy. If you're setting it up yourself, the official [WordPress Installation Guide](https://wordpress.org/support/article/how-to-install-wordpress/) is your best friend.
 
-Once WordPress is set up, download the **“All Files and Documentation”** package from ThemeForest and extract it. Inside, you'll find the key file: `realhomes.zip`.
+Once WordPress is ready, head to your ThemeForest account and download the **“All Files and Documentation”** package. Unzip that file on your computer. Inside, look for `realhomes.zip`. That's the actual theme file you'll be uploading.
 
 ![Download Theme](images/installation/download-rh-full-package.png)
 
-!!!tip "Important: Upload the Correct File"
-    You must extract the main package you downloaded from ThemeForest first. Do **not** upload the entire package directly to WordPress. The file you need to upload is `realhomes.zip`, which is found inside.
+!!! warning "Heads Up: Don't Upload the Wrong File!"
+    A common mistake is trying to upload the big zip file you downloaded from ThemeForest. That won't work. Make sure you extract it first and only upload `realhomes.zip`.
 
 ---
 
-## 📦 Install the Theme via WordPress Dashboard (Recommended)
+## 📦 Install via WordPress Dashboard (The Easy Way)
+
+This is the method we recommend because it's usually the quickest.
 
 ### Step 1: Upload and Activate
 
-1.  Go to **Appearance → Themes → Add New**.
-2.  Click **Upload Theme**.
-3.  Select `realhomes.zip` and click **Install Now**.
-4.  Once installed, click **Activate**.
+1.  Go to your WordPress dashboard, navigate to **Appearance → Themes**, and click that **Add New** button at the top.
 
-![Add New Theme](images/installation/add-new.png)
-![Upload Theme](images/installation/upload-theme.png)
-![Select ZIP](images/installation/realhomes-zip.png)
-![Activate Theme](images/installation/activate-theme.png)
+    ![Add New Theme](images/installation/add-new.png)
+
+2.  Click the **Upload Theme** button.
+
+    ![Upload Theme](images/installation/upload-theme.png)
+
+3.  Select the `realhomes.zip` file we found earlier and hit **Install Now**.
+
+    ![Select ZIP](images/installation/realhomes-zip.png)
+
+4.  When it finishes, click **Activate** to switch on the theme.
+
+    ![Activate Theme](images/installation/activate-theme.png)
 
 ---
 
-### Step 2: Select a Design Variation
+### Step 2: Choose Your Style
 
-After activation, you’ll land on the **RealHomes Welcome Page**. Select your preferred design variation (Ultra, Modern, or Classic), then click **Save Changes**.
+As soon as you activate, you'll see the **RealHomes Welcome Page**. This is where you pick the layout that fits your vision: **Ultra**, **Modern**, or **Classic**.
+
+Just click the one you like and hit **Save Changes**.
 
 ![Welcome Page](images/installation/welcome-page.png)
 
-> For a breakdown of each design, visit [Design Selection](design-selection.md)
+> Stuck on which one to pick? Take a look at our [Design Selection Guide](design-selection.md) for a quick comparison.
 
 ---
 
 ### Step 3: Activate Your License
 
-To unlock the full potential of RealHomes:
+To get all the good stuff (like automatic updates and premium plugins), you'll need to verify your purchase.
 
--   Enter your **Item Purchase Code**.
--   Click **Verify**.
+1.  Find the license box on the welcome screen.
+2.  Paste in your **Item Purchase Code**.
+3.  Click **Verify**.
 
-This step enables access to **demo import, plugin installation**, and **auto-updates**.
+And that's it! exact features are now unlocked.
 
-Need help finding your code? Check out our guide:
-👉 [How to Get ThemeForest Purchase Code](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/)
+Can't find your code? Here's how to grab it:
+👉 [How to Get Your ThemeForest Purchase Code](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/)
 
 ![Purchase Verification](images/installation/purchase-verification.png)
 
 ---
 
-### Step 4: Install Required Plugins
+### Step 4: Install the Plugins
 
-After license verification, you'll be prompted to install the plugins that power your theme. This is a two-part process: first you install them, then you activate them.
+Now the theme will let you know which plugins it needs to function.
 
-1.  Click **Begin installing plugins**.
-2.  On the next screen, **select all** plugins, choose **Install** from the dropdown, and click **Apply**.
-3.  Once the installation is complete, click **Return to Required Plugins Installer**.
-4.  Now, **select all** plugins again, choose **Activate** from the dropdown, and click **Apply**.
+1.  Click on **Begin installing plugins**.
 
-![Install Plugins](images/installation/begin-plugin-installation.png)
-![Select Plugins](images/installation/install-plugins.png)
-![Return to Installer](images/installation/return-to-install.png)
-![Activate Plugins](images/installation/activate-plugins.png)
+    ![Install Plugins](images/installation/begin-plugin-installation.png)
+
+2.  Tick the box to **Select All** plugins.
+3.  In the dropdown, chose **Install** and click **Apply**.
+
+    ![Select Plugins](images/installation/install-plugins.png)
+
+4.  When they're done, perform a quick checks, then click **Return to Required Plugins Installer**.
+
+    ![Return to Installer](images/installation/return-to-install.png)
+
+5.  Select them all again.
+6.  This time, choose **Activate** in the dropdown and click **Apply**.
+
+    ![Activate Plugins](images/installation/activate-plugins.png)
 
 ---
 
-### Step 5: Set Permalinks
+### Step 5: Fix Your Links (Permalinks)
 
-For clean, SEO-friendly URLs, navigate to:
+We need to make sure your URL structure looks good for Google and makes sense to humans.
 
-**Dashboard → Settings → Permalinks**
-Select **Post name** and save.
+1.  Go to **Settings → Permalinks**.
+2.  Choose **Post name**.
+3.  Hit **Save Changes**.
 
 ![Permalinks Settings](images/import-demo/permalinks.png)
 
 ---
 
-### Step 6: Elementor Initial Settings
+### Step 6: Tweak Elementor
 
-To ensure Elementor uses the theme's beautifully designed styles instead of its own defaults, navigate to: **Dashboard → Elementor → Settings**
+If you're using Elementor, let's make sure it plays nicely with RealHomes styles.
 
-On the **General** tab, enable both:
-
--   ✅ Disable Default Colors
--   ✅ Disable Default Fonts
+1.  Go to **Elementor → Settings**.
+2.  On the **General** tab, check these two boxes:
+    -   ✅ **Disable Default Colors**
+    -   ✅ **Disable Default Fonts**
+3.  Click **Save Changes**.
 
 ![Elementor Settings](images/elementor/disable-default-colors-fonts-elementor.png)
 
 ---
 
-## 🛠️ Alternate Installation Method: FTP
+## 🛠️ FTP Installation (The Backup Plan)
 
-If you're facing upload issues, try FTP:
+If the dashboard upload is giving you trouble (sometimes file size limits get in the way), FTP is a solid alternative.
 
-1.  Connect to your server via an FTP client (e.g., FileZilla).
-2.  Navigate to the `wp-content/themes/` directory on your server.
-3.  Extract `realhomes.zip` on your computer and upload the resulting `realhomes` folder to this directory.
-4.  Go to your **Dashboard → Appearance → Themes** and **Activate** the RealHomes theme.
-5.  After activation, proceed with **Step 2 (Select Design)**, **Step 3 (Activate License)**, and **Step 4 (Install Plugins)** from the WordPress Dashboard method above to complete the setup.
-
----
-
-## 👶 Install the Child Theme (Highly Recommended)
-
-If you plan to add custom CSS or modify theme files, you should use the child theme. This ensures that your custom changes are safe and will not be overwritten when you update the main RealHomes theme in the future.
-
-The `realhomes-child.zip` file is included in your download package. You can install and activate it just like the main `realhomes.zip` theme.
+1.  Open your favorite FTP client (like **FileZilla**).
+2.  Connect to your server and find the `/wp-content/themes/` folder.
+3.  Unzip `realhomes.zip` on your computer first.
+4.  Upload the entire extracted `realhomes` folder into that themes folder.
+5.  Head back to your WordPress **Dashboard → Appearance → Themes** and activate RealHomes there.
+6.  From there, just follow **Step 2**, **Step 3**, and **Step 4** above to finish up.
 
 ---
 
-## ⚠️ Common Installation Issues
+## 👶 Using a Child Theme
 
-These are the most frequently encountered issues and their fixes:
+If you're planning to customize code or add your own CSS, please use the **Child Theme**. It keeps your changes safe so they aren't wiped out when you update the main theme later.
 
-!!! error "**Theme is missing the style.css stylesheet error**"
-    Happens if you upload the full download package. Make sure to upload `realhomes.zip`.
-    👉 [Fix it here](https://help.market.envato.com/hc/en-us/articles/202821510-Theme-is-missing-the-style-css-stylesheet-error)
-
-!!! error "**The link you followed has expired**"
-    Your server's PHP limits are too low.
-    👉 [Learn how to fix it](https://support.inspirythemes.com/knowledgebase/how-to-fix-the-link-you-followed-has-expired-in-wordpress/)
-
-!!! error "**Broken or missing styles**"
-    Usually caused by incorrect file/folder permissions.
-    👉 [Fix broken styles](https://support.inspirythemes.com/knowledgebase/how-to-fix-broken-styles-after-installing-or-updating-the-theme/)
-
-!!! error "**Missing temporary directory**"
-    A server misconfiguration.
-    👉 [Learn more](https://support.inspirythemes.com/knowledgebase/destination-directory-for-file-streaming-does-not-exist-or-is-not-writable/)
+You'll find `realhomes-child.zip` in your download package. Just install and activate it exactly the same way you did the main theme.
 
 ---
 
-## ❓ Need Help?
+## ⚠️ Troubleshooting Common Hiccups
 
-If you face any issue not listed above, [submit a support ticket](https://support.inspirythemes.com/ask-question/) and our team will be happy to assist you.
-Don’t forget to [sign up or log in](https://support.inspirythemes.com/login-register/) first.
+Here are a few things that trip people up sometimes:
+
+**"Missing style.css" error**
+> This almost always means you uploaded the whole package file instead of just the theme zip.
+> 👉 [How to fix it](https://help.market.envato.com/hc/en-us/articles/202821510-Theme-is-missing-the-style-css-stylesheet-error)
+
+**"Link has expired"**
+> This is usually your server saying the file is too big for its current settings. You'll need to increase your PHP upload limits.
+> 👉 [How to increase limits](https://support.inspirythemes.com/knowledgebase/how-to-fix-the-link-you-followed-has-expired-in-wordpress/)
+
+**Styles looking broken?**
+> Often a permissions issue on the server folders.
+> 👉 [Fix file permissions](https://support.inspirythemes.com/knowledgebase/how-to-fix-broken-styles-after-installing-or-updating-the-theme/)
+
+**"Missing temporary directory"**
+> This is a server setup thing. Your hosting support can fix this in a jiffy.
+> 👉 [Read more](https://support.inspirythemes.com/knowledgebase/destination-directory-for-file-streaming-does-not-exist-or-is-not-writable/)
 
 ---
+
+## ❓ Still Stuck?
+
+If something weird is happening that's not listed here, just drop us a line on our **[Support Platform](https://support.inspirythemes.com/ask-question/)**. We're happy to help you sort it out!

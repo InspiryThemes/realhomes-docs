@@ -1,129 +1,114 @@
-# Import Demo Contents
+# Import Demo Content
 
-Before getting started, importing demo content is a great way to quickly set up your RealHomes site to look just like the theme demo. The video below will guide you through the process of importing demo contents with ease using One-Click Demo Import.
+Importing a demo is usually the fastest way to kickstart your project. It sets up your site to look just like ours, giving you a solid foundation to build on.
+
+Watch this quick video to see the **One-Click Import** in action:
 
 <iframe width="100%" height="430" src="https://www.youtube.com/embed/xBB4TxsyU4E?si=9IqwUhmlHjmZmP-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-You can follow one of these approaches:
+---
 
-- One-Click Demo Import **(Automatic & Recommended)**
-- Import XML Contents, Customizer Settings, and Widgets Manually
+## Method 1: One-Click Demo Import (Recommended)
 
-## One Click Demo Import ( Automatic & Recommended )
+This is by far the easiest way to go.
 
-### **Step 1**
+### **Step 1: Check Permalinks**
 
-Go to **Dashboard → Settings → Permalinks** and choose **Post name** from **Common Settings** and save the changes, As displayed in the screenshot below.
+Before we start, verify your URL structure.
+
+1.  Head to **Settings → Permalinks**.
+2.  Under **Common Settings**, make sure **Post name** is selected.
+3.  Hit **Save Changes**.
 
 ![Screenshot](images/import-demo/permalinks.png)
 
-!!! warning "Important"
-    It is crucial to complete **Step 1** as the import script is programmed to work with pretty permalinks. Otherwise, you will have configuration issues after importing demo data.
+!!! warning "Don't Skip This!"
+    The importer needs "Post name" permalinks to do its job properly. If you skip this, things might break later on.
 
-### **Step 2**
+### **Step 2: Start Import**
 
-Go to **RealHomes → Demo Import** to import demo data. There are several demos available to import.
+1.  Go to **RealHomes → Demo Import**.
+2.  Browse the designs (Ultra, Modern, Classic).
+3.  Found the one you like? Click the **Import Demo** button.
 
 ![Screenshot](images/import-demo/import-demo-demonstration.gif)
 
-Move the pointer to the demo, and you will have two buttons, "**Preview Demo**" and "**Import Demo**." Click on the **Import Demo** button to import your desired demo.
+### **Step 3: Confirm and Wait**
 
-![Import Demo](images/import-demo/import-demo-btn.jpg)
-
-The Demo Import process will install any missing plugins (if any), so click on the **Continue & Import** button to confirm the operation.
+1.  You’ll see a list of plugins to install. Just click **Continue & Import**.
+2.  **Hang tight.** We're downloading a lot of content and images for you. This might take a few minutes, depending on your internet and server speed.
 
 ![Continue & Import](images/import-demo/continue-and-import.jpg)
 
-Wait for few minutes while the demo content and images are downloaded. This process can take a couple of minutes (depending on the speed of your hosting server).
+!!! warning "If It Gets Stuck"
+    If the import stalls or fails, don't panic! It's usually just a server timeout. **Run the import again.** The system is smart, it will recognize what's already there and pick up right where it left off.
 
+### **Step 4: All Done!**
 
-!!! warning "Important"
-    Sometimes, the import process takes longer than expected and doesn't complete on the first attempt. So, import again until the process is complete.
-
-### **Step 3**
-
-Once the import process is complete, You will see a notice that the import is complete.
+When it's finished, you’ll get a success message. Click **Visit Site** to admire your new website!
 
 ![Screenshot](images/import-demo/all-done.png)
 
-You can click on **Visit Site** to see your website after importing the demo content. In case of any problem, Get in touch with our support team using our support site.
+### **Step 5: Regenerate Styles (Optional)**
 
-### **Step 4 (Optional)**
+If colors or layouts look a tiny bit off, Elementor just needs a quick refresh.
 
-Sometimes, the styles and scripts of the theme through Elementor needs to be regenerated. So, please navigate to Dashboard - Elementor - Tools and click on Regenerate Files & Data and click on "Save Changes" to save the updated files and data.
+1.  Go to **Elementor → Tools**.
+2.  Click **Regenerate Files & Data**.
+3.  Save changes, and you're good.
 
 ![Screenshot](images/import-demo/regenerate-files-and-data.jpeg)
 
-## Import XML Contents and Configure Settings Manually
+---
 
-### **Step 1**
+## Method 2: Manual Import (Advanced)
 
-Go to **Dashboard → Settings → Permalinks** and choose Post name from Common Settings and save the changes, As displayed in the screenshot below.
+Only use this if the One-Click method just isn't working for you, usually due to strict server limits.
 
-![Screenshot](images/import-demo/permalinks.png)
+### **Step 1: Install Importers**
 
-### **Step 2**
-
-Go to **Dashboard → Tools → Import** and click Install Now shown under WordPress as displayed in the image below.
+1.  Navigate to **Tools → Import**.
+2.  Install the **WordPress** importer.
+3.  Run it.
 
 ![Screenshot](images/import-demo/install-wordpress-importer.png)
 
-Once installed, you can activate the plugin and run it by clicking on Run Importer.
+### **Step 2: Import Content (XML)**
 
-![Screenshot](images/import-demo/run-wordpress-importer.png)
+1.  Unzip the **rh-main-package.zip** from ThemeForest.
+2.  Find the `Import XML` folder inside.
+3.  Upload the XML file for your design (like `realhomes-modern.xml`) to the WordPress importer.
+4.  Assign the posts to a user and check the box to **"Download and import file attachments"**.
+5.  Submit and wait.
 
-### **Step 3**
+### **Step 3: Import Menus**
 
-Look for the Import XML folder in the unzipped package downloaded from ThemeForest, called **rh-main-package.zip** and use the XML file of the variation of your choice, i.e., Classic or Modern, within it.
+1.  Go to **Appearance → Menus**.
+2.  Select the menu you just imported.
+3.  In **Menu Settings** at the bottom, check **Main Menu**.
+4.  Save it.
 
-![Screenshot](images/import-demo/xml-file-selection.png)
+### **Step 4: Set Homepage**
 
-![Screenshot](images/import-demo/upload-and-import.png)
+1.  Head to **Settings → Reading**.
+2.  Select **A static page**.
+3.  Set **Homepage** to "Home" and **Posts page** to "News" (or "Blog").
+4.  Save changes.
 
-1. Assign posts to an existing author.
-2. Mark the checkbox to download and import file attachments
-3. Click the '**Submit**' button
+### **Step 5: Import Customizer Settings**
 
-![Screenshot](images/import-demo/assign-post.png)
+1.  Install the [Customizer Export/Import](https://wordpress.org/plugins/customizer-export-import/) plugin.
+2.  Go to **RealHomes → Customize Settings → Export/Import**.
+3.  Upload the `.dat` file from the manual import folder matching your design.
 
-The import process can take from 2 minutes to 10 minutes, depending on the speed of your hosting server. So please wait for it and try to keep the focus on the current tab in your browser.
+### **Step 6: Import Widgets**
 
-After it is completed, you will have various posts, pages, properties, and other content on the theme demo.
+1.  Install the [Widget Importer & Exporter](https://wordpress.org/plugins/widget-importer-exporter/) plugin.
+2.  Go to **Tools → Widget Importer & Exporter**.
+3.  Upload the `.wie` file.
 
-![Screenshot](images/import-demo/importer-all-done.png)
+---
 
-### **Step 4**
+## ❓ Need a Hand?
 
-Navigate to **Dashboard → Appearance → Menus**, use the Already Imported Menu from XML, and assign it to theme location "Main Menu" from the Menu Settings section below. After that, save the menu. As pointed in the screenshot below.
-
-![Screenshot](images/import-demo/menu-assignment.png)
-
-### **Step 5**
-
-To configure reading settings, you need to visit **Dashboard → Settings → Reading** and choose that front page displays as a static page. Then select Home as FrontPage and News as Posts Page (displayed in the following screenshot).
-
-![Screenshot](images/import-demo/home-and-blog-settings.png)
-
-### **Step 6**
-
-To import Customizer settings, you have to install [Customizer Export/Import](https://wordpress.org/plugins/customizer-export-import/). 
-
-Once the plugin is installed and activated, navigate to **Dashboard → RealHomes → Customize Settings → Export/Import** and select the customizer.dat file for the relevant design variation (Classic or Modern).
-
-![Screenshot](images/import-demo/import-customizer-settings.png)
-
-Upon successful import, the Customizer will be refreshed.
-
-### **Step 7**
-
-Now you can import widgets too. To do that, kindly install [Widget Importer & Exporter](https://wordpress.org/plugins/widget-importer-exporter/). 
-
-After successful installation and activation, navigate to **Dashboard → Tools → Widget Importer & Exporter** and select the widgets.wie file for the relevant design variation (Classic or Modern).
-
-![Screenshot](images/import-demo/import-widget-settings.png)
-
-Upon successful demo import, the page will reload and display the widgets which are imported.
-
-Visit your site, and you will find your site working like the theme demo.
-
-For any assistance, Kindly register/login at our [support website](https://support.inspirythemes.com/login-register/) and [ask your question](https://support.inspirythemes.com/ask-question/) so our support team can assist you properly.
+If you're stuck, come say hi on our [support site](https://support.inspirythemes.com/ask-question/). We'll help you get sorted out!
