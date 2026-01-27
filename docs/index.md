@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **January 2nd, 2026**. The current version of RealHomes is {== **v4.5.0** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
+    This documentation was last updated on **January 27th, 2026**. The current version of RealHomes is {== **v4.5.0** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -14,7 +14,7 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ## Summary of Recent Updates
 
-This section highlights the combined updates from the three most recent releases (**v4.5.0**). These versions introduce exciting new features, major enhancements, and important fixes to make RealHomes even more powerful and flexible.
+This section highlights the combined updates from the three most recent releases up to **v4.5.0**. These versions introduce exciting new features, major enhancements, and important fixes to make RealHomes even more powerful and flexible.
 
 ---
 
@@ -31,6 +31,13 @@ This section highlights the combined updates from the three most recent releases
 
 ### 🆕 New Features
 - **RealHomes CRM functionality** – Introducing an integrated CRM system within RealHomes for managing leads, inquiries, and communications.
+- **Auto update system** to the RealHomes CRM plugin for seamless plugin updates through WordPress admin dashboard.
+- **Property ID meta field** for standard property listings.
+- **Property status and property type tag controls** to property thumb.
+- **“RealHomes Plugins” filter tab** on the Installed Plugins screen.
+- **Taxonomy display filtering, hide empty, and sorting options** to Property Types and Taxonomy Terms widgets.
+- **Custom zoom level support** for properties map Elementor widgets and modern home page.
+- **Price prefix, postfix display controls** in property Elementor widgets.
 - **Dual Price feature for Vacation Rental** – Display both standard and seasonal rates seamlessly.
 - **Show verified agents only** option added to Agents Elementor widgets.
 - **Control the number of currencies** displayed on the frontend.
@@ -54,6 +61,12 @@ This section highlights the combined updates from the three most recent releases
 ### 🛠️ Fixes
 - Fixed **availability calendar visibility issue** on the Property Detail Page.
 - Fixed **layout breaking issue** when Save Search functionality is enabled.
+- Fixed **Elementor agent agency post card widget** ajax call and styles.
+- Fixed **No active theme fatal error & notices** for RVR & RHEA plugins.
+- Fixed **property type term colors application** on property cards.
+- Fixed **Text domain early loading notice**.
+- Fixed **Dashboard activate/deactivate plugin conflicts** and dependencies.
+- Fixed **Schedule a tour fallback property author email issue**.
 - Fixed **OpenStreetMap and Google Map Elementor widgets markers** issue when no property is found.
 - Fixed **search fields selection issue** when browser-based back-forward cache is enabled.
 - Fixed **Fusion Demo SVG icon size** issue.
@@ -70,6 +83,9 @@ This section highlights the combined updates from the three most recent releases
 
 ### 🚀 Improvements
 - **WPML compatibility** improved across widgets and theme options.
+- **Draft & Preview Properties functionality** improved.
+- **RealHomes CRM plugin compatibility** improved with different recent PHP versions.
+- **Demo imports improved** including Modern Elementor, Agency, Single Property 2, and others.
 - **Ultra RVR demo** content refined to remove legacy Google Chart API code.
 - **Agent and Agency card layouts** improved for better title and social icon alignment in Modern variation.
 - **RealHomes Elementor Addon WPML config** updated for missing fields.
@@ -104,7 +120,7 @@ This section highlights the combined updates from the three most recent releases
 - **Condominium Demo** updated with Elementor Containers.
 - **Slider Revolution** and other bundled plugins updated to the latest versions.
 - **Translation files** refreshed for all theme and plugin components.
-- **Theme documentation** updated for RealHomes v4.4.5.
+- **Theme documentation** updated for RealHomes v4.5.0.
 
 👉 For the full version history, please visit our [Change Log](https://realhomes.io/changelog/).
 
