@@ -74,6 +74,7 @@ nav:
     - Fusion Demo <span class='label'>New</span>:
           - Import & Setup Guide: fusion-demo-setup.md
     - Purpose Oriented Demos:
+          - French Demo <span class='label'>New</span>: french-demo-setup.md
           - Vacation Rentals:
                 - Setup with Modern: vacation-rentals-setup.md
                 - Setup with Ultra: vacation-rentals-ultra-setup.md

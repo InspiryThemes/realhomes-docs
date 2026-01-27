@@ -27,92 +27,37 @@ This section highlights the combined updates from the three most recent releases
 - **Hebrew Demo** - [ <a href="https://demo.realhomes.io/hebrew" target="_blank">https://demo.realhomes.io/hebrew</a> ]    
   Explore the RealHomes theme in **Hebrew** with full **RTL compatibility** for a localized real estate experience.  
 
+- **French Demo** - [ <a href="https://demo.realhomes.io/french" target="_blank">https://demo.realhomes.io/french</a> ]    
+  Explore the RealHomes theme in **French** for a localized real estate experience. <br>[**Read the French Demo Setup Guide**](french-demo-setup.md)  
+
 ---
 
 ### 🆕 New Features
 - **RealHomes CRM functionality** – Introducing an integrated CRM system within RealHomes for managing leads, inquiries, and communications.
 - **Auto update system** to the RealHomes CRM plugin for seamless plugin updates through WordPress admin dashboard.
-- **Property ID meta field** for standard property listings.
-- **Property status and property type tag controls** to property thumb.
-- **“RealHomes Plugins” filter tab** on the Installed Plugins screen.
-- **Taxonomy display filtering, hide empty, and sorting options** to Property Types and Taxonomy Terms widgets.
-- **Custom zoom level support** for properties map Elementor widgets and modern home page.
 - **Price prefix, postfix display controls** in property Elementor widgets.
 - **Dual Price feature for Vacation Rental** – Display both standard and seasonal rates seamlessly.
-- **Show verified agents only** option added to Agents Elementor widgets.
-- **Control the number of currencies** displayed on the frontend.
-- **Child Properties Elementor widget** added for Ultra variation.
 - **Mega Menu support** for Modern and Ultra variations based on Elementor templates.
-- **Agent Elementor widget** styles optimized for small devices.
 - **Elementor-based Contact Page Template** for flexible, drag-and-drop customization.
-- Option to **reorder Property Meta Fields** in default templates (Ultra & Modern).
-- **Phone Number field** added to the “Schedule a Tour” form widget.
-- **Custom label control** for the Agent Contact Form title in Single Property Agent V2 Elementor widget.
-- Local placeholder image support for properties (no dependency on external services).
-- Enable/disable additional property meta fields in the **print view**.
-- **Multi-select support** for Property Type and Status fields on the front-end Dashboard.
 - **Load more + infinite scroll** options for the Properties V14 widget.
-- **Verification options** for custom user roles to display on their listings.
-- **Owner post type verification** settings in Easy Real Estate (front-end support included).
-- Global **unit support for area and lot size** in Single Property Meta widgets v1 & v2.
+- **Taxonomy display filtering, hide empty, and sorting options** to Property Types and Taxonomy Terms widgets.
 
 ---
 
 ### 🛠️ Fixes
-- Fixed **availability calendar visibility issue** on the Property Detail Page.
 - Fixed **layout breaking issue** when Save Search functionality is enabled.
-- Fixed **Elementor agent agency post card widget** ajax call and styles.
-- Fixed **No active theme fatal error & notices** for RVR & RHEA plugins.
-- Fixed **property type term colors application** on property cards.
-- Fixed **Text domain early loading notice**.
-- Fixed **Dashboard activate/deactivate plugin conflicts** and dependencies.
-- Fixed **Schedule a tour fallback property author email issue**.
 - Fixed **OpenStreetMap and Google Map Elementor widgets markers** issue when no property is found.
 - Fixed **search fields selection issue** when browser-based back-forward cache is enabled.
-- Fixed **Fusion Demo SVG icon size** issue.
-- Fixed **Property Taxonomy Elementor widget** styles on small devices.
-- Fixed **GDPR dual border issue** in Sidebar Agent widget.
-- Fixed **Vacation Rental “Guests” field** adding unnecessary parameters to the query string.
-- Fixed **deprecated notices** and Elementor condition compatibility warnings.
-- Fixed **header search form overlapping** the user menu in Ultra variation.
-- Fixed **PHP 8.3+ notices** in Sidebar Filter widget.
-- Fixed **fatal error** on dashboard when RHWPA was activated without WooCommerce.
-- Fixed **deprecated notices for PHP 8.4** in RealHomes Elementor Addon plugin.
+- Fixed **Dashboard activate/deactivate plugin conflicts** and dependencies.
+- Resolved various **PHP 8.3 and 8.4 compatibility issues**, warnings, and fatal errors in RealHomes Elementor Addon and other components.
 
 ---
 
 ### 🚀 Improvements
-- **WPML compatibility** improved across widgets and theme options.
-- **Draft & Preview Properties functionality** improved.
-- **RealHomes CRM plugin compatibility** improved with different recent PHP versions.
-- **Demo imports improved** including Modern Elementor, Agency, Single Property 2, and others.
-- **Ultra RVR demo** content refined to remove legacy Google Chart API code.
-- **Agent and Agency card layouts** improved for better title and social icon alignment in Modern variation.
-- **RealHomes Elementor Addon WPML config** updated for missing fields.
-- **Inquiry Form** enhanced with **CC and BCC email support**.
-- **Agency demo** structure optimized for faster performance.
-- **WhatsApp link handling** improved for various phone number formats.
-- **Phone, Fax, and Mobile number display** refined for consistent output.
-- **Agent contact icons alignment** enhanced on smaller containers.
-- **Response message styling** refined in Login modal.
-- **Front-end Dashboard header layout** improved for responsive behavior.
-- **Floor plan price handling** made more flexible.
-- **Twitter branding updated to X** across theme and widgets.
-- **Meta-box styles improved** for Modern homepage template slider.
-- **Sticky header logo** supports retina images.
-- **Booking form** defaults to split mode for better clarity.
-- **Multi-select support** added for the Agent field in Dashboard.
-- **Partners section styles** refined for Classic variation.
-- **Properties Grid v3 widget** visuals improved.
-- **Purchase API validation** now matches ThemeForest username with Envato buyer info.
-- **Update handling optimized** for stability between theme and bundled plugins.
-- **Update API refined** for more reliable updates.
-- **Chart.js script** loads only when required.
-- **Demo imports improved**, including media handling and permalink auto-setup.
-- **Front-end Dashboard header** now includes a unified search field.
-- **RTL styles refined** for Ultra variation.
-- **Print logic and styles improved.**
-- **Ultra variation homepage performance** further optimized.
+- **WPML compatibility** improved across widgets, theme options, and Elementor addon.
+- **Draft & Preview Properties functionality** improved for better user workflow.
+- **Demo imports improved** for multiple demos ensuring smoother setup.
+- **Performance optimizations** including script loading and other backend improvements.
 
 ---
 
