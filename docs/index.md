@@ -19,16 +19,21 @@ This section highlights the combined updates from the three most recent releases
 ---
 
 ### ✨ New Demos
-- **RealHomes CRM** - We're thrilled to introduce the RealHomes CRM in this release, a powerful all-in-one solution for managing leads, inquiries, deals, and tasks across your real estate business. <br>[**Read the CRM Setup Guide**](https://realhomes.io/documentation/realhomes-crm/)
+- **CRM Demo** - [ <a href="https://ultra.realhomes.io/crm" target="_blank">https://ultra.realhomes.io/crm</a> ]    
+  Experience the **RealHomes CRM** demo, showcasing a powerful all-in-one solution for managing leads, inquiries, deals, and tasks. <br>👉 [**Read the CRM Demo Setup Guide**](https://realhomes.io/documentation/crm-demo-setup.md)  
 
 - **MLS Demo** - [ <a href="https://demo.realhomes.io/mls" target="_blank">https://demo.realhomes.io/mls</a> ]  
-  Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow. You can <a href="mls-on-the-fly-setup/">**click here to learn how to set it up**</a>.
+  Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow.<br>👉 [**Read the MLS Setup Guide**](https://realhomes.io/documentation/mls-on-the-fly-setup/)  
 
 - **Hebrew Demo** - [ <a href="https://demo.realhomes.io/hebrew" target="_blank">https://demo.realhomes.io/hebrew</a> ]    
-  Explore the RealHomes theme in **Hebrew** with full **RTL compatibility** for a localized real estate experience.  
+  Explore the RealHomes theme in **Hebrew** with full **RTL compatibility** for a localized real estate experience. <br>👉 [**Read the Hebrew Demo Setup Guide**](https://realhomes.io/documentation/hebrew-demo-setup/)  
 
 - **French Demo** - [ <a href="https://demo.realhomes.io/french" target="_blank">https://demo.realhomes.io/french</a> ]    
-  Explore the RealHomes theme in **French** for a localized real estate experience. <br>[**Read the French Demo Setup Guide**](french-demo-setup.md)  
+  Explore the RealHomes theme in **French** for a localized real estate experience. <br>👉 [**Read the French Demo Setup Guide**](https://realhomes.io/documentation/french-demo-setup.md)  
+
+--
+### ✨ New Plugin Released
+- **RealHomes CRM** - We're thrilled to introduce the RealHomes CRM in this release, a powerful all-in-one solution for managing leads, inquiries, deals, and tasks across your real estate business. <br>[**Read the CRM Setup Guide**](https://realhomes.io/documentation/realhomes-crm/)
 
 ---
 
