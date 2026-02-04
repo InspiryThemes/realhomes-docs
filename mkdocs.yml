@@ -73,6 +73,8 @@ nav:
           - Ultra Elementor Widgets: ultra-elementor-widgets.md
     - Fusion Demo <span class='label'>New</span>:
           - Import & Setup Guide: fusion-demo-setup.md
+    - CRM Demo <span class='label'>New</span>:
+          - Import & Setup Guide: crm-demo-setup.md
     - Purpose Oriented Demos:
           - French Demo <span class='label'>New</span>: french-demo-setup.md
           - Vacation Rentals:
