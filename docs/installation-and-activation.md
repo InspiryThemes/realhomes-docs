@@ -63,7 +63,7 @@ To get all the good stuff (like automatic updates and premium plugins), you'll n
 2.  Paste in your **Item Purchase Code**.
 3.  Click **Verify**.
 
-And that's it! exact features are now unlocked.
+And that's it! All features are now unlocked.
 
 Can't find your code? Here's how to grab it:
 👉 [How to Get Your ThemeForest Purchase Code](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/)
@@ -81,11 +81,11 @@ Now the theme will let you know which plugins it needs to function.
     ![Install Plugins](images/installation/begin-plugin-installation.png)
 
 2.  Tick the box to **Select All** plugins.
-3.  In the dropdown, chose **Install** and click **Apply**.
+3.  In the dropdown, choose **Install** and click **Apply**.
 
     ![Select Plugins](images/installation/install-plugins.png)
 
-4.  When they're done, perform a quick checks, then click **Return to Required Plugins Installer**.
+4.  When they're done, give them a quick check, then click **Return to Required Plugins Installer**.
 
     ![Return to Installer](images/installation/return-to-install.png)
 

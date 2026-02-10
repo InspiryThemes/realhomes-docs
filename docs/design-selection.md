@@ -3,7 +3,7 @@
 RealHomes comes with three distinct vibes: **Ultra**, **Modern**, and **Classic**.
 
 !!! info "Using a Demo?"
-    If you're going to **[import a demo](import-demo.md)**, don't worry about this step right now. importing the demo will automatically switch your site to the right design for you.
+    If you're going to **[import a demo](import-demo.md)**, don't worry about this step right now. Importing the demo will automatically switch your site to the right design for you.
 
 ---
 

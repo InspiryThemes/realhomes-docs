@@ -297,7 +297,7 @@ The settings for **Schedule A Tour** are located in **Dashboard → RealHomes �
 Please note that you can also manage the settings of **Schedule A Tour** while [adding/editing a property](https://realhomes.io/documentation/add-property/#schedule-a-tour).
 
 ## Energy Performance
-**Energy Performance Settings** are located in **Dashboard → RealHomes → Property Detail Page → Energy Performance**.You can show/Hide Energy Performance section for the properties.
+**Energy Performance Settings** are located in **Dashboard → RealHomes → Property Detail Page → Energy Performance**. You can show/hide Energy Performance section for the properties.
 
 ![Energy Performance on Property Detail Page](images/single-property-page/property-energy-performance.png)
 
@@ -374,7 +374,7 @@ If you are using RealHomes Vacation Rentals feature, you can add the Property Bo
 
 ## Availability Calendar
 
-For RealHomes Vacation Rentals feautre, you can display Availability Calendar by configuring its settings in Customizer settings. To do that, navigate to **Dashboard → RealHomes → Customize Settings → Property Detail Page → Availability Calendar**.
+For the RealHomes Vacation Rentals feature, you can display the Availability Calendar by configuring its settings in Customizer settings. To do that, navigate to **Dashboard → RealHomes → Customize Settings → Property Detail Page → Availability Calendar**.
 
 ![Availability Calendar - Vacations Rentals](images/vacation-rentals/availability-calendar-vr.png)
 

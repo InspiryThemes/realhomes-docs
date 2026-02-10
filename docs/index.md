@@ -31,7 +31,8 @@ This section highlights the combined updates from the three most recent releases
 - **French Demo** - [ <a href="https://demo.realhomes.io/french" target="_blank">https://demo.realhomes.io/french</a> ]    
   Explore the RealHomes theme in **French** for a localized real estate experience. <br>👉 [**Read the French Demo Setup Guide**](https://realhomes.io/documentation/french-demo-setup/)
 
---
+---
+
 ### ✨ New Plugin Released
 - **RealHomes CRM** - We're thrilled to introduce the RealHomes CRM in this release, a powerful all-in-one solution for managing leads, inquiries, deals, and tasks across your real estate business. <br>[**Read the CRM Setup Guide**](https://realhomes.io/documentation/realhomes-crm/)
 
