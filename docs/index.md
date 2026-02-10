@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **February 4th, 2026**. The current version of RealHomes is {== **v4.5.0** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
+    This documentation was last updated on **February 10th, 2026**. The current version of RealHomes is {== **v4.5.0** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -20,7 +20,7 @@ This section highlights the combined updates from the three most recent releases
 
 ### ✨ New Demos
 - **CRM Demo** - [ <a href="https://ultra.realhomes.io/crm" target="_blank">https://ultra.realhomes.io/crm</a> ]    
-  Experience the **RealHomes CRM** demo, showcasing a powerful all-in-one solution for managing leads, inquiries, deals, and tasks. <br>👉 [**Read the CRM Demo Setup Guide**](https://realhomes.io/documentation/crm-demo-setup.md)  
+  Experience the **RealHomes CRM** demo, showcasing a powerful all-in-one solution for managing leads, inquiries, deals, and tasks. <br>👉 [**Read the CRM Demo Setup Guide**](https://realhomes.io/documentation/crm-demo-setup/)  
 
 - **MLS Demo** - [ <a href="https://demo.realhomes.io/mls" target="_blank">https://demo.realhomes.io/mls</a> ]  
   Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow.<br>👉 [**Read the MLS Setup Guide**](https://realhomes.io/documentation/mls-on-the-fly-setup/)  
@@ -29,7 +29,7 @@ This section highlights the combined updates from the three most recent releases
   Explore the RealHomes theme in **Hebrew** with full **RTL compatibility** for a localized real estate experience. <br>👉 [**Read the Hebrew Demo Setup Guide**](https://realhomes.io/documentation/hebrew-demo-setup/)  
 
 - **French Demo** - [ <a href="https://demo.realhomes.io/french" target="_blank">https://demo.realhomes.io/french</a> ]    
-  Explore the RealHomes theme in **French** for a localized real estate experience. <br>👉 [**Read the French Demo Setup Guide**](https://realhomes.io/documentation/french-demo-setup.md)  
+  Explore the RealHomes theme in **French** for a localized real estate experience. <br>👉 [**Read the French Demo Setup Guide**](https://realhomes.io/documentation/french-demo-setup/)
 
 --
 ### ✨ New Plugin Released
