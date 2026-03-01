@@ -130,6 +130,7 @@ nav:
           - Adding Property:
                 - Add New Property: add-property.md
                 - Property Settings: property-settings.md
+                - Measurement Unit Switcher: measurement-units.md
           - Agents:
                 - Add New Agent: add-agent.md
                 - Create Agents Page: add-agents-page.md
@@ -191,7 +192,7 @@ nav:
           - Partners Widget: partners-elementor-widget.md
           - Testimonials Widgets: testimonials-elementor-widgets.md
           - 'RH: Search Form': rh-search-form-widget.md
-    - Maps & reCAPTCHA:
+    - Maps, reCAPTCHA & Turnstile:
           - Open Street Maps: open-street-maps.md
           - Google Maps:
                 - Setup: google-maps-setup.md
@@ -199,6 +200,7 @@ nav:
                 - Custom Markers for Property Type: property-type-custom-markers.md
           - MapBox: mapbox-setup.md
           - Google reCAPTCHA: google-recaptcha-setup.md
+          - Cloudflare Turnstile: cloudflare-turnstile-setup.md
     - Login & Registration:
           - Setup Login: setup-login.md
           - Setup Registration: setup-registration.md
@@ -222,6 +224,7 @@ nav:
           - My Profile Module: edit-profile.md
           - User Roles and Synchronization: user-roles-synchronization.md
           - Dashboard Labels: dashboard-labels.md
+          - Typography: dashboard-typography.md
           - Styles: dashboard-styles.md
     - RealHomes CRM: realhomes-crm.md
     - Floating Features:
