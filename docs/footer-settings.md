@@ -1,15 +1,23 @@
-# Footer Settings
+# Footer Partners Settings
 
-Navigate to **Dashboard → RealHomes → Customize Settings** and look for **Footer** panel for related sections & settings.
+**Note:** This setting is primarily for the **Classic** design variation.
+
+Navigate to **Dashboard → RealHomes → Customize Settings → Footer**.
 
 ![Footer Settings](images/home-setup/partners-settings-full.png)
 
-You can enable Partner Carousel by navigating to **Dashboard → RealHomes → Customize Settings → Footer → Partners** section.
+### **Enable Partners Carousel**
+
+You can show a scrolling list of partners or logos in your footer.
+Go to the **Partners** section within the Footer settings to enable it.
 
 ![Footer Settings](images/home-setup/partners-settings-section.png)
 
-### How to Add a Partner
+### **How to Add a Partner**
 
-After enabling partners carousel you need to add partners from **RealHomes → Partners → Add New** as displayed in screenshot below.
+Once enabled, you need to add the actual partner content.
+1. Go to **Dashboard → RealHomes → Partners → Add New**.
+2. Add the partner name and featured image (logo).
+3. Publish.
 
 ![Home Page Properties](images/home-setup/add-partner.png)

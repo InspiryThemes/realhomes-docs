@@ -3,149 +3,127 @@
 ## **Create Page**
 
 !!! note
-    If you have imported the demo contents XML then this page is already created.
+    If you imported the demo content, a Contact page has already been created for you.
 
-Go to **Dashboard → Pages → Add New**
+To create a new one:
 
-Provide the page title 
+1.  Go to **Dashboard → Pages → Add New**.
+2.  Give it a title (e.g., "Contact Us").
+3.  In the **Page Attributes** section (usually on the right sidebar), select the **Contact** template.
+4.  Publish the page.
 
 ![Add Contact Page](images/contact-page/add-contact-page-gutenberg.png)
 
-Select the **Contact** as template from page attributes.
-
 ![Contact Page Template](images/contact-page/contact-page-template.png)
 
+---
+
 ## Contact Page Settings
-Since theme version `3.9.2` you can create as many contact pages as you want and configure each contact page information from its add/edit page.
+
+You can customize the layout and content of your contact page directly from the Customizer.
 
 ### **Contact Map**
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Misc → Contact Map** to configure the map displayed on your contact page.
+Want to show your office location? Navigate to **Dashboard → RealHomes → Customize Settings → Misc → Contact Map**.
 
 ![Contact Map Tab](images/contact-page/contact-map-tab.png)
 
 #### **Map Visibility**
-- Toggle the map **Show/Hide** for the contact page.
+Toggle **Show** or **Hide** to display or remove the map from your contact page.
 
 #### **Map Coordinates**
-- **Map Latitude** and **Longitude** define the default center of the map.
-- You can use tools like [latlong.net](https://www.latlong.net) or [itouchmap.com](https://www.itouchmap.com) to find the coordinates of your desired location.
+*   **Map Latitude** and **Longitude** determine the center point of your map.
+*   **Tip:** Use tools like [latlong.net](https://www.latlong.net) to easily find the coordinates for your address.
 
 #### **Map Zoom Level**
-- Specify the zoom level (e.g., `14` is commonly used for city-level zoom).
+Sets how close the map is zoomed in. A value of `14` is usually perfect for showing a city view.
 
 #### **Map Type**
-- Choose the map type from:
-  - **Roadmap**
-  - **Satellite**
-  - **Hybrid**
-  - **Terrain**
+Choose the visual style of the map:
+*   **Roadmap** (Standard view)
+*   **Satellite**
+*   **Hybrid**
+*   **Terrain**
 
-!!! note
-    The **Map Type** setting only applies if you are using **Google Maps**. To enable Google Maps on your website, navigate to **Dashboard → Easy Real Estate → Settings → Maps** and add your **Google Maps API key**.
+!!! important "Google Maps API Key Required"
+    To display Google Maps, you must have a valid API key configured.  
+    Go to **Easy Real Estate → Settings → Maps** to add your key. Without it, the map will not load.
 
 #### **Custom Map Marker**
-- **Maps Marker:** Upload a custom marker icon (recommended size: **50px by 50px**).
-- **Retina Maps Marker:** Upload a 2× version of your marker icon for high-resolution displays.
+*   **Maps Marker:** Upload your own pin icon (Recommended size: **50x50 px**).
+*   **Retina Maps Marker:** Upload a high-resolution version (100x100 px) for sharp display on Retina screens.
 
-This customization helps align the map style with your site's branding.
+---
 
-### **Contact Details**  
+### **Contact Details**
 
-The **Contact Details** settings allow you to display key business contact information on the contact page, such as phone numbers, email, and address.  
+This section controls the business information displayed on your contact page.
 
-![Contact Details Tab](images/contact-page/contact-details-tab.png)  
+![Contact Details Tab](images/contact-page/contact-details-tab.png)
 
-#### **Contact Detail**  
-- Choose whether to **Show** or **Hide** the contact details section on the contact page.  
+*   **Contact Detail:** Show or hide this entire section.
+*   **Contact Details Title:** The heading for your info section (e.g., "Get in Touch"). *(Classic Design only)*
+*   **Phone / Cell / Fax:** Enter your contact numbers.
+*   **Display Email:** The email address shown to visitors.
+*   **Contact Address:** Your physical office address.
 
-#### **Contact Details Title**  
-- Set a title for the contact details section (e.g., "Get in Touch" or "Our Contact Information").  
+---
 
-#### **Phone Number**  
-- Enter the primary phone number to display on the contact page.  
+### **Contact Form**
 
-#### **Cell Number**  
-- Provide an additional **cell phone number** if applicable.  
+Configure how the contact form works and where the emails go.
 
-#### **Fax Number**  
-- If your business uses a fax number, enter it here.  
+![Contact Form Tab](images/contact-page/contact-form-tab.png)
 
-#### **Display Email**  
-- Specify the email address that should be publicly displayed on the contact page.  
+#### **Form Settings**
+*   **Contact Form Display:** Show or hide the form.
+*   **Field Labels:** Customize the text for Name, Phone, Email, and Message fields to match your language or tone.
 
-#### **Contact Address**  
-- Enter the full address of your business location to be displayed on the contact page.  
+#### **Email Configuration**
+This is the most important part!
+*   **Contact Form Email:** The email address that will **receive** the messages sent by visitors.
+*   **Contact Form CC / BCC:** Add extra email addresses here (comma-separated) if you want copies sent to other team members.
 
-These settings allow you to present essential contact details for visitors, ensuring they can easily reach out to you.  
+#### **Advanced Options**
+*   **Contact Form Shortcode:** Want to use a different form plugin (like Contact Form 7)? Paste its shortcode here to replace the default form.
+*   **Select Page for Redirection:** Choose a "Thank You" page to redirect users to after they successfully send a message.
 
-### **Contact Form**  
+---
 
-The **Contact Form** settings allow you to configure the contact form fields, recipient email addresses, and redirection behavior after form submission.  
+### **Banner Spacing (Misc Settings)**
 
-![Contact Form Tab](images/contact-page/contact-form-tab.png)  
+You can adjust the spacing around the top banner of your contact page to get the perfect look.
 
-#### **Contact Form Display**  
-Choose whether to **Show** or **Hide** the contact form on the property detail page.  
-
-#### **Name Field Label**  
-Define a custom label for the **Name** field in the contact form.  
-
-#### **Phone Number Field Label**  
-Set a custom label for the **Phone Number** field.  
-
-#### **Email Field Label**  
-Customize the label for the **Email** field in the contact form.  
-
-#### **Message Field Label**  
-Specify the label for the **Message** field in the contact form.  
-
-#### **Contact Form Email**  
-Enter the email address where all messages submitted through the contact form will be sent.  
-
-#### **Contact Form CC Email**  
-Add one or more comma-separated email addresses to receive a **carbon copy (CC)** of all messages submitted via the contact form.  
-
-#### **Contact Form BCC Email**  
-Enter one or more comma-separated email addresses to receive a **blind carbon copy (BCC)** of all messages submitted via the contact form.  
-
-#### **Contact Form Shortcode (To Replace Default Form)**  
-If you want to replace the default contact form with a plugin-based form, enter the shortcode here.  
-
-#### **Select Page for Redirection**  
-Choose the page where users will be redirected after successfully submitting the contact form.  
-
-!!! note
-    The **Contact Details Title** and **Contact Form Heading** fields are only for the **Classic** design variation.
-
-### **RealHomes Misc Settings**
-
-**Classic**
+**Classic Design**
 
 ![RealHomes Misc Settings - Classic](images/create-pages/banner-spacing-classic.gif)
 
-**Modern**
+**Modern Design**
 
 ![RealHomes Misc Settings - Modern](images/create-pages/modern-banner-spacing-full.gif)
 
-### **Ultra**
+**Ultra Design**
+
 ![RealHomes Misc Settings - Ultra](images/create-pages/ultra-banner-spacing-full.gif)
 
-!!!info "More information about **Banner Settings** can be found here: "
-    **https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/**
+!!! info "Learn More"
+    For detailed instructions on configuring global banner settings, check out our [**Banner Settings Guide**](https://support.inspirythemes.com/knowledgebase/how-to-configure-the-banner-settings/).
 
-Publish the page once it is ready.
+---
 
-After publishing you need to add the newly created page in menu from **Dashboard → Appearance → Menus**. 
+### **Add to Menu**
+
+Once your page is published, don't forget to add it to your site's navigation!
+Go to **Appearance → Menus** to add your new Contact page.
 
 ![Add Contact Page to Menu](images/contact-page/add-contact-page-menu.png)
 
+---
 
-### **Header Variation (Modern)**
+### **Header Variation (Modern Only)**
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Contact Page** section.
+If you are using the **Modern** design, you can choose to show or hide the header banner for the contact page specifically.
+
+Navigate to **RealHomes → Customize Settings → Contact Page**.
 
 ![show/hide banner](images/contact-page/banner-display.png)
-
-!!! note
-    **Header Variation** option is available in **Modern** Variation only.
