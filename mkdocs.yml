@@ -192,13 +192,14 @@ nav:
           - Partners Widget: partners-elementor-widget.md
           - Testimonials Widgets: testimonials-elementor-widgets.md
           - 'RH: Search Form': rh-search-form-widget.md
-    - Maps, reCAPTCHA & Turnstile:
+    - Maps:
           - Open Street Maps: open-street-maps.md
           - Google Maps:
                 - Setup: google-maps-setup.md
                 - Troubleshooting: google-maps-troubleshooting.md
                 - Custom Markers for Property Type: property-type-custom-markers.md
           - MapBox: mapbox-setup.md
+    - reCAPTCHA & Turnstile:
           - Google reCAPTCHA: google-recaptcha-setup.md
           - Cloudflare Turnstile: cloudflare-turnstile-setup.md
     - Login & Registration:
