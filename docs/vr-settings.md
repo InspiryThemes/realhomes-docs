@@ -4,7 +4,9 @@ You can make any changes for Vacation Rentals settings in **Dashboard &rarr; Vac
 
 - **Enable/Disable Vacation Rentals**
 - **Maximum Guests**
-- **Booking Type (Full Day or Split Booking)**
+- **Booking Type**
+    - **Per Day**: Choose between **Full Day** or **Split Day**. Selecting the Split Day option gives more flexibility by not showing reserved dates on the front-end booking form calendar.
+    - **Per Hour**: Enables hourly booking functionality for the property.
 
 ![Vacation Rentals Booking](images/vacation-rentals/vr-general.png)
 
