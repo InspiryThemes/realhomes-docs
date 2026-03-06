@@ -192,6 +192,7 @@ nav:
           - Partners Widget: partners-elementor-widget.md
           - Testimonials Widgets: testimonials-elementor-widgets.md
           - 'RH: Search Form': rh-search-form-widget.md
+          - 'RH: Global Template': global-template-elementor-widget.md
     - Maps:
           - Open Street Maps: open-street-maps.md
           - Google Maps:
