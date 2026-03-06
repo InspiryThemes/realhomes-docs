@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **March 2nd, 2026**. The current version of RealHomes is {== **v4.5.1** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
+    This documentation was last updated on **March 6th, 2026**. The current version of RealHomes is {== **v4.5.1** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -14,7 +14,7 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ## Summary of Recent Updates
 
-This section highlights the combined updates from the three most recent releases up to **v4.5.0**. These versions introduce exciting new features, major enhancements, and important fixes to make RealHomes even more powerful and flexible.
+This section highlights the combined updates from the three most recent releases up to **v4.5.1**. These versions introduce exciting new features, major enhancements, and important fixes to make RealHomes even more powerful and flexible.
 
 ---
 
@@ -39,6 +39,11 @@ This section highlights the combined updates from the three most recent releases
 ---
 
 ### 🆕 New Features
+- **OTP Login Verification** – Enhance security by requiring users to enter a one-time password sent to their email during the login process.
+- **Hourly Booking feature** – Provide flexible, time-based property reservations.
+- **Unit Measurement Switcher** – Enable users to seamlessly switch between different area measurement units on the frontend.
+- **Global Template Elementor Widget** – Centrally manage and display standard Elementor templates anywhere on your site.
+- **Dashboard Typography controls** – Customize text styling within the user dashboard intuitively.
 - **RealHomes CRM functionality** – Introducing an integrated CRM system within RealHomes for managing leads, inquiries, and communications.
 - **Auto update system** to the RealHomes CRM plugin for seamless plugin updates through WordPress admin dashboard.
 - **Price prefix, postfix display controls** in property Elementor widgets.
@@ -60,6 +65,8 @@ This section highlights the combined updates from the three most recent releases
 ---
 
 ### 🚀 Improvements
+- **Turnstile configuration improved** for robust spam protection and secure forms.
+- **Main menu reorganized** to provide an enhanced and streamlined user experience.
 - **WPML compatibility** improved across widgets, theme options, and Elementor addon.
 - **Draft & Preview Properties functionality** improved for better user workflow.
 - **Demo imports improved** for multiple demos ensuring smoother setup.

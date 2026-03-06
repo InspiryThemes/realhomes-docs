@@ -208,6 +208,7 @@ nav:
           - Setup Registration: setup-registration.md
           - User Approvals Management: user-approvals-management.md
           - Setup Social Login: setup-social-login.md
+          - Setup OTP Verification: setup-otp-verification.md
     - Dashboard:
           - Setup Dashboard: dashboard.md
           - Basic Settings: dashboard-general.md
