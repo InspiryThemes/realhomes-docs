@@ -24,6 +24,18 @@ Once enabled, the system will automatically create a new Agent or Agency profile
 
 This ensures that profile information remains consistent across all roles, making property and agency management more efficient.
 
+### v4.5.1 or later
+
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **User Management** → **User Roles**
+
+![User Role Synchronization](images/ere-tabs/user-roles-settings.png)
+
+### v4.5.0 and Earlier
+
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Users** → **User Role Management**
+
 ![User Role Synchronization](images/dashboard/user-roles-agent-agency-sync.png)
 
 ---
@@ -57,5 +69,17 @@ Key access options include:
 - **Property Analytics:** Control access to property performance analytics.
 
 This flexible access management system helps streamline roles and responsibilities, allowing you to tailor permissions according to each user's role.
+
+### v4.5.1 or later
+
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **User Management** → **Access Management**
+
+![User Role Access Management](images/ere-tabs/access-management-settings.png)
+
+### v4.5.0 and Earlier
+
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Users** → **User Role Management**
 
 ![User Role Access Management](images/easy-real-estate/user-role-access-management.png)
