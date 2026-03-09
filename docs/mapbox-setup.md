@@ -26,12 +26,32 @@ If you like to create a new token of MapBox for your website then click on **+ C
 
 ### **Copy the Token and Add it to Maps Settings**
 
-Copy the **MapBox Token** by clicking on the blue icon. Navigate to **Easy Real Estate → Settings → Maps** and select **MapBox** from **Website Map Service** and paste this **Token** you just copied to **MapBox API Key**.
+Copy the **MapBox Token** by clicking on the blue icon. Navigate to the **Maps** settings of the **RealHomes** theme to enter the token. Follow the path below based on your theme version:
+
+---
+
+#### **v4.5.1 and Later**
+
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **Map Settings**
+
+![RealHomes Documentation](images/ere-tabs/mapbox-settings.png)
+
+---
+
+#### **v4.5.0 and Earlier**
+
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Maps** (tab) → **MapBox API Key**
+
 ![RealHomes Documentation](images/mapbox/mapbox-ere-settings.png)
+
+---
 
 ### **Default Location for Maps on Single Property & Property Listing Pages**
 
 In this **Maps** settings tab, you can also provide the default location for *New Property Map* and *Properties Listing Map* (when there is no property to display).
 
-!!! info "Important Information"
-    If you are running the RealHomes Theme older than {==3.9.0==} version then related settings can be found by navigating to **Dashboard → RealHomes → Customize Settings → Map**. It is strongly recommend to update the theme to its latest version.
+!!! info "Legacy Versions (Older than 3.9.0)"
+    If you are using a version of RealHomes older than **3.9.0**, the settings can be found at:  
+    **Dashboard** → **RealHomes** → **Customize Settings** → **Map**

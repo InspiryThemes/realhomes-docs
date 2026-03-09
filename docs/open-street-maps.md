@@ -4,6 +4,13 @@
 
 **Open Street Maps are activated out of the box** in RealHomes Theme so you don't have to setup anything or change any option.
 
+---
+
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **Map Settings**
+
 ![RealHomes Documentation](images/ere-tabs/openstreetmaps-settings.png)
+
+---
 
 If you have setup Google Maps API Key in your theme then simply remove the API Key for Google Maps to activate **Open Street Maps**.
