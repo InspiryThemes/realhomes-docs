@@ -303,7 +303,23 @@ Please note that you can also manage the settings of **Schedule A Tour** while [
 
 ## Energy Performance Class Settings
 
-You can customize the **Classes of Energy Performance** section in **Dashboard → Easy Real Estate → Settings → Property**.
+You can customize the **Classes of Energy Performance** section in the **Property** settings of the **RealHomes** theme.
+
+---
+
+#### **v4.5.1 and Later**
+
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **Property** (tab)
+
+![Energy Performance Settings](images/ere-tabs/energy-performance-settings.png)
+
+---
+
+#### **v4.5.0 and Earlier**
+
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Property** (tab)
 
 ![Energy Performance Settings](images/single-property-page/property-energy-performance-classes.png)
 
@@ -321,7 +337,23 @@ You can customize the **Classes of Energy Performance** section in **Dashboard �
 
 ## Property Views
 
-Enable **Property Analytics** by navigating to **Easy Real Estate → Settings → Property Analytics** settings tab as displayed in the following screenshot.
+Enable **Property Analytics** by navigating to the **Property Analytics** settings tab. Follow the path based on your version:
+
+---
+
+#### **v4.5.1 and Later**
+
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **Dashboard** → **Property Analytics** (tab)
+
+![RealHomes Documentation](images/ere-tabs/property-analytics-settings.png)
+
+---
+
+#### **v4.5.0 and Earlier**
+
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Property Analytics** (tab)
 
 ![RealHomes Documentation](images/ere-tabs/property-analytics.png)
 
