@@ -32,20 +32,38 @@ In this section, you will see the name of your **API Key** (so click on it) and 
 !!! warning "Important"
     If you don't restrict the Google Maps API Key then anyone can use it on his website because the API Key is exposed in the code. So, you must restrict the API Key to your domain only.
 
-### **Copy the API Key and Add it**
-
 Copy the generated **Google Maps API key** from the popup. Click on **Close** button to proceed after you copied the **API Key**. 
 ![RealHomes Documentation](images/google-maps/api-key.png)
 
-Put this **API Key** you just copied in **Maps** Settings (**Easy Real Estate → Settings → Maps → Google Maps API Key**).
+Put this **API Key** in the **Maps** Settings of the **RealHomes** theme. Follow the path based on your version:
+
+---
+
+#### **v4.5.1 and Later**
+
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **Maps** (tab) → **Google Maps API Key**
+
+![RealHomes Documentation](images/ere-tabs/google-maps-settings.png)
+
+---
+
+#### **v4.5.0 and Earlier**
+
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Maps** (tab) → **Google Maps API Key**
+
 ![RealHomes Documentation](images/google-maps/google-maps-ere.png)
+
+---
 
 ### **Default Location for Maps on Single Property & Property Listing Pages**
 
 In this **Maps** settings tab, you can also provide the default location for *New Property Map* and *Properties Listing Map* (when there is no property to display).
 
-!!! info "Important Information"
-    If you are running the RealHomes Theme older than {==3.9.0==} version then related settings can be found by navigating to **Dashboard → RealHomes → Customize Settings → Map**
+!!! info "Legacy Versions (Older than 3.9.0)"
+    If you're using RealHomes version **older than 3.9.0**, you can find the related map settings by navigating to:  
+    **Dashboard → RealHomes → Customize Settings → Map**
 
 **Verify Domain with Google**: [https://support.google.com/webmasters/answer/35179](https://support.google.com/webmasters/answer/35179)
 
