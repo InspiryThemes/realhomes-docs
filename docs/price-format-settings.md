@@ -1,18 +1,32 @@
 # Price Format Settings
 
-To adjust how property prices are displayed on your website, navigate to:
+The **Price Format** settings allow you to customize how property prices are displayed across your website, including currency signs, separators, and decimal points.
 
-**Dashboard → Easy Real Estate → Settings → Price Format**
+To access and configure these settings, follow the navigation path based on your version of the **RealHomes** theme:
 
-!!! info "Important Information"
-    If you are using a version of RealHomes older than **v3.9.0**, the price format settings can be found at:  
-    **Dashboard → RealHomes → Customize Settings → Price Format**
+---
+
+### **v4.5.1 and Later**
+
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **Price Format** (tab)
+
+![RealHomes Documentation](images/ere-tabs/price-format-settings.png)
+
+---
+
+### **v4.5.0 and Earlier**
+
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Price Format** (tab)
 
 ![RealHomes Documentation](images/ere-tabs/price-format.png)
 
-The Price Format settings let you customize how property prices appear across your website. Here’s a breakdown of the available options:
-
 ---
+
+### **Available Configuration Options**
+
+The Price Format settings let you customize how property prices appear across your website. Here’s a breakdown of the available options:
 
 ### 🪙 **Currency Sign**
 Set the currency symbol you want to use (e.g., **$**, **€**, **AED**, etc.).
@@ -55,3 +69,9 @@ This changes the number format used in the property metabox based on your langua
 
 !!! note
     If you have enabled the **RealHomes Currency Switcher**, then the default format of the selected base currency will **override** the above settings.
+
+---
+
+!!! info "Legacy Versions (Older than 3.9.0)"
+    If you are using a version of RealHomes older than **3.9.0**, the settings can be found at:  
+    **Dashboard** → **RealHomes** → **Customize Settings** → **Price Format**
