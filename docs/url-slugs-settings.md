@@ -1,33 +1,44 @@
 # URL Slugs Settings
 
-The **URL Slugs** settings in the Easy Real Estate plugin allow you to customize the URL structure for various post types and taxonomies such as properties, agents, agencies, locations, statuses, types, and features.
+The **URL Slugs** settings within the **Easy Real Estate** plugin provide full control over the URL structure for your properties, agents, agencies, and various taxonomies (locations, statuses, types, and features).
 
-To access and configure these settings:
+To access and configure these settings, follow the navigation path based on your version of the **RealHomes** theme:
 
-1. Go to **Dashboard → Easy Real Estate → Settings**.
-2. Click on the **Post Types** tab.
-3. Then switch to the **URL Slugs** sub-tab.
+---
 
-Here, you can modify the following slugs for:
+### **v4.5.1 and Later**
 
-- Property Slug
-- Agent Slug
-- Agent Location Slug
-- Agency Slug
-- Agency Location Slug
-- Property Location Slug
-- Property Status Slug
-- Property Type Slug
-- Property Feature Slug
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **Post Types** (tab) → **URL Slugs** (sub-tab)
 
-Update the slugs as per your preference and click **Save Changes** when you're done.
+![RealHomes Settings (v4.5.1 and Later)](images/ere-tabs/url-slugs-settings.png)
 
-![RealHomes Documentation](images/ere-tabs/url-slugs.png)
+---
 
-📌 **Important:**  
-After making any changes to the slugs, it is **essential to re-save your permalinks** to ensure proper URL functionality and to prevent 404 errors.  
-To do this, go to **Dashboard → Settings → Permalinks** and simply click the **Save Changes** button.
+### **v4.5.0 and Earlier**
 
-!!! info "Legacy Versions"
-    If you're using RealHomes version **older than 3.9.0**, you can find the slug customization options by navigating to:  
-    **Dashboard → RealHomes → Customize Settings → URL Slugs**
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Post Types** (tab) → **URL Slugs** (tab)
+
+![RealHomes Settings (v4.5.0 and Earlier)](images/ere-tabs/url-slugs.png)
+
+---
+
+### **Customizable Slugs Overview**
+
+Once you have navigated to the **URL Slugs** section, you can customize the following slugs:
+
+*   **Properties:** `Property Slug`
+*   **Agents:** `Agent Slug`, `Agent Location Slug`
+*   **Agencies:** `Agency Slug`, `Agency Location Slug`
+*   **Taxonomies:** `Property Location Slug`, `Property Status Slug`, `Property Type Slug`, `Property Feature Slug`
+
+Update the values to your preferred slugs and click **Save Changes** at the bottom of the page.
+
+---
+
+### **Crucial Step: Re-save Permalinks**
+Whenever you modify URL slugs, it is **essential** to refresh your site's permalinks to ensure the new structures are recognized and to prevent `404 Not Found` errors.
+
+1.  Navigate to **Dashboard → Settings → Permalinks**.
+2.  Scroll down and click the **Save Changes** button (no modifications needed on this page).
