@@ -2,9 +2,23 @@
 
 The **User Approval Management** feature in RealHomes gives you full control over user registrations by allowing you to review, approve, or deny users before they can access your website. This feature is essential for maintaining security and ensuring only approved users can interact with your platform.
 
-To access this feature, go to **Dashboard → Easy Real Estate → Settings → Users → User Approval Management**.
+### v4.5.1 or later
+
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **User Management** → **Approval Settings**
+
+![User Approval Settings](images/ere-tabs/registration-approval-settings.png)
+
+---
+
+### v4.5.0 and Earlier
+
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Users** → **User Approval Management**
 
 ![User Approval Management](images/dashboard/user-approval-management.png)
+
+---
 
 ### **Key Features**
 
@@ -46,6 +60,18 @@ From the user list, you can quickly take action on each user:
 - **Approve**: Click the `Approve` button next to a user’s name to grant them access to the site.
 - **Deny**: If necessary, click the `Deny` button to reject the user's registration, preventing them from logging in.
 
+### v4.5.1 or later
+
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **User Management** → **Approval Management**
+
+![Approval Management](images/ere-tabs/user-approval-management-settings.png)
+
+### v4.5.0 and Earlier
+
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Users** → **User Approval Management**
+
 ![User Approval Management](images/easy-real-estate/user-approval-actions.png)
 
 #### **5. Status Filters**
@@ -60,6 +86,18 @@ To help you efficiently manage user registrations, you can filter users by their
 - **All**: Shows all users, regardless of their approval status.
 
 By using these filters, you can easily manage large numbers of registrations and take quick actions on users based on their status.
+
+### v4.5.1 or later
+
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **User Management** → **Approval Management**
+
+![Approval Management](images/ere-tabs/user-approval-management-settings.png)
+
+### v4.5.0 and Earlier
+
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Users** → **User Approval Management**
 
 ![User Approval Management](images/easy-real-estate/user-approval-list.png)
 
