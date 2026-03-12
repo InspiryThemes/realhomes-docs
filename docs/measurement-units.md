@@ -9,7 +9,19 @@ The **Measurement Unit Switcher** allows your website visitors to view property 
 
 ## Configuring Measurement Units
 
-To configure the measurement units and the switcher, navigate to **Dashboard → Easy Real Estate → Settings → Property**.
+To configure the measurement units and the switcher, please follow the following paths as per the version you are using:
+
+### v4.5.1 and Later
+
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **Property Settings**
+
+![Measurement Unit Switcher Settings](images/property-settings/unit-switcher-options.png)
+
+### v4.5.0 and Earlier
+
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Property**
 
 ![Measurement Unit Switcher Settings](images/property-settings/unit-switcher-settings.png)
 
@@ -30,7 +42,19 @@ If you are using the **Modern** or **Ultra** design, you can enable the dynamic 
 
 Immediately below the unit switcher toggle, you will find settings to define your base unit and customize the labels for all available measurement formulas.
 
+### v4.5.1 and Later
+
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **Property Settings**
+
+### v4.5.0 and Earlier
+
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Property**
+
 ![Measurement Unit Switcher Settings](images/property-settings/base-measurement-unit-and-more.png)
+
+![Measurement Unit Switcher Settings](images/property-settings/base-measurement-unit-and-more-settings.png)
 
 ### Base Measurement Unit
 Select the measurement unit you used when entering your property sizes in the backend. All mathematical conversions for the frontend switcher will be calculated from this base unit.

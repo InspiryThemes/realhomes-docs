@@ -33,7 +33,7 @@ Copy the **MapBox Token** by clicking on the blue icon. Navigate to the **Maps**
 #### **v4.5.1 and Later**
 
 !!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Map Settings**
+    **Dashboard** → **RealHomes** → **Settings** → **Maps**
 
 ![RealHomes Documentation](images/ere-tabs/mapbox-settings.png)
 

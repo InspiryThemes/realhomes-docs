@@ -1,57 +1,56 @@
 # Property Settings
 
-You can configure global property-related options by navigating to **Dashboard → Easy Real Estate → Settings → Property**
+The **Property Settings** allow you to configure essential property-related options, including area and lot size units, measurement unit switching, and auto-generated property IDs.
 
-These settings allow you to define area units, auto-generated property ID formats, and energy performance classes for properties.
-
-![RealHomes Documentation](images/ere-tabs/property.png)
+To access and configure these settings, follow the navigation path based on your version:
 
 ---
 
-### **Area Size Unit**
+### **v4.5.1 and Later**
 
-Specify the default unit for property area (e.g., **sq ft**, **m²**, **acres**, etc.).  
-This unit will be used across all property listings for area fields.
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **Property Settings**
 
----
-
-### **Lot Size Unit**
-
-Define the unit for the lot size, which is separate from the area unit.  
-Example: **sq ft**, **m²**, etc.
+![Property Settings](images/ere-tabs/property-settings.png)
 
 ---
 
-### **Enable Auto-Generated Property ID**
+### **v4.5.0 and Earlier**
 
-Toggle this setting to automatically generate a property ID when a new property is added:
-- **Enable** – Auto-generates ID using a defined pattern.
-- **Disable** – Requires manual entry of property ID.
+!!! info "Navigation Path"
+    **Dashboard** → **Easy Real Estate** → **Settings** → **Property**
 
----
-
-### **Auto-Generated Property ID Pattern**
-
-Define a pattern for the system to use when generating property IDs.
-
-- Use `{ID}` in the pattern to dynamically insert the actual property ID.
-- Example: `RH-{ID}-property` will become something like `RH-154-property`.
-
-!!! note
-    Make sure to include `{ID}` in your pattern. It will be replaced with the actual property ID number.
+![Property Settings](images/ere-tabs/property.png)
 
 ---
 
-### **Energy Performance Certificate Classes**
+### **Area & Lot Size Units**
 
-Manage energy rating classes (e.g., A+, A, B, C, etc.) for properties. Each class can be:
-- Labeled with a **custom name**
-- Assigned a **specific color**
-
-This feature helps display energy ratings visually on frontend property listings.
-
-You can also click **+ Add more** to add new custom rating classes as needed.
+*   **Area Size Unit**: Specify the default unit for property area (e.g., `sq ft`, `m²`, `acres`, etc.). This unit will be used across all property listings for area fields.
+*   **Lot Size Unit**: Define the unit for the lot size, which is separate from the area unit (e.g., `sq ft`, `m²`, etc.).
 
 ---
 
-Click the **Save Changes** button to apply your updated settings.
+### **Measurement Unit Switcher**
+
+If you are using the **Modern** or **Ultra** design, you can enable the dynamic **Measurement Unit Switcher**. When enabled, a dropdown or toggle will appear on frontend properties, allowing visitors to switch between different units dynamically (like Square Feet to Square Meters).
+
+*   **Measurement Unit Switcher**: Toggle to **Enable** or **Disable**.
+*   **Base Measurement Unit**: Select the measurement unit you used when entering your property sizes in the backend. All mathematical conversions for the frontend switcher will be calculated from this base unit.
+*   **Customizing Unit Texts**: Below the base unit, you can modify the display labels for each available measurement unit (Square Feet, Square Meter, Square Yard, Acre, Hectare, Kanal, Marla). **If a unit's text field is left empty, that specific unit will be hidden** from the frontend switcher.
+
+!!! note "Detailed Guide"
+    For a more detailed explanation of how the unit conversions work, please refer to the [Measurement Unit Switcher](measurement-units.md) documentation.
+
+---
+
+### **Auto-Generated Property ID**
+
+*   **Enable Auto-Generated Property ID**: Toggle to **Enable** to automatically generate a property ID when a new property is added, or **Disable** to require manual entry.
+*   **Auto-Generated Property ID Pattern**: Define the pattern used for generating IDs. You must include `{ID}` in your pattern, which will be replaced logically with the actual property ID number.
+    *   *Example:* `RH-{ID}-property` will output something like `RH-154-property`.
+
+---
+
+!!! info "Looking for Energy Performance Settings?"
+    In RealHomes **v4.5.1 and Later**, the Energy Performance Category settings have been moved to their own dedicated sub-section at **Dashboard → RealHomes → Settings → Property Settings → Energy Performance**. In older versions (**v4.5.0 and Earlier**), they are located at the bottom of the **Property** tab.

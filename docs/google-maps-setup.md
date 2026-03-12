@@ -42,7 +42,7 @@ Put this **API Key** in the **Maps** Settings of the **RealHomes** theme. Follow
 #### **v4.5.1 and Later**
 
 !!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Map Settings**
+    **Dashboard** → **RealHomes** → **Settings** → **Maps**
 
 ![RealHomes Documentation](images/ere-tabs/google-maps-settings.png)
 

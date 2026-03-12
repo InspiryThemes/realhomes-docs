@@ -1,86 +1,56 @@
 # Cloudflare Turnstile Setup
 
-Cloudflare Turnstile is a privacy-friendly alternative to traditional CAPTCHAs. Once enabled in RealHomes, it helps protect your website forms from spam and bot submissions without interrupting the user experience.
-
-!!! info "Design Availability"
-    Cloudflare Turnstile is supported on the **Modern** and **Ultra** design variations. It is not available for the **Classic** design.
+**Cloudflare Turnstile** is a privacy-friendly alternative to traditional CAPTCHAs. Once enabled in RealHomes, it helps protect your website forms from spam and bot submissions without interrupting the user experience.
 
 ---
 
-## Step 1: Get Your Turnstile Keys
+### **Design Availability**
 
-Before you can enable Turnstile in RealHomes, you need to create a Turnstile widget in your Cloudflare account and get the **Site Key** and **Secret Key**.
+!!! info "Supported Designs"
+    **Cloudflare Turnstile** is supported on the **Modern** and **Ultra** design variations. It is not available for the **Classic** design.
+
+---
+
+### **Step 1: Get Your Turnstile Keys**
+
+Before you can enable Turnstile in RealHomes, you need to create a Turnstile widget in your Cloudflare account to obtain the **Site Key** and **Secret Key**.
 
 1.  Go to the [**Cloudflare Turnstile Dashboard**](https://dash.cloudflare.com/?to=/:account/turnstile).
-2.  Log in to your Cloudflare account (or create a free one if you don't have one).
-3.  Click **Add Widget**.
-4.  Enter a name for your widget (e.g., "RealHomes Website").
-5.  Add your website domain(s).
-6.  Choose a **Widget Mode**:
-    *   **Managed** (Recommended) - Cloudflare decides when to show a challenge.
-    *   **Non-interactive** - Runs in the background without user interaction.
-    *   **Invisible** - Completely hidden from the user.
-7.  Click **Create** to generate your keys.
-8.  Copy the **Site Key** and **Secret Key** for the next step.
+2.  Click **Add Widget** and enter your website details.
+3.  Choose your preferred **Widget Mode** (Managed, Non-interactive, or Invisible).
+4.  Copy the generated **Site Key** and **Secret Key**.
 
 ---
 
-## Step 2: Configure Turnstile in RealHomes
+### **Step 2: Configure Turnstile in RealHomes**
 
-1.  In your WordPress dashboard, navigate to **Dashboard → Easy Real Estate → Settings**.
-2.  Click on the **Cloudflare Turnstile** tab.
+To access the Turnstile settings, follow this navigation path:
 
-![Cloudflare Turnstile Settings](images/turnstile/turnstile-settings.png)
+!!! info "Navigation Path"
+    **Dashboard** → **RealHomes** → **Settings** → **Miscellaneous** → **Turnstile** (tab)
 
-3.  Click **Enable** to activate the Turnstile protection.
-4.  Paste your **Site Key** into the Site Key field.
-5.  Paste your **Secret Key** into the Secret Key field.
-6.  Click **Save Changes**.
+![Cloudflare Turnstile Settings](images/ere-tabs/turnstile-settings.png)
 
-That's it! Turnstile is now active on your website.
-
----
-
-## Where Turnstile Appears
-
-Once enabled, the Cloudflare Turnstile widget will automatically appear on the following forms across your website:
-
-| Form | Location |
-|---|---|
-| **Login Form** | Login page and modal popup |
-| **Registration Form** | Registration page and modal popup |
-| **Password Reset Form** | Modal popup |
-| **Contact Page Form** | Contact page template |
-| **Agent Contact Form** | Single property page (sidebar and content area) |
-| **Agency Contact Form** | Single agency page |
-| **Author Contact Form** | Author archive page |
-| **Schedule a Tour Form** | Single property page |
-| **Contact Form Over Slider** | Homepage (Modern) |
-
-!!! note
-    You do not need to add Turnstile to each form individually. Enabling it once in the settings will automatically protect all supported forms.
+1.  Click **Enable** to activate Turnstile protection.
+2.  Paste your **Site Key** and **Secret Key** into the respective fields.
+3.  Click **Save Changes** to apply the settings.
 
 ---
 
-## Multilingual Support
+### **Where Turnstile Appears**
 
-Turnstile automatically adapts its language to match your WordPress locale. It supports over 30 languages including English, French, German, Spanish, Arabic, Hebrew, Chinese, Japanese, and more.
+Once enabled, the Turnstile widget will automatically appear on the following forms:
 
-If your WordPress language is not directly supported by Turnstile, it will fall back to auto-detecting the visitor's browser language.
+*   **Login & Registration Forms** (Page and Modal)
+*   **Contact Page & Agent Contact Forms**
+*   **Schedule a Tour & Property Inquiry Forms**
+*   **Password Reset Form**
 
 ---
 
-## Turnstile vs. Google reCAPTCHA
+### **Turnstile vs. Google reCAPTCHA**
 
-RealHomes also supports [Google reCAPTCHA](google-recaptcha-setup.md). You can use either option to protect your forms, but we recommend choosing one over the other to avoid conflicts.
+RealHomes also supports [**Google reCAPTCHA**](google-recaptcha-setup.md). Both services provide excellent spam protection, but Turnstile offers a more privacy-focused, frictionless experience for users. 
 
-| Feature | Cloudflare Turnstile | Google reCAPTCHA |
-|---|---|---|
-| Privacy-friendly | ✅ Yes | ⚠️ Uses cookies |
-| Free tier | ✅ Unlimited | ✅ Limited |
-| User interaction | Minimal to none | May require puzzles |
-| Classic design support | ❌ No | ✅ Yes |
-| Setup complexity | Simple | Moderate |
-
-!!! warning "Choose One"
-    If you are using Cloudflare Turnstile, make sure to disable Google reCAPTCHA to prevent both from appearing on the same form.
+!!! warning "Choose One Service"
+    We strongly recommend using only **one** of these services at a time. If you decide to use Cloudflare Turnstile, make sure to disable Google reCAPTCHA to prevent both challenges from appearing on the same form.

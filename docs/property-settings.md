@@ -310,7 +310,8 @@ You can customize the **Classes of Energy Performance** section in the **Propert
 #### **v4.5.1 and Later**
 
 !!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Property** (tab)
+    **Dashboard** → **RealHomes** → **Settings** → **Property Settings** → **Energy Performance** (sub-tab)
+
 
 ![Energy Performance Settings](images/ere-tabs/energy-performance-settings.png)
 

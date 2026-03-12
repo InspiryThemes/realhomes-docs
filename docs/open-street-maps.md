@@ -7,7 +7,7 @@
 ---
 
 !!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Map Settings**
+    **Dashboard** → **RealHomes** → **Settings** → **Maps**
 
 ![RealHomes Documentation](images/ere-tabs/openstreetmaps-settings.png)
 
