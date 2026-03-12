@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **March 6th, 2026**. The current version of RealHomes is {== **v4.5.1** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
+    This documentation was last updated on **March 13th, 2026**. The current version of RealHomes is {== **v4.5.1** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 

@@ -5,6 +5,13 @@ This guide explains how to enable the mega menu feature, create or import a temp
 !!! info "Prerequisite"
     Please note: The Mega Menu feature is only available for the **Modern** and **Ultra** design variations.
 
+!!! warning "Important: Desktop Only"
+    The Elementor Mega Menu is exclusively designed to be displayed on **large screens (Desktop)**. It will **not** work on mobile devices or small screens. 
+
+    For small screens, you must create a standard menu in **Dashboard → Appearance → Menus** and assign it to the **Responsive Menu** location.
+    
+    ![Responsive Menu](images/elementor/responsive-menu.png)
+
 ---
 
 ### Step 1: Enable the Mega Menu Feature
