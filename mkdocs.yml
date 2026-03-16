@@ -177,6 +177,7 @@ nav:
     - Custom Sidebars: custom-sidebars.md
     - Elementor:
           - Intro & Installation: intro-and-installation-elementor.md
+          - Scroll Animations: scroll-animations.md
           - Custom Header & Footer: custom-header-footer-elementor.md
           # - Home Page with Elementor: home-page-setup-with-elementor.md
           - Common Issues: common-issues-elementor.md

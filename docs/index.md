@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **March 13th, 2026**. The current version of RealHomes is {== **v4.5.1** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
+    This documentation was last updated on **March 17th, 2026**. The current version of RealHomes is {== **v4.5.1** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
 
 Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
 
@@ -14,7 +14,7 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ## Summary of Recent Updates
 
-This section highlights the combined updates from the three most recent releases up to **v4.5.1**. These versions introduce exciting new features, major enhancements, and important fixes to make RealHomes even more powerful and flexible.
+This section highlights the major updates introduced in **v4.5.1** and previous versions.
 
 ---
 
@@ -22,54 +22,46 @@ This section highlights the combined updates from the three most recent releases
 - **CRM Demo** - [ <a href="https://ultra.realhomes.io/crm" target="_blank">https://ultra.realhomes.io/crm</a> ]    
   Experience the **RealHomes CRM** demo, showcasing a powerful all-in-one solution for managing leads, inquiries, deals, and tasks. <br>👉 [**Read the CRM Demo Setup Guide**](https://realhomes.io/documentation/crm-demo-setup/)  
 
-- **MLS Demo** - [ <a href="https://demo.realhomes.io/mls" target="_blank">https://demo.realhomes.io/mls</a> ]  
-  Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow.<br>👉 [**Read the MLS Setup Guide**](https://realhomes.io/documentation/mls-on-the-fly-setup/)  
+- **French Demo** - [ <a href="https://demo.realhomes.io/french" target="_blank">https://demo.realhomes.io/french</a> ]    
+  Explore the RealHomes theme in **French** for a localized real estate experience. <br>👉 [**Read the French Demo Setup Guide**](https://realhomes.io/documentation/french-demo-setup/)  
 
 - **Hebrew Demo** - [ <a href="https://demo.realhomes.io/hebrew" target="_blank">https://demo.realhomes.io/hebrew</a> ]    
   Explore the RealHomes theme in **Hebrew** with full **RTL compatibility** for a localized real estate experience. <br>👉 [**Read the Hebrew Demo Setup Guide**](https://realhomes.io/documentation/hebrew-demo-setup/)  
 
-- **French Demo** - [ <a href="https://demo.realhomes.io/french" target="_blank">https://demo.realhomes.io/french</a> ]    
-  Explore the RealHomes theme in **French** for a localized real estate experience. <br>👉 [**Read the French Demo Setup Guide**](https://realhomes.io/documentation/french-demo-setup/)
+- **MLS Demo** - [ <a href="https://demo.realhomes.io/mls" target="_blank">https://demo.realhomes.io/mls</a> ]  
+  Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow.<br>👉 [**Read the MLS Setup Guide**](https://realhomes.io/documentation/mls-on-the-fly-setup/)  
 
 ---
 
-### ✨ New Plugin Released
-- **RealHomes CRM** - We're thrilled to introduce the RealHomes CRM in this release, a powerful all-in-one solution for managing leads, inquiries, deals, and tasks across your real estate business. <br>[**Read the CRM Setup Guide**](https://realhomes.io/documentation/realhomes-crm/)
-
----
-
-### 🆕 New Features
-- **OTP Login Verification** – Enhance security by requiring users to enter a one-time password sent to their email during the login process.
-- **Hourly Booking feature** – Provide flexible, time-based property reservations.
+### 🆕 Major New Features
+- **Theme Options Panel** – A new and improved interface for streamlined theme configuration management.
 - **Unit Measurement Switcher** – Enable users to seamlessly switch between different area measurement units on the frontend.
-- **Global Template Elementor Widget** – Centrally manage and display standard Elementor templates anywhere on your site.
-- **Dashboard Typography controls** – Customize text styling within the user dashboard intuitively.
-- **RealHomes CRM functionality** – Introducing an integrated CRM system within RealHomes for managing leads, inquiries, and communications.
-- **Auto update system** to the RealHomes CRM plugin for seamless plugin updates through WordPress admin dashboard.
-- **Price prefix, postfix display controls** in property Elementor widgets.
-- **Dual Price feature for Vacation Rental** – Display both standard and seasonal rates seamlessly.
-- **Mega Menu support** for Modern and Ultra variations based on Elementor templates.
-- **Elementor-based Contact Page Template** for flexible, drag-and-drop customization.
-- **Load more + infinite scroll** options for the Properties V14 widget.
-- **Taxonomy display filtering, hide empty, and sorting options** to Property Types and Taxonomy Terms widgets.
+- **Cloudflare Turnstile Support** – A privacy-friendly, frictionless alternative to reCAPTCHA for robust form protection.
+- **OTP Login Verification** – Enhance security by requiring a one-time password sent to email during login.
+- **Hourly Booking support** – Added support for time-based property reservations in the RVR solution.
+- **Global Elementor Widget** – Centrally manage and display standard Elementor templates anywhere on your site.
+- **Save Search functionality** – Improved saved searches for related Elementor property listing widgets.
+- **RealHomes Scroll Animation** – Add smooth reveal animations to Elementor containers on scroll. You can [**Read the Setup Guide**](scroll-animations.md).
+- **Mega Menu support** – Create advanced menus for Modern and Ultra variations using Elementor templates (Desktop only).
+- **Dashboard Typography controls** – intuitively customize text styling within the user dashboard.
+- **RealHomes CRM functionality** – A powerful integrated system for managing leads, inquiries, and communications.
 
 ---
 
-### 🛠️ Fixes
-- Fixed **layout breaking issue** when Save Search functionality is enabled.
-- Fixed **OpenStreetMap and Google Map Elementor widgets markers** issue when no property is found.
+### 🛠️ Key Fixes
+- Fixed **Properties Google Map widget** markers not displaying when no properties are found.
+- Fixed **Property owner assignment** issue in the RealHomes Dashboard.
+- Fixed **Multiselect field visibility** for the New Field Builder in the frontend dashboard.
 - Fixed **search fields selection issue** when browser-based back-forward cache is enabled.
-- Fixed **Dashboard activate/deactivate plugin conflicts** and dependencies.
-- Resolved various **PHP 8.3 and 8.4 compatibility issues**, warnings, and fatal errors in RealHomes Elementor Addon and other components.
+- Fixed **PHP Notices** and resolved various compatibility issues for **PHP 8.3 and 8.4**.
 
 ---
 
 ### 🚀 Improvements
-- **Turnstile configuration improved** for robust spam protection and secure forms.
-- **Main menu reorganized** to provide an enhanced and streamlined user experience.
-- **WPML compatibility** improved across widgets, theme options, and Elementor addon.
-- **Draft & Preview Properties functionality** improved for better user workflow.
-- **Demo imports improved** for multiple demos ensuring smoother setup.
+- **Theme Security** improved following a comprehensive security audit of the theme and related plugins.
+- **RH Nav Menu widget** enhanced with better functionality, flexibility, and responsive menu options.
+- **Demo Imports** optimized for CRM, Hotel, and Ultra RVR designs for a smoother setup.
+- **WPML compatibility** improved across all newly added widgets and theme settings.
 - **Performance optimizations** including script loading and other backend improvements.
 
 ---
@@ -78,7 +70,6 @@ This section highlights the combined updates from the three most recent releases
 - **Condominium Demo** updated with Elementor Containers.
 - **Slider Revolution** and other bundled plugins updated to the latest versions.
 - **Translation files** refreshed for all theme and plugin components.
-- **Theme documentation** updated for RealHomes v4.5.0.
 
 👉 For the full version history, please visit our [Change Log](https://realhomes.io/changelog/).
 
@@ -100,10 +91,9 @@ Here are some recommended practices to optimize your website's performance:
 
 ## RealHomes Specific Cache Configurations
 
-When configuring cache for RealHomes, keep these points in mind:
+When configuring cache for RealHomes, it is crucial to handle security tokens (Nonces) correctly to ensure interactive features like AJAX Login and Favorites work properly.
 
-- **JavaScript Files:** Do not combine JavaScript files; RealHomes loads scripts dynamically based on various settings, which can lead to errors if combined.
-- **Cookies:** RealHomes uses cookies like `realhomes_current_currency`. Ensure your cache plugin excludes pages using these cookies, or ask your hosting provider to handle this if using managed hosting like WPEngine.
+👉 [**Read the Full Caching & Security Tokens Guide**](cache-plugins-configuration.md)
 
 ---
 
