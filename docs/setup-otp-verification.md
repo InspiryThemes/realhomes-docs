@@ -53,3 +53,16 @@ Assign the OTP page in the Customizer:
 2. Locate the **Select OTP Page** dropdown.
 3. Select your created **OTP Verification** page.
 4. Click **Publish**.
+
+---
+
+### **4. Security & Brute-Force Protection**
+
+RealHomes includes a robust **3-Strike OTP Exhaustion Policy** that protects accounts from automated brute-force attacks while remaining forgiving to typos by legitimate users.
+
+- **The Session (5 Attempts):** A user is granted 5 attempts (adjustable using the *Max Login Attempts* setting) to correctly enter a single 6-digit OTP code before that specific code is invalidated.
+- **The Tolerance (Strikes 1 & 2):** If a user exhausts their attempts, the current OTP is destroyed, and the user receives a "Strike". They are then prompted to request a brand new OTP via email to try again.
+- **The Hard Block (Strike 3):** If a user exhausts their session *three separate times* consecutively (e.g., 15 total incorrect guesses), the system assumes a malicious attack and triggers a **Hard Block**:
+    - The user's account and the attacker's IP address are locked out of the OTP system for **6 hours**.
+    - During this 6-hour window, no new OTP emails can be requested.
+- **The Clean Slate:** If a user successfully verifies a correct OTP at any point before Strike 3, the system performs a full clear of all failed attempts, strikes, and IP trackers.
