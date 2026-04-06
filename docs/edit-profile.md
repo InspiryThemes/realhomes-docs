@@ -1,8 +1,20 @@
-# My Profile Module
+# My Profile
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → My Profile** section to enable/disable the module. 
+To enable/disable the profile module, navigate based on your version of the **RealHomes** theme:
 
-![RealHomes Documentation](images/member-pages/edit-profile-section.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Profile</span>
+
+    ![RealHomes Documentation](images/member-pages/edit-profile-section-settings.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">My Profile</span>
+
+    ![RealHomes Documentation](images/member-pages/edit-profile-section.png)
 
 **Ultra**
 

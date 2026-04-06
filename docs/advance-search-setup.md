@@ -6,7 +6,19 @@ Follow the steps below to configure the search functionality.
 
 ### **Select Property Search Page**
 
-Please navigate to **Dashboard → RealHomes → Customize Settings** and then go into **Properties Search → Properties Search Page** and select the property search page from **Select Search Page**. You can setup other options according to your requirements.
+Please navigate based on your version of the **RealHomes** theme:
+
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Search Page</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Properties Search Page</span>
+
+Select the property search page from **Select Search Page**. You can setup other options according to your requirements.
 
 ![Properties Search Page Settings](images/home-setup/search-page-settings-full-mod.png)
 
@@ -16,7 +28,19 @@ Now, you can also use the **RealHomes - Advance Search Widget** in sidebar as th
 
 ### **Search Form Layout**
 
-Navigate to **Search Form Basics** section in **Properties Search** panel, In this section you can change **Search Form Layout** to **Default** or **Smart**. You can check both layouts in the following screenshots.
+Navigate to **Search Form Basics** section. Based on your version:
+
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Basic</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Basics</span>
+
+In this section you can change **Search Form Layout** to **Default** or **Smart**. You can check both layouts in the following screenshots.
 
 ![Properties Search Basics](images/home-setup/search-form-layout.gif)
 
@@ -48,7 +72,17 @@ You can also **Show / Hide Fields** on properties search form as well as **Drag 
 
 ### **Search Form Locations**
 
-Properties Search panel contains a section in **Customizer** for Locations **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Locations** to configure the **Locations** fields of the advance search form.
+Navigate based on your version:
+
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Locations</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Locations</span>
 
 First thing is to decide the number of location fields you want to set up for search form. Do not worry too much about it as you can always change these settings in future to match your changing needs.
 
@@ -71,7 +105,7 @@ You can also Hide Empty Locations and Sort Locations Alphabetically. It means th
 ![Configure Location Field](images/home-setup/search-form-keyword.gif)
 ### **Enable Dynamic Locations** (Optimize Large Number Of Locations)
 
-Speeding up the loading time of large number of locations is now possible. All you have to do is to navigate to **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Locations** and activate Enable Dynamic Locations option as shown below.
+Speeding up the loading time of large number of locations is now possible. Navigate to the **Locations** section mentioned above and activate **Enable Dynamic Locations** option as shown below.
 
 ![Minimum and Maximum Values For Beds & Baths](images/home-setup/dynamic_locations.gif)
 
@@ -79,31 +113,89 @@ It will help your website performance by loading the locations dynamically by sc
 
 ### **Search Form Keyword**
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Keyword** to change **Keyword Label** and **Placeholder Text**.
+Navigate based on your version:
+
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Keyword</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Keyword</span>
+
+Change **Keyword Label** and **Placeholder Text**.
 
 ![Configure Location Field](images/home-setup/search-form-keyword.gif)
 
 ### **Search Form Property ID**
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Property ID** to change **Property ID Label** and **Placeholder Text**.
+Navigate based on your version:
+
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Property ID</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Property ID</span>
+
+Change **Property ID Label** and **Placeholder Text**.
 
 ![Configure Location Field](images/home-setup/search-form-property-id.gif)
 
 ### **Search Form Property Status**
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Property Status** to change **Property Status Label** and **Placeholder Text**.
+Navigate based on your version:
+
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Property Status</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Property Status</span>
+
+Change **Property Status Label** and **Placeholder Text**.
 
 ![Configure Location Field](images/home-setup/search-form-property-status.gif)
 
 ### **Search Form Agents**
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Agents** to enable **Multi-Select Feature** and change **Agent Field Label**, **Placeholder Text** and **Selected Text**.
+Navigate based on your version:
+
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Agents</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Agents</span>
+
+Enable **Multi-Select Feature** and change **Agent Field Label**, **Placeholder Text** and **Selected Text**.
 
 ![Configure Location Field](images/home-setup/search-form-agents.gif)
 
 ### **Beds & Baths Fields**
 
-Properties Search panel also contains a special section for Beds & Baths at **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Beds and Baths**. Using which, Beds and Baths fields can be customized to your requirements.
+Navigate based on your version:
+
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Beds & Baths</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Beds and Baths</span>
 
 ![Minimum and Maximum Values For Beds & Baths](images/home-setup/beds-and-baths-fields.png)
 
@@ -117,7 +209,17 @@ In this section:
 
 ### **Search Form Garages**
 
-Properties Search panel contains a special section for Garages at **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Garages**. Using which, Garages fields can be customized to your requirements.
+Navigate based on your version:
+
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Garages</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Garages</span>
 
 ![Minimum and Maximum Values For Garages](images/home-setup/min-max-garages-fields.png)
 
@@ -131,23 +233,59 @@ In this section:
 
 ### **Search Form Prices**
 
-Properties Search panel also contains a special section for Prices at **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Prices**. Using which, Minimum and Maximum prices fields can be customized to your requirements.
+Navigate based on your version:
 
-![Minimum and Maximum Prices](images/home-setup/min-max-price-first.png)
+=== "v4.5.1 and Later"
 
-![Minimum and Maximum Prices](images/home-setup/min-max-price-second.png)
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Prices</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Prices</span>
+
+    ![Minimum and Maximum Prices](images/home-setup/min-max-price-first.png)
+
+    ![Minimum and Maximum Prices](images/home-setup/min-max-price-second.png)
 
 ### **Search Form Areas**
 
-Properties Search panel contains a section for Area and can be found at **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Areas**. In this Customizer section, Minimum and Maximum area fields can be customized to your requirements.
+Navigate based on your version:
 
-![Minimum and Maximum Area / Related Labels and Placeholder Texts](images/home-setup/search-form-areas.gif)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Area</span>
+
+        Minimum and Maximum area fields can be customized to your requirements.
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Areas</span>
+
+    Minimum and Maximum area fields can be customized to your requirements.
+
+    ![Minimum and Maximum Area / Related Labels and Placeholder Texts](images/home-setup/search-form-areas.gif)
 
 ### **Search Form Property Features**
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Property Features** to show or hide the **Property Features** section and change the **Title for Features Toggle**.
+Navigate based on your version:
 
-![Minimum and Maximum Area / Related Labels and Placeholder Texts](images/home-setup/search-form-property-features.gif)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Property Features</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Property Features</span>
+
+    Show or hide the **Property Features** section and change the **Title for Features Toggle**.
+
+    ![Minimum and Maximum Area / Related Labels and Placeholder Texts](images/home-setup/search-form-property-features.gif)
 
 ### **Change Advance Search Form Bottom Label Text (Optional)**
 

@@ -17,11 +17,23 @@ You can also use Google, Open Street or MapBox Elementor widgets and synchronize
 
 ![Property Search Template Selection](images/create-pages/sync-properties-widget-data.png)
 
-## Setup Search Page in Customizer
+## Setup Search Page in Theme Settings
 
-After the creation of search page, you must set it up as search results page by assigning the newly created search page in **Select Search Page** option in **Customizer** settings in **Dashboard → RealHomes → Customize Settings → Properties Search → Properties Search Page**.
+After the creation of search page, you must set it up as search results page by assigning the newly created search page in **Select Search Page** option. Navigate based on your version:
 
-![Setup Search Page in Customizer](images/ultra/properties-search-page-customizer-ultra.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Search Page</span>
+
+    ![Setup Search Page in Customizer](images/ultra/properties-search-page-customizer-ultra-v4.5.1.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Properties Search Page</span>
+
+    ![Setup Search Page in Customizer](images/ultra/properties-search-page-customizer-ultra.png)
 
 ## Setup Search Page in Search Form Widget Settings
 

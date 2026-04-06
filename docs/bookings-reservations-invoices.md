@@ -3,11 +3,21 @@
 !!! info "Important"
     This module is available only if you are using the **Vacation Rentals plugin**.
 
-To enable or disable these modules:
+To enable or disable these modules, navigate based on your version:
 
-1. Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → Bookings & Reservations**.
+=== "v4.5.1 and Later"
 
-   ![Bookings & Reservations Settings](images/dashboard/bookings-reservations-invoices-modules.png)
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Bookings & Reservations</span>
+
+    ![Bookings & Reservations Settings](images/dashboard/bookings-reservations-invoices-modules-settings.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Bookings & Reservations</span>
+
+    ![Bookings & Reservations Settings](images/dashboard/bookings-reservations-invoices-modules.png)
 
 ### **Bookings**
 

@@ -4,25 +4,20 @@ The **Price Format** settings allow you to customize how property prices are dis
 
 To access and configure these settings, follow the navigation path based on your version of the **RealHomes** theme:
 
----
+=== "v4.5.1 and Later"
 
-### **v4.5.1 and Later**
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➔ <span class="nav-step">RealHomes</span> ➔ <span class="nav-step">Settings</span> ➔ <span class="nav-step">Price Format</span>
 
-!!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Price Format** (tab)
+    ![RealHomes Documentation](images/ere-tabs/price-format-settings.png)
 
-![RealHomes Documentation](images/ere-tabs/price-format-settings.png)
+=== "v4.5.0 and Earlier"
 
----
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➔ <span class="nav-step">Easy Real Estate</span> ➔ <span class="nav-step">Settings</span> ➔ <span class="nav-step">Price Format</span>
 
-### **v4.5.0 and Earlier**
+    ![RealHomes Documentation](images/ere-tabs/price-format.png)
 
-!!! info "Navigation Path"
-    **Dashboard** → **Easy Real Estate** → **Settings** → **Price Format** (tab)
-
-![RealHomes Documentation](images/ere-tabs/price-format.png)
-
----
 
 ### **Available Configuration Options**
 

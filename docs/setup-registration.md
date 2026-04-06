@@ -8,9 +8,19 @@ To allow user registration, you need to check the **Anyone can register** option
 
 ## Restrict Backend Access
 
-You must restrict backend access of the user level which you have setup in the previous setup. So navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → Basic** and select **Contributor** (or the user role you have selected) for the first option (shown in the following screenshot).
+You must restrict backend access of the user level which you have setup in the previous setup. Navigate based on your version of the **RealHomes** theme:
 
-![Login & Register Page Title](images/member-pages/restrict-backend-access.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Basic</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Basic</span>
+
+    ![Login & Register Page Title](images/member-pages/restrict-backend-access.png)
 
 ## Create Login & Register Page (Optional)
 
@@ -45,10 +55,20 @@ Publish the page once it is ready.
 
 ## Configure Settings
 
-Now you need to go to **Dashboard → RealHomes → Customize Settings -> Header** and go to **Login & Register Basics** section.
+Now you need to configure the created page in your theme settings. Navigate based on your version:
 
-Now select the **Login Or Register** page that has been created earlier as shown in image below.
+=== "v4.5.1 and Later"
 
-![Login & Register Customizer Settings](images/member-pages/customizer-login-modal-1.jpg)
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span> ➤ <span class="nav-step">Login & Register</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Header</span> ➤ <span class="nav-step">Login & Register Basics</span>
+
+    Now select the **Login Or Register** page that has been created earlier as shown in image below.
+
+    ![Login & Register Customizer Settings](images/member-pages/customizer-login-modal-1.jpg)
 
 Publish the settings and your **Login & Register** page is ready for use.

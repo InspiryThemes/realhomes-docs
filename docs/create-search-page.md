@@ -12,9 +12,21 @@ Other search templates with sidebar support are also available for use, for the 
 
 ### **Search Page Variation for Classic Design**
 
-If you are using Classic Design and you want to change the Search Page Variation then you can navigate to **Dashboard &rarr; Appearance &rarr; Customize &rarr; Properties Search &rarr; Properties Search Page** and in the bottom of this section you have the option to choose the Search Page Variation.
+If you are using Classic Design and you want to change the Search Page Variation, navigate based on your version:
 
-![Property Search Page Variation - Classic](images/home-setup/search-page-variation.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Search Page</span>
+
+    ![ERE Options Panel - Create Search Page](images/home-setup/search-page-variation-settings.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Appearance</span> ➤ <span class="nav-step">Customize</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Properties Search Page</span>
+
+    ![Property Search Page Variation - Classic](images/home-setup/search-page-variation.png)
 
 ### **RealHomes Misc Settings**
 

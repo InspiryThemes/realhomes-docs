@@ -2,17 +2,47 @@
 
 ## **Overview**
 
-Your website's header is the first thing visitors see. RealHomes gives you extensive control over its look and feel directly through the WordPress Customizer.
+Your website's header is the first thing visitors see. RealHomes gives you extensive control over its look and feel.
 
-To start customizing, navigate to **Dashboard → RealHomes → Customize Settings**.
+To start customizing, navigate to the following path based on your version:
 
-![Configure Header Settings](images/home-setup/header_settings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span>
+
+    ![ERE Options Panel - Configure Header Settings Ultra](images/home-setup/header_settings_451.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span>
+
+    Explore **Site Identity** and **Headers** section to explore further settings.
+
+    ![Legacy Customizer - Configure Header Settings Ultra](images/home-setup/header_settings.png)
 
 ---
 
 ## **1. Site Identity (Logo & Title)**
 
-First, let's establish your brand. Go to **Dashboard → Customize → Site Identity**.
+First, let's establish your brand. Navigate to:
+
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Site Identity</span>
+
+        ![Site Identity](images/home-setup/site-identity-settings.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Customize</span> ➤ <span class="nav-step">Site Identity</span>
+
+    You can upload your site's logo, retina logo, title, description tag and site icon from this section.
+
+    ![Legacy Customizer - Configure Header Settings Ultra](images/home-setup/site-identity.png)
 
 Here you can upload:
 *   **Logo:** Your main brand image.
@@ -26,33 +56,83 @@ Here you can upload:
 
 ## **2. Header Customization**
 
-Most header options are located under **Dashboard → RealHomes → Customize Settings → Header**.
+Most header options are located under:
 
-![Configure Header Settings](images/header/header_modern.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Header</span>
+
+    ![Configure Header Settings](images/header/header_modern.png)
 
 ### **Basics**
-Located in **Header → Basics**.
+Located in **Headers → Basic**.
 Here you can control the fundamental layout and behavior of your header.
 
-![Header Variation](images/header/header-settings-basics.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Header</span>
+
+    ![Header Variation](images/header/header-settings-basics.png)
 
 ### **Contact Information**
 Want to show your phone number or email right at the top?
-Go to **Header → Contact Information** to add your details.
+Go to **Headers → Contact** to add your details.
 
-![Contact Information](images/header/header_contact_information.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Header</span>
+
+    ![Contact Information](images/header/header_contact_information.png)
 
 ### **Search Form**
 You can choose to **Show** or **Hide** the advanced search form in the header.
-Go to **Header → Search Form**.
+Go to **Headers → Search Form**.
 
-![Search Form](images/header/header_search_form_customizer.gif)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Header</span>
+
+    ![Search Form](images/header/header_search_form_customizer.gif)
 
 ### **Sticky Header**
 A sticky header stays visible at the top of the screen as users scroll down.
-Toggle this feature in **Header → Basics**.
+Toggle this feature in **Headers → Basic**.
 
-![Sticky Header Settings](images/header/sticky-header.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Header</span>
+
+    ![Sticky Header Settings](images/header/sticky-header.png)
 
 !!! info "Using Elementor?"
     If you built a custom header with Elementor, check out our guide on [**Making Elementor Headers Sticky**](https://realhomes.io/documentation/custom-header-footer-elementor/#how-to-make-elementor-header-sticky).
@@ -62,15 +142,35 @@ Toggle this feature in **Header → Basics**.
 ## **3. Header Styles (Colors & Layout)**
 
 Want to change the background color, font size, or height?
-Navigate to **Dashboard → RealHomes → Customize Settings → Styles → Header**.
+Navigate based on your version:
 
-![Header Styles](images/header/header_styles_modern.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Styles</span> ➤ <span class="nav-step">Header</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Styles</span> ➤ <span class="nav-step">Header</span>
+
+    ![Header Styles](images/header/header_styles_modern.png)
 
 ### **Sticky Header Styles**
 You can have a different look when the header is "stuck" (e.g., a white background instead of transparent).
 Scroll down in the **Styles** section to find **Sticky Header** settings.
 
-![Sticky Header Styles](images/header/header_sticky_styles_modern.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Header</span>
+
+    ![Sticky Header Styles](images/header/header_sticky_styles_modern.png)
 
 ### **Responsive Header Styles**
 Adjust how the header looks on mobile devices and tablets.
@@ -88,4 +188,4 @@ Want complete freedom? You can design a custom header from scratch using Element
 
 ### **Responsive Variations (Modern Design)**
 If you are using the **Modern** design, you can switch between **Transparent** and **Solid** layouts for mobile devices.
-Check **Header → Basics** to find the **Responsive Header Variation** setting.
+Check **Header → Basic** to find the **Responsive Header Variation** setting.

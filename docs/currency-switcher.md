@@ -1,16 +1,14 @@
 # 💱 How to Set Up the Currency Switcher
 
-The **Currency Switcher** feature in the RealHomes theme allows visitors to view property prices in their preferred currency. This feature is powered by the [**RealHomes Currency Switcher**](https://wordpress.org/plugins/realhomes-currency-switcher/) plugin, available for free on the WordPress Plugin Repository.
-
-Follow the steps below to install and configure it properly.
+The **Currency Switcher** feature allows visitors to view property prices in their preferred currency. Powered by the [**RealHomes Currency Switcher**](https://wordpress.org/plugins/realhomes-currency-switcher/) plugin.
 
 ---
 
 ## 🔌 Step 1: Install & Activate the Plugin
 
 1. Navigate to **Dashboard → Plugins → Add New**  
-2. In the search field, type **RealHomes Currency Switcher**
-3. Click **Install** and then **Activate** the plugin
+2. Search for **RealHomes Currency Switcher**
+3. **Install** and **Activate** the plugin
 
 ![Install RealHomes Currency Switcher Plugin](images/other-features/search-realhomes-currency-switcher.png)
 
@@ -18,18 +16,30 @@ Follow the steps below to install and configure it properly.
 
 ## ⚙️ Step 2: Configure Currency Switcher Settings
 
-After activation, head to **Dashboard → Easy Real Estate → Currencies Settings**
+After activation, navigate based on your version of the **RealHomes** theme:
 
-Here, you'll find the following configuration options:
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Currencies Settings</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Currency Switcher</span>
+
+    ![Currencies Settings](images/other-features/realhomes-currency-switcher-settings.png)
+
+Here you'll find the configuration options:
 
 - ✅ **Enable/Disable Currency Switcher**
 - 🔐 **Open Exchange App ID**
 - 🔄 **Update Interval** – Define how often exchange rates update
 - 💲 **Base Currency** – Set your website's main currency
 - 🌐 **Allowed Currencies** – Choose which currencies users can switch between
-- 💹 **Number of Currencies to Display** – Select how many currencies you would like to display
-- ⏱️ **Expiry Period** – Define how long the selected currency remains active in the user's session
-- 📥 **Update Currencies Rates** – Manually fetch latest exchange rates
+- 💹 **Number of Currencies to Display**
+- ⏱️ **Expiry Period** – Session duration for selected currency
+- 📥 **Update Currencies Rates** – Manually fetch latest rates
 
 
 > 📘 You can also view the [complete list of supported currencies](https://docs.openexchangerates.org/reference/supported-currencies?ref=realhomes) by Open Exchange Rates for reference.
@@ -40,9 +50,7 @@ Here, you'll find the following configuration options:
 
 ## 🌍 Step 3: View the Currency Switcher on the Frontend
 
-After configuring the settings, visit your website’s frontend.
-
-You’ll see a floating **Currency Switcher** on the right-hand side, allowing users to select their preferred currency.
+After configuring, you’ll see a floating **Currency Switcher** on the right-hand side of your website.
 
 ![Frontend Currency Switcher](images/other-features/currency-switcher-frontend.png)
 
@@ -51,4 +59,4 @@ You’ll see a floating **Currency Switcher** on the right-hand side, allowing u
 ## 🆘 Need Help?
 
 🙋‍♂️ Still have questions?  
-  [Log in or register](https://support.inspirythemes.com/login-register/) on our support platform and [submit your query](https://support.inspirythemes.com/ask-question/). Our support team will be happy to help you.
+  [Log in or register](https://support.inspirythemes.com/login-register/) on our support platform and [submit your query](https://support.inspirythemes.com/ask-question/).

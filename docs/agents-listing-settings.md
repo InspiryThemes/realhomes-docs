@@ -2,50 +2,128 @@
 
 ### **General Settings**
 
-To configure the Agents' Listing page settings:
+To configure the Agents' Listing page settings, navigate based on your version of the **RealHomes** theme:
 
-1. Go to **Dashboard → RealHomes → Customize Settings → Agents Pages**.
+=== "v4.5.1 and Later"
 
-   ![Agents Listing Settings](images/agents/agents-settings.png)
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Agents Pages</span>
+
+    ![Agents Listing Settings](images/agents/agents-settings.png)
 
 ### **Agents Search**
 
-You can enable or disable the search feature on the Agents' Listing page.
+You can enable or disable the search feature on the Agents' Listing page in the same section.
 
-![Agents Search](images/agents/agents-search.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Agents Pages</span>
+
+    ![Agents Search](images/agents/agents-search.png)
 
 ### **Agents Sort Control**
 
 Allow users to sort agents by different criteria.
 
-![Agents Sort Control](images/agents/agents-sort-control.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Agents Pages</span>
+
+    ![Agents Sort Control](images/agents/agents-sort-control.png)
 
 ### **Agents Statistics**
 
 The **Agents Statistics** feature provides insights into property distribution across various categories.
 
-![Agents Statistics](images/agents/agents-properties-stats.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Agents Pages</span>
+
+    ![Agents Statistics](images/agents/agents-properties-stats.png)
 
 ### **Properties on Single Agent Page**
 
 This setting controls the display of properties associated with an agent on their single-agent page.
 
-![Properties on Single Agent Page](images/agents/properties-on-agents-page.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Agents Pages</span>
+
+    ![Properties on Single Agent Page](images/agents/properties-on-agents-page.png)
 
 ### **Verification Status**
 
 Enable or disable the verification status feature for agents.
 
-![Agents Verification Status](images/agents/agents-verification-status.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Agents Pages</span>
+
+    ![Agents Verification Status](images/agents/agents-verification-status.png)
 
 ### **Agents Rating**
 
 Activate agent rating functionality to allow users to rate agents based on their service.
 
-![Agents Rating](images/agents/agents-ratings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Agents Pages</span>
+
+    ![Agents Rating](images/agents/agents-ratings.png)
 
 ### **Shortcode to Replace Default Contact Form**
 
 You can replace the default contact form with a custom one using a shortcode.
 
-![Custom Contact Form](images/agents/agents-verification-status.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Agents Pages</span>
+
+    ![Custom Contact Form](images/agents/agents-verification-status.png)

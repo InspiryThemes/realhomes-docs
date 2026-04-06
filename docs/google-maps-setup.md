@@ -37,25 +37,19 @@ Copy the generated **Google Maps API key** from the popup. Click on **Close** bu
 
 Put this **API Key** in the **Maps** Settings of the **RealHomes** theme. Follow the path based on your version:
 
----
+=== "v4.5.1 and Later"
 
-#### **v4.5.1 and Later**
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Maps</span>
 
-!!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Maps**
+    ![RealHomes Documentation](images/ere-tabs/google-maps-settings.png)
 
-![RealHomes Documentation](images/ere-tabs/google-maps-settings.png)
+=== "v4.5.0 and Earlier"
 
----
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Maps** (tab)</span> ➤ <span class="nav-step">Google Maps API Key</span>
 
-#### **v4.5.0 and Earlier**
-
-!!! info "Navigation Path"
-    **Dashboard** → **Easy Real Estate** → **Settings** → **Maps** (tab) → **Google Maps API Key**
-
-![RealHomes Documentation](images/google-maps/google-maps-ere.png)
-
----
+    ![RealHomes Documentation](images/google-maps/google-maps-ere.png)---
 
 ### **Default Location for Maps on Single Property & Property Listing Pages**
 

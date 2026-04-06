@@ -23,11 +23,19 @@ There are **3 Templates** for properties listing pages.
 
 ### **Map Settings**
 
-If you like to disable the map on Properties Listing pages then you can disable it and control several other options by navigating to **Dashboard → RealHomes → Customize Settings → Properties Templates & Archive** as shown below.
+If you like to disable the map on Properties Listing pages, you can disable it and control several other options by navigating based on your version:
 
-**Classic**
+=== "v4.5.1 and Later"
 
-![Properties Listing Templates](images/create-pages/properties-listing-map-settings.png)
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">General Pages</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Templates & Archive</span>
+
+    ![Properties Listing Templates](images/create-pages/properties-listing-map-settings.png)
 
 **Modern**
 
@@ -80,12 +88,32 @@ After publishing you need to add the newly created page to the menu via **Dashbo
 
 ### **Properties Archive / Taxonomy Pages**
 
-The settings for Properties Archive & Taxonomy pages are located in **Dashboard → RealHomes → Customize Settings → Properties Templates & Archive**.
+The settings for Properties Archive & Taxonomy pages are located in:
 
-![Adding Listing Page to the Menu](images/create-pages/properties-archive-page-settings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">General Pages</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Templates & Archive</span>
+
+    ![Adding Listing Page to the Menu](images/create-pages/properties-archive-page-settings.png)
 
 ### **Properties Card Settings**
 
-You can change the **Properties Card's** settings for **Grid Layout** in **Dashboard → RealHomes → Customize Settings → Properties Templates & Archive**.
+You can change the **Properties Card's** settings for **Grid Layout** in:
 
-![Adding Listing Page to the Menu](images/create-pages/properties-card-settings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">General Pages</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Templates & Archive</span>
+
+    ![Adding Listing Page to the Menu](images/create-pages/properties-card-settings.png)

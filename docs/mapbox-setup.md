@@ -28,25 +28,19 @@ If you like to create a new token of MapBox for your website then click on **+ C
 
 Copy the **MapBox Token** by clicking on the blue icon. Navigate to the **Maps** settings of the **RealHomes** theme to enter the token. Follow the path below based on your theme version:
 
----
+=== "v4.5.1 and Later"
 
-#### **v4.5.1 and Later**
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Maps</span>
 
-!!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Maps**
+    ![RealHomes Documentation](images/ere-tabs/mapbox-settings.png)
 
-![RealHomes Documentation](images/ere-tabs/mapbox-settings.png)
+=== "v4.5.0 and Earlier"
 
----
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Maps** (tab)</span> ➤ <span class="nav-step">MapBox API Key</span>
 
-#### **v4.5.0 and Earlier**
-
-!!! info "Navigation Path"
-    **Dashboard** → **Easy Real Estate** → **Settings** → **Maps** (tab) → **MapBox API Key**
-
-![RealHomes Documentation](images/mapbox/mapbox-ere-settings.png)
-
----
+    ![RealHomes Documentation](images/mapbox/mapbox-ere-settings.png)---
 
 ### **Default Location for Maps on Single Property & Property Listing Pages**
 

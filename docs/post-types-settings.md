@@ -4,25 +4,19 @@ The **Post Types** settings allow you to manage custom post types included in th
 
 To access and configure these settings, follow the navigation path based on your version of the **RealHomes** theme:
 
----
+=== "v4.5.1 and Later"
 
-### **v4.5.1 and Later**
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Post Types** (tab)</span>
 
-!!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Post Types** (tab)
+    ![RealHomes Documentation](images/ere-tabs/post-types-settings-panel.png)
 
-![RealHomes Documentation](images/ere-tabs/post-types-settings-panel.png)
+=== "v4.5.0 and Earlier"
 
----
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Post Types** (tab)</span>
 
-### **v4.5.0 and Earlier**
-
-!!! info "Navigation Path"
-    **Dashboard** → **Easy Real Estate** → **Settings** → **Post Types** (tab)
-
-![RealHomes Documentation](images/ere-tabs/post-types-settings.png)
-
----
+    ![RealHomes Documentation](images/ere-tabs/post-types-settings.png)
 
 ### **Available Post Types**
 

@@ -52,6 +52,16 @@ After publishing you need to add the newly created page in menu from **Dashboard
 
 ### **Gallery Page Settings**
 
-There are various Customizer settings available in **Dashboard → RealHomes → Customize Settings → Gallery Pages**.You can change the Header Variation, Banner Title here. You can also manage **Properties Sort Control** and **Properties Filter Control** in this section.
+There are various settings available to change the Header Variation, Banner Title, Properties Sort Control, and Properties Filter Control. Navigate based on your version:
 
-![Gallery Page Settings](images/create-pages/gallery-page-settings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Gallery</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Gallery Pages</span>
+
+    ![Gallery Page Settings](images/create-pages/gallery-page-settings.png)

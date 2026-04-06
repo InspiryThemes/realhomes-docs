@@ -1,8 +1,18 @@
 # 🏠 Submit Property – Customizer Settings
 
-This section allows you to control the visibility, layout, fields, and behavior of the "Submit Property" functionality in the frontend dashboard. The settings can be found at **Dashboard → RealHomes → Customize Settings → Dashboard → Submit Property**.
+This section allows you to control the visibility, layout, fields, and behavior of the "Submit Property" functionality in the frontend dashboard. The settings can be found at:
 
-![Submit Property Settings](images/member-pages/submit-property-customizer-settings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Property Submit</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Submit Property</span>
+
+    ![Legacy Customizer - Submit Property](images/member-pages/submit-property-customizer-settings.png)
 
 ---
 

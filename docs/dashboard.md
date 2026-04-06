@@ -54,6 +54,16 @@ Publish the page once it is ready.
 
 ### Step 2. Configuring Dashboard Settings 
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → Basic** section and select the recently created page for dashboard.
+Navigate to the following path based on your version of the **RealHomes** theme:
 
-![Dashboard Page Selection](images/dashboard/dashboard-page-selection.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Basic</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Basic</span>
+
+    ![Dashboard Page Selection](images/dashboard/dashboard-page-selection.png)

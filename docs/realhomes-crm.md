@@ -22,15 +22,22 @@ After activation:
 
 ## ⚙️ Step 2: Configure CRM Settings
 
-Navigate to **Dashboard → RealHomes → CRM Settings** to configure the CRM.  
-Settings are divided into multiple tabs for clarity and ease of use.
-
----
-
 ### ⚙️ General Settings
 - **Empty Fields Fallback Value:** Set a placeholder such as `-` for empty fields.
 
-![CRM General Settings](images/realhomes-crm/crm-general-settings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">CRM</span> ➤ <span class="nav-step">General</span>
+
+    ![RealHomes CRM General Settings](images/realhomes-crm/crm-general-settings-v451.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">CRM Settings</span> ➤ <span class="nav-step">General</span>
+
+    ![CRM General Settings](images/realhomes-crm/crm-general-settings.png)
 
 ---
 
@@ -39,7 +46,19 @@ Settings are divided into multiple tabs for clarity and ease of use.
 - **Lead Types:** e.g., Prospect, Referral, Tenant  
 - **Lead Statuses:** e.g., New, Contacted, Qualified, Won, Lost  
 
-![CRM Leads Settings](images/realhomes-crm/crm-leads-settings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">CRM</span> ➤ <span class="nav-step">Leads</span>
+
+    ![RealHomes CRM Leads Settings](images/realhomes-crm/crm-leads-settings-v451.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">CRM Settings</span> ➤ <span class="nav-step">Leads</span>
+
+    ![CRM Leads Settings](images/realhomes-crm/crm-leads-settings.png)
 
 ---
 
@@ -47,7 +66,19 @@ Settings are divided into multiple tabs for clarity and ease of use.
 - **Inquiry Types:** Purchase, Rent, Tour, Valuation  
 - **Inquiry Statuses:** New, In Progress, Closed, Awaiting Response  
 
-![CRM Inquiries Settings](images/realhomes-crm/crm-inquiries-settings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">CRM</span> ➤ <span class="nav-step">Inquiries</span>
+
+    ![RealHomes CRM Inquiries Settings](images/realhomes-crm/crm-inquiries-settings-v451.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">CRM Settings</span> ➤ <span class="nav-step">Inquiries</span>
+
+    ![CRM Inquiries Settings](images/realhomes-crm/crm-inquiries-settings.png)
 
 ---
 
@@ -59,7 +90,19 @@ Settings are divided into multiple tabs for clarity and ease of use.
   - **Last Steps**
   - **Next Steps**
 
-![CRM Deals Settings](images/realhomes-crm/crm-deals-settings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">CRM</span> ➤ <span class="nav-step">Deals</span>
+
+    ![RealHomes CRM Deals Settings](images/realhomes-crm/crm-deals-settings-v451.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">CRM Settings</span> ➤ <span class="nav-step">Deals</span>
+
+    ![CRM Deals Settings](images/realhomes-crm/crm-deals-settings.png)
 
 ---
 
@@ -69,7 +112,19 @@ Configure CRM activity management:
 - **Task Statuses**
 - **Task Priorities**
 
-![CRM Tasks Settings](images/realhomes-crm/crm-tasks-settings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">CRM</span> ➤ <span class="nav-step">Tasks</span>
+
+    ![RealHomes CRM Tasks Settings](images/realhomes-crm/crm-tasks-settings-v451.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">CRM Settings</span> ➤ <span class="nav-step">Tasks</span>
+
+    ![CRM Tasks Settings](images/realhomes-crm/crm-tasks-settings.png)
 
 ---
 

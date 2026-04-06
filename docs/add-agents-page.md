@@ -20,7 +20,7 @@
 ## Step 3: Configure RealHomes Misc Settings
 
 1. Scroll down to the **RealHomes Misc Settings** panel.
-2. Choose the appropriate settings based on your website design:
+2. Choose the appropriate settings based on your website design.
 
 **Classic**: 
 
@@ -50,12 +50,19 @@
 
 ## Step 6: Configure Agents Page Settings
 
-1. Go to **Dashboard → RealHomes → Customize Settings → Agents Pages**.
-2. Adjust the settings according to your requirements:
+Adjust the settings according to your requirements by navigating based on your version:
 
-**Classic**:
+=== "v4.5.1 and Later"
 
-![Agents Page Customizer Settings](images/create-pages/agents-page-customizer-settings.png)
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Agents Pages</span>
+
+    ![Agents Page Customizer Settings](images/create-pages/agents-page-customizer-settings.png)
 
 **Modern**: 
 

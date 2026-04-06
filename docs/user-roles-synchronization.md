@@ -24,19 +24,19 @@ Once enabled, the system will automatically create a new Agent or Agency profile
 
 This ensures that profile information remains consistent across all roles, making property and agency management more efficient.
 
-### v4.5.1 or later
+=== "v4.5.1 and Later"
 
-!!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **User Management** → **User Roles**
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">User Management</span> ➤ <span class="nav-step">User Roles</span>
 
-![User Role Synchronization](images/ere-tabs/user-roles-settings.png)
+    ![User Role Synchronization](images/ere-tabs/user-roles-settings.png)
 
-### v4.5.0 and Earlier
+=== "v4.5.0 and Earlier"
 
-!!! info "Navigation Path"
-    **Dashboard** → **Easy Real Estate** → **Settings** → **Users** → **User Role Management**
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Users</span> ➤ <span class="nav-step">User Role Management</span>
 
-![User Role Synchronization](images/dashboard/user-roles-agent-agency-sync.png)
+    ![User Role Synchronization](images/dashboard/user-roles-agent-agency-sync.png)
 
 ---
 
@@ -70,16 +70,16 @@ Key access options include:
 
 This flexible access management system helps streamline roles and responsibilities, allowing you to tailor permissions according to each user's role.
 
-### v4.5.1 or later
+=== "v4.5.1 and Later"
 
-!!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **User Management** → **Access Management**
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">User Management</span> ➤ <span class="nav-step">Access Management</span>
 
-![User Role Access Management](images/ere-tabs/access-management-settings.png)
+    ![User Role Access Management](images/ere-tabs/access-management-settings.png)
 
-### v4.5.0 and Earlier
+=== "v4.5.0 and Earlier"
 
-!!! info "Navigation Path"
-    **Dashboard** → **Easy Real Estate** → **Settings** → **Users** → **User Role Management**
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Users</span> ➤ <span class="nav-step">User Role Management</span>
 
-![User Role Access Management](images/easy-real-estate/user-role-access-management.png)
+    ![User Role Access Management](images/easy-real-estate/user-role-access-management.png)

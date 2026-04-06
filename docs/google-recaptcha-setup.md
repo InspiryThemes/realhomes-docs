@@ -8,25 +8,19 @@ Ensure you add your website's **URL** and select the reCAPTCHA type (**reCAPTCHA
 
 After obtaining your keys, follow the navigation path based on your version of the **RealHomes** theme:
 
----
+=== "v4.5.1 and Later"
 
-### **v4.5.1 and Later**
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Miscellaneous</span> ➤ <span class="nav-step">reCAPTCHA** (tab)</span>
 
-!!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Miscellaneous** → **reCAPTCHA** (tab)
+    ![Google reCAPTCHA Settings](images/ere-tabs/google-recaptcha-settings.png)
 
-![Google reCAPTCHA Settings](images/ere-tabs/google-recaptcha-settings.png)
+=== "v4.5.0 and Earlier"
 
----
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">reCAPTCHA** (tab)</span>
 
-### **v4.5.0 and Earlier**
-
-!!! info "Navigation Path"
-    **Dashboard** → **Easy Real Estate** → **Settings** → **reCAPTCHA** (tab)
-
-![Google reCAPTCHA Settings](images/ere-tabs/recaptcha.png)
-
----
+    ![Google reCAPTCHA Settings](images/ere-tabs/recaptcha.png)
 
 !!! info "Legacy Versions (Older than 3.9.0)"
     If you are using a version of RealHomes older than **3.9.0**, the settings can be found at:  

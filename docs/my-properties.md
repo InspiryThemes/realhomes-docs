@@ -4,7 +4,17 @@
 
 To configure the **My Properties** section available in the user dashboard, go to:
 
-**Dashboard → RealHomes → Customize Settings → Dashboard → My Properties**
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">My Properties</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">My Properties</span>
+
+    ![My Properties Settings – Customizer](images/dashboard/my-properties-settings.png)
 
 From this Customizer panel, you can manage:
 
@@ -17,8 +27,6 @@ From this Customizer panel, you can manage:
 !!! info "Important"
 
     The **Activate/Deactivate Property** option will be disabled automatically if the **RealHomes Memberships** plugin is active on your website.
-
-![My Properties Settings – Customizer](images/dashboard/my-properties-settings.png)
 
 ---
 

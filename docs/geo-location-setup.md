@@ -3,10 +3,19 @@ Introduced in version 4.1.0 of RealHomes, the Geo Location Radius Search allows 
 !!! warning "Important"
     You must **enable Google Places API** for your Google Maps API Project, otherwise Geo Location Radius Search won't work.
 
-To activate the **Geo Location** feature, follow these steps:
+To activate the **Geo Location** feature, follow estos pasos:
 
-1. Go to **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Locations**.
-2. Select **Geo Location** for **Location Field Type**.
+1. Navigate to the **Locations** section based on your version of the **RealHomes** theme:
+
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Locations</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Locations</span>
 
 ### **Geo Location Setup in Modern**
 
@@ -18,7 +27,7 @@ To activate the **Geo Location** feature, follow these steps:
 
 ### **Geo Location Settings**
 
-In this section at **Dashboard → RealHomes → Customize Settings → Properties Search → Search Form Locations**, you can also modify the following settings for Geo Location Radius Search:
+In the same **Locations** section mentioned above, you can also modify the following settings for Geo Location Radius Search:
 
 ![Geo Location Setup](images/advanced-search/geo-location-setup.png)
 

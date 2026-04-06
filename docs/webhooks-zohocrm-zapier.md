@@ -14,23 +14,17 @@ We have prepared a comprehensive guide on how to integrate RealHomes with extern
 
 To configure webhooks, navigate to the path below based on your RealHomes version:
 
----
+=== "v4.5.1 and Later"
 
-#### **v4.5.1 and Later**
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Miscellaneous</span> ➤ <span class="nav-step">Webhooks (tab)</span>
 
-!!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Miscellaneous** → **Webhooks** (tab)
+    ![RealHomes Documentation](images/ere-tabs/webhooks-settings.png)
 
-![RealHomes Documentation](images/ere-tabs/webhooks-settings.png)
+=== "v4.5.0 and Earlier"
 
----
-
-#### **v4.5.0 and Earlier**
-
-!!! info "Navigation Path"
-    **Dashboard** → **Easy Real Estate** → **Settings** → **Webhooks** (tab)
-
----
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Webhooks (tab)</span>
 
 1.  Provide the **Webhook URL** received from your external service provider.
 2.  Enable the specific triggers (e.g., Lead Submission, Property Submission) you want to send data for.

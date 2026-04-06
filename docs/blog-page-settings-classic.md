@@ -1,10 +1,18 @@
 # Blog Page Settings
 
-You can customize the **Blog Page** related settings easily within the **Customizer** panel. Simply navigate to [ **Dashboard → RealHomes → Customize Settings → Blog Page** ] to access these options.
+You can customize the **Blog Page** related settings easily. Navigate based on your version of the **RealHomes** theme:
 
-### **Classic**
+=== "v4.5.1 and Later"
 
-![Header Variation & Meta Settings](images/news-page/blog-page-settings-classic.png)
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Blog</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Blog Page</span>
+
+    ![Header Variation & Meta Settings](images/news-page/blog-page-settings-classic.png)
 
 ---
 

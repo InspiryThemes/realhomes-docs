@@ -20,11 +20,19 @@ To create a new one:
 
 ## Contact Page Settings
 
-You can customize the layout and content of your contact page directly from the Customizer.
+You can customize the layout and content of your contact page. Navigate based on your version:
 
-### **Contact Map**
+=== "v4.5.1 and Later"
 
-Want to show your office location? Navigate to **Dashboard → RealHomes → Customize Settings → Misc → Contact Map**.
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Contact</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Misc</span>
+
+Want to show your office location? In the **Contact** settings section mentioned above, look for **Contact Map** options.
 
 ![Contact Map Tab](images/contact-page/contact-map-tab.png)
 
@@ -47,7 +55,7 @@ Choose the visual style of the map:
 
 !!! important "Google Maps API Key Required"
     To display Google Maps, you must have a valid API key configured.  
-    Go to **Easy Real Estate → Settings → Maps** to add your key. Without it, the map will not load.
+    Go to **Dashboard → RealHomes → Settings → Maps** to add your key. Without it, the map will not load.
 
 #### **Custom Map Marker**
 *   **Maps Marker:** Upload your own pin icon (Recommended size: **50x50 px**).
@@ -57,7 +65,7 @@ Choose the visual style of the map:
 
 ### **Contact Details**
 
-This section controls the business information displayed on your contact page.
+This section controls the business information displayed on your contact page. Found in the same **Contact** settings section.
 
 ![Contact Details Tab](images/contact-page/contact-details-tab.png)
 
@@ -71,7 +79,7 @@ This section controls the business information displayed on your contact page.
 
 ### **Contact Form**
 
-Configure how the contact form works and where the emails go.
+Configure how the contact form works and where the emails go. Found in the same **Contact** settings section.
 
 ![Contact Form Tab](images/contact-page/contact-form-tab.png)
 
@@ -122,8 +130,15 @@ Go to **Appearance → Menus** to add your new Contact page.
 
 ### **Header Variation (Modern Only)**
 
-If you are using the **Modern** design, you can choose to show or hide the header banner for the contact page specifically.
+If you are using the **Modern** design, you can choose to show or hide the header banner for the contact page specifically. Navigate based on your version:
 
-Navigate to **RealHomes → Customize Settings → Contact Page**.
+=== "v4.5.1 and Later"
 
-![show/hide banner](images/contact-page/banner-display.png)
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Contact</span>
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Contact Page</span>
+
+    ![show/hide banner](images/contact-page/banner-display.png)

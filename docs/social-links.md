@@ -4,25 +4,19 @@ The **Social** settings allow you to manage and display social media links for y
 
 To access and configure these settings, follow the navigation path based on your version of the **RealHomes** theme:
 
----
+=== "v4.5.1 and Later"
 
-### **v4.5.1 and Later**
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Miscellaneous</span> ➤ <span class="nav-step">Social (tab)</span>
 
-!!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Miscellaneous** → **Social** (tab)
+    ![Social Icon Settings](images/ere-tabs/social-links-settings.png)
 
-![Social Icon Settings](images/ere-tabs/social-links-settings.png)
+=== "v4.5.0 and Earlier"
 
----
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Social (tab)</span>
 
-### **v4.5.0 and Earlier**
-
-!!! info "Navigation Path"
-    **Dashboard** → **Easy Real Estate** → **Settings** → **Social** (tab)
-
-![Social Icon Settings](images/ere-tabs/social-links.png)
-
----
+    ![Social Icon Settings](images/ere-tabs/social-links.png)
 
 ### **Managing Social Icons**
 

@@ -4,25 +4,19 @@ The **Post Type Verification** settings allow you to enable or disable verificat
 
 To access and configure these settings, follow the navigation path based on your version of the **RealHomes** theme:
 
----
+=== "v4.5.1 and Later"
 
-### **v4.5.1 and Later**
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Post Types** (tab)</span> ➤ <span class="nav-step">Post Type Verification** (sub-tab)</span>
 
-!!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Post Types** (tab) → **Post Type Verification** (sub-tab)
+    ![Post Type Verification Settings](images/ere-tabs/post-types-verification-settings-v451.png)
 
-![Post Type Verification Settings](images/ere-tabs/post-types-verification-settings.png)
+=== "v4.5.0 and Earlier"
 
----
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Post Types** (tab)</span> ➤ <span class="nav-step">Post Type Verification** (tab)</span>
 
-### **v4.5.0 and Earlier**
-
-!!! info "Navigation Path"
-    **Dashboard** → **Easy Real Estate** → **Settings** → **Post Types** (tab) → **Post Type Verification** (tab)
-
-![Post Type Verification Settings](images/ere-tabs/post-types-verification-settings.png)
-
----
+    ![Post Type Verification Settings](images/ere-tabs/post-types-verification-settings.png)
 
 ### **Available Configuration Options**
 

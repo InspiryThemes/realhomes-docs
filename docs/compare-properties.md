@@ -20,7 +20,19 @@ Select the **Compare Properties** template from page attributes.
 1. Navigate to **Dashboard → RealHomes → Customize Settings → Floating Features**.
 2. Locate the **Compare Properties Panel Settings** section.
 
-![RealHomes Compare Page](images/other-features/compare-properties-section.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Miscellaneous</span> ➤ <span class="nav-step">Floating Features</span>
+
+    ![RealHomes Compare Page](images/other-features/compare-properties-section-4.5.1.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Floating Features</span>
+
+    ![RealHomes Compare Page](images/other-features/compare-properties-section.png)
 
 ---
 

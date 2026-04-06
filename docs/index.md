@@ -14,7 +14,7 @@ Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in
 
 ## Summary of Recent Updates
 
-This section highlights the major updates introduced in **v4.5.1** and previous versions.
+This section highlights the major updates introduced in **v4.5.2** and previous versions.
 
 ---
 
@@ -34,6 +34,8 @@ This section highlights the major updates introduced in **v4.5.1** and previous 
 ---
 
 ### 🆕 Major New Features
+- **Expanded Options Panel Ecosystem** – Integrated settings for RealHomes CRM, Currency Switcher, Memberships, and payment gateways directly into the new Options Panel.
+- **Unified Profile Section** – Introduced a new consolidated profile features section on the user edit profile page.
 - **Theme Options Panel** – A new and improved interface for streamlined theme configuration management.
 - **Unit Measurement Switcher** – Enable users to seamlessly switch between different area measurement units on the frontend.
 - **Cloudflare Turnstile Support** – A privacy-friendly, frictionless alternative to reCAPTCHA for robust form protection.
@@ -49,6 +51,9 @@ This section highlights the major updates introduced in **v4.5.1** and previous 
 ---
 
 ### 🛠️ Key Fixes
+- Fixed an **infinite loading issue** in the RealHomes Options Panel caused by PHP limitations on some hosting environments.
+- Fixed **Property Meta icons** displaying without values in the Elementor widget.
+- Fixed an **OTP send limit** option update issue.
 - Fixed **Properties Google Map widget** markers not displaying when no properties are found.
 - Fixed **Property owner assignment** issue in the RealHomes Dashboard.
 - Fixed **Multiselect field visibility** for the New Field Builder in the frontend dashboard.
@@ -58,10 +63,12 @@ This section highlights the major updates introduced in **v4.5.1** and previous 
 ---
 
 ### 🚀 Improvements
+- **RealHomes Options Panel** enhancements including Date field support, HTML textareas, dynamic dependencies, and improved RTL language layouts.
+- **WPML Compatibility** expanded significantly to cover RealHomes CRM settings, dashboard queries, customizer strings, and all newly added widgets/settings.
+- **OTP Verification Flow** improved for a smoother standard login experience.
 - **Theme Security** improved following a comprehensive security audit of the theme and related plugins.
 - **RH Nav Menu widget** enhanced with better functionality, flexibility, and responsive menu options.
 - **Demo Imports** optimized for CRM, Hotel, and Ultra RVR designs for a smoother setup.
-- **WPML compatibility** improved across all newly added widgets and theme settings.
 - **Performance optimizations** including script loading and other backend improvements.
 
 ---

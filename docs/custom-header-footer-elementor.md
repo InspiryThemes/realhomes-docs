@@ -10,9 +10,21 @@ Since v3.18.0, you can create your own custom headers and footers for you websit
 
 First, please make a copy of your existing Custom Elementor Header, and make any necessary changes to as per your liking. It is very important to note here that **you can't use the same header as sticky**, otherwise you will experience style and layout related issues
 
-Once you have made satisfactory changes, navigate to <strong>Dashboard → Real Homes → Customize Settings → Header</strong> and Enable the settings "**Sticky Header**" and select the **Sticky Header** you have just created.
+Once you have made satisfactory changes, navigate based on your version of the **RealHomes** theme:
 
-![RealHomes Sticky Elementor Header](images/elementor/elementor-based-sticky-header.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span> ➤ <span class="nav-step">Basic</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Header</span>
+
+    ![RealHomes Sticky Elementor Header](images/elementor/elementor-based-sticky-header.png)
+
+Enable the settings "**Sticky Header**" and select the **Sticky Header** you have just created.
 
 ### **How to import Custom Headers & Footers?**
 

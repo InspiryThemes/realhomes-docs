@@ -4,13 +4,25 @@
 
 Enabling this feature will display a **Save Search** button at the top of search results. It will also add a **Saved Searches** menu item to the user menu.
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → Saved Searches** section to enable/disable the save search feature and configure other related settings. 
+Navigate based on your version of the **RealHomes** theme:
 
-![RealHomes Documentation](images/member-pages/saved-searches-setting-1.png)
+=== "v4.5.1 and Later"
 
-![RealHomes Documentation](images/member-pages/saved-searches-setting-2.jpg)
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Saved Searches</span>
 
-![RealHomes Documentation](images/member-pages/saved-searches-setting-3.jpg)
+    ![RealHomes Documentation](images/member-pages/saved-searches-settings.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Saved Searches</span>
+
+    ![RealHomes Documentation](images/member-pages/saved-searches-setting-1.png)
+
+    ![RealHomes Documentation](images/member-pages/saved-searches-setting-2.jpg)
+
+    ![RealHomes Documentation](images/member-pages/saved-searches-setting-3.jpg)
 
 **Modern**
 

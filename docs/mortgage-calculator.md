@@ -7,13 +7,39 @@ From RealHomes v3.11.1, the **Mortgage Calculator is now a part of the theme** a
 
 ### **Activate Mortgage Calculator Module**
 
-You can activate it from **Customizer** settings, navigate to **<code>Dashboard → RealHomes → Customize Settings → Property Detail Page → Mortgage Calculator</code>** section.
+You can activate it by navigating based on your version of the **RealHomes** theme:
 
-![RealHomes Documentation](images/widgets/mortgage-calculator-customizer-settings.gif)
+=== "v4.5.1 and Later"
 
-After activation of the Mortgage Calculator module you must re-save the setion manager settings for property details page by going to **<code>Dashboard → RealHomes → Customize Settings → Property Detail Page → Section Manager</code>** and change any of its settings and save it (check following demonstration).
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➔ <span class="nav-step">RealHomes</span> ➔ <span class="nav-step">Settings</span> ➔ <span class="nav-step">Property Detail Page</span> ➔ <span class="nav-step">Mortgage Calculator</span>
 
-![RealHomes Documentation](images/widgets/mc-update-section-manager.gif)
+    ![ERE Options Panel - Mortgage Calculator](images/single-property-page/single-property-mortgage-settings.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➔ <span class="nav-step">RealHomes</span> ➔ <span class="nav-step">Customize Settings</span> ➔ <span class="nav-step">Property Detail Page</span> ➔ <span class="nav-step">Mortgage Calculator</span>
+
+    ![Legacy Customizer - Mortgage Calculator](images/widgets/mortgage-calculator-customizer-settings.gif)
+
+After activation of the Mortgage Calculator module you must re-save the section manager settings for property details page by going to:
+
+=== "v4.5.1 and Later"
+
+    !!! success "New Options Panel Path"
+        <span class="nav-step">Dashboard</span> ➔ <span class="nav-step">RealHomes</span> ➔ <span class="nav-step">Settings</span> ➔ <span class="nav-step">Property Detail Page</span> ➔ <span class="nav-step">Section Manager</span>
+
+    ![ERE Options Panel - Section Manager](images/single-property-page/property-sections-manager-settings.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Customizer Path"
+        <span class="nav-step">Dashboard</span> ➔ <span class="nav-step">RealHomes</span> ➔ <span class="nav-step">Customize Settings</span> ➔ <span class="nav-step">Property Detail Page</span> ➔ <span class="nav-step">Section Manager</span>
+
+    Change any of its settings and save it (check following demonstration).
+
+    ![RealHomes Documentation](images/widgets/mc-update-section-manager.gif)
 
 You should see it on the property detail page according to your selected design on the frontend. The Mortgage Calculator can be seen in the following screenshots.
 
@@ -22,6 +48,8 @@ You should see it on the property detail page according to your selected design 
 
 **Classic**
 ![RealHomes Documentation](images/widgets/mc-classic-frontend.png)
+
+### Mortgage Calculator Widget
 
 The new **Mortgage Calculator module is also available as a Widget** and you can add it to any sidebar of your choice throughout the theme.
 
@@ -35,7 +63,7 @@ The new **Mortgage Calculator module is also available as a Widget** and you can
 
 ### **Labels & Other Settings**
 
-The Mortgage Calculator title, labels and other elements can be modified from the same Customizer settings (refer to the following screenshots).
+The Mortgage Calculator title, labels and other elements can be modified from the same settings section mentioned above.
 
 ![RealHomes Documentation](images/widgets/mc-title-labels.png)
 
@@ -51,7 +79,7 @@ The property meta fields to add taxes and dues can be found in the **Misc** sect
 
 ![RealHomes Documentation](images/widgets/mc-property-meta-field.png)
 
-The new **Mortgage Calculator section/widget will not display for the Properties available for Rent**. The Rent status is determined from the Customizer settings shown in the following screenshot.
+The new **Mortgage Calculator section/widget will not display for the Properties available for Rent**. The Rent status is determined from the settings shown in the following screenshot.
 
 ![RealHomes Documentation](images/widgets/mc-rent-status-customizer.png)
 

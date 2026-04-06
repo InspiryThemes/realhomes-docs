@@ -6,9 +6,19 @@ Streamline the property submission process on your website by enabling the **Gue
 
     To enable the Guest Property Submission feature, it is essential to configure the Dashboard correctly. For detailed instructions on setting up the Dashboard, please refer to our comprehensive documentation available <a target="_blank" href="https://realhomes.io/documentation/dashboard/">here</a>.
 
-Simply navigate to **Dashboard → RealHomes → Customize Settings → Dashboard → Submit Property** to enable the **Guest Property Submission** and enhance the user experience.
+Navigate based on your version of the **RealHomes** theme to enable the **Guest Property Submission**:
 
-![Guest Property Submission - RealHomes](images/member-pages/guest-property-submission.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Property Submit</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Submit Property</span>
+
+    ![Guest Property Submission - RealHomes](images/member-pages/guest-property-submission.png)
 
 ### **Key Considerations**
 

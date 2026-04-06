@@ -1,5 +1,15 @@
 # **Submit Property Labels**
 
-You can change the labels of each field of Submit Property form in **Dashboard → RealHomes → Customize Settings → Dashboard → Submit Property Labels**.
+You can change the labels of each field of Submit Property form by navigating based on your version of the **RealHomes** theme:
 
-![Submit Property Form](images/dashboard/submit-property-labels.gif)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Property Submit Labels</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Submit Property Labels</span>
+
+    ![Legacy Customizer - Submit Property Labels](images/dashboard/submit-property-labels.gif)

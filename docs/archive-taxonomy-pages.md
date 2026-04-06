@@ -1,8 +1,18 @@
 # Properties Archive / Taxonomy Pages
 
-Customize the layout, behavior, and display options for **Properties Listing**, **Properties Archive** and **Taxonomy Listing** pages by navigating to **Dashboard → RealHomes → Customize Settings → Properties Templates & Archive**.
+Customize the layout, behavior, and display options for **Properties Listing**, **Properties Archive** and **Taxonomy Listing** pages. Navigate based on your version:
 
-![Archive/Taxonomy Pages](images/create-pages/properties-listing-archives.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">General Pages</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Templates & Archive</span>
+
+    ![Archive/Taxonomy Pages](images/create-pages/properties-listing-archives.png)
 
 ---
 

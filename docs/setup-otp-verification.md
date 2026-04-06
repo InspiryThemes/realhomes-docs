@@ -1,4 +1,4 @@
-# OTP Verification Setup
+# OTP (One-Time Password) Verification Setup
 
 RealHomes provides built-in support for **OTP (One-Time Password)** verification, which enhances security by requiring users to enter a code sent to their registered email during the login process.
 
@@ -8,27 +8,24 @@ RealHomes provides built-in support for **OTP (One-Time Password)** verification
 
 To configure the OTP functional settings, follow the navigation path based on your version of the **RealHomes** theme:
 
----
+=== "v4.5.1 and Later"
 
-#### **v4.5.1 and Later**
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span> ➤ <span class="nav-step">Login & Register</span>
 
-!!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Miscellaneous** → **Social** (tab)
+    ![ERE Options Panel - Setup Otp Verification](images/member-pages/enable-otp-for-login.png)
 
----
+=== "v4.5.0 and Earlier"
 
-#### **v4.5.0 and Earlier**
-
-!!! info "Navigation Path"
-    **Dashboard** → **Easy Real Estate** → **Settings** → **Social** (tab)
-
----
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Social (tab)</span>
 
 **Configuration Steps:**
-1. Scroll to the bottom of the page to find the **OTP Settings**.
-2. **Enable OTP for Login:** Turn this toggle **ON**.
-3. **OTP Max Login Attempts:** Set the maximum number of incorrect attempts allowed.
-4. **OTP Duration (Minutes):** Define the validity lifespan of the OTP code (max 10 minutes).
+
+1. Scroll to the bottom of the page to find the **OTP Settings**.  
+2. **Enable OTP for Login:** Turn this toggle **ON**.  
+3. **OTP Max Login Attempts:** Set the maximum number of incorrect attempts allowed.  
+4. **OTP Duration (Minutes):** Define the validity lifespan of the OTP code (max 10 minutes).  
 5. Click **Save Changes** to apply.
 
 ---

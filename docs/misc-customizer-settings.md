@@ -1,14 +1,32 @@
-# Misc Settings
+# Miscellaneous Settings
 
-Navigate to **Dashboard → RealHomes → Customize Settings → Misc** to manage various global settings that enhance user experience and interface behavior across your website.
+To manage various global settings, navigate based on your version of the **RealHomes** theme:
 
----
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Miscellaneous</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Misc</span>
 
 ### **Label for Featured Properties**
 Customize the label text that appears on featured properties throughout the theme.  
 Example: Change **"Featured"** to something like **"Top Pick"**, **"Hot"**, or any term that matches your branding.
 
-![Featured Property Label Setting](images/misc/featured-label.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Miscellaneous</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Misc</span>
+
+    ![Featured Property Label Setting](images/misc/featured-label.png)
 
 ---
 
@@ -16,7 +34,17 @@ Example: Change **"Featured"** to something like **"Top Pick"**, **"Hot"**, or a
 Change the text of the button that links to the property detail page (displayed when hovering over a property card image).  
 Example: Replace **"View Property"** with **"Explore"** or **"See Details"**.
 
-![Property Link Text Setting](images/misc/view-property-label.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Miscellaneous</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Misc</span>
+
+    ![Property Link Text Setting](images/misc/view-property-label.png)
 
 ---
 
@@ -24,7 +52,17 @@ Example: Replace **"View Property"** with **"Explore"** or **"See Details"**.
 Upload a default image to be shown for properties that don't have a featured image.  
 **Recommended Size:** At least **1200px width** and **680px height**.
 
-![Custom Placeholder Image Setting](images/misc/custom-placeholder-image.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Miscellaneous</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Misc</span>
+
+    ![Custom Placeholder Image Setting](images/misc/custom-placeholder-image.png)
 
 ---
 
@@ -35,7 +73,17 @@ Manage the visibility and placement of the scroll-to-top button on your website.
 - **Scroll to Top Button Position**: Choose whether it appears on the **right** or **left** side.
 - **Scroll to Top Button Position From Bottom**: Set the vertical spacing from the bottom using a value like `15px` or `10%`.
 
-![Scroll to Top Button Settings](images/misc/scroll-to-top-settings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Miscellaneous</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Misc</span>
+
+    ![Scroll to Top Button Settings](images/misc/scroll-to-top-settings.png)
 
 ---
 
@@ -43,7 +91,17 @@ Manage the visibility and placement of the scroll-to-top button on your website.
 Set the fallback text shown when no matching results are found in searchable dropdowns (e.g., location or features).  
 Example: *"No Results Found!"*
 
-![No Results Found Text Setting](images/misc/no-results-text-settings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Miscellaneous</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Misc</span>
+
+    ![No Results Found Text Setting](images/misc/no-results-text-settings.png)
 
 ---
 
@@ -51,7 +109,17 @@ Example: *"No Results Found!"*
 Enable this option if you want to stop WordPress from generating its default image sizes (small, medium, large, etc.) when uploading new images.  
 **Recommended Setting:** Keep this **disabled (No)** unless you have a specific reason to reduce image variants.
 
-![Disable Image Sizes Option](images/misc/disable-default-image-sizes.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Miscellaneous</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Misc</span>
+
+    ![Disable Image Sizes Option](images/misc/disable-default-image-sizes.png)
 
 ---
 
@@ -62,4 +130,14 @@ Customize the appearance and message of the 404 page (shown when a user lands on
 - **404 Page Main Title**: Set the main message (e.g., *"It looks like you are lost!"*).
 - **404 Page Sub Title**: Add a supporting message (e.g., *"Perhaps the above header navigation can help."*).
 
-![404 Page Settings](images/misc/404-settings.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Miscellaneous</span>
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Misc</span>
+
+    ![404 Page Settings](images/misc/404-settings.png)

@@ -14,24 +14,14 @@ We have prepared a detailed blog post to cover the technical setup (API keys, Ap
 
 To enable and configure social login settings in the theme, follow the path based on your version:
 
----
+=== "v4.5.1 and Later"
 
-#### **v4.5.1 and Later**
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Miscellaneous</span> ➤ <span class="nav-step">Social Login** (tab)</span>
 
-!!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Miscellaneous** → **Social Login** (tab)
+    ![RealHomes Documentation](images/ere-tabs/social-login-settings.png)
 
-![RealHomes Documentation](images/ere-tabs/social-login-settings.png)
+=== "v4.5.0 and Earlier"
 
----
-
-#### **v4.5.0 and Earlier**
-
-!!! info "Navigation Path"
-    **Dashboard** → **Easy Real Estate** → **Settings** → **Social Login** (tab)
-
----
-
-1.  Enable the social login platforms you wish to use.
-2.  Paste the required API keys/credentials obtained from the respective developer platforms.
-3.  Click **Save Changes**.
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Social Login** (tab)</span>

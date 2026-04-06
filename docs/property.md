@@ -4,25 +4,19 @@ The **Property Settings** allow you to configure essential property-related opti
 
 To access and configure these settings, follow the navigation path based on your version:
 
----
+=== "v4.5.1 and Later"
 
-### **v4.5.1 and Later**
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Settings</span>
 
-!!! info "Navigation Path"
-    **Dashboard** → **RealHomes** → **Settings** → **Property Settings**
+    ![Property Settings](images/ere-tabs/property-settings.png)
 
-![Property Settings](images/ere-tabs/property-settings.png)
+=== "v4.5.0 and Earlier"
 
----
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property</span>
 
-### **v4.5.0 and Earlier**
-
-!!! info "Navigation Path"
-    **Dashboard** → **Easy Real Estate** → **Settings** → **Property**
-
-![Property Settings](images/ere-tabs/property.png)
-
----
+    ![Property Settings](images/ere-tabs/property.png)---
 
 ### **Area & Lot Size Units**
 
