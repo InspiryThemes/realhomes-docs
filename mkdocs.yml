@@ -19,6 +19,8 @@ theme:
     features:
         - search.suggest
         - search.highlight
+        - content.tabs.link
+        - content.tabs
 
 # Windows Directory
 # site_dir: 'E:\rh-live-doc'
@@ -312,12 +314,23 @@ markdown_extensions:
     - pymdownx.caret
     - pymdownx.critic
     - pymdownx.emoji:
+          emoji_index: !!python/name:pymdownx.emoji.twemoji
           emoji_generator: !!python/name:pymdownx.emoji.to_svg
+          options:
+            custom_icons:
+              - overrides/icons
     - pymdownx.inlinehilite
+    - pymdownx.keys
     - pymdownx.magiclink
     - pymdownx.mark
     - pymdownx.smartsymbols
     - pymdownx.superfences
+    - pymdownx.tabbed:
+          alternate_style: true
+          slugify: !!python/object/apply:pymdownx.slugs.slugify
+            kwds:
+              case: lower
+          combine_header_slug: false
     - pymdownx.tasklist
     - pymdownx.tilde
     - meta

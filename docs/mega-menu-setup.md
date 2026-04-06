@@ -16,14 +16,23 @@ This guide explains how to enable the mega menu feature, create or import a temp
 
 ### Step 1: Enable the Mega Menu Feature
 
-Before you can assign a template, you must globally enable the mega menu feature.
+Before you can assign a template, you must globally enable the mega menu feature. Navigate based on your version:
 
-1.  Go to **Dashboard → Appearance → Customize**.
-2.  Navigate to the **Header → Basics** section.
-3.  Find the **Mega Menu** setting and select **Enable**.
-4.  **Publish** your changes.
+=== "v4.5.1 and Later"
 
-![Enable Mega Menu feature in Customizer](images/elementor/enable-mega-menu.png)
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span> ➤ <span class="nav-step">Basic</span>
+
+    ![ERE Options Panel - Mega Menu Setup](images/elementor/enable-mega-menu-v4.5.1.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Header</span> ➤ <span class="nav-step">Basics</span>
+
+    Find the **Mega Menu** setting and select **Enable**. **Publish** your changes.
+
+    ![Legacy Customizer - Mega Menu Setup](images/elementor/enable-mega-menu.png)
 
 ---
 
