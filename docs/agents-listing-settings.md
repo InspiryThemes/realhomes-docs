@@ -9,6 +9,8 @@ To configure the Agents' Listing page settings, navigate based on your version o
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
 
+    ![Agents Page Customizer Settings](images/create-pages/agents-page-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -24,6 +26,8 @@ You can enable or disable the search feature on the Agents' Listing page in the 
 
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
+
+    ![Agents Page Customizer Settings](images/create-pages/agents-page-settings.png)
 
 === "v4.5.0 and Earlier"
 
@@ -41,6 +45,8 @@ Allow users to sort agents by different criteria.
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
 
+    ![Agents Page Customizer Settings](images/create-pages/agents-page-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -56,6 +62,8 @@ The **Agents Statistics** feature provides insights into property distribution a
 
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
+
+    ![Agents Page Customizer Settings](images/create-pages/agents-page-settings.png)
 
 === "v4.5.0 and Earlier"
 
@@ -73,6 +81,8 @@ This setting controls the display of properties associated with an agent on thei
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
 
+    ![Agents Page Customizer Settings](images/create-pages/agents-page-settings.png)    
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -88,6 +98,8 @@ Enable or disable the verification status feature for agents.
 
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
+
+    ![Agents Page Customizer Settings](images/create-pages/agents-page-settings.png)
 
 === "v4.5.0 and Earlier"
 
@@ -105,6 +117,8 @@ Activate agent rating functionality to allow users to rate agents based on their
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
 
+    ![Agents Page Customizer Settings](images/create-pages/agents-page-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -120,6 +134,8 @@ You can replace the default contact form with a custom one using a shortcode.
 
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agents</span>
+
+    ![Agents Page Customizer Settings](images/create-pages/agents-page-settings.png)
 
 === "v4.5.0 and Earlier"
 

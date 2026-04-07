@@ -9,6 +9,8 @@ To configure settings for the Agencies' Listing page, navigate based on your ver
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agencies</span>
 
+    ![Agencies Page Customizer Settings](images/create-pages/agencies-page-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -25,6 +27,8 @@ You can enable or disable the search feature on the Agencies' Listing page.
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agencies</span>
 
+    ![Agencies Page Customizer Settings](images/create-pages/agencies-page-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -38,6 +42,8 @@ You can enable or disable the search feature on the Agencies' Listing page.
 
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agencies</span>
+
+    ![Agencies Page Customizer Settings](images/create-pages/agencies-page-settings.png)
 
 === "v4.5.0 and Earlier"
 
@@ -55,6 +61,8 @@ The Agencies Statistics feature offers insights into the distribution of propert
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agencies</span>
 
+    ![Agencies Page Customizer Settings](images/create-pages/agencies-page-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -69,6 +77,8 @@ The Agencies Statistics feature offers insights into the distribution of propert
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agencies</span>
 
+    ![Agencies Page Customizer Settings](images/create-pages/agencies-page-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -82,6 +92,8 @@ The Agencies Statistics feature offers insights into the distribution of propert
 
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agencies</span>
+
+    ![Agencies Page Customizer Settings](images/create-pages/agencies-page-settings.png)
 
 === "v4.5.0 and Earlier"
 
@@ -99,6 +111,8 @@ You can also activate agency rating functionality, empowering users to evaluate 
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agencies</span>
 
+    ![Agencies Page Customizer Settings](images/create-pages/agencies-page-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -112,6 +126,8 @@ You can also activate agency rating functionality, empowering users to evaluate 
 
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agencies</span>
+
+    ![Agencies Page Customizer Settings](images/create-pages/agencies-page-settings.png)
 
 === "v4.5.0 and Earlier"
 

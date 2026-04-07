@@ -41,6 +41,8 @@ Now that you have agencies page published, configure the settings for agencies p
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Agencies</span>
 
+    ![Agencies Page Customizer Settings](images/create-pages/agencies-page-settings.png)
+
 
 === "v4.5.0 and Earlier"
 

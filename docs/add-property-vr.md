@@ -23,6 +23,8 @@ To enable this feature, navigate based on your version:
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Settings</span> ➤ <span class="nav-step">Units</span>
 
+    ![Enable Dual Pricing](images/add-content/dual-property-price-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"

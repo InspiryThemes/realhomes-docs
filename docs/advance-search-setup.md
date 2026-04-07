@@ -13,14 +13,16 @@ Please navigate based on your version of the **RealHomes** theme:
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Search Page</span>
 
+    ![Properties Search Page Settings](images/home-setup/search-results-page-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Properties Search Page</span>
 
-Select the property search page from **Select Search Page**. You can setup other options according to your requirements.
+    Select the property search page from **Select Search Page**. You can setup other options according to your requirements.
 
-![Properties Search Page Settings](images/home-setup/search-page-settings-full-mod.png)
+    ![Properties Search Page Settings](images/home-setup/search-page-settings-full-mod.png)
 
 After this you will have a property search form displayed on homepage.
 
@@ -35,14 +37,16 @@ Navigate to **Search Form Basics** section. Based on your version:
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Basic</span>
 
+    ![Properties Search Basics](images/home-setup/search-form-layout.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Basics</span>
 
-In this section you can change **Search Form Layout** to **Default** or **Smart**. You can check both layouts in the following screenshots.
+    In this section you can change **Search Form Layout** to **Default** or **Smart**. You can check both layouts in the following screenshots.
 
-![Properties Search Basics](images/home-setup/search-form-layout.gif)
+    ![Properties Search Basics](images/home-setup/search-form-layout.gif)
 
 **Default Layout**
 
@@ -56,19 +60,67 @@ In this section you can change **Search Form Layout** to **Default** or **Smart*
 
 You can also **Show / Hide Fields** on properties search form as well as **Drag and Drop the Fields** to change their display order and you can also change the labels.
 
-![Properties Search Basics](images/home-setup/search-form-fields-enable-disable-reorder.gif)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Basic</span>
+
+    ![Properties Search Basics](images/home-setup/search-form-fields-enable-disable-reorder.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Basics</span>
+
+    ![Properties Search Basics](images/home-setup/search-form-fields-enable-disable-reorder.gif)
 
 ### **Advance Search Fields**
 
-![Searcch Form Basics](images/home-setup/advance-search-fields-button.gif)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Basic</span>
+
+    ![Properties Search Basics](images/home-setup/advance-search-fields-button-settings.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Basics</span>
+
+    ![Searcch Form Basics](images/home-setup/advance-search-fields-button.gif)
 
 ### **Number Of Fields to Display in Top Row**
 
-![Searcch Form Basics](images/home-setup/number-of-fields-to-display-in-top-row.gif)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Basic</span>
+
+    ![Searcch Form Basics](images/home-setup/number-of-fields-to-display-in-top-row.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Basics</span>
+
+    ![Searcch Form Basics](images/home-setup/number-of-fields-to-display-in-top-row.gif)
 
 ### **Search Button Label & Any Text Label**
 
-![Searcch Form Basics](images/home-setup/search-button-label-any-text.gif)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Search</span> ➤ <span class="nav-step">Basic</span>
+
+    ![Searcch Form Basics](images/home-setup/search-button-label-any-text.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Properties Search</span> ➤ <span class="nav-step">Search Form Basics</span>
+
+    ![Searcch Form Basics](images/home-setup/search-button-label-any-text.gif)
 
 ### **Search Form Locations**
 
