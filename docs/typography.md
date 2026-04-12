@@ -7,6 +7,8 @@ To modify the Typography settings in RealHomes, follow the navigation path based
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Styles</span> ➤ <span class="nav-step">Typography</span>
 
+    ![Legacy Customizer - Typography](images/customize-theme/typography-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
