@@ -75,7 +75,7 @@ This section highlights the major updates introduced in **v4.5.2** and previous 
 
 ### 🔄 Updates
 - **Condominium Demo** updated with Elementor Containers.
-- **Slider Revolution** and other bundled plugins updated to the latest versions.
+- [**Slider Revolution**](slider-revolution.md) and other bundled plugins are maintained at their latest fully compatible versions.
 - **Translation files** refreshed for all theme and plugin components.
 
 👉 For the full version history, please visit our [Change Log](https://realhomes.io/changelog/).

@@ -1,14 +1,39 @@
 # Revolution Slider
 
-### **Install Revolution Slider**
+!!! info "Important Notice"
+    #### **Slider Revolution Compatibility & Versioning**
+    Slider Revolution (by ThemePunch) has transitioned away from the Envato Marketplace and is now available exclusively through their official website. Additionally, they have introduced a new slider engine that may not be fully compatible with many WordPress themes, including RealHomes.
 
-Download full package called **rh-main-package.zip** of RealHomes theme from ThemeForest.net (using your account) and extract it. You can find the instructions to download the full package [here](https://realhomes.io/documentation/installation-and-activation/).
+    To ensure a seamless experience, **RealHomes continue to bundle a stable and fully compatible version of Slider Revolution** within the main theme package. This version is specifically tested and maintained to work perfectly with all RealHomes features and layouts. We highly recommend using this bundled version to avoid any interface or performance issues.
 
-Once extracted find the folder called **Plugins/Revolution** Slider in unzipped package downloaded from themeforest.net.
+    #### **Support Policy**
+    Please be aware that while we include Slider Revolution for your convenience, we provide limited support for its advanced settings and custom slider creation. Our support is focused on its integration with RealHomes and ensuring the bundled version operates as intended within the theme.
 
-This folder will contain revolution slider's plugin zip, documentation and demo slider import zip. You need to go to **Plugins → Add New** in your WordPress dashboard side and upload the **revslider.zip** as displayed in image below.
+    #### **Addons Compatibility**
+    Please note that certain Slider Revolution addons, particularly those developed for newer plugin versions, may not be compatible with the stable bundled version included in RealHomes. We recommend verifying compatibility before attempting to use additional Slider Revolution addons.
+
+
+### **How to Install Slider Revolution**
+
+There are two ways to install the Slider Revolution plugin on your website:
+
+#### **Method 1: Via RealHomes Dashboard (Convenient Way)**
+The easiest way to install Slider Revolution is through the theme's integrated plugin manager.
+
+1.  Navigate to **Dashboard → RealHomes → Plugins**.  
+2.  Find **Slider Revolution** in the list and click **Install**.  
+3.  Once installed, click **Activate**.
+
+#### **Method 2: Manual Installation from Theme Package**
+
+If you prefer to install it manually, you can find the plugin within the main theme package.  
+1.  Download the full package called **rh-main-package.zip** from ThemeForest and extract it.  
+2.  Locate the folder: **Plugins/Revolution Slider**.  
+3.  This folder contains the **revslider.zip** file.  
+4.  Go to **Plugins → Add New → Upload Plugin** in your WordPress dashboard and upload **revslider.zip**.
 
 ![Home Page Slider](images/home-setup/slider-classic3.png)
+
 
 ### **Import RealHomes Slider for Revolution Slider**
 
