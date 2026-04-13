@@ -7,6 +7,8 @@ To change the layout settings of the footer, follow the navigation path based on
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Footer</span> ➤ <span class="nav-step">Basics</span>
 
+    ![RealHomes Settings - Footer Basics](images/footer/footer-basics-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"

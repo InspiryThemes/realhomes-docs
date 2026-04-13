@@ -7,6 +7,8 @@ The settings to enable rounded corners throughout the theme can be found at:
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Styles</span> ➤ <span class="nav-step">Round Corners</span>
 
+    ![RealHomes Settings - Round Corners](images/home-setup/round-corners-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"

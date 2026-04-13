@@ -7,6 +7,8 @@ You can Enable/Disable **Agents** module on dashboard by navigating based on you
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Agents</span>
 
+    ![Dashboard Agents Module Settings](images/dashboard/dashboard-agents-module-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"

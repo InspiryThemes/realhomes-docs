@@ -22,15 +22,7 @@ To create a new one:
 
 You can customize the layout and content of your contact page. Navigate based on your version:
 
-=== "v4.5.1 and Later"
-
-    !!! success "RealHomes Settings"
-        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Contact</span>
-
-=== "v4.5.0 and Earlier"
-
-    !!! info "Legacy Settings"
-        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Misc</span>
+<span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Contact</span>
 
 Want to show your office location? In the **Contact** settings section mentioned above, look for **Contact Map** options.
 

@@ -7,6 +7,8 @@ To configure footer widget layout, follow the navigation path based on your vers
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Footer</span> ➤ <span class="nav-step">Layout</span>
 
+    ![RealHomes Settings - Footer Layout](images/footer/footer-layout-modern-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"

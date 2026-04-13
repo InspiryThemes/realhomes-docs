@@ -7,6 +7,8 @@ To configure footer copyright text, follow the navigation path based on your ver
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Footer</span> ➤ <span class="nav-step">Copyrights</span>
 
+    ![RealHomes Settings - Copyrights](images/customize-theme/footer-copyright-classic-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"

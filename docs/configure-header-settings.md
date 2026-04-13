@@ -33,7 +33,7 @@ First, let's establish your brand. Navigate to:
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Site Identity</span>
 
-        ![Site Identity](images/home-setup/site-identity-settings.png)
+    ![Site Identity](images/home-setup/site-identity-settings.png)
 
 === "v4.5.0 and Earlier"
 
@@ -45,12 +45,11 @@ First, let's establish your brand. Navigate to:
     ![Legacy Customizer - Configure Header Settings Ultra](images/home-setup/site-identity.png)
 
 Here you can upload:
-*   **Logo:** Your main brand image.
-*   **Retina Logo:** A high-resolution version (2x size) for sharp display on modern screens.
-*   **Site Title & Tagline:** Text that appears if no logo is uploaded (and used for SEO).
-*   **Site Icon (Favicon):** The small icon seen in browser tabs.
 
-![Site Identity](images/home-setup/site-identity.png)
+*   **Logo:** Your main brand image.  
+*   **Retina Logo:** A high-resolution version (2x size) for sharp display on modern screens.  
+*   **Site Title & Tagline:** Text that appears if no logo is uploaded (and used for SEO).  
+*   **Site Icon (Favicon):** The small icon seen in browser tabs.
 
 ---
 
@@ -95,6 +94,8 @@ Go to **Headers → Contact** to add your details.
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span>
 
+    ![Header Variation](images/header/header-settings-contact-4.5.1.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -110,6 +111,8 @@ Go to **Headers → Search Form**.
 
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span>
+
+    ![Header Variation](images/header/header-settings-search-form-4.5.1.png)
 
 === "v4.5.0 and Earlier"
 
@@ -149,6 +152,8 @@ Navigate based on your version:
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Styles</span> ➤ <span class="nav-step">Header</span>
 
+    ![Header Variation](images/header/header-settings-styles-4.5.1.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -165,6 +170,8 @@ Scroll down in the **Styles** section to find **Sticky Header** settings.
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span>
 
+    ![Header Variation](images/header/header-settings-sticky-styles-4.5.1.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -176,7 +183,19 @@ Scroll down in the **Styles** section to find **Sticky Header** settings.
 Adjust how the header looks on mobile devices and tablets.
 Scroll down further in **Styles** to find **Responsive Header** settings.
 
-![Responsive Header Styles](images/header/header_responsive_styles_modern.png)
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span>
+
+    ![Header Variation](images/header/header-settings-responsive-styles-4.5.1.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Header</span>
+
+    ![Responsive Header Styles](images/header/header_responsive_styles_modern.png)
 
 ---
 

@@ -17,6 +17,8 @@ Once you have made satisfactory changes, navigate based on your version of the *
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span> ➤ <span class="nav-step">Basic</span>
 
+    ![RealHomes Sticky Elementor Header](images/elementor/elementor-based-sticky-header-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"

@@ -62,6 +62,8 @@ Now you need to configure the created page in your theme settings. Navigate base
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Headers</span> ➤ <span class="nav-step">Login & Register</span>
 
+    ![Login & Register Customizer Settings](images/member-pages/login-modal-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"

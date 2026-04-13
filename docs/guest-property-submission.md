@@ -13,6 +13,8 @@ Navigate based on your version of the **RealHomes** theme to enable the **Guest 
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Property Submit</span>
 
+    ![Guest Property Submission - RealHomes](images/dashboard/guest-property-submission-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"

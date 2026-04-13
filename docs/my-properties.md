@@ -9,6 +9,8 @@ To configure the **My Properties** section available in the user dashboard, go t
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">My Properties</span>
 
+    ![RealHomes Settings - My Properties](images/dashboard/my-properties-settings-v451.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"

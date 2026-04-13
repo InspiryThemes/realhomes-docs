@@ -23,6 +23,8 @@ After activation, navigate based on your version of the **RealHomes** theme:
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Currencies Settings</span>
 
+    ![RealHomes Settings - Currencies Settings](images/other-features/realhomes-currency-switcher-settings-4.5.1.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -44,7 +46,29 @@ Here you'll find the configuration options:
 
 > 📘 You can also view the [complete list of supported currencies](https://docs.openexchangerates.org/reference/supported-currencies?ref=realhomes) by Open Exchange Rates for reference.
 
-![Currencies Settings](images/other-features/realhomes-currency-switcher-settings.png)
+### 💰 Supported Currencies Settings
+
+The **RealHomes Currency Switcher** also provides granular control over how each currency is displayed on the frontend. You can customize the following for every supported currency:
+
+- **Symbol** – Change the currency symbol (e.g., $, €, £).
+- **Position** – Select whether the symbol appears before or after the price.
+- **Symbol Spacing** – Add or remove space between the symbol and the price.
+- **Decimals** – Set the number of decimal points to show.
+- **Thousands Separator** – Define the character used to separate thousands (e.g., `,` or `.`).
+- **Decimals Separator** – Define the character used for decimals (e.g., `.` or `,`).
+- **Rounding** – Apply rounding rules to the converted prices.
+
+=== "v4.5.1 and Later"
+
+    !!! success "RealHomes Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Currencies Settings</span> ➤ <span class="nav-step">Supported Currencies Format</span>
+
+    ![RealHomes Currency Switcher Formats](images/other-features/realhomes-currency-switcher-supported-currencies-settings.png)
+
+=== "v4.5.0 and Earlier"
+
+    !!! info "Legacy Settings"
+        <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Currency Switcher</span> ➤ <span class="nav-step">Supported Currencies Format</span>
 
 ---
 

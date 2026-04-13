@@ -10,6 +10,8 @@ You can enable the **Property Analytics** dashboard module by navigating based o
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Analytics</span>
 
+    ![Enable Property Analytics](images/dashboard/property-analytics-dashboard-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"

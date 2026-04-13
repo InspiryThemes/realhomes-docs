@@ -7,6 +7,8 @@ This section allows you to control the visibility, layout, fields, and behavior 
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Property Submit</span>
 
+    ![RealHomes Settings - Property Submit](images/member-pages/submit-property-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"

@@ -23,7 +23,9 @@ To configure the measurement units and the switcher, please follow the following
     !!! info "Legacy Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property</span>
 
-    ![Measurement Unit Switcher Settings](images/property-settings/unit-switcher-settings.png)### Area & Lot Size Units
+    ![Measurement Unit Switcher Settings](images/property-settings/unit-switcher-settings.png)
+
+### Area & Lot Size Units
 
 If you only want to use a single format across your entire website (without the switcher), you can define a static text label:
 
@@ -45,12 +47,14 @@ Immediately below the unit switcher toggle, you will find settings to define you
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property Settings</span>
 
+    ![Measurement Unit Switcher Settings](images/property-settings/base-measurement-unit-and-more-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Easy Real Estate</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Property</span>
 
-    ![Measurement Unit Switcher Settings](images/property-settings/base-measurement-unit-and-more.png)![Measurement Unit Switcher Settings](images/property-settings/base-measurement-unit-and-more-settings.png)
+    ![Measurement Unit Switcher Settings](images/property-settings/base-measurement-unit-and-more.png)
 
 ### Base Measurement Unit
 Select the measurement unit you used when entering your property sizes in the backend. All mathematical conversions for the frontend switcher will be calculated from this base unit.

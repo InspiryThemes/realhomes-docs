@@ -59,6 +59,8 @@ There are various settings available to change the Header Variation, Banner Titl
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Pages</span> ➤ <span class="nav-step">Gallery</span>
 
+    ![Gallery Page Settings](images/create-pages/gallery-page-settings-4.5.1.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"

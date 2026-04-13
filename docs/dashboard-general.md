@@ -5,6 +5,8 @@ To configure the following settings, navigate based on your version of the **Rea
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Basic</span>
 
+    ![RealHomes Settings - Dashboard Basic](images/dashboard/dashboard-basic-settings.png)
+
 === "v4.5.0 and Earlier"
 
     !!! info "Legacy Settings"
@@ -18,6 +20,8 @@ You can add a logo for the dashboard in:
 
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Site Identity</span>
+
+    ![RealHomes Settings - Dashboard Logo](images/dashboard/dashboard-logo-settings.png)
 
 === "v4.5.0 and Earlier"
 
@@ -74,6 +78,8 @@ Show/Hide **Properties Search Field** using this setting.
 
     !!! success "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Settings</span> ➤ <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">Basic</span>
+
+    ![RealHomes Settings - Dashboard Basic](images/dashboard/dashboard-search-field-settings.png)
 
 === "v4.5.0 and Earlier"
 
