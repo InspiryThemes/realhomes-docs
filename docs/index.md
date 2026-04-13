@@ -2,13 +2,60 @@
 
     This documentation was last updated on **April 13th, 2026**. The current version of RealHomes is {== **v4.5.2** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
 
-Thank you for choosing the **RealHomes Theme**! For any inquiries not covered in this documentation, you can:
+Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in this documentation, you can:
 
-- Search our [**Knowledge Base**](https://support.inspirythemes.com/)
-- Reach out through our [**Support Platform**](https://support.inspirythemes.com/login-register/)
-- Need help obtaining your item purchase code from ThemeForest? Refer to [**this guide**](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/).
-- If your support period has expired, please check out [**this article**](https://support.inspirythemes.com/knowledgebase/extend-renew-support/) to extend or renew your item support.
-- Consult [**this article**](https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/) for guidance on how to update the RealHomes Theme.
+<div class="help-links-container">
+    <a href="https://support.inspirythemes.com/" class="help-link-card" target="_blank">
+        <div class="icon-wrapper">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
+        </div>
+        <div class="card-content">
+            <span class="title">Knowledge Base</span>
+            <span class="description">Browse our extensive collection of articles and FAQs.</span>
+        </div>
+    </a>
+    <a href="https://support.inspirythemes.com/login-register/" class="help-link-card" target="_blank">
+        <div class="icon-wrapper">
+             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+        </div>
+        <div class="card-content">
+            <span class="title">Contact Support</span>
+            <span class="description">Submit a ticket and get help from our expert support team.</span>
+        </div>
+    </a>
+    <a href="https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/" class="help-link-card" target="_blank">
+        <div class="icon-wrapper">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+        </div>
+        <div class="card-content">
+            <span class="title">Purchase Code</span>
+            <span class="description">Learn how to find your ThemeForest item purchase code.</span>
+        </div>
+    </a>
+    <a href="https://support.inspirythemes.com/knowledgebase/extend-renew-support/" class="help-link-card" target="_blank">
+        <div class="icon-wrapper">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+        </div>
+        <div class="card-content">
+            <span class="title">Renew Support</span>
+            <span class="description">Extend or renew your item support period for continued help.</span>
+        </div>
+    </a>
+    <a href="https://support.inspirythemes.com/knowledgebase/how-to-update-realhomes-theme-to-the-latest-version/" class="help-link-card" target="_blank">
+        <div class="icon-wrapper">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 2v6h-6"></path><path d="M3 12a9 9 0 0 1 15-6.7L21 8"></path><path d="M3 22v-6h6"></path><path d="M21 12a9 9 0 0 1-15 6.7L3 16"></path></svg>
+        </div>
+        <div class="card-content">
+            <span class="title">RealHomes Update Guide</span>
+            <span class="description">Consult this guide to update your theme safely to the latest version.</span>
+        </div>
+    </a>
+</div>
+
+
+
+
+
 
 ---
 
