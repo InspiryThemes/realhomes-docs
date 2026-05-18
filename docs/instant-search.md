@@ -10,7 +10,7 @@ To enable this feature, follow these steps:
 2. Look for the **Instant Search Results** option.
 3. Set it to **Yes**.
 
-![Instant Search Results Settings](images/home-setup/instant-search-results-settings.png)
+![Instant Search Results Settings](images/advanced-search/instant-search-results-settings.png)
 
 ### Hide Submit Button (Ultra Design Only)
 
@@ -20,7 +20,7 @@ In the **Ultra** design, you have an additional option to hide the search submit
 2. An additional option **Hide Submit Button** will appear.
 3. Set it to **Yes** if you wish to hide the button.
 
-![Hide Submit Button Settings](images/home-setup/hide-submit-button-settings.png)
+![Hide Submit Button Settings](images/advanced-search/hide-submit-button-settings.png)
 
 ## How it Works
 

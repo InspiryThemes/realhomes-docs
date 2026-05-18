@@ -14,7 +14,7 @@ To import the **Arabic Demo content**, follow these steps:
 
    ![Import Demo Screen](images/import-demo/import-demo-data.png)
 
-2. Click the **Language** tab and then click the blue **Import Demo** button under the **Arabic Ultra - Elementor** option.
+2. Click the **Language** tab and then click the blue **Import Demo** button under the **Arabic Modern - Elementor** option.
 
 3. The system will check for required plugins.  
    - If any plugin is missing, it will be automatically installed.  

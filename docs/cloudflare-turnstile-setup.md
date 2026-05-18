@@ -52,7 +52,7 @@ Once enabled, the Turnstile widget will automatically appear on the following fo
 
 ---
 
-### **Turnstile vs. Google reCAPTCHA**
+### **Turnstile vs Google reCAPTCHA**
 
 RealHomes also supports [**Google reCAPTCHA**](google-recaptcha-setup.md). Both services provide excellent spam protection, but Turnstile offers a more privacy-focused, frictionless experience for users. 
 
