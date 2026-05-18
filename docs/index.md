@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **April 13th, 2026**. The current version of RealHomes is {== **v4.5.2** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
+    This documentation was last updated on **May 15th, 2026**. The current version of RealHomes is {== **v4.5.3** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
 
 Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in this documentation, you can:
 
@@ -53,67 +53,71 @@ Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in
 </div>
 
 
-
-
-
-
 ---
 
 ## Summary of Recent Updates
 
-This section highlights the major updates introduced in **v4.5.2** and previous versions.
+This section highlights the major updates introduced in **v4.5.3** and previous versions.
 
 ---
 
 ### ✨ New Demos
 - **CRM Demo** - [ <a href="https://ultra.realhomes.io/crm" target="_blank">https://ultra.realhomes.io/crm</a> ]    
-  Experience the **RealHomes CRM** demo, showcasing a powerful all-in-one solution for managing leads, inquiries, deals, and tasks. <br>👉 [**Read the CRM Demo Setup Guide**](https://realhomes.io/documentation/crm-demo-setup/)  
+  Experience the **RealHomes CRM** demo, showcasing a powerful all-in-one solution for managing leads, inquiries, deals, and tasks. <br>👉 [**Read the CRM Demo Setup Guide**](crm-demo-setup.md)  
 
 - **French Demo** - [ <a href="https://demo.realhomes.io/french" target="_blank">https://demo.realhomes.io/french</a> ]    
-  Explore the RealHomes theme in **French** for a localized real estate experience. <br>👉 [**Read the French Demo Setup Guide**](https://realhomes.io/documentation/french-demo-setup/)  
+  Explore the RealHomes theme in **French** for a localized real estate experience. <br>👉 [**Read the French Demo Setup Guide**](french-demo-setup.md)  
 
 - **Hebrew Demo** - [ <a href="https://demo.realhomes.io/hebrew" target="_blank">https://demo.realhomes.io/hebrew</a> ]    
-  Explore the RealHomes theme in **Hebrew** with full **RTL compatibility** for a localized real estate experience. <br>👉 [**Read the Hebrew Demo Setup Guide**](https://realhomes.io/documentation/hebrew-demo-setup/)  
+  Explore the RealHomes theme in **Hebrew** with full **RTL compatibility** for a localized real estate experience. <br>👉 [**Read the Hebrew Demo Setup Guide**](hebrew-demo-setup.md)  
 
 - **MLS Demo** - [ <a href="https://demo.realhomes.io/mls" target="_blank">https://demo.realhomes.io/mls</a> ]  
-  Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow.<br>👉 [**Read the MLS Setup Guide**](https://realhomes.io/documentation/mls-on-the-fly-setup/)  
+  Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow.<br>👉 [**Read the MLS Setup Guide**](mls-on-the-fly-setup.md)  
+
+- **Arabic Demo** - [ <a href="https://demo.realhomes.io/arabic" target="_blank">https://demo.realhomes.io/arabic</a> ]    
+  Explore the RealHomes theme in **Arabic** with full **RTL compatibility** for a localized experience. <br>👉 [**Read the Arabic Demo Setup Guide**](arabic-demo-setup.md)  
+
+- **Spanish Demo** - [ <a href="https://demo.realhomes.io/spanish" target="_blank">https://demo.realhomes.io/spanish</a> ]    
+  Explore the RealHomes theme in **Spanish** for a localized real estate experience. <br>👉 [**Read the Spanish Demo Setup Guide**](spanish-demo-setup.md)  
+
+- **Italian Demo** - [ <a href="https://demo.realhomes.io/italian" target="_blank">https://demo.realhomes.io/italian</a> ]    
+  Experience the RealHomes theme in **Italian**, offering a localized experience for the European market. <br>👉 [**Read the Italian Demo Setup Guide**](italian-demo-setup.md)  
 
 ---
 
 ### 🆕 Major New Features
-- **Expanded Options Panel Ecosystem** – Integrated settings for RealHomes CRM, Currency Switcher, Memberships, and payment gateways directly into the new Options Panel.
-- **Unified Profile Section** – Introduced a new consolidated profile features section on the user edit profile page.
-- **Theme Options Panel** – A new and improved interface for streamlined theme configuration management.
-- **Unit Measurement Switcher** – Enable users to seamlessly switch between different area measurement units on the frontend.
-- **Cloudflare Turnstile Support** – A privacy-friendly, frictionless alternative to reCAPTCHA for robust form protection.
-- **OTP Login Verification** – Enhance security by requiring a one-time password sent to email during login.
-- **Hourly Booking support** – Added support for time-based property reservations in the RVR solution.
-- **Global Elementor Widget** – Centrally manage and display standard Elementor templates anywhere on your site.
-- **Save Search functionality** – Improved saved searches for related Elementor property listing widgets.
-- **RealHomes Scroll Animation** – Add smooth reveal animations to Elementor containers on scroll. You can [**Read the Setup Guide**](scroll-animations.md).
-- **Mega Menu support** – Create advanced menus for Modern and Ultra variations using Elementor templates (Desktop only).
-- **Dashboard Typography controls** – intuitively customize text styling within the user dashboard.
-- **RealHomes CRM functionality** – A powerful integrated system for managing leads, inquiries, and communications.
+- **Instant Search Results** – Enable users to see search results refresh instantly as filters change, without a page reload. You can [**Read the Setup Guide**](instant-search.md).
+- **Elementor Header & Footer for Ultra** – Create and manage custom header and footer designs for the Ultra variation using Elementor templates.
+- **Multilingual Options Panel** – Full compatibility with **WPML** and **Polylang** for the RealHomes Options Panel, allowing for localized theme configuration.
+- **Custom User Roles** – Added functionality to enable and manage custom user roles directly from the RealHomes Settings Panel.
+- **Elementor 404 Page Support** – Design and assign a custom 404 error page using Elementor for a more branded error experience.
+- **Advanced Membership Management** – Manual package assignment functionality and enhanced control over property limits (publish, draft, pending).
+- **Vacation Rental Panel Integration** – Vacation Rental plugin settings are now integrated directly into the RealHomes Options Panel for unified management.
+- **Custom Single Post Design for Modern** – Enhanced flexibility to design custom single post layouts for the Modern variation using Elementor widgets.
+- **Turnstile Captcha in Elementor Forms** – Added support for Cloudflare Turnstile captcha within RealHomes Elementor form widgets for enhanced security.
 
 ---
 
 ### 🛠️ Key Fixes
-- Fixed an **infinite loading issue** in the RealHomes Options Panel caused by PHP limitations on some hosting environments.
-- Fixed **Property Meta icons** displaying without values in the Elementor widget.
-- Fixed an **OTP send limit** option update issue.
-- Fixed **Properties Google Map widget** markers not displaying when no properties are found.
-- Fixed **Property owner assignment** issue in the RealHomes Dashboard.
-- Fixed **Multiselect field visibility** for the New Field Builder in the frontend dashboard.
-- Fixed **search fields selection issue** when browser-based back-forward cache is enabled.
-- Fixed **PHP Notices** and resolved various compatibility issues for **PHP 8.3 and 8.4**.
+- Fixed **Search Form price limits** erroneously excluding properties without prices when the price slider was not interacted with.
+- Fixed **Slider Revolution conflict** with other core theme scripts.
+- Fixed **Preview URL visibility** for non-admin users after saving a draft on the submit property template.
+- Fixed **Mega Menu button alignment** issues in the Modern design variation.
+- Fixed **Sorter field saving issue** in the RealHomes Options Panel.
+- Fixed **Properties visibility in search** which were previously excluded due to missing price assignments.
+- Resolved **Ultra property rating** stars color and margin display issues.
+- Fixed various **Elementor single property widgets** layout inconsistencies.
 
 ---
 
 ### 🚀 Improvements
-- **RealHomes Options Panel** enhancements including Date field support, HTML textareas, dynamic dependencies, and improved RTL language layouts.
-- **WPML Compatibility** expanded significantly to cover RealHomes CRM settings, dashboard queries, customizer strings, and all newly added widgets/settings.
-- **OTP Verification Flow** improved for a smoother standard login experience.
-- **Theme Security** improved following a comprehensive security audit of the theme and related plugins.
+- **Centralized Map Scripts** – Improved map script enqueueing by consolidating logic across the entire theme and related plugins.
+- **AJAX Search Optimization** – Enhanced location field AJAX loading and optimized cache handling for large sets of location values.
+- **Price Field Behavior** – Improved display behavior for price fields in both Default and Smart search forms.
+- **Elementor Integration** – Enhanced Schedule a Tour entry handling and improved URL handling for listing widget topbars.
+- **Code Refinement** – Systematic improvement of helper function usage throughout the theme and Easy Real Estate plugin.
+- **Slider Revolution Support** – Improved compatibility by supporting both old and new Slider Revolution shortcodes across the theme.
+- **Widget Refinement** – Enhanced Filter widget property handling and improved share button icon alignment in Elementor Single Property templates.
 - **RH Nav Menu widget** enhanced with better functionality, flexibility, and responsive menu options.
 - **Demo Imports** optimized for CRM, Hotel, and Ultra RVR designs for a smoother setup.
 - **Performance optimizations** including script loading and other backend improvements.

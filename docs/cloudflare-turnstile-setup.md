@@ -45,6 +45,10 @@ Once enabled, the Turnstile widget will automatically appear on the following fo
 *   **Contact Page & Agent Contact Forms**
 *   **Schedule a Tour & Property Inquiry Forms**
 *   **Password Reset Form**
+*   **Elementor Form Widgets** – Includes Agent Contact, Property Inquiry, and Schedule a Tour widgets.
+
+!!! tip "Automatic Integration"
+    Cloudflare Turnstile integrates automatically with both standard theme forms and RealHomes-specific Elementor widgets. As long as you have configured the keys correctly in the settings, the protection will be active across all supported forms.
 
 ---
 

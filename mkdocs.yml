@@ -79,8 +79,11 @@ nav:
     - CRM Demo <span class='label'>New</span>:
           - Import & Setup Guide: crm-demo-setup.md
     - Purpose Oriented Demos:
+          - Italian Demo <span class='label'>New</span>: italian-demo-setup.md
           - French Demo <span class='label'>New</span>: french-demo-setup.md
           - Hebrew Demo <span class='label'>New</span>: hebrew-demo-setup.md
+          - Arabic Demo: arabic-demo-setup.md
+          - Spanish Demo: spanish-demo-setup.md
           - Vacation Rentals:
                 - Setup with Modern: vacation-rentals-setup.md
                 - Setup with Ultra: vacation-rentals-ultra-setup.md
@@ -129,6 +132,7 @@ nav:
           - Modern & Classic:
                 - Create Search Page: create-search-page.md
                 - Configure Properties Search: advance-search-setup.md
+          - Instant Search Results: instant-search.md
     - Easy Real Estate:
           - Adding Property:
                 - Add New Property: add-property.md
