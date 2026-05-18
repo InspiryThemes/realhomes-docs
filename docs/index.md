@@ -63,30 +63,30 @@ This section highlights the major updates introduced in **v4.5.3** and previous 
 
 ### ✨ New Demos
 - **CRM Demo** - [ <a href="https://ultra.realhomes.io/crm" target="_blank">https://ultra.realhomes.io/crm</a> ]    
-  Experience the **RealHomes CRM** demo, showcasing a powerful all-in-one solution for managing leads, inquiries, deals, and tasks. <br>👉 [**Read the CRM Demo Setup Guide**](crm-demo-setup.md)  
-
-- **French Demo** - [ <a href="https://demo.realhomes.io/french" target="_blank">https://demo.realhomes.io/french</a> ]    
-  Explore the RealHomes theme in **French** for a localized real estate experience. <br>👉 [**Read the French Demo Setup Guide**](french-demo-setup.md)  
-
-- **Hebrew Demo** - [ <a href="https://demo.realhomes.io/hebrew" target="_blank">https://demo.realhomes.io/hebrew</a> ]    
-  Explore the RealHomes theme in **Hebrew** with full **RTL compatibility** for a localized real estate experience. <br>👉 [**Read the Hebrew Demo Setup Guide**](hebrew-demo-setup.md)  
-
-- **MLS Demo** - [ <a href="https://demo.realhomes.io/mls" target="_blank">https://demo.realhomes.io/mls</a> ]  
-  Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow.<br>👉 [**Read the MLS Setup Guide**](mls-on-the-fly-setup.md)  
-
-- **Arabic Demo** - [ <a href="https://demo.realhomes.io/arabic" target="_blank">https://demo.realhomes.io/arabic</a> ]    
-  Explore the RealHomes theme in **Arabic** with full **RTL compatibility** for a localized experience. <br>👉 [**Read the Arabic Demo Setup Guide**](arabic-demo-setup.md)  
-
-- **Spanish Demo** - [ <a href="https://demo.realhomes.io/spanish" target="_blank">https://demo.realhomes.io/spanish</a> ]    
-  Explore the RealHomes theme in **Spanish** for a localized real estate experience. <br>👉 [**Read the Spanish Demo Setup Guide**](spanish-demo-setup.md)  
+  Experience the **RealHomes CRM** demo, showcasing a powerful all-in-one solution for managing leads, inquiries, deals, and tasks. <br>👉 [**Read the CRM Demo Setup Guide**](https://realhomes.io/documentation/crm-demo-setup)  
 
 - **Italian Demo** - [ <a href="https://demo.realhomes.io/italian" target="_blank">https://demo.realhomes.io/italian</a> ]    
-  Experience the RealHomes theme in **Italian**, offering a localized experience for the European market. <br>👉 [**Read the Italian Demo Setup Guide**](italian-demo-setup.md)  
+  Experience the RealHomes theme in **Italian**, offering a localized experience for the European market. <br>👉 [**Read the Italian Demo Setup Guide**](https://realhomes.io/documentation/italian-demo-setup.md)  
+
+- **French Demo** - [ <a href="https://demo.realhomes.io/french" target="_blank">https://demo.realhomes.io/french</a> ]    
+  Explore the RealHomes theme in **French** for a localized real estate experience. <br>👉 [**Read the French Demo Setup Guide**](https://realhomes.io/documentation/french-demo-setup)  
+
+- **Hebrew Demo** - [ <a href="https://demo.realhomes.io/hebrew" target="_blank">https://demo.realhomes.io/hebrew</a> ]    
+  Explore the RealHomes theme in **Hebrew** with full **RTL compatibility** for a localized real estate experience. <br>👉 [**Read the Hebrew Demo Setup Guide**](https://realhomes.io/documentation/hebrew-demo-setup.md)  
+
+- **MLS Demo** - [ <a href="https://demo.realhomes.io/mls" target="_blank">https://demo.realhomes.io/mls</a> ]  
+  Experience seamless integration with **200+ MLS service providers**, enabling you to **sync listings directly with RealHomes** for a modern, automated workflow.<br>👉 [**Read the MLS Setup Guide**](https://realhomes.io/documentation/mls-on-the-fly-setup)  
+
+- **Arabic Demo** - [ <a href="https://demo.realhomes.io/arabic" target="_blank">https://demo.realhomes.io/arabic</a> ]    
+  Explore the RealHomes theme in **Arabic** with full **RTL compatibility** for a localized experience. <br>👉 [**Read the Arabic Demo Setup Guide**](https://realhomes.io/documentation/arabic-demo-setup)  
+
+- **Spanish Demo** - [ <a href="https://demo.realhomes.io/spanish" target="_blank">https://demo.realhomes.io/spanish</a> ]    
+  Explore the RealHomes theme in **Spanish** for a localized real estate experience. <br>👉 [**Read the Spanish Demo Setup Guide**](https://realhomes.io/documentation/spanish-demo-setup)  
 
 ---
 
 ### 🆕 Major New Features
-- **Instant Search Results** – Enable users to see search results refresh instantly as filters change, without a page reload. You can [**Read the Setup Guide**](instant-search.md).
+- **Instant Search Results** – Enable users to see search results refresh instantly as filters change, without a page reload. You can [**Read the Setup Guide**](https://realhomes.io/documentation/instant-search/).
 - **Elementor Header & Footer for Ultra** – Create and manage custom header and footer designs for the Ultra variation using Elementor templates.
 - **Multilingual Options Panel** – Full compatibility with **WPML** and **Polylang** for the RealHomes Options Panel, allowing for localized theme configuration.
 - **Custom User Roles** – Added functionality to enable and manage custom user roles directly from the RealHomes Settings Panel.
