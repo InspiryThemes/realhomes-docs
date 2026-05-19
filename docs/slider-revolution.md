@@ -2,9 +2,9 @@
 
 !!! info "Important Notice"
     #### **Slider Revolution Compatibility & Versioning**
-    Slider Revolution (by ThemePunch) has transitioned away from the Envato Marketplace and is now available exclusively through their official website. Additionally, they have introduced a new slider engine that may not be fully compatible with many WordPress themes, including RealHomes.
+    **RealHomes is fully compatible with the new Slider Revolution 7.x engine.**
 
-    To ensure a seamless experience, **RealHomes continue to bundle a stable and fully compatible version of Slider Revolution** within the main theme package. This version is specifically tested and maintained to work perfectly with all RealHomes features and layouts. We highly recommend using this bundled version to avoid any interface or performance issues.
+    To ensure a seamless experience, **RealHomes continues to bundle a stable and fully compatible version of Slider Revolution** within the main theme package. This version is specifically tested and maintained to work perfectly with all RealHomes features and layouts. We highly recommend using this bundled version to avoid any interface or performance issues.
 
     #### **Support Policy**
     Please be aware that while we include Slider Revolution for your convenience, we provide limited support for its advanced settings and custom slider creation. Our support is focused on its integration with RealHomes and ensuring the bundled version operates as intended within the theme.
