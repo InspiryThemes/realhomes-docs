@@ -40,6 +40,21 @@ This ensures that profile information remains consistent across all roles, makin
 
 ---
 
+### **Custom User Roles**
+
+RealHomes allows you to add and manage custom user roles directly from the settings panel. This is particularly useful if your business requires specific roles such as Manager, Staff, or Coordinator alongside the default ones.
+
+To add custom roles, go to **Dashboard → RealHomes → Settings → User Management → Access Management** (or **Dashboard → Easy Real Estate → Settings → Users → User Role Management** for legacy versions).
+
+In the **Custom User Roles** field, simply enter a comma-separated list of the custom roles you wish to add (e.g., `manager, staff, coordinator`).
+
+![Custom User Roles](images/ere-tabs/add-user-role-in-realhomes.gif)
+
+!!! note "Important"
+    After adding the custom roles, make sure to **save the settings and refresh the page**. The newly added roles will then appear in the **Enable/Disable User Roles** section and the **User Role Access Management** tabs, allowing you to configure their permissions just like any other role.
+
+---
+
 ### **User Role Access Management**
 
 This feature gives you granular control over access permissions for various user roles within WordPress and RealHomes, such as Agent, Agency, Owner, Buyer, Seller, Developer, and more.
