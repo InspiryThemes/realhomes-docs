@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **May 18th, 2026**. The current version of RealHomes is {== **v4.5.3** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
+    This documentation was last updated on **May 20th, 2026**. The current version of RealHomes is {== **v4.5.3** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
 
 Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in this documentation, you can:
 
@@ -87,6 +87,7 @@ This section highlights the major updates introduced in **v4.5.3** and previous 
 
 ### 🆕 Major New Features
 - **Instant Search Results** – Enable users to see search results refresh instantly as filters change, without a page reload. You can [**Read the Setup Guide**](https://realhomes.io/documentation/instant-search/).
+- **Elementor Single Property for Modern** – Design and apply custom single property layouts using Elementor templates and widgets in the Modern design. You can [**Read the Setup Guide**](https://realhomes.io/documentation/single-property-elementor-modern/).
 - **Elementor Header & Footer for Ultra** – Create and manage custom header and footer designs for the Ultra variation using Elementor templates.
 - **Multilingual Options Panel** – Full compatibility with **WPML** and **Polylang** for the RealHomes Options Panel, allowing for localized theme configuration.
 - **Custom User Roles** – Added functionality to enable and manage custom user roles directly from the RealHomes Settings Panel.
