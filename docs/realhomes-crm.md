@@ -2,6 +2,9 @@
 
 The **RealHomes CRM** plugin introduces a **powerful all-in-one Customer Relationship Management system** to your website. It helps real estate professionals efficiently manage **leads**, **inquiries**, **deals**, **tasks**, and communication — all from the **RealHomes Frontend Dashboard**.
 
+!!! info "Email Notifications"
+    Please note that enabling the CRM does not affect your standard contact form email notifications. You will continue to receive emails for every lead and inquiry as usual, alongside having the data automatically saved in the CRM.
+
 Follow the steps below to install, configure, and take full advantage of the RealHomes CRM system.
 
 ---
