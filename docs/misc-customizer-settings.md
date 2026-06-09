@@ -12,6 +12,13 @@ To manage various global settings, navigate based on your version of the **RealH
     !!! info "Legacy Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Misc</span>
 
+---
+
+### **WordPress Command Pallet Integration**
+As of version **4.5.4**, RealHomes settings are fully integrated into the new WordPress Command Pallet functionality. You can quickly search, navigate to, and access specific RealHomes settings from anywhere within the WordPress admin area using the Command Pallet (usually accessed via `CMD + K` on Mac or `CTRL + K` on Windows).
+
+---
+
 ### **Label for Featured Properties**
 Customize the label text that appears on featured properties throughout the theme.  
 Example: Change **"Featured"** to something like **"Top Pick"**, **"Hot"**, or any term that matches your branding.

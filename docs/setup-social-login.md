@@ -4,7 +4,10 @@ RealHomes supports social login via **Facebook**, **Google**, and **Twitter**, a
 
 ### **Social Login Guide**
 
-We have prepared a detailed blog post to cover the technical setup (API keys, App IDs, etc.) for each platform:
+We have prepared a detailed blog post to cover the technical setup (API keys, App IDs, etc.) for each platform.
+
+> [!TIP]
+> **Update for v4.5.4:** The setup process for **Google Social Login** has been vastly improved. You no longer need to configure complex Google API keys, making the setup much smoother!
 
 <a class="setup-btn" target="_blank" href="https://inspirythemes.com/realhomes-social-login-setup/">SOCIAL LOGIN SETUP GUIDE</a>
 

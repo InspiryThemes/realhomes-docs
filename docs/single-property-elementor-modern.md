@@ -51,6 +51,7 @@ When editing single property templates in Elementor, look under the **RealHomes 
 - **RH: Single Property Common Note V2** — Displays disclaimer or notes.
 - **RH: Single Property Similar Properties V2** — Shows related properties.
 - **RH: Single Property Agent V2** — Displays assigned agent details.
+- **RH: Single Property Agency V2** — Displays assigned agency details.
 - **RH: Single Property Schedule Tour V2** — Integrates tour scheduling contact forms.
 - **RH: Single Property Mortgage Calculator V2** — Financial calculation widget.
 - **RH: Comments V2** — Renders WordPress comments for the property.

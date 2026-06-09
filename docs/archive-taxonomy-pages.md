@@ -39,6 +39,12 @@ Choose what appears below the header on Property Archive and Taxonomy pages:
 
 ---
 
+### **Map Show/Hide Controls**
+*(Added in v4.5.4)*  
+When the map is enabled for listing templates, you can provide users with a convenient toggle to **Show** or **Hide** the properties map. This control helps users focus on the property grid or the map depending on their preference, offering a cleaner viewing experience.
+
+---
+
 ### **Sticky Properties Handling**
 Enable to skip sticky properties on Archive & Taxonomy pages.  
 > ⚠️ Not recommended unless you have a specific use case.

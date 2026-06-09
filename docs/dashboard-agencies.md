@@ -23,3 +23,9 @@ In this module, you can control the following settings.
 - **Default Status for Updated Agency** ( Customize default status for updated agencies )
 - **Redirect to Selected Page After Submission** ( Select the page for successful submission redirection )
 - **Email Address to Received Submission Notices** ( Receive notifications at specified email for new agencies submissions )
+
+---
+
+### **Managing Agents' Properties as an Agency**
+
+As of version **4.5.4**, users with the **Agency** role can log into the frontend dashboard and seamlessly manage properties submitted by their associated agents. This dedicated dashboard section allows agency administrators to oversee, edit, and publish their team's real estate listings directly from the frontend interface.

@@ -8,6 +8,12 @@ Go to **Dashboard → RealHomes → Customize Settings → Styles → Core Color
 
 ![RealHomes Documentation](images/customize-theme/core-colors-custom.png) 
 
+## Dark Mode Prevention
+
+As of version **4.5.4**, if you want to ensure your website retains its intended color scheme regardless of the user's device settings, you can enable the **Dark Mode Prevention** setting. This feature prevents smaller devices (like mobile phones) from automatically forcing the website into a dark color scheme.
+
+Navigate to **Dashboard → RealHomes → Customize Settings → Styles** to find and toggle this setting.
+
 ## Override Styles (in Previous Versions)
 
 Make sure that you have selected **My Own Custom Colors** in **Dashboard → RealHomes → Customize Settings → Styles → Default or Custom** section to override the default styles and colors of the design.

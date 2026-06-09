@@ -25,3 +25,5 @@ Version 4.1.0 of RealHomes introduced Elementor-based Single Property support in
 Use RealHomes Elementor Widgets to create your own layout from scratch. Here’s a guide to help:
 
 📺 <iframe width="100%" height="500" src="https://www.youtube.com/embed/T3NZlWMbNDM" title="Design Single Property Layout" frameborder="0" allowfullscreen></iframe>
+
+> **Update in v4.5.4:** A new **Single Property Agency** widget is now available for Ultra designs, allowing you to easily embed and style agency information on property detail pages.
