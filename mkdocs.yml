@@ -169,6 +169,7 @@ nav:
           - Listing & Archive Settings: archive-taxonomy-pages.md
           - RealHomes Misc Settings: realhomes-misc-settings.md
           - Properties Filter Settings: properties-filter-settings.md
+          - Show/Hide Map: map-show-hide-on-listing-pages.md
     - Compare Properties: compare-properties.md
     - News/Blog Page:
           - Create News/Blog Page: news-page.md
@@ -213,6 +214,7 @@ nav:
                 - Troubleshooting: google-maps-troubleshooting.md
                 - Custom Markers for Property Type: property-type-custom-markers.md
           - MapBox: mapbox-setup.md
+          - Show/Hide Map: map-show-hide-on-listing-pages.md
     - reCAPTCHA & Turnstile:
           - Google reCAPTCHA: google-recaptcha-setup.md
           - Cloudflare Turnstile: cloudflare-turnstile-setup.md

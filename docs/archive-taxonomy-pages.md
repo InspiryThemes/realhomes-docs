@@ -40,8 +40,12 @@ Choose what appears below the header on Property Archive and Taxonomy pages:
 ---
 
 ### **Map Show/Hide Controls**
-*(Added in v4.5.4)*  
-When the map is enabled for listing templates, you can provide users with a convenient toggle to **Show** or **Hide** the properties map. This control helps users focus on the property grid or the map depending on their preference, offering a cleaner viewing experience.
+
+RealHomes now includes a flexible **Map Show/Hide** feature for property listing templates, allowing visitors to choose whether they want to browse properties using the map view or focus entirely on the property listings.
+
+This feature is particularly useful for users who prefer a distraction-free browsing experience or who are working on smaller screens where additional space for property listings is valuable.
+
+You can learn more about this feature in the [Map Show/Hide Feature for Listing Pages](https://realhomes.io/documentation/map-show-hide-on-listing-pages/) documentation.
 
 ---
 
