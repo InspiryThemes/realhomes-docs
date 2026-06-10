@@ -86,7 +86,13 @@ This section highlights the major updates introduced in **v4.5.4** and previous 
 ---
 
 ### 🆕 Major New Features
-- **RealHomes Cloud Studio** – Seamlessly browse, import, and insert custom real estate templates and widgets directly from within the Elementor editor. You can [**Read the Setup Guide**](https://realhomes.io/documentation/realhomes-cloud-studio/).
+
+!!! tip "🌟 Highlight Feature: RealHomes Cloud Studio"
+
+    Unlock a powerful built-in Template Library that will drastically speed up your workflow! <br><br>With **RealHomes Cloud Studio**, you can instantly browse, preview, and import beautiful, pre-designed RealHomes headers, footers, full pages, and sections right from within the Elementor editor with a single click. <br><br>Stop building every component from scratch and start designing faster with **RealHomes Cloud Studio**.
+    
+    [Explore the Cloud Studio Setup Guide](https://realhomes.io/documentation/realhomes-cloud-studio/){ .md-button .md-button--primary .cloud-studio-btn style="margin-top: 10px;" }
+
 - **Agency Role Dashboard** – Added a dedicated dashboard section allowing Agency role users to manage properties submitted by their associated agents.
 - **WordPress Command Pallet** – Integrated RealHomes settings into the new WordPress Command Pallet functionality for quick searching and navigation.
 - **Agency Single Property Section** – Introduced a new Elementor widget and section dedicated to displaying Agency details on single property templates.

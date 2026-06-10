@@ -14,8 +14,9 @@ Before using RealHomes Cloud Studio, please ensure your setup meets the followin
 - **Elementor Page Builder:** Version 3.0.0 or higher
 - **RealHomes Theme:** Must be installed and activated
 
-> [!NOTE]
-> If your environment does not meet these requirements, you will see a notice in your WordPress dashboard, and the Cloud Studio features will be disabled until the requirements are met.
+!!! info "Important"
+
+    If your environment does not meet these requirements, you will see a notice in your WordPress dashboard, and the Cloud Studio features will be disabled until the requirements are met.
 
 ---
 
@@ -26,14 +27,21 @@ You can browse and interact with the RealHomes Cloud Studio from two different p
 ### 1. From the WordPress Dashboard
 Navigate to **RH Cloud Studio** in your main WordPress admin menu. This brings up the standalone Template Library where you can browse the entire collection of designs available in the cloud.
 
-![RealHomes Cloud Studio Dashboard](images/cloud-studio/dashboard.png)
+<video autoplay loop muted playsinline controls width="100%" style="border-radius: 8px;">
+  <source src="../images/rh-cloud-studio/overview-rh-cloud-studio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### 2. From the Elementor Editor
 When editing any page or template with Elementor, scroll to the bottom of the content area (where you usually add a new section). Alongside the default Elementor folder and plus icons, you will see a new **RealHomes Cloud Studio** icon. 
 
 Clicking this icon opens the Cloud Studio modal directly within the Elementor editor, allowing you to browse and insert designs on the fly.
 
-![RealHomes Cloud Studio in Elementor](images/cloud-studio/elementor.png)
+**See it in action:**
+<video autoplay loop muted playsinline controls width="100%" style="border-radius: 8px;">
+  <source src="../images/rh-cloud-studio/rh-cloud-studio-in-elementor-editor.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -52,7 +60,10 @@ Importing a template is incredibly simple and takes only a few seconds:
 The template, along with all its predefined styles, settings, and structural elements, will immediately be imported into your page.
 
 **See it in action:**
-![RealHomes Cloud Studio Demo](images/cloud-studio/cloud-studio-demo.webp)
+<video autoplay loop muted playsinline controls width="100%" style="border-radius: 8px;">
+  <source src="../images/rh-cloud-studio/how-to-import-rh-cloud-studio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -66,5 +77,12 @@ To ensure you always have access to the latest templates, you can synchronize yo
 2. Click the **Sync Templates** button (usually located near the top of the interface).
 3. The system will connect to the cloud, fetch the latest manifest, and update your library with any newly added or updated templates.
 
-> [!TIP]
-> Make it a habit to click **Sync Templates** periodically to discover new designs added by the Inspiry Themes team!
+!!! info "Tip"
+
+    Make it a habit to click **Sync Templates** periodically to discover new designs added by the Inspiry Themes team!
+
+**See it in action:**
+<video autoplay loop muted playsinline controls width="100%" style="border-radius: 8px;">
+  <source src="../images/rh-cloud-studio/sync-rh-cloud-studio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

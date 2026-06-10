@@ -292,3 +292,13 @@ body .md-ellipsis {
 .help-link-card .icon-wrapper svg {
     border: none !important;
 }
+
+/**
+ * Cloud Studio Index Button
+ */
+.md-button.md-button--primary.cloud-studio-btn:hover,
+.md-button.md-button--primary.cloud-studio-btn:focus {
+    background-color: #10B981;
+    border-color: #10B981;
+    color: white;
+}
