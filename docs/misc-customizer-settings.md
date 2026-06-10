@@ -14,12 +14,7 @@ To manage various global settings, navigate based on your version of the **RealH
 
 ---
 
-### **WordPress Command Pallet Integration**
-As of version **4.5.4**, RealHomes settings are fully integrated into the new WordPress Command Pallet functionality. You can quickly search, navigate to, and access specific RealHomes settings from anywhere within the WordPress admin area using the Command Pallet (usually accessed via `CMD + K` on Mac or `CTRL + K` on Windows).
 
-![WordPress Command Pallet Integration](images/misc/command-pallet.png)
-
----
 
 ### **Label for Featured Properties**
 Customize the label text that appears on featured properties throughout the theme.  
