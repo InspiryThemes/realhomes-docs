@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **June 9th, 2026**. The current version of RealHomes is {== **v4.5.4** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
+    This documentation was last updated on **June 10th, 2026**. The current version of RealHomes is {== **v4.5.4** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
 
 Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in this documentation, you can:
 
@@ -86,42 +86,34 @@ This section highlights the major updates introduced in **v4.5.4** and previous 
 ---
 
 ### 🆕 Major New Features
+- **RealHomes Cloud Studio** – Seamlessly browse, import, and insert custom real estate templates and widgets directly from within the Elementor editor. You can [**Read the Setup Guide**](https://realhomes.io/documentation/realhomes-cloud-studio/).
+- **Agency Role Dashboard** – Added a dedicated dashboard section allowing Agency role users to manage properties submitted by their associated agents.
+- **WordPress Command Pallet** – Integrated RealHomes settings into the new WordPress Command Pallet functionality for quick searching and navigation.
+- **Agency Single Property Section** – Introduced a new Elementor widget and section dedicated to displaying Agency details on single property templates.
+- **Map Show/Hide Controls** – Added the ability to show or hide the properties map across all listing templates.
 - **Instant Search Results** – Enable users to see search results refresh instantly as filters change, without a page reload. You can [**Read the Setup Guide**](https://realhomes.io/documentation/instant-search/).
-- **Elementor Single Property for Modern** – Design and apply custom single property layouts using Elementor templates and widgets in the Modern design. You can [**Read the Setup Guide**](https://realhomes.io/documentation/single-property-elementor-modern/).
-- **Elementor Header & Footer for Ultra** – Create and manage custom header and footer designs for the Ultra variation using Elementor templates.
-- **Multilingual Options Panel** – Full compatibility with **WPML** and **Polylang** for the RealHomes Options Panel, allowing for localized theme configuration.
-- **Custom User Roles** – Added functionality to enable and manage custom user roles directly from the RealHomes Settings Panel.
-- **Elementor 404 Page Support** – Design and assign a custom 404 error page using Elementor for a more branded error experience.
-- **Advanced Membership Management** – Manual package assignment functionality and enhanced control over property limits (publish, draft, pending).
-- **Vacation Rental Panel Integration** – Vacation Rental plugin settings are now integrated directly into the RealHomes Options Panel for unified management.
-- **Custom Single Post Design for Modern** – Enhanced flexibility to design custom single post layouts for the Modern variation using Elementor widgets.
+- **Elementor Single Property for Modern** – Design and apply custom single property layouts using Elementor templates and widgets in the Modern design.
 - **Turnstile Captcha in Elementor Forms** – Added support for Cloudflare Turnstile captcha within RealHomes Elementor form widgets for enhanced security.
 
 ---
 
 ### 🛠️ Key Fixes
+- Fixed **News sections and news Elementor widgets** experiencing high load query issues.
+- Fixed **Search form trigger** erroneously ignoring the sorting menu.
+- Fixed **Elementor based Ultra contact page** template rendering issues.
 - Fixed **Search Form price limits** erroneously excluding properties without prices when the price slider was not interacted with.
-- Fixed **Slider Revolution conflict** with other core theme scripts.
 - Fixed **Preview URL visibility** for non-admin users after saving a draft on the submit property template.
-- Fixed **Mega Menu button alignment** issues in the Modern design variation.
-- Fixed **Sorter field saving issue** in the RealHomes Options Panel.
-- Fixed **Properties visibility in search** which were previously excluded due to missing price assignments.
-- Resolved **Ultra property rating** stars color and margin display issues.
-- Fixed various **Elementor single property widgets** layout inconsistencies.
 
 ---
 
 ### 🚀 Improvements
+- **Google Social Login** – Vastly improved the setup process by completely removing the complex API key requirements.
+- **Search Query Performance** – Refined and optimized search query code for significantly better performance and lower server load.
+- **Save Draft & Preview Property** – Enhanced the save and preview functionality specifically for properties that are already published.
+- **WPML Compatibility** – Enhanced WPML compatibility and added comprehensive language files within the Realhomes CRM plugin.
+- **Dark Mode Prevention** – Added a setting to prevent the website from automatically forcing a dark color scheme on smaller devices.
 - **Centralized Map Scripts** – Improved map script enqueueing by consolidating logic across the entire theme and related plugins.
 - **AJAX Search Optimization** – Enhanced location field AJAX loading and optimized cache handling for large sets of location values.
-- **Price Field Behavior** – Improved display behavior for price fields in both Default and Smart search forms.
-- **Elementor Integration** – Enhanced Schedule a Tour entry handling and improved URL handling for listing widget topbars.
-- **Code Refinement** – Systematic improvement of helper function usage throughout the theme and Easy Real Estate plugin.
-- **Slider Revolution Support** – Improved compatibility by supporting both old and new Slider Revolution shortcodes across the theme.
-- **Widget Refinement** – Enhanced Filter widget property handling and improved share button icon alignment in Elementor Single Property templates.
-- **RH Nav Menu widget** enhanced with better functionality, flexibility, and responsive menu options.
-- **Demo Imports** optimized for CRM, Hotel, and Ultra RVR designs for a smoother setup.
-- **Performance optimizations** including script loading and other backend improvements.
 
 ---
 
