@@ -87,7 +87,7 @@ This option allows you to keep the interface minimal while still maintaining usa
 
 #### **Frontend Examples**
 
-#### **Map Visible State**
+##### **Map Visible State**
 
 When the map is enabled, visitors can browse properties using both the map and listing results simultaneously.
 
