@@ -86,3 +86,11 @@ To ensure you always have access to the latest templates, you can synchronize yo
   <source src="../images/rh-cloud-studio/sync-rh-cloud-studio.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+<!-- Force MkDocs to track these assets -->
+<div style="display: none;">
+[video](images/rh-cloud-studio/overview-rh-cloud-studio.mp4)
+[video](images/rh-cloud-studio/rh-cloud-studio-in-elementor-editor.mp4)
+[video](images/rh-cloud-studio/how-to-import-rh-cloud-studio.mp4)
+[video](images/rh-cloud-studio/sync-rh-cloud-studio.mp4)
+</div>
