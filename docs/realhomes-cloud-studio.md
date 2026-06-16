@@ -1,8 +1,28 @@
 # RealHomes Cloud Studio
 
-RealHomes Cloud Studio is a powerful template library built directly into the RealHomes theme. It provides you with access to beautiful, pre-designed Elementor templates—including headers, footers, full pages, and individual sections—that you can import directly from the cloud with a single click.
+RealHomes Cloud Studio is a powerful template library built directly into the RealHomes theme. It provides you with access to beautiful, pre-designed Elementor templates including headers, footers, full pages, and individual sections that you can import directly from the cloud with a single click.
 
 This feature is designed to rapidly speed up your workflow and help you achieve stunning, professional designs without having to build every component from scratch.
+
+---
+
+## Key Features
+
+**Smart Media Localization:**
+
+When you import a template, RealHomes Cloud Studio doesn't just link to images hosted on external servers. It automatically downloads all external media (images, SVGs) and uploads them directly to your local **WordPress Media Library**. This ensures your pages load fast and your assets remain intact.
+
+**Favorites System:**
+
+Found a template you love? You can "Star" or favorite templates. <br>These are saved to your profile and easily accessible via a dedicated "Favorites" tab for quick access in future projects.
+
+**Import History:**
+
+Every time a template is imported, it is logged in the **Import History** (accessible via the WordPress Admin Bar or Dashboard). If you accidentally delete a section and need to find the exact template you used days later, you can easily retrieve it from your history.
+
+**Advanced Filtering:**
+
+Quickly find what you need by filtering templates by Category (e.g., Headers, Footers) and Style (e.g., Ultra, Modern), or by using the instantaneous search bar.
 
 ---
 
@@ -10,7 +30,7 @@ This feature is designed to rapidly speed up your workflow and help you achieve 
 
 Before using RealHomes Cloud Studio, please ensure your setup meets the following requirements:
 
-- **PHP Version:** 8.0 or higher
+- **PHP Version:** 8.3 or higher (WordPress Requirement)
 - **Elementor Page Builder:** Version 3.0.0 or higher
 - **RealHomes Theme:** Must be installed and activated
 

@@ -67,6 +67,7 @@ nav:
           - Caching & Security Tokens: cache-plugins-configuration.md
           - Feedback: feedback.md
           - Help: help.md
+    - RealHomes Cloud Studio <span class='label'>New</span>: realhomes-cloud-studio.md
     - Ultra Design <span class='label'>New</span>:
           - Import & Setup Guide: ultra-design-setup.md
           - Single Property (Ultra): single-property-elementor-ultra.md
@@ -185,7 +186,6 @@ nav:
           - Fluid Width Page: add-fluid-width-page.md
           - Full Width Page: add-full-width-page.md
     - Custom Sidebars: custom-sidebars.md
-    - RealHomes Cloud Studio <span class='label'>New</span>: realhomes-cloud-studio.md
     - Command Pallet <span class='label'>New</span>: command-pallet.md
     - Elementor:
           - Intro & Installation: intro-and-installation-elementor.md
