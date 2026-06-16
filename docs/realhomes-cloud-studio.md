@@ -4,25 +4,23 @@ RealHomes Cloud Studio is a powerful template library built directly into the Re
 
 This feature is designed to rapidly speed up your workflow and help you achieve stunning, professional designs without having to build every component from scratch.
 
+
+
 ---
 
 ## Key Features
 
-**Smart Media Localization:**
+- **One-Click Template Import:** <br>Instantly import entire pages, individual sections, headers, or footers directly into your Elementor layouts without ever leaving the editor. Say goodbye to manually recreating designs or importing JSON files.<br><br>
 
-When you import a template, RealHomes Cloud Studio doesn't just link to images hosted on external servers. It automatically downloads all external media (images, SVGs) and uploads them directly to your local **WordPress Media Library**. This ensures your pages load fast and your assets remain intact.
+- **Cloud Syncing:** <br>Stay up to date with the latest designs. The library connects directly to our cloud servers, allowing you to instantly sync and fetch newly released templates with a single click.<br><br>
 
-**Favorites System:**
+- **Smart Media Localization:** <br>When you import a template, RealHomes Cloud Studio doesn't just link to images hosted on external servers. It automatically downloads all external media (images, SVGs) and uploads them directly to your local **WordPress Media Library**. This ensures your pages load fast and your assets remain intact.<br><br> 
 
-Found a template you love? You can "Star" or favorite templates. <br>These are saved to your profile and easily accessible via a dedicated "Favorites" tab for quick access in future projects.
+- **Favorites System:** <br>Found a template you love? You can "Star" or favorite templates. <br>These are saved to your profile and easily accessible via a dedicated "Favorites" tab for quick access in future projects.<br><br>
 
-**Import History:**
+- **Import History:** <br>>Every time a template is imported, it is logged in the **Import History** (accessible via the WordPress Admin Bar or Dashboard). If you accidentally delete a section and need to find the exact template you used days later, you can easily retrieve it from your history.<br><br>
 
-Every time a template is imported, it is logged in the **Import History** (accessible via the WordPress Admin Bar or Dashboard). If you accidentally delete a section and need to find the exact template you used days later, you can easily retrieve it from your history.
-
-**Advanced Filtering:**
-
-Quickly find what you need by filtering templates by Category (e.g., Headers, Footers) and Style (e.g., Ultra, Modern), or by using the instantaneous search bar.
+- **Advanced Filtering:** <br>Quickly find what you need by filtering templates by Category (e.g., Headers, Footers) and Style (e.g., Ultra, Modern), or by using the instantaneous search bar.
 
 ---
 

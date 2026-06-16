@@ -11,7 +11,8 @@
     color: #000;
 }
 
-.md-typeset h1, .md-typeset h2 {
+.md-typeset h1,
+.md-typeset h2 {
     font-weight: 700 !important;
     letter-spacing: -.01em;
 }
@@ -21,7 +22,9 @@
     font-weight: bold;
 }
 
-.md-typeset h4, .md-typeset h5, .md-typeset h6 {
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
     font-weight: bold;
 }
 
@@ -29,7 +32,7 @@ body .md-header {
     height: auto;
 }
 
-.md-header__button.md-logo :-webkit-any(img,svg) {
+.md-header__button.md-logo :-webkit-any(img, svg) {
     display: block;
     height: 2.2rem;
 }
@@ -50,7 +53,8 @@ body .md-search__inner {
     font-size: 0.8rem;
 }
 
-.md-typeset h5, .md-typeset h6 {
+.md-typeset h5,
+.md-typeset h6 {
     color: rgb(0, 0, 0);
     font-size: .9em;
 }
@@ -60,7 +64,9 @@ body .md-search__inner {
     /* display: none; */
 }
 
-.md-typeset iframe, .md-typeset img, .md-typeset svg {
+.md-typeset iframe,
+.md-typeset img,
+.md-typeset svg {
     border: 5px solid #e7e7e7;
 }
 
@@ -97,7 +103,7 @@ body .md-ellipsis {
     margin-top: -14px;
 }
 
-.md-nav__toggle~.md-nav>.md-nav__list {
+.md-nav__toggle ~ .md-nav > .md-nav__list {
     overflow: hidden;
     border-left: 1px solid #e1f1ff;
     padding-bottom: 0;
@@ -183,6 +189,7 @@ body .md-ellipsis {
     .md-header__title {
         visibility: hidden;
     }
+
     .md-nav__link span.label {
         position: relative;
         left: -3px;
@@ -194,6 +201,7 @@ body .md-ellipsis {
 }
 
 @-moz-document url-prefix() {
+
     .md-header__button.md-logo img,
     .md-header__button.md-logo svg {
         height: auto;
@@ -214,7 +222,7 @@ body .md-ellipsis {
     border: 1px solid #0f91f6;
     display: inline-block;
     margin: 2px 0;
-    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
 }
 
 /**
@@ -255,7 +263,8 @@ body .md-ellipsis {
     color: #0f91f6;
     flex-shrink: 0;
     transition: transform 0.25s ease;
-    background: transparent !important; /* Ensure no background boxes */
+    background: transparent !important;
+    /* Ensure no background boxes */
 }
 
 .help-link-card:hover .icon-wrapper {
