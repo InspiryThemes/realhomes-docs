@@ -303,11 +303,28 @@ body .md-ellipsis {
 }
 
 /**
- * Cloud Studio Index Button
+ * Cloud Studio Index Buttons
  */
+.md-button.md-button--primary.cloud-studio-btn {
+    background-color: #0f91f6;
+    border-color: #0f91f6;
+}
+
 .md-button.md-button--primary.cloud-studio-btn:hover,
 .md-button.md-button--primary.cloud-studio-btn:focus {
-    background-color: #10B981;
-    border-color: #10B981;
+    background-color: #0a75c9;
+    border-color: #0a75c9;
     color: white;
+}
+
+.md-button.tour-btn {
+    color: #0f91f6;
+    border-color: #0f91f6;
+}
+
+.md-button.tour-btn:hover,
+.md-button.tour-btn:focus {
+    background-color: #0f91f6;
+    border-color: #0f91f6;
+    color: white !important;
 }

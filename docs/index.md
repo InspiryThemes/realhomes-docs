@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **June 16th, 2026**. The current version of RealHomes is {== **v4.5.4** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
+    This documentation was last updated on **June 29th, 2026**. The current version of RealHomes is {== **v4.5.4** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
 
 Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in this documentation, you can:
 
@@ -61,6 +61,15 @@ This section highlights the major updates introduced in **v4.5.4** and previous 
 
 ---
 
+!!! tip "🌟 Highlight Feature: RealHomes Cloud Studio"
+
+    Unlock a powerful built-in Template Library that will drastically speed up your workflow! <br><br>With **RealHomes Cloud Studio**, you can instantly browse, preview, and import beautiful, pre-designed RealHomes headers, footers, full pages, and sections right from within the Elementor editor with a single click. <br><br>Stop building every component from scratch and start designing faster with **RealHomes Cloud Studio**.
+    
+    [Explore the Cloud Studio Setup Guide](https://realhomes.io/documentation/realhomes-cloud-studio/){ .md-button .md-button--primary .cloud-studio-btn style="margin-top: 10px;" }
+    [Watch the Quick Tour Video 🎬](https://www.youtube.com/watch?v=xDsZw8iXS30){ .md-button .tour-btn style="margin-top: 10px; margin-left: 8px;" target="_blank" }
+
+---
+
 ### ✨ New Demos
 - **CRM Demo** - [ <a href="https://ultra.realhomes.io/crm" target="_blank">https://ultra.realhomes.io/crm</a> ]    
   Experience the **RealHomes CRM** demo, showcasing a powerful all-in-one solution for managing leads, inquiries, deals, and tasks. <br>👉 [**Read the CRM Demo Setup Guide**](https://realhomes.io/documentation/crm-demo-setup/)  
@@ -86,12 +95,6 @@ This section highlights the major updates introduced in **v4.5.4** and previous 
 ---
 
 ### 🆕 Major New Features
-
-!!! tip "🌟 Highlight Feature: RealHomes Cloud Studio"
-
-    Unlock a powerful built-in Template Library that will drastically speed up your workflow! <br><br>With **RealHomes Cloud Studio**, you can instantly browse, preview, and import beautiful, pre-designed RealHomes headers, footers, full pages, and sections right from within the Elementor editor with a single click. <br><br>Stop building every component from scratch and start designing faster with **RealHomes Cloud Studio**.
-    
-    [Explore the Cloud Studio Setup Guide](https://realhomes.io/documentation/realhomes-cloud-studio/){ .md-button .md-button--primary .cloud-studio-btn style="margin-top: 10px;" }
 
 - **Agency Role Dashboard** – Added a dedicated dashboard section allowing Agency role users to manage properties submitted by their associated agents.
 - **WordPress Command Pallet** – Integrated RealHomes settings into the new WordPress Command Pallet functionality for quick searching and navigation.
