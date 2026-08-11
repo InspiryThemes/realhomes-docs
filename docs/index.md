@@ -105,7 +105,7 @@ This section highlights the major updates introduced in **v4.5.5** and previous 
 - **Email Subject and Body Templates** - Email templates now include configurable subject and body content for common RealHomes forms.
 - **Grouped Property Features** - Property feature terms can be organized and displayed using parent-child grouping.
 - **Google Maps Deferred Loading** - Google Maps API requests now use deferred loading for better page loading behavior.
-- **Improved Agency Assignment** - Agency handling and assignment is more consistent across theme, plugin, dashboard, and backend workflows.
+- **Agent & Agency Section Toggles** - Added functionality to toggle the visibility of Agent and Agency sections for single property content variations.
 - **Agency Role Dashboard** – Added a dedicated dashboard section allowing Agency role users to manage properties submitted by their associated agents.
 - **WordPress Command Pallet** – Integrated RealHomes settings into the new WordPress Command Pallet functionality for quick searching and navigation.
 - **Agency Single Property Section** – Introduced a new Elementor widget and section dedicated to displaying Agency details on single property templates.
@@ -138,6 +138,7 @@ This section highlights the major updates introduced in **v4.5.5** and previous 
 ---
 
 ### 🚀 Improvements
+- **Agency Assignment** - Agency handling and assignment is more consistent across theme, plugin, dashboard, and backend workflows.
 - **Google Social Login** – Vastly improved the setup process by completely removing the complex API key requirements.
 - **Search Query Performance** – Refined and optimized search query code for significantly better performance and lower server load.
 - **Save Draft & Preview Property** – Enhanced the save and preview functionality specifically for properties that are already published.
