@@ -1,6 +1,6 @@
 !!! info "Important"
 
-    This documentation was last updated on **July 2nd, 2026**. The current version of RealHomes is {== **v4.5.4** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
+    This documentation was last updated on **August 15th, 2026**. The current version of RealHomes is {== **v4.5.5** ==}, so please ensure you are using the latest version to take advantage of all features and improvements.
 
 Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in this documentation, you can:
 
@@ -57,7 +57,7 @@ Thank you for choosing the **RealHomes Theme**. For any inquiries not covered in
 
 ## Summary of Recent Updates
 
-This section highlights the major updates introduced in **v4.5.4** and previous versions.
+This section highlights the major updates introduced in **v4.5.5** and previous versions.
 
 ---
 
@@ -96,6 +96,16 @@ This section highlights the major updates introduced in **v4.5.4** and previous 
 
 ### 🆕 Major New Features
 
+- **RealHomes Membership Invoices** - Added invoice generation, printable invoice views, and optional invoice emails for membership payment receipts.
+- **Agency Membership Package Sharing** - Agency memberships can now be shared with eligible agents using either per-agent limits or a shared agency properties pool.
+- **Dashboard Agent and Agency Translations** - WPML-compatible translation support is now available for dashboard-submitted Properties, Agents, and Agencies.
+- **Dashboard Profile Agency Control** - Added a setting to show or hide agency selection in the My Profile dashboard module.
+- **Agent and Agency Locations** - Agent and Agency dashboard submissions now include location assignment.
+- **Search Location Property Counts** - Custom Elementor search form location fields can show property counts in their location options.
+- **Email Subject and Body Templates** - Email templates now include configurable subject and body content for common RealHomes forms.
+- **Grouped Property Features** - Property feature terms can be organized and displayed using parent-child grouping.
+- **Google Maps Deferred Loading** - Google Maps API requests now use deferred loading for better page loading behavior.
+- **Improved Agency Assignment** - Agency handling and assignment is more consistent across theme, plugin, dashboard, and backend workflows.
 - **Agency Role Dashboard** – Added a dedicated dashboard section allowing Agency role users to manage properties submitted by their associated agents.
 - **WordPress Command Pallet** – Integrated RealHomes settings into the new WordPress Command Pallet functionality for quick searching and navigation.
 - **Agency Single Property Section** – Introduced a new Elementor widget and section dedicated to displaying Agency details on single property templates.
@@ -107,6 +117,18 @@ This section highlights the major updates introduced in **v4.5.4** and previous 
 ---
 
 ### 🛠️ Key Fixes
+- Fixed OpenStreetMap info window close button styling.
+- Fixed the Agency section title setting in RealHomes Settings so it no longer uses the Agent section title.
+- Fixed Mapbox properties widget synchronization with Elementor filter widgets.
+- Fixed Elementor properties listing widgets so topbar sorting honors the configured RealHomes sorting options.
+- Fixed a RealHomes Membership plugin security issue flagged by Wordfence.
+- Fixed RH: Gallery custom Elementor widget layout issues in editor mode.
+- Fixed property detail page meta icon display behavior so it is not incorrectly dependent on property card meta settings.
+- Fixed Classic variation gallery card overlay button animation speed.
+- Fixed single property sidebar styling on small devices.
+- Fixed Schedule a Tour datepicker output for custom WordPress date formats that include suffixes.
+- Fixed Google Maps address autocomplete on backend property edit screens.
+- Fixed radius slider visibility in Elementor search forms.
 - Fixed **News sections and news Elementor widgets** experiencing high load query issues.
 - Fixed **Search form trigger** erroneously ignoring the sorting menu.
 - Fixed **Elementor based Ultra contact page** template rendering issues.
