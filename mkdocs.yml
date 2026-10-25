@@ -26,7 +26,7 @@ theme:
 # site_dir: 'E:\rh-live-doc'
 
 # Mac Folder
-site_dir: "/Users/usmanaliqureshi/Downloads/Others/rh-live-doc"
+site_dir: "/Users/raoarif/rh-live-doc"
 
 extra_css:
     - css/layout.css
@@ -260,8 +260,8 @@ nav:
           - Properties Filter Widget: properties-filter-widget.md
           - Advance Search Widget: advance-search-widget.md
           - Agents Widgets: agents-widget.md
-          - Owner Widget: owner-widget.md
-          - Owners Info Widget: owners-info-widget.md
+          - Owner Widget: owners-widget.md
+          - Owners Info Widget: owner-info-widget.md
           - Agent Featured Properties: agent-featured-properties-widget.md
           - Agent Related Properties: agent-related-properties-widget.md
           - Featured Properties: featured-properties.md

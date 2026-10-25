@@ -120,10 +120,20 @@ Enable this option if you want to stop WordPress from generating its default ima
 
 === "v4.5.0 and Earlier"
 
-    !!! info "Legacy Settings"
+    !!! info "RealHomes Settings"
         <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Misc</span>
 
     ![Disable Image Sizes Option](images/misc/disable-default-image-sizes.png)
+
+
+### **Lightbox**
+
+Select the lightbox used for galleries, floor plans and videos in the RealHomes Elementor Addon widgets and in the Modern and Ultra designs. Choose "Elementor Lightbox" if Fancybox does not open on your site. The Elementor Lightbox is used only on pages where Elementor is loaded, Fancybox is used on all other pages. (Default: Fancybox)
+
+!!! success "Legacy Settings"
+    <span class="nav-step">Dashboard</span> ➤ <span class="nav-step">RealHomes</span> ➤ <span class="nav-step">Customize Settings</span> ➤ <span class="nav-step">Misc</span>
+
+![Lightbox](images/misc/lightbox.jpg)
 
 ---
 

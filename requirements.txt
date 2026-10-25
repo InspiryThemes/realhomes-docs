@@ -1,0 +1,10 @@
+# Build tools for the RealHomes documentation.
+# Install into a virtualenv:  python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+mkdocs==1.6.1
+mkdocs-material==9.7.1
+mkdocs-glightbox==0.5.2
+
+# mkdocs-glightbox dependency. selectolax 1.0+ strips every image from the
+# built pages, and versions after 0.4.6 change the HTML output, so keep this
+# pinned to match the published rh-live-doc build.
+selectolax==0.4.6
